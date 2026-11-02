@@ -1,0 +1,83 @@
+{
+  "canais": [
+    {
+      "album": "INFANTIL",
+      "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/infantil.png",
+      "subAlbuns": [],
+      "itens": [
+        {
+          "nome": "CARTOON NETWORK",
+          "descricao": "INFANTIL",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/CARTOON%20NETWORK.png",
+          "urls": {
+            "fhd": "http://servidor/{user}/{pass}/94576.m3u8",
+            "hd": "http://servidor/{user}/{pass}/94577.m3u8",
+            "sd": "http://servidor/{user}/{pass}/94578.m3u8"
+          }
+        },
+        {
+          "nome": "CARTOONITO",
+          "descricao": "INFANTIL",
+          "capa": "http://cdn.arrascacrf.site/logos/INFANTIL/CARTOONITO.png",
+          "urls": {
+            "fhd": "http://servidor/{user}/{pass}/94579.m3u8",
+            "hd": "http://servidor/{user}/{pass}/94580.m3u8",
+            "sd": "http://servidor/{user}/{pass}/94581.m3u8"
+          }
+        },
+        {
+          "nome": "NHK",
+          "descricao": "INFANTIL",
+          "capa": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/250px-NHK_World.svg.png",
+          "urls": {
+            "fhd": "http://servidor/{user}/{pass}/94223.m3u8",
+            "hd": "http://servidor/{user}/{pass}/94223.m3u8",
+            "sd": "http://servidor/{user}/{pass}/94223.m3u8"
+          }
+        },
+        {
+          "nome": "CARTOON NETWORK",
+          "descricao": "INFANTIL",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/CARTOON%20NETWORK.png",
+          "urls": {
+            "fhd": "http://servidor/{user}/{pass}/102024.m3u8",
+            "hd": "http://servidor/{user}/{pass}/102024.m3u8",
+            "sd": "http://servidor/{user}/{pass}/102024.m3u8"
+          }
+        },
+        {
+          "nome": "TOONCAST",
+          "descricao": "INFANTIL",
+          "capa": "http://cdn.arrascacrf.site/logos/INFANTIL/TOONCAST.png",
+          "urls": {
+            "fhd": "http://servidor/{user}/{pass}/94592.m3u8",
+            "hd": "http://servidor/{user}/{pass}/94593.m3u8",
+            "sd": "http://servidor/{user}/{pass}/94594.m3u8"
+          }
+        },
+        {
+          "nome": "TV RA TIM BUM",
+          "descricao": "INFANTIL",
+          "capa": "http://cdn.arrascacrf.site/logos/INFANTIL/TVRATIMBUM.png",
+          "urls": {
+            "fhd": "http://servidor/{user}/{pass}/727298.m3u8",
+            "hd": "http://servidor/{user}/{pass}/727299.m3u8",
+            "sd": "http://servidor/{user}/{pass}/208455.m3u8"
+          }
+        },
+        {
+          "nome": "ZOOMO",
+          "descricao": "INFANTIL",
+          "capa": "http://cdn.arrascacrf.site/logos/INFANTIL/ZOOMOO.png",
+          "urls": {
+            "fhd": "http://servidor/{user}/{pass}/94596.m3u8",
+            "hd": "http://servidor/{user}/{pass}/94597.m3u8",
+            "sd": "http://servidor/{user}/{pass}/94595.m3u8"
+          }
+        }
+      ]
+    }
+  ],
+  "filmes": [],
+  "series": []
+}
