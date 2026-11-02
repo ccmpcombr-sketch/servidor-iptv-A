@@ -1,0 +1,113 @@
+{
+  "canais": [
+    {
+      "album": "DISNEY+",
+      "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/disney%2B.png",
+      "subAlbuns": [],
+      "itens": [
+        {
+          "nome": "DISNEY+ 1",
+          "descricao": "DISNEY+",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/DISNEY%2B.jpeg",
+          "urls": {
+            "fhd": "http://servidor/{user}/{pass}/785296.m3u8",
+            "hd": "http://servidor/{user}/{pass}/785296.m3u8",
+            "sd": "http://servidor/{user}/{pass}/785296.m3u8"
+          }
+        },
+        {
+          "nome": "DISNEY+ 2",
+          "descricao": "DISNEY+",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/DISNEY%2B.jpeg",
+          "urls": {
+            "fhd": "http://servidor/{user}/{pass}/3518801.m3u8",
+            "hd": "http://servidor/{user}/{pass}/3518801.m3u8",
+            "sd": "http://servidor/{user}/{pass}/3518801.m3u8"
+          }
+        },
+        {
+          "nome": "DISNEY+ 3",
+          "descricao": "DISNEY+",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/DISNEY%2B.jpeg",
+          "urls": {
+            "fhd": "http://servidor/{user}/{pass}/3518802.m3u8",
+            "hd": "http://servidor/{user}/{pass}/3518802.m3u8",
+            "sd": "http://servidor/{user}/{pass}/3518802.m3u8"
+          }
+        },
+        {
+          "nome": "DISNEY+ 4",
+          "descricao": "DISNEY+",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/DISNEY%2B.jpeg",
+          "urls": {
+            "fhd": "http://servidor/{user}/{pass}/785297.m3u8",
+            "hd": "http://servidor/{user}/{pass}/785297.m3u8",
+            "sd": "http://servidor/{user}/{pass}/785297.m3u8"
+          }
+        },
+        {
+          "nome": "DISNEY+ 5",
+          "descricao": "DISNEY+",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/DISNEY%2B.jpeg",
+          "urls": {
+            "fhd": "http://servidor/{user}/{pass}/785294.m3u8",
+            "hd": "http://servidor/{user}/{pass}/785294.m3u8",
+            "sd": "http://servidor/{user}/{pass}/785294.m3u8"
+          }
+        },
+        {
+          "nome": "DISNEY+ 6",
+          "descricao": "DISNEY+",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/DISNEY%2B.jpeg",
+          "urls": {
+            "fhd": "http://servidor/{user}/{pass}/785295.m3u8",
+            "hd": "http://servidor/{user}/{pass}/785295.m3u8",
+            "sd": "http://servidor/{user}/{pass}/785295.m3u8"
+          }
+        },
+        {
+          "nome": "DISNEY+ 7",
+          "descricao": "DISNEY+",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/DISNEY%2B.jpeg",
+          "urls": {
+            "fhd": "http://servidor/{user}/{pass}/785298.m3u8",
+            "hd": "http://servidor/{user}/{pass}/785298.m3u8",
+            "sd": "http://servidor/{user}/{pass}/785298.m3u8"
+          }
+        },
+        {
+          "nome": "DISNEY+8",
+          "descricao": "DISNEY+",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/DISNEY%2B.jpeg",
+          "urls": {
+            "fhd": "http://servidor/{user}/{pass}/1431393.m3u8",
+            "hd": "http://servidor/{user}/{pass}/1431393.m3u8",
+            "sd": "http://servidor/{user}/{pass}/1431393.m3u8"
+          }
+        },
+        {
+          "nome": "DISNEY+ 9",
+          "descricao": "DISNEY+",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/DISNEY%2B.jpeg",
+          "urls": {
+            "fhd": "http://servidor/{user}/{pass}/1431394.m3u8",
+            "hd": "http://servidor/{user}/{pass}/1431394.m3u8",
+            "sd": "http://servidor/{user}/{pass}/1431394.m3u8"
+          }
+        },
+        {
+          "nome": "DISNEY+ 10",
+          "descricao": "DISNEY+",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/DISNEY%2B.jpeg",
+          "urls": {
+            "fhd": "http://servidor/{user}/{pass}/1431395.m3u8",
+            "hd": "http://servidor/{user}/{pass}/1431395.m3u8",
+            "sd": "http://servidor/{user}/{pass}/1431395.m3u8"
+          }
+        }
+      ]
+    }
+  ],
+  "filmes": [],
+  "series": []
+}
