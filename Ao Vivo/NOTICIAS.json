@@ -1,0 +1,63 @@
+{
+  "canais": [
+    {
+      "album": "NOTICIAS",
+      "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/noticias.png",
+      "subAlbuns": [],
+      "itens": [
+        {
+          "nome": "CANAL UOL",
+          "descricao": "NOTICIAS",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/UOL.png",
+          "urls": {
+            "fhd": "http://servidor/{user}/{pass}/776551.m3u8",
+            "hd": "http://servidor/{user}/{pass}/776551.m3u8",
+            "sd": "http://servidor/{user}/{pass}/776552.m3u8"
+          }
+        },
+        {
+          "nome": "CNN BRASIL",
+          "descricao": "NOTICIAS",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/CNN%20BRASIL.jpeg",
+          "urls": {
+            "fhd": "http://servidor/{user}/{pass}/97948.m3u8",
+            "hd": "http://servidor/{user}/{pass}/97949.m3u8",
+            "sd": "http://servidor/{user}/{pass}/208385.m3u8"
+          }
+        },
+        {
+          "nome": "GLOBO NEWS",
+          "descricao": "NOTICIAS",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/GLOBO%20NEWS.png",
+          "urls": {
+            "fhd": "http://servidor/{user}/{pass}/96575.m3u8",
+            "hd": "http://servidor/{user}/{pass}/96576.m3u8",
+            "sd": "http://servidor/{user}/{pass}/96758.m3u8"
+          }
+        },
+        {
+          "nome": "RECORD NEWS",
+          "descricao": "NOTICIAS",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/RECORD%20NEWS.png",
+          "urls": {
+            "fhd": "http://servidor/{user}/{pass}/97954.m3u8",
+            "hd": "http://servidor/{user}/{pass}/97955.m3u8",
+            "sd": "http://servidor/{user}/{pass}/97956.m3u8"
+          }
+        },
+        {
+          "nome": "SBT News",
+          "descricao": "NOTICIAS",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/SBT%20NEWS.png",
+          "urls": {
+            "fhd": "http://servidor/{user}/{pass}/4167315.m3u8",
+            "hd": "http://servidor/{user}/{pass}/4167315.m3u8",
+            "sd": "http://servidor/{user}/{pass}/4167317.m3u8"
+          }
+        }
+      ]
+    }
+  ],
+  "filmes": [],
+  "series": []
+}
