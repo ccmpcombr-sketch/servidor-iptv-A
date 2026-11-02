@@ -1,0 +1,83 @@
+{
+  "canais": [
+    {
+      "album": "ESPORTES",
+      "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/esportes%2001.png",
+      "subAlbuns": [],
+      "itens": [
+        {
+          "nome": "COMBATE",
+          "descricao": "ESPORTE",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/COMBATE.png",
+          "urls": {
+            "fhd": "http://servidor/{user}/{pass}/101019.m3u8",
+            "hd": "http://servidor/{user}/{pass}/101020.m3u8",
+            "sd": "http://servidor/{user}/{pass}/101017.m3u8"
+          }
+        },
+        {
+          "nome": "DAZN 01",
+          "descricao": "ESPORTE",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/DAZN.png",
+          "urls": {
+            "fhd": "http://servidor/{user}/{pass}/785266.m3u8",
+            "hd": "http://servidor/{user}/{pass}/785266.m3u8",
+            "sd": "http://servidor/{user}/{pass}/785266.m3u8"
+          }
+        },
+        {
+          "nome": "JOVEM PAN NEWS",
+          "descricao": "ESPORTE",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/JOVEM%20PAN%20NEWS.png",
+          "urls": {
+            "fhd": "http://servidor/{user}/{pass}/97951.m3u8",
+            "hd": "http://servidor/{user}/{pass}/97952.m3u8",
+            "sd": "http://servidor/{user}/{pass}/97953.m3u8"
+          }
+        },
+        {
+          "nome": "NSPORTS",
+          "descricao": "ESPORTE",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/NSPORTS.png",
+          "urls": {
+            "fhd": "http://servidor/{user}/{pass}/785285.m3u8",
+            "hd": "http://servidor/{user}/{pass}/785285.m3u8",
+            "sd": "http://servidor/{user}/{pass}/785285.m3u8"
+          }
+        },
+        {
+          "nome": "OFF",
+          "descricao": "ESPORTE",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/OFF.png",
+          "urls": {
+            "fhd": "http://servidor/{user}/{pass}/101021.m3u8",
+            "hd": "http://servidor/{user}/{pass}/101022.m3u8",
+            "sd": "http://servidor/{user}/{pass}/101023.m3u8"
+          }
+        },
+        {
+          "nome": "WOOHOO",
+          "descricao": "ESPORTE",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/WOOHOO.png",
+          "urls": {
+            "fhd": "http://servidor/{user}/{pass}/99968.m3u8",
+            "hd": "http://servidor/{user}/{pass}/99969.m3u8",
+            "sd": "http://servidor/{user}/{pass}/99969.m3u8"
+          }
+        },
+        {
+          "nome": "XSPORTS",
+          "descricao": "ESPORTE",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/XSPORTS.png",
+          "urls": {
+            "fhd": "http://servidor/{user}/{pass}/4167115.m3u8",
+            "hd": "http://servidor/{user}/{pass}/4167116.m3u8",
+            "sd": "http://servidor/{user}/{pass}/4167116.m3u8"
+          }
+        }
+      ]
+    }
+  ],
+  "filmes": [],
+  "series": []
+}
