@@ -1,0 +1,93 @@
+{
+  "canais": [
+    {
+      "album": "HBO",
+      "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/hbo.png",
+      "subAlbuns": [],
+      "itens": [
+        {
+          "nome": "HBO 2",
+          "descricao": "HBO",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/HBO%202.png",
+          "urls": {
+            "fhd": "http://servidor/{user}/{pass}/784726.m3u8",
+            "hd": "http://servidor/{user}/{pass}/784727.m3u8",
+            "sd": "http://servidor/{user}/{pass}/784728.m3u8"
+          }
+        },
+        {
+          "nome": "HBO FAMILY",
+          "descricao": "HBO",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/HBO%20FAMILY.png",
+          "urls": {
+            "fhd": "http://servidor/{user}/{pass}/784729.m3u8",
+            "hd": "http://servidor/{user}/{pass}/784730.m3u8",
+            "sd": "http://servidor/{user}/{pass}/784731.m3u8"
+          }
+        },
+        {
+          "nome": "HBO",
+          "descricao": "HBO",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/HBO.png",
+          "urls": {
+            "fhd": "http://servidor/{user}/{pass}/784732.m3u8",
+            "hd": "http://servidor/{user}/{pass}/784749.m3u8",
+            "sd": "http://servidor/{user}/{pass}/784739.m3u8"
+          }
+        },
+        {
+          "nome": "HBO MUNDI",
+          "descricao": "HBO",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/HBO%20MUNDI.png",
+          "urls": {
+            "fhd": "http://servidor/{user}/{pass}/784733.m3u8",
+            "hd": "http://servidor/{user}/{pass}/784734.m3u8",
+            "sd": "http://servidor/{user}/{pass}/784735.m3u8"
+          }
+        },
+        {
+          "nome": "HBO POP",
+          "descricao": "HBO",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/HBO%20POP.png",
+          "urls": {
+            "fhd": "http://servidor/{user}/{pass}/784736.m3u8",
+            "hd": "http://servidor/{user}/{pass}/784737.m3u8",
+            "sd": "http://servidor/{user}/{pass}/784738.m3u8"
+          }
+        },
+        {
+          "nome": "HBO SIGNATURE",
+          "descricao": "HBO",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/HBO%20SIGNATURE.png",
+          "urls": {
+            "fhd": "http://servidor/{user}/{pass}/784740.m3u8",
+            "hd": "http://servidor/{user}/{pass}/784741.m3u8",
+            "sd": "http://servidor/{user}/{pass}/784742.m3u8"
+          }
+        },
+        {
+          "nome": "HBO XTREME",
+          "descricao": "HBO",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/HBO%20XTREME.png",
+          "urls": {
+            "fhd": "http://servidor/{user}/{pass}/784743.m3u8",
+            "hd": "http://servidor/{user}/{pass}/784744.m3u8",
+            "sd": "http://servidor/{user}/{pass}/784745.m3u8"
+          }
+        },
+        {
+          "nome": "HBO+",
+          "descricao": "HBO",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/HBO%2B.png",
+          "urls": {
+            "fhd": "http://servidor/{user}/{pass}/784746.m3u8",
+            "hd": "http://servidor/{user}/{pass}/784747.m3u8",
+            "sd": "http://servidor/{user}/{pass}/784748.m3u8"
+          }
+        }
+      ]
+    }
+  ],
+  "filmes": [],
+  "series": []
+}
