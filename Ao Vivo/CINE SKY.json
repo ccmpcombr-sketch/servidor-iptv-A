@@ -1,0 +1,163 @@
+{
+  "canais": [
+    {
+      "album": "CINE SKY",
+      "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/cine%20sky.png",
+      "subAlbuns": [],
+      "itens": [
+        {
+          "nome": "Cine Sky 01",
+          "descricao": "CINE SKY",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/CINE%20SKY%20ORIGINAL.png",
+          "urls": {
+            "fhd": "http://servidor/{user}/{pass}/3456091.m3u8",
+            "hd": "http://servidor/{user}/{pass}/3456091.m3u8",
+            "sd": "http://servidor/{user}/{pass}/3456091.m3u8"
+          }
+        },
+        {
+          "nome": "Cine Sky 02",
+          "descricao": "CINE SKY",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/CINE%20SKY%20ORIGINAL.png",
+          "urls": {
+            "fhd": "http://servidor/{user}/{pass}/3456092.m3u8",
+            "hd": "http://servidor/{user}/{pass}/3456092.m3u8",
+            "sd": "http://servidor/{user}/{pass}/3456092.m3u8"
+          }
+        },
+        {
+          "nome": "Cine Sky 03",
+          "descricao": "CINE SKY",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/CINE%20SKY%20ORIGINAL.png",
+          "urls": {
+            "fhd": "http://servidor/{user}/{pass}/3456093.m3u8",
+            "hd": "http://servidor/{user}/{pass}/3456093.m3u8",
+            "sd": "http://servidor/{user}/{pass}/3456093.m3u8"
+          }
+        },
+        {
+          "nome": "Cine Sky 04",
+          "descricao": "CINE SKY",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/CINE%20SKY%20ORIGINAL.png",
+          "urls": {
+            "fhd": "http://servidor/{user}/{pass}/3456094.m3u8",
+            "hd": "http://servidor/{user}/{pass}/3456094.m3u8",
+            "sd": "http://servidor/{user}/{pass}/3456094.m3u8"
+          }
+        },
+        {
+          "nome": "Cine Sky 05",
+          "descricao": "CINE SKY",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/CINE%20SKY%20ORIGINAL.png",
+          "urls": {
+            "fhd": "http://servidor/{user}/{pass}/3456095.m3u8",
+            "hd": "http://servidor/{user}/{pass}/3456095.m3u8",
+            "sd": "http://servidor/{user}/{pass}/3456095.m3u8"
+          }
+        },
+        {
+          "nome": "Cine Sky 06",
+          "descricao": "CINE SKY",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/CINE%20SKY%20ORIGINAL.png",
+          "urls": {
+            "fhd": "http://servidor/{user}/{pass}/3456096.m3u8",
+            "hd": "http://servidor/{user}/{pass}/3456096.m3u8",
+            "sd": "http://servidor/{user}/{pass}/3456096.m3u8"
+          }
+        },
+        {
+          "nome": "Cine Sky 07",
+          "descricao": "CINE SKY",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/CINE%20SKY%20ORIGINAL.png",
+          "urls": {
+            "fhd": "http://servidor/{user}/{pass}/3456097.m3u8",
+            "hd": "http://servidor/{user}/{pass}/3456097.m3u8",
+            "sd": "http://servidor/{user}/{pass}/3456097.m3u8"
+          }
+        },
+        {
+          "nome": "Cine Sky 08",
+          "descricao": "CINE SKY",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/CINE%20SKY%20ORIGINAL.png",
+          "urls": {
+            "fhd": "http://servidor/{user}/{pass}/3456098.m3u8",
+            "hd": "http://servidor/{user}/{pass}/3456098.m3u8",
+            "sd": "http://servidor/{user}/{pass}/3456098.m3u8"
+          }
+        },
+        {
+          "nome": "Cine Sky 09",
+          "descricao": "CINE SKY",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/CINE%20SKY%20ORIGINAL.png",
+          "urls": {
+            "fhd": "http://servidor/{user}/{pass}/3456099.m3u8",
+            "hd": "http://servidor/{user}/{pass}/3456099.m3u8",
+            "sd": "http://servidor/{user}/{pass}/3456099.m3u8"
+          }
+        },
+        {
+          "nome": "Cine Sky 10",
+          "descricao": "CINE SKY",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/CINE%20SKY%20ORIGINAL.png",
+          "urls": {
+            "fhd": "http://servidor/{user}/{pass}/3456100.m3u8",
+            "hd": "http://servidor/{user}/{pass}/3456100.m3u8",
+            "sd": "http://servidor/{user}/{pass}/3456100.m3u8"
+          }
+        },
+        {
+          "nome": "Cine Sky 11",
+          "descricao": "CINE SKY",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/CINE%20SKY%20ORIGINAL.png",
+          "urls": {
+            "fhd": "http://servidor/{user}/{pass}/3456101.m3u8",
+            "hd": "http://servidor/{user}/{pass}/3456101.m3u8",
+            "sd": "http://servidor/{user}/{pass}/3456101.m3u8"
+          }
+        },
+        {
+          "nome": "Cine Sky 12",
+          "descricao": "CINE SKY",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/CINE%20SKY%20ORIGINAL.png",
+          "urls": {
+            "fhd": "http://servidor/{user}/{pass}/3456102.m3u8",
+            "hd": "http://servidor/{user}/{pass}/3456102.m3u8",
+            "sd": "http://servidor/{user}/{pass}/3456102.m3u8"
+          }
+        },
+        {
+          "nome": "Cine Sky 13",
+          "descricao": "CINE SKY",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/CINE%20SKY%20ORIGINAL.png",
+          "urls": {
+            "fhd": "http://servidor/{user}/{pass}/3456103.m3u8",
+            "hd": "http://servidor/{user}/{pass}/3456103.m3u8",
+            "sd": "http://servidor/{user}/{pass}/3456103.m3u8"
+          }
+        },
+        {
+          "nome": "Cine Sky 14",
+          "descricao": "CINE SKY",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/CINE%20SKY%20ORIGINAL.png",
+          "urls": {
+            "fhd": "http://servidor/{user}/{pass}/3456104.m3u8",
+            "hd": "http://servidor/{user}/{pass}/3456104.m3u8",
+            "sd": "http://servidor/{user}/{pass}/3456104.m3u8"
+          }
+        },
+        {
+          "nome": "Cine Sky 15",
+          "descricao": "CINE SKY",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/CINE%20SKY%20ORIGINAL.png",
+          "urls": {
+            "fhd": "http://servidor/{user}/{pass}/3456090.m3u8",
+            "hd": "http://servidor/{user}/{pass}/3456090.m3u8",
+            "sd": "http://servidor/{user}/{pass}/3456090.m3u8"
+          }
+        }
+      ]
+    }
+  ],
+  "filmes": [],
+  "series": []
+}
