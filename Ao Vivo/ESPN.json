@@ -1,0 +1,73 @@
+{
+  "canais": [
+    {
+      "album": "ESPN",
+      "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/espn.png",
+      "subAlbuns": [],
+      "itens": [
+        {
+          "nome": "ESPN 1",
+          "descricao": "ESPN",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/ESPN.png",
+          "urls": {
+            "fhd": "http://servidor/{user}/{pass}/169012.m3u8",
+            "hd": "http://servidor/{user}/{pass}/91227.m3u8",
+            "sd": "http://servidor/{user}/{pass}/208402.m3u8"
+          }
+        },
+        {
+          "nome": "ESPN 2",
+          "descricao": "ESPN",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/ESPN.png",
+          "urls": {
+            "fhd": "http://servidor/{user}/{pass}/91228.m3u8",
+            "hd": "http://servidor/{user}/{pass}/91229.m3u8",
+            "sd": "http://servidor/{user}/{pass}/208387.m3u8"
+          }
+        },
+        {
+          "nome": "ESPN 3",
+          "descricao": "ESPN",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/ESPN.png",
+          "urls": {
+            "fhd": "http://servidor/{user}/{pass}/91230.m3u8",
+            "hd": "http://servidor/{user}/{pass}/91231.m3u8",
+            "sd": "http://servidor/{user}/{pass}/91241.m3u8"
+          }
+        },
+        {
+          "nome": "ESPN 4",
+          "descricao": "ESPN",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/ESPN.png",
+          "urls": {
+            "fhd": "http://servidor/{user}/{pass}/91232.m3u8",
+            "hd": "http://servidor/{user}/{pass}/91233.m3u8",
+            "sd": "http://servidor/{user}/{pass}/208388.m3u8"
+          }
+        },
+        {
+          "nome": "ESPN 5",
+          "descricao": "ESPN",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/ESPN.png",
+          "urls": {
+            "fhd": "http://servidor/{user}/{pass}/208164.m3u8",
+            "hd": "http://servidor/{user}/{pass}/91236.m3u8",
+            "sd": "http://servidor/{user}/{pass}/91242.m3u8"
+          }
+        },
+        {
+          "nome": "ESPN 6",
+          "descricao": "ESPN",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/ESPN.png",
+          "urls": {
+            "fhd": "http://servidor/{user}/{pass}/91234.m3u8",
+            "hd": "http://servidor/{user}/{pass}/91235.m3u8",
+            "sd": "http://servidor/{user}/{pass}/91243.m3u8"
+          }
+        }
+      ]
+    }
+  ],
+  "filmes": [],
+  "series": []
+}
