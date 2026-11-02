@@ -1,0 +1,63 @@
+{
+  "canais": [
+    {
+      "album": "DOCUMENTÁRIOS",
+      "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/documentarios.png",
+      "subAlbuns": [],
+      "itens": [
+        {
+          "nome": "HGTV",
+          "descricao": "DOCUMENTÁRIOS",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/HGTV.png",
+          "urls": {
+            "fhd": "http://servidor/{user}/{pass}/208170.m3u8",
+            "hd": "http://servidor/{user}/{pass}/208171.m3u8",
+            "sd": "http://servidor/{user}/{pass}/208401.m3u8"
+          }
+        },
+        {
+          "nome": "HISTORY 2",
+          "descricao": "DOCUMENTÁRIOS",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/HISTORY%202.png",
+          "urls": {
+            "fhd": "http://servidor/{user}/{pass}/94212.m3u8",
+            "hd": "http://servidor/{user}/{pass}/94213.m3u8",
+            "sd": "http://servidor/{user}/{pass}/94202.m3u8"
+          }
+        },
+        {
+          "nome": "HISTORY CHANNEL",
+          "descricao": "DOCUMENTÁRIOS",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/HISTORY%20CHANNEL.png",
+          "urls": {
+            "fhd": "http://servidor/{user}/{pass}/94214.m3u8",
+            "hd": "http://servidor/{user}/{pass}/94215.m3u8",
+            "sd": "http://servidor/{user}/{pass}/442943.m3u8"
+          }
+        },
+        {
+          "nome": "HISTORY",
+          "descricao": "DOCUMENTÁRIOS",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/HISTORY.png",
+          "urls": {
+            "fhd": "http://servidor/{user}/{pass}/1479625.m3u8",
+            "hd": "http://servidor/{user}/{pass}/1479625.m3u8",
+            "sd": "http://servidor/{user}/{pass}/94201.m3u8"
+          }
+        },
+        {
+          "nome": "MODO VIAGEM",
+          "descricao": "DOCUMENTÁRIOS",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/MODO%20VIAGEM.png",
+          "urls": {
+            "fhd": "http://servidor/{user}/{pass}/727284.m3u8",
+            "hd": "http://servidor/{user}/{pass}/727285.m3u8",
+            "sd": "http://servidor/{user}/{pass}/102000.m3u8"
+          }
+        }
+      ]
+    }
+  ],
+  "filmes": [],
+  "series": []
+}
