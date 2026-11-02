@@ -1,0 +1,103 @@
+{
+  "canais": [
+    {
+      "album": "DISCOVERY",
+      "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/dicovery.png",
+      "subAlbuns": [],
+      "itens": [
+        {
+          "nome": "DISCOVERY  H&H",
+          "descricao": "DISCOVERY",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/DISCOVERY%20H%26H.png",
+          "urls": {
+            "fhd": "http://servidor/{user}/{pass}/208157.m3u8",
+            "hd": "http://servidor/{user}/{pass}/208158.m3u8",
+            "sd": "http://servidor/{user}/{pass}/208386.m3u8"
+          }
+        },
+        {
+          "nome": "DISCOVERY CHANNEL",
+          "descricao": "DISCOVERY",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/DISCOVERY%20CHANNEL.png",
+          "urls": {
+            "fhd": "http://servidor/{user}/{pass}/196480.m3u8",
+            "hd": "http://servidor/{user}/{pass}/196487.m3u8",
+            "sd": "http://servidor/{user}/{pass}/196467.m3u8"
+          }
+        },
+        {
+          "nome": "DISCOVERY ID",
+          "descricao": "DISCOVERY",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/DISCOVERY%20ID.png",
+          "urls": {
+            "fhd": "http://servidor/{user}/{pass}/92128.m3u8",
+            "hd": "http://servidor/{user}/{pass}/92129.m3u8",
+            "sd": "http://servidor/{user}/{pass}/208433.m3u8"
+          }
+        },
+        {
+          "nome": "DISCOVERY KIDS",
+          "descricao": "DISCOVERY",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/DISCOVERY%20KIDS.png",
+          "urls": {
+            "fhd": "http://servidor/{user}/{pass}/94566.m3u8",
+            "hd": "http://servidor/{user}/{pass}/94567.m3u8",
+            "sd": "http://servidor/{user}/{pass}/94568.m3u8"
+          }
+        },
+        {
+          "nome": "DISCOVERY SCIENCE",
+          "descricao": "DISCOVERY",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/DISCOVERY%20SCIENCE%2002.png",
+          "urls": {
+            "fhd": "http://servidor/{user}/{pass}/208159.m3u8",
+            "hd": "http://servidor/{user}/{pass}/92130.m3u8",
+            "sd": "http://servidor/{user}/{pass}/208404.m3u8"
+          }
+        },
+        {
+          "nome": "DISCOVERY THEATER",
+          "descricao": "DISCOVERY",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/DISCOVERY%20THEATER.png",
+          "urls": {
+            "fhd": "http://servidor/{user}/{pass}/208160.m3u8",
+            "hd": "http://servidor/{user}/{pass}/208161.m3u8",
+            "sd": "http://servidor/{user}/{pass}/208403.m3u8"
+          }
+        },
+        {
+          "nome": "DISCOVERY TLC",
+          "descricao": "DISCOVERY",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/DISCOVERY%20TLC.png",
+          "urls": {
+            "fhd": "http://servidor/{user}/{pass}/99961.m3u8",
+            "hd": "http://servidor/{user}/{pass}/99962.m3u8",
+            "sd": "http://servidor/{user}/{pass}/99962.m3u8"
+          }
+        },
+        {
+          "nome": "DISCOVERY TURBO",
+          "descricao": "DISCOVERY",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/DISCOVERY%20TURBO.png",
+          "urls": {
+            "fhd": "http://servidor/{user}/{pass}/92134.m3u8",
+            "hd": "http://servidor/{user}/{pass}/92136.m3u8",
+            "sd": "http://servidor/{user}/{pass}/92135.m3u8"
+          }
+        },
+        {
+          "nome": "DISCOVERY WORD",
+          "descricao": "DISCOVERY",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/DISCOVERY%20WORD.png",
+          "urls": {
+            "fhd": "http://servidor/{user}/{pass}/92138.m3u8",
+            "hd": "http://servidor/{user}/{pass}/92139.m3u8",
+            "sd": "http://servidor/{user}/{pass}/208405.m3u8"
+          }
+        }
+      ]
+    }
+  ],
+  "filmes": [],
+  "series": []
+}
