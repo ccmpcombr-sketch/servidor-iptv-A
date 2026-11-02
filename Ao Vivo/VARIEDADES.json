@@ -1,0 +1,83 @@
+{
+  "canais": [
+    {
+      "album": "VARIEDADES",
+      "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/variedades.png",
+      "subAlbuns": [],
+      "itens": [
+        {
+          "nome": "MULTISHOW",
+          "descricao": "VARIEDADES",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/MULT%20SHOW.png",
+          "urls": {
+            "fhd": "http://servidor/{user}/{pass}/99957.m3u8",
+            "hd": "http://servidor/{user}/{pass}/99958.m3u8",
+            "sd": "http://servidor/{user}/{pass}/99959.m3u8"
+          }
+        },
+        {
+          "nome": "MUSIC BOX BRASIL",
+          "descricao": "VARIEDADES",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/MUSIC%20BOX%20BRASIL.png",
+          "urls": {
+            "fhd": "http://servidor/{user}/{pass}/727288.m3u8",
+            "hd": "http://servidor/{user}/{pass}/727289.m3u8",
+            "sd": "http://servidor/{user}/{pass}/99960.m3u8"
+          }
+        },
+        {
+          "nome": "PRIME BOX BRAZIL",
+          "descricao": "VARIEDADES",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/PRIME%20BOX%20BRASIL.png",
+          "urls": {
+            "fhd": "http://servidor/{user}/{pass}/208359.m3u8",
+            "hd": "http://servidor/{user}/{pass}/208359.m3u8",
+            "sd": "http://servidor/{user}/{pass}/208359.m3u8"
+          }
+        },
+        {
+          "nome": "RBATV",
+          "descricao": "VARIEDADES",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/RBA%20TV.png",
+          "urls": {
+            "fhd": "http://servidor/{user}/{pass}/727307.m3u8",
+            "hd": "http://servidor/{user}/{pass}/727307.m3u8",
+            "sd": "http://servidor/{user}/{pass}/727307.m3u8"
+          }
+        },
+        {
+          "nome": "SPACE",
+          "descricao": "VARIEDADES",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/SPACE.png",
+          "urls": {
+            "fhd": "http://servidor/{user}/{pass}/102005.m3u8",
+            "hd": "http://servidor/{user}/{pass}/102006.m3u8",
+            "sd": "http://servidor/{user}/{pass}/102004.m3u8"
+          }
+        },
+        {
+          "nome": "TRACE BRAZUCA",
+          "descricao": "VARIEDADES",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/TRACE%20BRAZUCA.png",
+          "urls": {
+            "fhd": "http://servidor/{user}/{pass}/208420.m3u8",
+            "hd": "http://servidor/{user}/{pass}/208420.m3u8",
+            "sd": "http://servidor/{user}/{pass}/208420.m3u8"
+          }
+        },
+        {
+          "nome": "TRAVEL BOX  BRAZIL",
+          "descricao": "VARIEDADES",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/TRAVEL%20BOX%20BRASIL.png",
+          "urls": {
+            "fhd": "http://servidor/{user}/{pass}/99963.m3u8",
+            "hd": "http://servidor/{user}/{pass}/99963.m3u8",
+            "sd": "http://servidor/{user}/{pass}/99963.m3u8"
+          }
+        }
+      ]
+    }
+  ],
+  "filmes": [],
+  "series": []
+}
