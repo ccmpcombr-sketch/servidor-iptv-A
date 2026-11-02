@@ -1,0 +1,223 @@
+{
+  "canais": [
+    {
+      "album": "FILMES E SÉRIES",
+      "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/filmes%20e%20series.png",
+      "subAlbuns": [],
+      "itens": [
+        {
+          "nome": "A&E",
+          "descricao": "FILMES E SÉRIES",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/A%26E.PNG",
+          "urls": {
+            "fhd": "http://servidor/{user}/{pass}/208146.m3u8",
+            "hd": "http://servidor/{user}/{pass}/208147.m3u8",
+            "sd": "http://servidor/{user}/{pass}/208382.m3u8"
+          }
+        },
+        {
+          "nome": "AMC",
+          "descricao": "FILMES E SÉRIES",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/AMC.PNG",
+          "urls": {
+            "fhd": "http://servidor/{user}/{pass}/208150.m3u8",
+            "hd": "http://servidor/{user}/{pass}/208151.m3u8",
+            "sd": "http://servidor/{user}/{pass}/208383.m3u8"
+          }
+        },
+        {
+          "nome": "AXN",
+          "descricao": "FILMES E SÉRIES",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/axn.PNG",
+          "urls": {
+            "fhd": "http://servidor/{user}/{pass}/101974.m3u8",
+            "hd": "http://servidor/{user}/{pass}/101975.m3u8",
+            "sd": "http://servidor/{user}/{pass}/101976.m3u8"
+          }
+        },
+        {
+          "nome": "CANAL BRASIL",
+          "descricao": "FILMES E SÉRIES",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/CANAL%20BRASIL.PNG",
+          "urls": {
+            "fhd": "http://servidor/{user}/{pass}/101977.m3u8",
+            "hd": "http://servidor/{user}/{pass}/101978.m3u8",
+            "sd": "http://servidor/{user}/{pass}/101979.m3u8"
+          }
+        },
+        {
+          "nome": "CANAL SONY",
+          "descricao": "FILMES E SÉRIES",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/CANAL%20SONY.PNG",
+          "urls": {
+            "fhd": "http://servidor/{user}/{pass}/101980.m3u8",
+            "hd": "http://servidor/{user}/{pass}/101981.m3u8",
+            "sd": "http://servidor/{user}/{pass}/101982.m3u8"
+          }
+        },
+        {
+          "nome": "CINEMAX",
+          "descricao": "FILMES E SÉRIES",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/CINEMAX.PNG",
+          "urls": {
+            "fhd": "http://servidor/{user}/{pass}/727325.m3u8",
+            "hd": "http://servidor/{user}/{pass}/101984.m3u8",
+            "sd": "http://servidor/{user}/{pass}/101985.m3u8"
+          }
+        },
+        {
+          "nome": "CURTA!",
+          "descricao": "FILMES E SÉRIES",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/CURTA!.PNG",
+          "urls": {
+            "fhd": "http://servidor/{user}/{pass}/101987.m3u8",
+            "hd": "http://servidor/{user}/{pass}/101986.m3u8",
+            "sd": "http://servidor/{user}/{pass}/101988.m3u8"
+          }
+        },
+        {
+          "nome": "FILM & ARTS",
+          "descricao": "FILMES E SÉRIES",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/FILM%20%26%20ARTS.PNG",
+          "urls": {
+            "fhd": "http://servidor/{user}/{pass}/101990.m3u8",
+            "hd": "http://servidor/{user}/{pass}/101991.m3u8",
+            "sd": "http://servidor/{user}/{pass}/101989.m3u8"
+          }
+        },
+        {
+          "nome": "MEGAPIX",
+          "descricao": "FILMES E SÉRIES",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/MEGAPIX.PNG",
+          "urls": {
+            "fhd": "http://servidor/{user}/{pass}/1429684.m3u8",
+            "hd": "http://servidor/{user}/{pass}/101998.m3u8",
+            "sd": "http://servidor/{user}/{pass}/101996.m3u8"
+          }
+        },
+        {
+          "nome": "SONY MOVIES",
+          "descricao": "FILMES E SÉRIES",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/SONY%20MOVIES.PNG",
+          "urls": {
+            "fhd": "http://servidor/{user}/{pass}/4167114.m3u8",
+            "hd": "http://servidor/{user}/{pass}/4167113.m3u8",
+            "sd": "http://servidor/{user}/{pass}/4167112.m3u8"
+          }
+        },
+        {
+          "nome": "SPACE",
+          "descricao": "FILMES E SÉRIES",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/SPACE.PNG",
+          "urls": {
+            "fhd": "http://servidor/{user}/{pass}/102005.m3u8",
+            "hd": "http://servidor/{user}/{pass}/102006.m3u8",
+            "sd": "http://servidor/{user}/{pass}/102004.m3u8"
+          }
+        },
+        {
+          "nome": "TCM",
+          "descricao": "FILMES E SÉRIES",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/TCM.PNG",
+          "urls": {
+            "fhd": "http://servidor/{user}/{pass}/102016.m3u8",
+            "hd": "http://servidor/{user}/{pass}/102017.m3u8",
+            "sd": "http://servidor/{user}/{pass}/102018.m3u8"
+          }
+        },
+        {
+          "nome": "TLC",
+          "descricao": "FILMES E SÉRIES",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/TLC.PNG",
+          "urls": {
+            "fhd": "http://servidor/{user}/{pass}/1479436.m3u8",
+            "hd": "http://servidor/{user}/{pass}/1479437.m3u8",
+            "sd": "http://servidor/{user}/{pass}/1479438.m3u8"
+          }
+        },
+        {
+          "nome": "TNT",
+          "descricao": "FILMES E SÉRIES",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/TNT.PNG",
+          "urls": {
+            "fhd": "http://servidor/{user}/{pass}/102019.m3u8",
+            "hd": "http://servidor/{user}/{pass}/102020.m3u8",
+            "sd": "http://servidor/{user}/{pass}/102020.m3u8"
+          }
+        },
+        {
+          "nome": "TNT NOVELAS",
+          "descricao": "FILMES E SÉRIES",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/TNT%20NOVELAS.PNG",
+          "urls": {
+            "fhd": "http://servidor/{user}/{pass}/208234.m3u8",
+            "hd": "http://servidor/{user}/{pass}/208235.m3u8",
+            "sd": "http://servidor/{user}/{pass}/208450.m3u8"
+          }
+        },
+        {
+          "nome": "TNT SERIES",
+          "descricao": "FILMES E SÉRIES",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/TNT%20SERIES.PNG",
+          "urls": {
+            "fhd": "http://servidor/{user}/{pass}/102021.m3u8",
+            "hd": "http://servidor/{user}/{pass}/102022.m3u8",
+            "sd": "http://servidor/{user}/{pass}/102024.m3u8"
+          }
+        },
+        {
+          "nome": "UNIVERSAL CHANNEL",
+          "descricao": "FILMES E SÉRIES",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/UNIVERSAL%20CHANNEL.PNG",
+          "urls": {
+            "fhd": "http://servidor/{user}/{pass}/208204.m3u8",
+            "hd": "http://servidor/{user}/{pass}/208205.m3u8",
+            "sd": "http://servidor/{user}/{pass}/102025.m3u8"
+          }
+        },
+        {
+          "nome": "USA NETWORK",
+          "descricao": "FILMES E SÉRIES",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/USA%20NETWORK.PNG",
+          "urls": {
+            "fhd": "http://servidor/{user}/{pass}/208187.m3u8",
+            "hd": "http://servidor/{user}/{pass}/208188.m3u8",
+            "sd": "http://servidor/{user}/{pass}/208392.m3u8"
+          }
+        },
+        {
+          "nome": "WARNER  CHANNEL",
+          "descricao": "FILMES E SÉRIES",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/WARNER%20%20CHANNEL.PNG",
+          "urls": {
+            "fhd": "http://servidor/{user}/{pass}/102029.m3u8",
+            "hd": "http://servidor/{user}/{pass}/102028.m3u8",
+            "sd": "http://servidor/{user}/{pass}/102030.m3u8"
+          }
+        },
+        {
+          "nome": "CANAL SONY",
+          "descricao": "FILMES E SÉRIES",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/CANAL%20SONY.PNG",
+          "urls": {
+            "fhd": "http://servidor/{user}/{pass}/101980.m3u8",
+            "hd": "http://servidor/{user}/{pass}/101981.m3u8",
+            "sd": "http://servidor/{user}/{pass}/101982.m3u8"
+          }
+        },
+        {
+          "nome": "STUDIO UNIVERSAL",
+          "descricao": "FILMES E SÉRIES",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/STUDIO%20UNIVERSAL.jpeg",
+          "urls": {
+            "fhd": "http://servidor/{user}/{pass}/102026.m3u8",
+            "hd": "http://servidor/{user}/{pass}/102027.m3u8",
+            "sd": "http://servidor/{user}/{pass}/102012.m3u8"
+          }
+        }
+      ]
+    }
+  ],
+  "filmes": [],
+  "series": []
+}
