@@ -1,0 +1,3013 @@
+{
+  "canais": [],
+  "filmes": [
+    {
+      "album": "♦️ Ação ✔️",
+      "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/filmes/ação.png",
+      "subAlbuns": [],
+      "itens": [
+        {
+          "nome": "John Carter: Entre Dois Mundos (2012)",
+          "descricao": "John Carter: Entre Dois Mundos (2012)",
+          "capa": "https://image.tmdb.org/t/p/w780/uv6RHSX6cvlCOUDgqcscxChyofj.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565952.mp4"
+        },
+        {
+          "nome": "John Wick - De Volta ao Jogo (2014)",
+          "descricao": "John Wick - De Volta ao Jogo (2014)",
+          "capa": "https://image.tmdb.org/t/p/w780/lBcQGk1ygGM2wYmpypFrPp0YohN.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4564072.mp4"
+        },
+        {
+          "nome": "John Wick 1",
+          "descricao": "John Wick 1",
+          "capa": "https://image.tmdb.org/t/p/w780/lBcQGk1ygGM2wYmpypFrPp0YohN.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4566348.mp4"
+        },
+        {
+          "nome": "John Wick 2",
+          "descricao": "John Wick 2",
+          "capa": "https://image.tmdb.org/t/p/w780/qQFBj2tBlkKhAcAgDVpdFWLX5x.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4566347.mp4"
+        },
+        {
+          "nome": "John Wick 3",
+          "descricao": "John Wick 3",
+          "capa": "https://image.tmdb.org/t/p/w780/bE6XutmB6tcvzTHBx4JGJLlzouM.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4566103.mp4"
+        },
+        {
+          "nome": "John Wick 3: Parabellum (2019)",
+          "descricao": "John Wick 3: Parabellum (2019)",
+          "capa": "https://image.tmdb.org/t/p/w780/bE6XutmB6tcvzTHBx4JGJLlzouM.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4564073.mp4"
+        },
+        {
+          "nome": "John Wick: Um Novo Dia para Matar (2017)",
+          "descricao": "John Wick: Um Novo Dia para Matar (2017)",
+          "capa": "https://image.tmdb.org/t/p/w780/kRAHy9CQnNT16vTvtJtu9pRgjEG.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4564071.mp4"
+        },
+        {
+          "nome": "Johnny & Clyde - Parceiros no Crime (2023)",
+          "descricao": "Johnny & Clyde - Parceiros no Crime (2023)",
+          "capa": "https://image.tmdb.org/t/p/w780/h3luJ9fz6IuqBSMuafRgkGf2nvW.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4564798.mp4"
+        },
+        {
+          "nome": "Johnny English (2003)",
+          "descricao": "Johnny English (2003)",
+          "capa": "https://image.tmdb.org/t/p/w780/mmzW88tnkB2MnOV3Un2F9IUxSnZ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565800.mp4"
+        },
+        {
+          "nome": "Johnny English 3.0 (2018)",
+          "descricao": "Johnny English 3.0 (2018)",
+          "capa": "https://image.tmdb.org/t/p/w780/6XvIHDtzxr4Em9ZiAc7dg5tzTvW.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565798.mp4"
+        },
+        {
+          "nome": "Jolt: Fúria Fatal (2021)",
+          "descricao": "Jolt: Fúria Fatal (2021)",
+          "capa": "https://image.tmdb.org/t/p/w780/3NxiSG1nt9d4Ewf4MHxVbmlUpY9.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565498.mp4"
+        },
+        {
+          "nome": "Jumanji (1995)",
+          "descricao": "Jumanji (1995)",
+          "capa": "https://image.tmdb.org/t/p/w780/cHfIIcumOjNvXMqobR94jCg9sPI.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4564418.mp4"
+        },
+        {
+          "nome": "Jumanji: Próxima Fase (2019)",
+          "descricao": "Jumanji: Próxima Fase (2019)",
+          "capa": "https://image.tmdb.org/t/p/w780/bBRDUTr6jgbD8I8A9DvVGrVbdfB.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4566042.mp4"
+        },
+        {
+          "nome": "Jumper (2008)",
+          "descricao": "Jumper (2008)",
+          "capa": "https://image.tmdb.org/t/p/w780/s5Ons7z4fQcRK9xWIrWrBZ225Vc.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4564700.mp4"
+        },
+        {
+          "nome": "Jungle Cruise (2021)",
+          "descricao": "Jungle Cruise (2021)",
+          "capa": "https://image.tmdb.org/t/p/w780/ufdAY5IfR916oDuZ02qSBYUSucJ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565489.mp4"
+        },
+        {
+          "nome": "Junglee - Protegendo a Selva (2019) (2019)",
+          "descricao": "Junglee - Protegendo a Selva (2019) (2019)",
+          "capa": "https://image.tmdb.org/t/p/w500/8SX0Yd6D6YFR3EyXlJmDoaKRwbL.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4842018.mp4"
+        },
+        {
+          "nome": "Junglee - Protegendo a Selva (2019)",
+          "descricao": "Junglee - Protegendo a Selva (2019)",
+          "capa": "https://image.tmdb.org/t/p/w780/8SX0Yd6D6YFR3EyXlJmDoaKRwbL.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4566028.mp4"
+        },
+        {
+          "nome": "Juntas no Crime (2019)",
+          "descricao": "Juntas no Crime (2019)",
+          "capa": "https://image.tmdb.org/t/p/w780/uz3AKRU42CF7aGoBZwf9pNd4ZCa.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4566052.mp4"
+        },
+        {
+          "nome": "Jurassic Park 2",
+          "descricao": "Jurassic Park 2",
+          "capa": "https://image.tmdb.org/t/p/w780/gkF6JPfru2FEIP9du7QyHVLSOzu.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4566346.mp4"
+        },
+        {
+          "nome": "Jurassic Park 3 (2001)",
+          "descricao": "Jurassic Park 3 (2001)",
+          "capa": "https://image.tmdb.org/t/p/w780/1dObEUGvS4cTbVNi8ewvd6gLIv4.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4566345.mp4"
+        },
+        {
+          "nome": "Jurassic World",
+          "descricao": "Jurassic World",
+          "capa": "https://image.tmdb.org/t/p/w780/7qeiCNSmzrkcEyIWi8sIcsjrOyW.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4566343.mp4"
+        },
+        {
+          "nome": "Justiça Brutal (2019)",
+          "descricao": "Justiça Brutal (2019)",
+          "capa": "https://image.tmdb.org/t/p/w780/fbZi8jRG0tZTdXx3GH6CZthkFzc.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565804.mp4"
+        },
+        {
+          "nome": "Justiça em Família (2021)",
+          "descricao": "Justiça em Família (2021)",
+          "capa": "https://image.tmdb.org/t/p/w780/cygRJp2OQKsiGbJxKq5TbvzW9QR.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565463.mp4"
+        },
+        {
+          "nome": "Justiça Sem Limites (2023)",
+          "descricao": "Justiça Sem Limites (2023)",
+          "capa": "https://image.tmdb.org/t/p/w780/akO6TuooLE8EiIIQtB1sp8DlYb0.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4564423.mp4"
+        },
+        {
+          "nome": "K.O.",
+          "descricao": "K.O.",
+          "capa": "https://image.tmdb.org/t/p/w780/o0brhd2qdfFL3o7VxFDsUfUSaML.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4564645.mp4"
+        },
+        {
+          "nome": "K-9: D.P.: Um Policial Bom pra Cachorro",
+          "descricao": "K-9: D.P.: Um Policial Bom pra Cachorro",
+          "capa": "https://image.tmdb.org/t/p/w780/AvfWX5HMqrbol6i0Td57rv0XXis.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565437.mp4"
+        },
+        {
+          "nome": "Kali: Anjo Vingador (2024)",
+          "descricao": "Kali: Anjo Vingador (2024)",
+          "capa": "https://image.tmdb.org/t/p/w780/npYnwimjiKqWfg4Y9A1OoiBhmoU.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4564897.mp4"
+        },
+        {
+          "nome": "Karate Kid (2010)",
+          "descricao": "Karate Kid (2010)",
+          "capa": "https://image.tmdb.org/t/p/w780/uC57SSZAkkLBCuWVsEfbqYkRda5.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565846.mp4"
+        },
+        {
+          "nome": "Karatê Kid 2 - A Hora da Verdade Continua",
+          "descricao": "Karatê Kid 2 - A Hora da Verdade Continua",
+          "capa": "https://image.tmdb.org/t/p/w780/4Mx62yRDa1g2VrPgvrursLkOXFI.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565849.mp4"
+        },
+        {
+          "nome": "Karatê Kid 3 - O Desafio Final",
+          "descricao": "Karatê Kid 3 - O Desafio Final",
+          "capa": "https://image.tmdb.org/t/p/w780/1RQdaRkkwqieJytCJv0Abl8SrtB.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565848.mp4"
+        },
+        {
+          "nome": "Karate Kid 4 - A Nova Aventura",
+          "descricao": "Karate Kid 4 - A Nova Aventura",
+          "capa": "https://image.tmdb.org/t/p/w780/uYLW0WvEVEmmsFQMDEIkbrUkEox.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565847.mp4"
+        },
+        {
+          "nome": "Karatê Kid: A Hora da Verdade (1984)",
+          "descricao": "Karatê Kid: A Hora da Verdade (1984)",
+          "capa": "https://image.tmdb.org/t/p/w780/b2VqAf0GSkPJ6AwzVC64VoXLxzs.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565850.mp4"
+        },
+        {
+          "nome": "Karatê Kid: Lendas (2025)",
+          "descricao": "Karatê Kid: Lendas (2025)",
+          "capa": "https://image.tmdb.org/t/p/w780/gnuSSOVBVWlKL8dFEGKRoOiiKTS.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4564607.mp4"
+        },
+        {
+          "nome": "Kate (2021)",
+          "descricao": "Kate (2021)",
+          "capa": "https://image.tmdb.org/t/p/w780/uJgdT1boTSP0dDIjdTgGleg71l4.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565442.mp4"
+        },
+        {
+          "nome": "Keanu: Cadê Meu Gato?! (2016)",
+          "descricao": "Keanu: Cadê Meu Gato?! (2016)",
+          "capa": "https://image.tmdb.org/t/p/w780/zIWQUKDs6l80WVxQY43hmk2XIW.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4564509.mp4"
+        },
+        {
+          "nome": "Khutulun - A Princesa Guerreira (2021)",
+          "descricao": "Khutulun - A Princesa Guerreira (2021)",
+          "capa": "https://image.tmdb.org/t/p/w780/h1tgT77aMRnMstr3soizs0ALir.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565026.mp4"
+        },
+        {
+          "nome": "Kick-Ass 2 (2013)",
+          "descricao": "Kick-Ass 2 (2013)",
+          "capa": "https://image.tmdb.org/t/p/w780/1go2A3gdQjaMuHWquybgoJlQRcX.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565386.mp4"
+        },
+        {
+          "nome": "Kick-Ass: Quebrando Tudo (2010)",
+          "descricao": "Kick-Ass: Quebrando Tudo (2010)",
+          "capa": "https://image.tmdb.org/t/p/w780/Lw92onUVD9eg04JltAas5KWkSy.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565387.mp4"
+        },
+        {
+          "nome": "Kickboxer 1",
+          "descricao": "Kickboxer 1",
+          "capa": "http://ocvtab.info/images/5hWBgK6UVWqoKNyE9KKxcidRgO0_big.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4566342.mp4"
+        },
+        {
+          "nome": "Kickboxer 2",
+          "descricao": "Kickboxer 2",
+          "capa": "https://image.tmdb.org/t/p/w780/8ba3O5xbfTc8gKvV7KPF8BAhKju.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4566341.mp4"
+        },
+        {
+          "nome": "Kickboxer 3",
+          "descricao": "Kickboxer 3",
+          "capa": "https://image.tmdb.org/t/p/w780/6Bkul5qft7BFHoHaPEs7ojx5Kr4.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4566340.mp4"
+        },
+        {
+          "nome": "Kickboxer 4",
+          "descricao": "Kickboxer 4",
+          "capa": "https://image.tmdb.org/t/p/w780/zkkZ0exLO4cZWWfRQYB4OgImg47.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4566339.mp4"
+        },
+        {
+          "nome": "Kickboxer 5",
+          "descricao": "Kickboxer 5",
+          "capa": "https://image.tmdb.org/t/p/w780/gdjxkkvKMAZ1x4zaPhdi5BcfYz6.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4566338.mp4"
+        },
+        {
+          "nome": "Kickboxer 6",
+          "descricao": "Kickboxer 6",
+          "capa": "https://image.tmdb.org/t/p/w780/6Bkul5qft7BFHoHaPEs7ojx5Kr4.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4566337.mp4"
+        },
+        {
+          "nome": "Kickboxer 7",
+          "descricao": "Kickboxer 7",
+          "capa": "https://image.tmdb.org/t/p/w780/qlwCwKGGSBFjK4jRODdo2dsTcoF.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4566336.mp4"
+        },
+        {
+          "nome": "Kickboxer: O Desafio do Dragão (1989)",
+          "descricao": "Kickboxer: O Desafio do Dragão (1989)",
+          "capa": "https://image.tmdb.org/t/p/w780/bIgP4t0DPc67hBxNioKt6HbdmV2.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565031.mp4"
+        },
+        {
+          "nome": "Kill Bill: Volume 1 (2003)",
+          "descricao": "Kill Bill: Volume 1 (2003)",
+          "capa": "https://image.tmdb.org/t/p/w780/6VDrtm6rLEW4hByVA45V0Gpime0.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565162.mp4"
+        },
+        {
+          "nome": "Kill Bill: Volume 2 (2004)",
+          "descricao": "Kill Bill: Volume 2 (2004)",
+          "capa": "https://image.tmdb.org/t/p/w780/qUe5LcD5gnbRFHNZBZf5qt56ylv.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565161.mp4"
+        },
+        {
+          "nome": "Kill Boksoon (2023)",
+          "descricao": "Kill Boksoon (2023)",
+          "capa": "https://image.tmdb.org/t/p/w780/2eRQ55y4OWXZjmdwfBmyMEPTdyy.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565082.mp4"
+        },
+        {
+          "nome": "Kill: O Massacre no Trem (2024)",
+          "descricao": "Kill: O Massacre no Trem (2024)",
+          "capa": "https://image.tmdb.org/t/p/w780/mxgrtJvngNhppjCwu2AvdCtvSXa.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4564787.mp4"
+        },
+        {
+          "nome": "Kimi: Alguém Está Escutando (2022)",
+          "descricao": "Kimi: Alguém Está Escutando (2022)",
+          "capa": "https://image.tmdb.org/t/p/w780/i8fRpmBAw69emdYL8o1pCY6RliH.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565270.mp4"
+        },
+        {
+          "nome": "Kin (2018)",
+          "descricao": "Kin (2018)",
+          "capa": "https://image.tmdb.org/t/p/w780/yyM6NktVICFnRj7tyvYBMUUq6g3.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4566168.mp4"
+        },
+        {
+          "nome": "King of Fighters: A Batalha Final (2009)",
+          "descricao": "King of Fighters: A Batalha Final (2009)",
+          "capa": "https://image.tmdb.org/t/p/w780/dyzSWQBkDC4sicUrPo8pnO7KD6r.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565528.mp4"
+        },
+        {
+          "nome": "King's Man: A Origem (2021)",
+          "descricao": "King's Man: A Origem (2021)",
+          "capa": "https://image.tmdb.org/t/p/w780/mFw4ERVUvp426Lsp9Km0rDoLiFE.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565271.mp4"
+        },
+        {
+          "nome": "Kingsman: O Círculo Dourado (2017)",
+          "descricao": "Kingsman: O Círculo Dourado (2017)",
+          "capa": "https://image.tmdb.org/t/p/w780/qo7MKvaaow436wqwYlPbq5zNhqM.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565543.mp4"
+        },
+        {
+          "nome": "Kingsman: Serviço Secreto (2015)",
+          "descricao": "Kingsman: Serviço Secreto (2015)",
+          "capa": "https://image.tmdb.org/t/p/w780/wDhy1Ga9BoLwkHOI0jJISQem28v.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565774.mp4"
+        },
+        {
+          "nome": "Kong: A Ilha da Caveira (2017)",
+          "descricao": "Kong: A Ilha da Caveira (2017)",
+          "capa": "https://image.tmdb.org/t/p/w780/y7ZdnfEA8AEyCFdojYBxeevtZtc.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4566335.mp4"
+        },
+        {
+          "nome": "Kraven: O Caçador (2024)",
+          "descricao": "Kraven: O Caçador (2024)",
+          "capa": "https://image.tmdb.org/t/p/w780/pWvQsP9o1MQ4vQNjpL9QeYFXKOs.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4564755.mp4"
+        },
+        {
+          "nome": "Krull (1983)",
+          "descricao": "Krull (1983)",
+          "capa": "https://image.tmdb.org/t/p/w780/izDbySIrTmID0Nh6UqcWrUvOMjU.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4564117.mp4"
+        },
+        {
+          "nome": "Kung Fu Yoga (2017)",
+          "descricao": "Kung Fu Yoga (2017)",
+          "capa": "https://image.tmdb.org/t/p/w780/rvUMGvHc0roYX8MSoIN0Kw8XZ3V.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4566153.mp4"
+        },
+        {
+          "nome": "Kung Pow: O Mestre da Kung-Fu-São (2002)",
+          "descricao": "Kung Pow: O Mestre da Kung-Fu-São (2002)",
+          "capa": "https://image.tmdb.org/t/p/w780/diSXwwNfePB5AX6fxfpzA8uDYLt.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4566334.mp4"
+        },
+        {
+          "nome": "Ladrão de Diamantes (2004)",
+          "descricao": "Ladrão de Diamantes (2004)",
+          "capa": "https://image.tmdb.org/t/p/w780/xboAsy9Cywvt40qq5jxlUOPaHsh.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565258.mp4"
+        },
+        {
+          "nome": "Ladrões (2025)",
+          "descricao": "Ladrões (2025)",
+          "capa": "https://image.tmdb.org/t/p/w780/l1ezVQbjxqnoTPMOLLKQmdTNen1.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4566333.mp4"
+        },
+        {
+          "nome": "Ladrões de Ouro (2025)",
+          "descricao": "Ladrões de Ouro (2025)",
+          "capa": "https://image.tmdb.org/t/p/w780/waEg4gatXCc1xvFRvkWLLZbxv5L.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4564583.mp4"
+        },
+        {
+          "nome": "Lágrimas do Sol (2003)",
+          "descricao": "Lágrimas do Sol (2003)",
+          "capa": "https://image.tmdb.org/t/p/w780/cdc7y9p1SDa7riYOkyAevJTXxTC.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4566017.mp4"
+        },
+        {
+          "nome": "Lâmina dos 47 Ronins (2022)",
+          "descricao": "Lâmina dos 47 Ronins (2022)",
+          "capa": "https://image.tmdb.org/t/p/w780/yCNloDOXFDMn2GnXFcbtjfn1i7z.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565108.mp4"
+        },
+        {
+          "nome": "Lanterna Verde (2011)",
+          "descricao": "Lanterna Verde (2011)",
+          "capa": "https://image.tmdb.org/t/p/w780/xfZ1p8nNavu5sbLcyrB1FgOYK23.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4566332.mp4"
+        },
+        {
+          "nome": "Lara Croft: Tomb Raider - A Origem da Vida (2003)",
+          "descricao": "Lara Croft: Tomb Raider - A Origem da Vida (2003)",
+          "capa": "https://image.tmdb.org/t/p/w780/hEt3GTGknWBtfnWQAlUS3vqMKE2.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4564813.mp4"
+        },
+        {
+          "nome": "Lara Croft: Tomb Raider (2001)",
+          "descricao": "Lara Croft: Tomb Raider (2001)",
+          "capa": "https://image.tmdb.org/t/p/w780/sJpl1EfHGZhbKtZ3fWTlwrpM1tH.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4564819.mp4"
+        },
+        {
+          "nome": "Largo Winch: O Preço do Dinheiro (2024)",
+          "descricao": "Largo Winch: O Preço do Dinheiro (2024)",
+          "capa": "https://image.tmdb.org/t/p/w780/5H5rmjHYr9YHrBbCGW0nVA43nl.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4564770.mp4"
+        },
+        {
+          "nome": "Lazarat",
+          "descricao": "Lazarat",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aF4q1iWQvqVcBfbd8iV8omqi86K.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4564877.mp4"
+        },
+        {
+          "nome": "LEAL Só Existe Uma Maneira de Viver (2018)",
+          "descricao": "LEAL Só Existe Uma Maneira de Viver (2018)",
+          "capa": "https://image.tmdb.org/t/p/w780/uY23jloBJ0EzCa7gvs1u5HVnYf0.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4566167.mp4"
+        },
+        {
+          "nome": "Leão Branco: O Lutador Sem Lei (1990)",
+          "descricao": "Leão Branco: O Lutador Sem Lei (1990)",
+          "capa": "https://image.tmdb.org/t/p/w780/lugw5isre3GoNCTXPzOmJos4hzl.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565089.mp4"
+        },
+        {
+          "nome": "Legacy of Lies (1992)",
+          "descricao": "Legacy of Lies (1992)",
+          "capa": "https://image.tmdb.org/t/p/w780/uFxHfAW0wRhlrrkGXuNVs0yI05c.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565472.mp4"
+        },
+        {
+          "nome": "Legado de Violência (2019)",
+          "descricao": "Legado de Violência (2019)",
+          "capa": "https://image.tmdb.org/t/p/w780/rzkmHg8rBSdRuXDPSHhHvkEvKCD.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565832.mp4"
+        },
+        {
+          "nome": "Legado Explosivo (2020)",
+          "descricao": "Legado Explosivo (2020)",
+          "capa": "https://image.tmdb.org/t/p/w780/6jfl44Tg2uMf4UahPxoEBvlc7LK.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565763.mp4"
+        },
+        {
+          "nome": "Legionário (1998)",
+          "descricao": "Legionário (1998)",
+          "capa": "https://image.tmdb.org/t/p/w780/jbvv5JzHuercp3PdfRCLl4iPOjI.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4564890.mp4"
+        },
+        {
+          "nome": "Lendas da Guerra (2020)",
+          "descricao": "Lendas da Guerra (2020)",
+          "capa": "https://image.tmdb.org/t/p/w780/aC0YLhS0K5JbONctAlIZVvxXO0c.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4564188.mp4"
+        },
+        {
+          "nome": "Lendas dos Heróis do Condor: Os Valentes (2025)",
+          "descricao": "Lendas dos Heróis do Condor: Os Valentes (2025)",
+          "capa": "https://image.tmdb.org/t/p/w780/axnxTHpalRn1vdYezJ7UmJo5dyt.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4564543.mp4"
+        },
+        {
+          "nome": "Leões e Cordeiros (2007)",
+          "descricao": "Leões e Cordeiros (2007)",
+          "capa": "https://image.tmdb.org/t/p/w780/eBRSPIULAFwRpuU27Y8jytsBxKl.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4564502.mp4"
+        },
+        {
+          "nome": "Lift: Roubo nas Alturas (2024)",
+          "descricao": "Lift: Roubo nas Alturas (2024)",
+          "capa": "https://image.tmdb.org/t/p/w780/ca74jjIYRVDdsnlWk8JzyVY49dE.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4564956.mp4"
+        },
+        {
+          "nome": "Liga da Justiça (2017)",
+          "descricao": "Liga da Justiça (2017)",
+          "capa": "https://image.tmdb.org/t/p/w780/vQIwxoGxW46Skq5ipu0pBFKZTKd.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565678.mp4"
+        },
+        {
+          "nome": "Liga da Justiça de Zack Snyder (2021)",
+          "descricao": "Liga da Justiça de Zack Snyder (2021)",
+          "capa": "https://image.tmdb.org/t/p/w780/lsZ5dmMuvZVNMBrkozvJedujbgU.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565702.mp4"
+        },
+        {
+          "nome": "Liga da Justica de Zack Snyder [CROP]",
+          "descricao": "Liga da Justica de Zack Snyder [CROP]",
+          "capa": "http://ocvtab.info/images/b993f082b303aa84330d923b3d8ed6ad.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565682.mp4"
+        },
+        {
+          "nome": "Liga da Justica de Zack Snyder [JUSTICE IS GRAY]",
+          "descricao": "Liga da Justica de Zack Snyder [JUSTICE IS GRAY]",
+          "capa": "https://image.tmdb.org/t/p/w780/lsZ5dmMuvZVNMBrkozvJedujbgU.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565672.mp4"
+        },
+        {
+          "nome": "Liga da Justiça: A Nova Fronteira (2008)",
+          "descricao": "Liga da Justiça: A Nova Fronteira (2008)",
+          "capa": "https://image.tmdb.org/t/p/w780/6oY4BLz4NxfKD2MUK54vXHFMH1N.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4564436.mp4"
+        },
+        {
+          "nome": "Liga da Justiça: Deuses e Monstros (2015)",
+          "descricao": "Liga da Justiça: Deuses e Monstros (2015)",
+          "capa": "https://image.tmdb.org/t/p/w780/su5lmAMy438kYaAjJeGk2k17jnZ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4564435.mp4"
+        },
+        {
+          "nome": "Liga dos Deuses (2016)",
+          "descricao": "Liga dos Deuses (2016)",
+          "capa": "https://image.tmdb.org/t/p/w780/v7lvRYWyevRPsIDdGOE0jzUmakm.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4566070.mp4"
+        },
+        {
+          "nome": "Ligação Explosiva (2021)",
+          "descricao": "Ligação Explosiva (2021)",
+          "capa": "https://image.tmdb.org/t/p/w780/bMVA8186VPRgiUEkSTxRtoA3R1q.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565126.mp4"
+        },
+        {
+          "nome": "Ligação Sombria (2023)",
+          "descricao": "Ligação Sombria (2023)",
+          "capa": "https://image.tmdb.org/t/p/w780/fQ8CQlejkIzbd26W5NQEjaG1syB.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4564789.mp4"
+        },
+        {
+          "nome": "Lights Out (2025)",
+          "descricao": "Lights Out (2025)",
+          "capa": "https://image.tmdb.org/t/p/w780/tpJI6GmybZOfulTxern3YR9m9x0.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4564944.mp4"
+        },
+        {
+          "nome": "Lindas e Letais (2026)",
+          "descricao": "Lindas e Letais (2026)",
+          "capa": "https://image.tmdb.org/t/p/w780/3PdG3VE95F7fcawJrAfm9bdUvMy.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4564360.mp4"
+        },
+        {
+          "nome": "Line Walker 2: Espião Invisível",
+          "descricao": "Line Walker 2: Espião Invisível",
+          "capa": "https://image.tmdb.org/t/p/w780/f34gMW7AhBmtPsI5vAuFZZEdznk.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565953.mp4"
+        },
+        {
+          "nome": "Linha de Fogo (2025)",
+          "descricao": "Linha de Fogo (2025)",
+          "capa": "https://image.tmdb.org/t/p/w780/tR72QtCpWFyATitQhY4EmAgfEt4.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4564569.mp4"
+        },
+        {
+          "nome": "Linha de Frente (2013)",
+          "descricao": "Linha de Frente (2013)",
+          "capa": "https://image.tmdb.org/t/p/w780/eDkJozkyJ2izomuyeo0H4tSGpVd.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4566024.mp4"
+        },
+        {
+          "nome": "Linhas Inimigas (2020)",
+          "descricao": "Linhas Inimigas (2020)",
+          "capa": "https://image.tmdb.org/t/p/w780/2MuH7e5uNagt9djLR74JTgVFzEa.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565303.mp4"
+        },
+        {
+          "nome": "Livre: Encanto criminal (2024)",
+          "descricao": "Livre: Encanto criminal (2024)",
+          "capa": "https://image.tmdb.org/t/p/w780/cE7C87RQUMRVwAShtNeua49mHsy.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4564788.mp4"
+        },
+        {
+          "nome": "Lobisomem na Noite (2022)",
+          "descricao": "Lobisomem na Noite (2022)",
+          "capa": "https://image.tmdb.org/t/p/w780/qakD0XF0OPrOq8ghvZ1ZlYfNMEN.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565130.mp4"
+        },
+        {
+          "nome": "Lobo Guerreiro 2 (2017)",
+          "descricao": "Lobo Guerreiro 2 (2017)",
+          "capa": "https://image.tmdb.org/t/p/w780/jii5bSMJMlU2AWYzOOdgo7r0P1m.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4566152.mp4"
+        },
+        {
+          "nome": "Lobos (2024)",
+          "descricao": "Lobos (2024)",
+          "capa": "https://image.tmdb.org/t/p/w780/5LvefZZsapIsOIckLZHbYlwCAkm.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4564807.mp4"
+        },
+        {
+          "nome": "Logan (2017)",
+          "descricao": "Logan (2017)",
+          "capa": "https://image.tmdb.org/t/p/w780/f0CtZbae9cXj8bkWdCHzUHx5lsR.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4564719.mp4"
+        },
+        {
+          "nome": "Logan Lucky: Roubo em Família (2017)",
+          "descricao": "Logan Lucky: Roubo em Família (2017)",
+          "capa": "https://image.tmdb.org/t/p/w780/jFF47VdTL8DydZaytF7mHftAitk.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4566080.mp4"
+        },
+        {
+          "nome": "London Calling (2010)",
+          "descricao": "London Calling (2010)",
+          "capa": "https://image.tmdb.org/t/p/w780/6X3L9y4rgUUjh8zsOEkQmdvOFBr.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4564194.mp4"
+        },
+        {
+          "nome": "Looper: Assassinos do Futuro (2012)",
+          "descricao": "Looper: Assassinos do Futuro (2012)",
+          "capa": "https://image.tmdb.org/t/p/w780/qi3aMCoFbnfpbd0XBLznLUn99xQ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565605.mp4"
+        },
+        {
+          "nome": "Lou (2022)",
+          "descricao": "Lou (2022)",
+          "capa": "https://image.tmdb.org/t/p/w780/djM2s4wSaATn4jVB33cV05PEbV7.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565152.mp4"
+        },
+        {
+          "nome": "Loucos por Justiça (2020)",
+          "descricao": "Loucos por Justiça (2020)",
+          "capa": "https://image.tmdb.org/t/p/w780/6IHzwdwI9hjg4whXjRzf15s5arz.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565477.mp4"
+        },
+        {
+          "nome": "Lua Negra (1996)",
+          "descricao": "Lua Negra (1996)",
+          "capa": "https://image.tmdb.org/t/p/w780/AhllURgLD729iJYAZJRP2YvaUf6.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4566331.mp4"
+        },
+        {
+          "nome": "Luccas Neto em: 2 Babás Muito Esquisitas (2021)",
+          "descricao": "Luccas Neto em: 2 Babás Muito Esquisitas (2021)",
+          "capa": "https://image.tmdb.org/t/p/w780/1qR5zAj6d0r7qoB9ONEV52l8EoY.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565636.mp4"
+        },
+        {
+          "nome": "Lucy (2014)",
+          "descricao": "Lucy (2014)",
+          "capa": "https://image.tmdb.org/t/p/w780/6f10Yn1vooCMhb6DrY6AvsK19Yh.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4566330.mp4"
+        },
+        {
+          "nome": "Lukas (2018)",
+          "descricao": "Lukas (2018)",
+          "capa": "https://image.tmdb.org/t/p/w780/z2Ujt0FwMwHhAo7QJC0u1HG1m1h.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4566166.mp4"
+        },
+        {
+          "nome": "Lupin III: O Primeiro (2019)",
+          "descricao": "Lupin III: O Primeiro (2019)",
+          "capa": "https://image.tmdb.org/t/p/w780/sUO8dHslRQJ105yNnIxkPBjBkKw.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565997.mp4"
+        },
+        {
+          "nome": "Luta de Garotas",
+          "descricao": "Luta de Garotas",
+          "capa": "http://ocvtab.info/images/133940d4a19ba74fddd4355bcbb7ba9c.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565608.mp4"
+        },
+        {
+          "nome": "Luta pela Sobrevivência (2022)",
+          "descricao": "Luta pela Sobrevivência (2022)",
+          "capa": "https://image.tmdb.org/t/p/w780/x6JEK2rD0emPpk1N0MxoNuyoVdp.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4564742.mp4"
+        },
+        {
+          "nome": "Luta Por Sobrevivência (2021)",
+          "descricao": "Luta Por Sobrevivência (2021)",
+          "capa": "https://image.tmdb.org/t/p/w780/gJbV4A1NNAysDfNbiUo4biapSY0.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4564918.mp4"
+        },
+        {
+          "nome": "Lutador de Rua (2009)",
+          "descricao": "Lutador de Rua (2009)",
+          "capa": "https://image.tmdb.org/t/p/w780/i6RmXWZ63YFw5uSO7pTqXS5e1iA.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4566077.mp4"
+        },
+        {
+          "nome": "Machete (2010)",
+          "descricao": "Machete (2010)",
+          "capa": "https://image.tmdb.org/t/p/w780/4nDgg0DgIuNk1FpyI7jHJyB9Rd8.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4564795.mp4"
+        },
+        {
+          "nome": "Machete Mata (2013)",
+          "descricao": "Machete Mata (2013)",
+          "capa": "https://image.tmdb.org/t/p/w780/4zyIttMBPUzwaD7CoBLxmNsPBF9.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4564595.mp4"
+        },
+        {
+          "nome": "Mad Max (1979) (1979)",
+          "descricao": "Mad Max (1979) (1979)",
+          "capa": "https://image.tmdb.org/t/p/w500/jHJ5xxRjXUfZ6lQHcwibAzepPf2.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4842028.mp4"
+        },
+        {
+          "nome": "Mad Max (1979)",
+          "descricao": "Mad Max (1979)",
+          "capa": "https://image.tmdb.org/t/p/w780/jHJ5xxRjXUfZ6lQHcwibAzepPf2.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4566329.mp4"
+        },
+        {
+          "nome": "Mad Max 2",
+          "descricao": "Mad Max 2",
+          "capa": "https://image.tmdb.org/t/p/w780/jmI9M04jZnfgAaA1kSiG2HKHUxt.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4566328.mp4"
+        },
+        {
+          "nome": "Mad Max 3",
+          "descricao": "Mad Max 3",
+          "capa": "http://ocvtab.info/images/o4rv4JyeDmDKGaZgvmQxSkaCJXX_big.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4566327.mp4"
+        },
+        {
+          "nome": "Mad Max 4",
+          "descricao": "Mad Max 4",
+          "capa": "http://ocvtab.info/images/tH64gzAHDFg7EFcgfkkZyHdGM5P_big.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4566326.mp4"
+        },
+        {
+          "nome": "Mad Max: Estrada da Fúria (2015)",
+          "descricao": "Mad Max: Estrada da Fúria (2015)",
+          "capa": "https://image.tmdb.org/t/p/w780/tH64gzAHDFg7EFcgfkkZyHdGM5P.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4564694.mp4"
+        },
+        {
+          "nome": "Madame Teia (2024)",
+          "descricao": "Madame Teia (2024)",
+          "capa": "https://image.tmdb.org/t/p/w780/zWEm5oy2tE9ku1KSNM089FmZJ2p.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4564930.mp4"
+        },
+        {
+          "nome": "Máfia contra Máfia (2019)",
+          "descricao": "Máfia contra Máfia (2019)",
+          "capa": "https://image.tmdb.org/t/p/w780/6s7ThpkgswqzJtHtDhqcFwoL7WL.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565686.mp4"
+        },
+        {
+          "nome": "Magnatas do Crime (2020)",
+          "descricao": "Magnatas do Crime (2020)",
+          "capa": "https://image.tmdb.org/t/p/w780/vaeQ0Xersj2y5t1Hkqljb9i8RaU.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4564843.mp4"
+        },
+        {
+          "nome": "Magnum 578 (2022)",
+          "descricao": "Magnum 578 (2022)",
+          "capa": "https://image.tmdb.org/t/p/w780/96RTCoAC86dusyBhwoBzZUS8OzF.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4564871.mp4"
+        },
+        {
+          "nome": "Maharaja (1998)",
+          "descricao": "Maharaja (1998)",
+          "capa": "https://image.tmdb.org/t/p/w780/7aqfENdbntf8N1Jqo35zGQGX33T.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4564874.mp4"
+        },
+        {
+          "nome": "Mais Um Tiro Certo (2024)",
+          "descricao": "Mais Um Tiro Certo (2024)",
+          "capa": "https://image.tmdb.org/t/p/w780/zkHkMLoC41euiPZG62wslcHLreH.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4564957.mp4"
+        },
+        {
+          "nome": "Man Down: O Terror da Guerra (2016) (2016)",
+          "descricao": "Man Down: O Terror da Guerra (2016) (2016)",
+          "capa": "https://image.tmdb.org/t/p/w500/v4dlt8HUBgCuUiJTXID8OB4cZLF.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4842027.mp4"
+        },
+        {
+          "nome": "Man Down: O Terror da Guerra (2016)",
+          "descricao": "Man Down: O Terror da Guerra (2016)",
+          "capa": "https://image.tmdb.org/t/p/w780/v4dlt8HUBgCuUiJTXID8OB4cZLF.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4566325.mp4"
+        },
+        {
+          "nome": "Mandando Bala (2007)",
+          "descricao": "Mandando Bala (2007)",
+          "capa": "https://image.tmdb.org/t/p/w780/51C6obcHBjFF6ISmxnIavI4DZaT.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565365.mp4"
+        },
+        {
+          "nome": "Mandy: Sede de Vingança (2018)",
+          "descricao": "Mandy: Sede de Vingança (2018)",
+          "capa": "https://image.tmdb.org/t/p/w780/fSruOTrU6rnEZbAutI7iBNry39y.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565932.mp4"
+        },
+        {
+          "nome": "Manobra Arriscada (2024)",
+          "descricao": "Manobra Arriscada (2024)",
+          "capa": "https://image.tmdb.org/t/p/w780/7oxk7Qic7F6iISvNG5rt8DGbrWV.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4564852.mp4"
+        },
+        {
+          "nome": "Manobra Radical (1991)",
+          "descricao": "Manobra Radical (1991)",
+          "capa": "https://image.tmdb.org/t/p/w780/bu1o7et1MBNZdih0SKP0VdCyPfp.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4564793.mp4"
+        },
+        {
+          "nome": "Mantis (2025)",
+          "descricao": "Mantis (2025)",
+          "capa": "https://image.tmdb.org/t/p/w780/8Jqrvmq1dwfJtOfUOt8ByinEPts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4564544.mp4"
+        },
+        {
+          "nome": "Máquina da Vingança (2019)",
+          "descricao": "Máquina da Vingança (2019)",
+          "capa": "https://image.tmdb.org/t/p/w780/fqhHSSndJwdk0Pzv7CFs5wHnqXV.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4566056.mp4"
+        },
+        {
+          "nome": "Máquina Mortífera (1987)",
+          "descricao": "Máquina Mortífera (1987)",
+          "capa": "https://image.tmdb.org/t/p/w780/jsn0xqelydberc2UoHE8JzdDPTP.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4566321.mp4"
+        },
+        {
+          "nome": "Máquina Mortífera 2 (1989)",
+          "descricao": "Máquina Mortífera 2 (1989)",
+          "capa": "https://image.tmdb.org/t/p/w780/xmLVl0IJuOuZn5RiyBgxEXQ5cai.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4566324.mp4"
+        },
+        {
+          "nome": "Máquina Mortífera 3 (1992)",
+          "descricao": "Máquina Mortífera 3 (1992)",
+          "capa": "https://image.tmdb.org/t/p/w780/fkEX64OnvSNP2HnESRjPuuUsi2F.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4566323.mp4"
+        },
+        {
+          "nome": "Máquina Mortífera 4 (1998)",
+          "descricao": "Máquina Mortífera 4 (1998)",
+          "capa": "https://image.tmdb.org/t/p/w780/6f2IQoZl2vwT95AaCQz6EgYQ7sL.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4566322.mp4"
+        },
+        {
+          "nome": "Máquinas Mortais (2018)",
+          "descricao": "Máquinas Mortais (2018)",
+          "capa": "https://image.tmdb.org/t/p/w780/sBdtAsZNVPMOOYcq8zh0XULqU9T.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4566186.mp4"
+        },
+        {
+          "nome": "Mar em Chamas (2021)",
+          "descricao": "Mar em Chamas (2021)",
+          "capa": "https://image.tmdb.org/t/p/w780/cB8NcMTwI5lnMkar7ODK0UFVUBL.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565158.mp4"
+        },
+        {
+          "nome": "Marco: Justiça Implacável (2024)",
+          "descricao": "Marco: Justiça Implacável (2024)",
+          "capa": "https://image.tmdb.org/t/p/w780/vmEnVFZIjbtDkNOCf9mDwxAPxvB.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4564291.mp4"
+        },
+        {
+          "nome": "Mary Kay Letourneau: Faces de Um Escândalo",
+          "descricao": "Mary Kay Letourneau: Faces de Um Escândalo",
+          "capa": "http://ocvtab.info/images/2e8b8f08a8f70c68d9c38c3c18a2307c.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565141.mp4"
+        },
+        {
+          "nome": "Massacre no Bairro Japonês (1991)",
+          "descricao": "Massacre no Bairro Japonês (1991)",
+          "capa": "https://image.tmdb.org/t/p/w780/vgiGW7F1VVue9EAOR70gJwHecLj.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4566320.mp4"
+        },
+        {
+          "nome": "Matador de Aluguel (2024)",
+          "descricao": "Matador de Aluguel (2024)",
+          "capa": "https://image.tmdb.org/t/p/w780/h2xDLj6CtzItwQEFyBjIXh5z3QD.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4564927.mp4"
+        },
+        {
+          "nome": "Matador em Perigo (2010)",
+          "descricao": "Matador em Perigo (2010)",
+          "capa": "https://image.tmdb.org/t/p/w780/cgkguw7sDbGdUAXx7iqwlq46XLJ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565545.mp4"
+        },
+        {
+          "nome": "Matando Gunther",
+          "descricao": "Matando Gunther",
+          "capa": "http://ocvtab.info/images/1XDIAYXiN5WDIM5TElF6a5ejU93_big.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565980.mp4"
+        },
+        {
+          "nome": "Mate ou Morra (2021)",
+          "descricao": "Mate ou Morra (2021)",
+          "capa": "https://image.tmdb.org/t/p/w780/b9mTht2VCw0IMXmeeruRdZno3eS.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565351.mp4"
+        },
+        {
+          "nome": "Matrix (1999)",
+          "descricao": "Matrix (1999)",
+          "capa": "https://image.tmdb.org/t/p/w780/lDqMDI3xpbB9UQRyeXfei0MXhqb.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565934.mp4"
+        },
+        {
+          "nome": "Matrix Reloaded (2003)",
+          "descricao": "Matrix Reloaded (2003)",
+          "capa": "https://image.tmdb.org/t/p/w780/ayZkaN2f3ASjWW8ooCfuJT3T8Va.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565933.mp4"
+        },
+        {
+          "nome": "Matrix Revolutions (2003)",
+          "descricao": "Matrix Revolutions (2003)",
+          "capa": "https://image.tmdb.org/t/p/w780/92oJ810bYqijBQ8tqYL74mSpPtV.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565935.mp4"
+        },
+        {
+          "nome": "Maverick (1994)",
+          "descricao": "Maverick (1994)",
+          "capa": "https://image.tmdb.org/t/p/w780/t3kWVjMpZoqZnZAQy50JVRpDdHs.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565584.mp4"
+        },
+        {
+          "nome": "Max Payne (2008)",
+          "descricao": "Max Payne (2008)",
+          "capa": "https://image.tmdb.org/t/p/w780/w1Hq5B2wXsbv7G8mA3MIWbjDpQh.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4564838.mp4"
+        },
+        {
+          "nome": "Max Steel (2016)",
+          "descricao": "Max Steel (2016)",
+          "capa": "https://image.tmdb.org/t/p/w780/AuEzNLF8yvzd169guYEFisqvy5z.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4564453.mp4"
+        },
+        {
+          "nome": "Maximum Ride: Projeto Angel (2016)",
+          "descricao": "Maximum Ride: Projeto Angel (2016)",
+          "capa": "https://image.tmdb.org/t/p/w780/gESiRTYgRSyrBM2647hqDjWsgyd.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4564296.mp4"
+        },
+        {
+          "nome": "Maze Runner 3",
+          "descricao": "Maze Runner 3",
+          "capa": "https://image.tmdb.org/t/p/w780/2J51QUSWfoNKW5JcTY44Xuw4UeU.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4566319.mp4"
+        },
+        {
+          "nome": "McQuade: O Lobo Solitário (1983)",
+          "descricao": "McQuade: O Lobo Solitário (1983)",
+          "capa": "https://image.tmdb.org/t/p/w780/ddsKrcL7iiK66cJyj3JVyZKdm2q.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4564223.mp4"
+        },
+        {
+          "nome": "Me Tira da Mira (2022)",
+          "descricao": "Me Tira da Mira (2022)",
+          "capa": "https://image.tmdb.org/t/p/w780/gxr04nWw0BuGVqdFNK8W4na4FYD.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565224.mp4"
+        },
+        {
+          "nome": "Mecânica das Sombras (2016)",
+          "descricao": "Mecânica das Sombras (2016)",
+          "capa": "https://image.tmdb.org/t/p/w780/1fvGVddff72w8r5v08rMzmMuX2n.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4564066.mp4"
+        },
+        {
+          "nome": "Medidas Extremas (1996)",
+          "descricao": "Medidas Extremas (1996)",
+          "capa": "https://image.tmdb.org/t/p/w780/vhMLm36Bzy4LaMxmN3Em44e0OhF.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4564876.mp4"
+        },
+        {
+          "nome": "Medo (1996)",
+          "descricao": "Medo (1996)",
+          "capa": "https://image.tmdb.org/t/p/w780/em472HyVQcSxKTgxeHOAf3BYgLi.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565014.mp4"
+        },
+        {
+          "nome": "Medo da Chuva (2021)",
+          "descricao": "Medo da Chuva (2021)",
+          "capa": "https://image.tmdb.org/t/p/w780/gw5WSquF8joM6lcP2KNoMDXJ2Z3.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565782.mp4"
+        },
+        {
+          "nome": "Megalodon (2018)",
+          "descricao": "Megalodon (2018)",
+          "capa": "https://image.tmdb.org/t/p/w780/hES2eVAbVt08JJTqgu3jmI34Yxx.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4564997.mp4"
+        },
+        {
+          "nome": "Megatubarão (2018)",
+          "descricao": "Megatubarão (2018)",
+          "capa": "https://image.tmdb.org/t/p/w780/wrJkShDPK4TcV0nHix3HASEmkul.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565730.mp4"
+        },
+        {
+          "nome": "Megatubarão 2 (2023)",
+          "descricao": "Megatubarão 2 (2023)",
+          "capa": "https://image.tmdb.org/t/p/w780/x3uhIodq56mlGBwpDTZ52trGb35.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565030.mp4"
+        },
+        {
+          "nome": "Meia-Noite no Switchgrass (2021)",
+          "descricao": "Meia-Noite no Switchgrass (2021)",
+          "capa": "https://image.tmdb.org/t/p/w780/yMqiQycjmTVG8ocoQvJkFmHvFnD.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565480.mp4"
+        },
+        {
+          "nome": "Melhores A(m)igos: Volume 2",
+          "descricao": "Melhores A(m)igos: Volume 2",
+          "capa": "http://ocvtab.info/images/e9Yg21i4ffQ9mASsOZCXFIrlhL1_big.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4566083.mp4"
+        },
+        {
+          "nome": "Mente Criminosa (2016)",
+          "descricao": "Mente Criminosa (2016)",
+          "capa": "https://image.tmdb.org/t/p/w780/60QTTSHQubpl4C78N6UWmb4TgQP.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4566318.mp4"
+        },
+        {
+          "nome": "Mentes Sombrias (2018)",
+          "descricao": "Mentes Sombrias (2018)",
+          "capa": "https://image.tmdb.org/t/p/w780/19d4P4FAab0z9gUaHAJHqptUPDc.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4564702.mp4"
+        },
+        {
+          "nome": "Mercador de Guerra",
+          "descricao": "Mercador de Guerra",
+          "capa": "https://image.tmdb.org/t/p/w780/yqnTGtcYzYVcCeJUJeAtthgdEq.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4564215.mp4"
+        },
+        {
+          "nome": "Mercadores da Morte (1987)",
+          "descricao": "Mercadores da Morte (1987)",
+          "capa": "https://image.tmdb.org/t/p/w780/hm6wUVyFm1iRlvkQXBugDPItUec.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4564381.mp4"
+        },
+        {
+          "nome": "Mercy: Golpe de Misericórdia (2023)",
+          "descricao": "Mercy: Golpe de Misericórdia (2023)",
+          "capa": "https://image.tmdb.org/t/p/w780/dXqeLm3Eq0HYKLfp9AeVdtd3eId.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4564987.mp4"
+        },
+        {
+          "nome": "Mergulho Radical (2005)",
+          "descricao": "Mergulho Radical (2005)",
+          "capa": "https://image.tmdb.org/t/p/w780/5bL4VNWRaodLaGKUeUKJhX7qVmc.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4566317.mp4"
+        },
+        {
+          "nome": "Mestre Bhagat Singh (2026)",
+          "descricao": "Mestre Bhagat Singh (2026)",
+          "capa": "https://image.tmdb.org/t/p/w780/uUBQZNZTUDxoSHjk5KG9BLB0Jlk.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4564040.mp4"
+        },
+        {
+          "nome": "Mestre dos Mares: O Lado Mais Distante do Mundo (2003)",
+          "descricao": "Mestre dos Mares: O Lado Mais Distante do Mundo (2003)",
+          "capa": "https://image.tmdb.org/t/p/w780/lhgSUevLdvfzeRGa5dm4LAwAoyw.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4564045.mp4"
+        },
+        {
+          "nome": "Mestre Z: O Legado de Ip Man (2018)",
+          "descricao": "Mestre Z: O Legado de Ip Man (2018)",
+          "capa": "https://image.tmdb.org/t/p/w780/9p96GZXBm2FHeEjApGSDnKZSldN.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4564273.mp4"
+        },
+        {
+          "nome": "Mestres do Assalto (2025)",
+          "descricao": "Mestres do Assalto (2025)",
+          "capa": "https://image.tmdb.org/t/p/w780/9AzMgk6HVqwqTmAbzAuD8fVmnOd.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4564696.mp4"
+        },
+        {
+          "nome": "Mestres do Universo (2026)",
+          "descricao": "Mestres do Universo (2026)",
+          "capa": "https://image.tmdb.org/t/p/w780/atpb7NKSyM4bJSUY8vQTunzK4Na.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4564401.mp4"
+        },
+        {
+          "nome": "Meteoro: A Fuga (2021)",
+          "descricao": "Meteoro: A Fuga (2021)",
+          "capa": "https://image.tmdb.org/t/p/w780/rwzvwEELD5uWJdJBmbS7h7xc0Wz.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565332.mp4"
+        },
+        {
+          "nome": "Meu Amigo Dino: Retorno ao Mundo Perdido (2024)",
+          "descricao": "Meu Amigo Dino: Retorno ao Mundo Perdido (2024)",
+          "capa": "https://image.tmdb.org/t/p/w780/3Uo2baDjwhkCW265GGrlMOW29y8.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4564053.mp4"
+        },
+        {
+          "nome": "Meu Ex é um Espião (2018)",
+          "descricao": "Meu Ex é um Espião (2018)",
+          "capa": "https://image.tmdb.org/t/p/w780/fp8eQQk9T5GLbK00fFjaBjzviyh.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4566316.mp4"
+        },
+        {
+          "nome": "Meu Nome é Coogan (1968)",
+          "descricao": "Meu Nome é Coogan (1968)",
+          "capa": "https://image.tmdb.org/t/p/w780/cBKhAlp6gdL8oKrT7CeTbH6zOnA.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4564501.mp4"
+        },
+        {
+          "nome": "Meu Nome é Vingança (2022)",
+          "descricao": "Meu Nome é Vingança (2022)",
+          "capa": "https://image.tmdb.org/t/p/w780/tlZGDi8anF7Fcs5HGVaTEMnv1hp.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565125.mp4"
+        },
+        {
+          "nome": "Meu Querido Assassino (2026)",
+          "descricao": "Meu Querido Assassino (2026)",
+          "capa": "https://image.tmdb.org/t/p/w780/9ZfPvLEx1xcuTkfAtrVyIbA5Vaw.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4564300.mp4"
+        },
+        {
+          "nome": "Mexicali: Terra sem Lei (2026)",
+          "descricao": "Mexicali: Terra sem Lei (2026)",
+          "capa": "https://image.tmdb.org/t/p/w780/9lljJwaDdsTXvrs2umGSONO0k4q.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4564328.mp4"
+        },
+        {
+          "nome": "Miami Vice (2006)",
+          "descricao": "Miami Vice (2006)",
+          "capa": "https://image.tmdb.org/t/p/w780/iJPSls4taB09EUKtLj6FjFSprb3.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565056.mp4"
+        },
+        {
+          "nome": "MIB - Homens de Preto (1997)",
+          "descricao": "MIB - Homens de Preto (1997)",
+          "capa": "https://image.tmdb.org/t/p/w780/bUA0TD2COayMP6ur9Qbewdbbm2e.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4564432.mp4"
+        },
+        {
+          "nome": "MIB - Homens de Preto II (2002)",
+          "descricao": "MIB - Homens de Preto II (2002)",
+          "capa": "https://image.tmdb.org/t/p/w780/1zoknLsDO3M3aYLzfs3wIvXDTfC.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4566192.mp4"
+        },
+        {
+          "nome": "MIB - Homens de Preto III (2012)",
+          "descricao": "MIB - Homens de Preto III (2012)",
+          "capa": "https://image.tmdb.org/t/p/w780/4tHxYSppbpdZMjEsL3a71Y47vNx.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4566190.mp4"
+        },
+        {
+          "nome": "MIB Homens de Preto: Internacional (2019)",
+          "descricao": "MIB Homens de Preto: Internacional (2019)",
+          "capa": "https://image.tmdb.org/t/p/w780/mxopI5VyShCeAlJf3X4Q1T40Bub.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4566101.mp4"
+        },
+        {
+          "nome": "Midway: Batalha em Alto Mar (2019)",
+          "descricao": "Midway: Batalha em Alto Mar (2019)",
+          "capa": "https://image.tmdb.org/t/p/w780/f2x8lIh0olfwqe5Jbwsw4Ojc5ie.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4566057.mp4"
+        },
+        {
+          "nome": "Mikaela (2025)",
+          "descricao": "Mikaela (2025)",
+          "capa": "https://image.tmdb.org/t/p/w780/u6wH4qL0Hi611QoChzFXm7KoHYY.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4564317.mp4"
+        },
+        {
+          "nome": "Mike & Nick & Nick & Alice (2026)",
+          "descricao": "Mike & Nick & Nick & Alice (2026)",
+          "capa": "https://image.tmdb.org/t/p/w780/7F0jc75HrSkLVcvOXR2FXAIwuEv.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4564359.mp4"
+        },
+        {
+          "nome": "Millennium: A Garota na Teia de Aranha (2018)",
+          "descricao": "Millennium: A Garota na Teia de Aranha (2018)",
+          "capa": "https://image.tmdb.org/t/p/w780/gdOGc31t1DGEkiqPULVuFvTiXZn.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4566185.mp4"
+        },
+        {
+          "nome": "Minions & Monstros (2026)",
+          "descricao": "Minions & Monstros (2026)",
+          "capa": "https://image.tmdb.org/t/p/w780/hTowtXrkCY7FJyoj4p91JckrJSE.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4564068.mp4"
+        },
+        {
+          "nome": "Minority Report: A Nova Lei (2002)",
+          "descricao": "Minority Report: A Nova Lei (2002)",
+          "capa": "https://image.tmdb.org/t/p/w780/bNOdmraLsJ5DItu1eNLJMyw7a6v.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565736.mp4"
+        },
+        {
+          "nome": "Miss Bala (2019)",
+          "descricao": "Miss Bala (2019)",
+          "capa": "https://image.tmdb.org/t/p/w780/ae9yrSAS7nLZPbbkOm61pSuIqeo.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4566165.mp4"
+        },
+        {
+          "nome": "Missão Clandestina (2022)",
+          "descricao": "Missão Clandestina (2022)",
+          "capa": "https://image.tmdb.org/t/p/w780/4SD3g1emJlCGpAJ6yaVQHAh37To.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565027.mp4"
+        },
+        {
+          "nome": "Missão Condor (2023)",
+          "descricao": "Missão Condor (2023)",
+          "capa": "https://image.tmdb.org/t/p/w780/dX4zUmTl86s1ao92aKJG1pbrjhO.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4564973.mp4"
+        },
+        {
+          "nome": "Missão Cruzada (2024)",
+          "descricao": "Missão Cruzada (2024)",
+          "capa": "https://image.tmdb.org/t/p/w780/aJee3ZpITDSS1EB0HfLM5SSHWr7.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4564851.mp4"
+        },
+        {
+          "nome": "Missão de Sobrevivência (2023)",
+          "descricao": "Missão de Sobrevivência (2023)",
+          "capa": "https://image.tmdb.org/t/p/w780/xsmNNU5UbnurOnCOdUHbpv2XyFI.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565021.mp4"
+        },
+        {
+          "nome": "Missão Extraordinária (2017)",
+          "descricao": "Missão Extraordinária (2017)",
+          "capa": "https://image.tmdb.org/t/p/w780/1rNCdSGUIB4UV8B653KsvN0U4ux.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4566106.mp4"
+        },
+        {
+          "nome": "Missão Extrema (2021)",
+          "descricao": "Missão Extrema (2021)",
+          "capa": "https://image.tmdb.org/t/p/w780/nTvoq0oIlIQwid6US86u1zOGkcZ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4564741.mp4"
+        },
+        {
+          "nome": "Missão Final (2018)",
+          "descricao": "Missão Final (2018)",
+          "capa": "https://image.tmdb.org/t/p/w780/gxrpqPNp0kIelMYCVOdVAWPUfGD.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4566090.mp4"
+        },
+        {
+          "nome": "Missão Pijamas (2020)",
+          "descricao": "Missão Pijamas (2020)",
+          "capa": "https://image.tmdb.org/t/p/w780/nkhsvQvrKgYRmZS6PVbPRAiISlF.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565972.mp4"
+        },
+        {
+          "nome": "Missão Quase Impossível (2010)",
+          "descricao": "Missão Quase Impossível (2010)",
+          "capa": "https://image.tmdb.org/t/p/w780/ccoL6SB1efI9epaLrqxwHVZ8uKN.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565751.mp4"
+        },
+        {
+          "nome": "Missão Refúgio (2026)",
+          "descricao": "Missão Refúgio (2026)",
+          "capa": "https://image.tmdb.org/t/p/w780/hSvhZRkbYD9crC4nqy8uCk9EdFH.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4564319.mp4"
+        },
+        {
+          "nome": "Missão Resgate (2021)",
+          "descricao": "Missão Resgate (2021)",
+          "capa": "https://image.tmdb.org/t/p/w780/5JRkb2C0kvtlSySZZd73Cle43gU.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565272.mp4"
+        },
+        {
+          "nome": "Missão Resgate: Vingança (2025)",
+          "descricao": "Missão Resgate: Vingança (2025)",
+          "capa": "https://image.tmdb.org/t/p/w780/ubTSiHBDqxokwAFTgmReY79XCw1.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4564561.mp4"
+        },
+        {
+          "nome": "Missão Suicida (2024)",
+          "descricao": "Missão Suicida (2024)",
+          "capa": "https://image.tmdb.org/t/p/w780/w05T2c3jLhLCHa0lFMuxH4kDwua.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4564854.mp4"
+        },
+        {
+          "nome": "Missão: Impossível - Acerto de Contas Parte 1 (2023)",
+          "descricao": "Missão: Impossível - Acerto de Contas Parte 1 (2023)",
+          "capa": "https://image.tmdb.org/t/p/w780/hBKxN5Z8gRo2am0whMeQlPv19K4.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565009.mp4"
+        },
+        {
+          "nome": "Missão: Impossível - Efeito Fallout (2018)",
+          "descricao": "Missão: Impossível - Efeito Fallout (2018)",
+          "capa": "https://image.tmdb.org/t/p/w780/i273qQubszItr11lQNMFWnYP4J1.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565559.mp4"
+        },
+        {
+          "nome": "Missão: Impossível - Nação Secreta (2015)",
+          "descricao": "Missão: Impossível - Nação Secreta (2015)",
+          "capa": "https://image.tmdb.org/t/p/w780/3TlPBSjixffI0eu0xElK9cM8krO.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565560.mp4"
+        },
+        {
+          "nome": "Missão: Impossível - O Acerto Final (2025)",
+          "descricao": "Missão: Impossível - O Acerto Final (2025)",
+          "capa": "https://image.tmdb.org/t/p/w780/yKQjrwgEkPOGel3JKT2neJzu0jh.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4564584.mp4"
+        },
+        {
+          "nome": "Missão: Impossível - Protocolo Fantasma (2011)",
+          "descricao": "Missão: Impossível - Protocolo Fantasma (2011)",
+          "capa": "https://image.tmdb.org/t/p/w780/h264Wik2YY6mRoDMIVuGdbc7XYK.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565561.mp4"
+        },
+        {
+          "nome": "Missão: Impossível (1996)",
+          "descricao": "Missão: Impossível (1996)",
+          "capa": "https://image.tmdb.org/t/p/w780/umMK2yDMbBeIAOR480WqnShmF1L.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565564.mp4"
+        },
+        {
+          "nome": "Missão: Impossível 2 (2000)",
+          "descricao": "Missão: Impossível 2 (2000)",
+          "capa": "https://image.tmdb.org/t/p/w780/9KmHXpKouPeW5BTWZZU7Vjqtj57.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565563.mp4"
+        },
+        {
+          "nome": "Missão: Impossível 3 (2006)",
+          "descricao": "Missão: Impossível 3 (2006)",
+          "capa": "https://image.tmdb.org/t/p/w780/wWrmbQ7pFmazFI2ZQt6IgUPsZTQ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565562.mp4"
+        },
+        {
+          "nome": "Mistério na TV: Um Assassinato em Questão",
+          "descricao": "Mistério na TV: Um Assassinato em Questão",
+          "capa": "http://ocvtab.info/images/2b95ce2a1f38bc03f41ad2a079a2f46a.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565302.mp4"
+        },
+        {
+          "nome": "Miyamoto Musashi e os 400 Samurais (2020)",
+          "descricao": "Miyamoto Musashi e os 400 Samurais (2020)",
+          "capa": "https://image.tmdb.org/t/p/w780/6K0LhZglkxZ1SwKXKNyOjTAzuMx.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4564976.mp4"
+        },
+        {
+          "nome": "Mod Squad - O Filme (1999)",
+          "descricao": "Mod Squad - O Filme (1999)",
+          "capa": "https://image.tmdb.org/t/p/w780/7c20VEblNKkDiBuA6bE6kbeHqHa.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565344.mp4"
+        },
+        {
+          "nome": "Momento Crítico (1996)",
+          "descricao": "Momento Crítico (1996)",
+          "capa": "https://image.tmdb.org/t/p/w780/hPdzpgdo3qDw89f6G434642qCc2.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4566315.mp4"
+        },
+        {
+          "nome": "Monster Trucks (2016)",
+          "descricao": "Monster Trucks (2016)",
+          "capa": "https://image.tmdb.org/t/p/w780/pS145Bihh37DBLUKboP6YNKwmZ9.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4566117.mp4"
+        },
+        {
+          "nome": "Monstro",
+          "descricao": "Monstro",
+          "capa": "https://image.tmdb.org/t/p/w780/wZYRDxAWMI5ZoWjYuwFF5jF8UlU.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565592.mp4"
+        },
+        {
+          "nome": "Moonfall: Ameaça Lunar (2022)",
+          "descricao": "Moonfall: Ameaça Lunar (2022)",
+          "capa": "https://image.tmdb.org/t/p/w780/ACl5NQBHeEvypdVlaaE868bwFs.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565242.mp4"
+        },
+        {
+          "nome": "Morbius (2022)",
+          "descricao": "Morbius (2022)",
+          "capa": "https://image.tmdb.org/t/p/w780/Av8Z2jZhEm1FLkFzMThzz9hndJF.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565223.mp4"
+        },
+        {
+          "nome": "Morrer Mil Vezes (1986)",
+          "descricao": "Morrer Mil Vezes (1986)",
+          "capa": "https://image.tmdb.org/t/p/w780/vP0o1omxHall82vAE8OfCIKGM5c.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565428.mp4"
+        },
+        {
+          "nome": "Mortal (2020)",
+          "descricao": "Mortal (2020)",
+          "capa": "https://image.tmdb.org/t/p/w780/aVbqhqYtlxwEGihTEhewZAgDOCX.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565735.mp4"
+        },
+        {
+          "nome": "Mortal Kombat (2021)",
+          "descricao": "Mortal Kombat (2021)",
+          "capa": "https://image.tmdb.org/t/p/w780/w8BVC3qrCWCiTHRz4Rft12dtQF0.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4566314.mp4"
+        },
+        {
+          "nome": "Mortal Kombat 2 (2026)",
+          "descricao": "Mortal Kombat 2 (2026)",
+          "capa": "https://image.tmdb.org/t/p/w780/iILiJSRViTEcF23MHhGCbVm3mfW.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4564237.mp4"
+        },
+        {
+          "nome": "Mortal Kombat Legends: A Batalha dos Reinos (2021)",
+          "descricao": "Mortal Kombat Legends: A Batalha dos Reinos (2021)",
+          "capa": "https://image.tmdb.org/t/p/w780/nILcbiddghZiSvNL6KWttqS7DzW.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565443.mp4"
+        },
+        {
+          "nome": "Mortal Kombat: A Aniquilação (1997)",
+          "descricao": "Mortal Kombat: A Aniquilação (1997)",
+          "capa": "https://image.tmdb.org/t/p/w780/rfrpLH39VskMfi9k0JXD36e0jJ5.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4564589.mp4"
+        },
+        {
+          "nome": "Morte às Seis da Tarde (2018)",
+          "descricao": "Morte às Seis da Tarde (2018)",
+          "capa": "https://image.tmdb.org/t/p/w780/v3VDEpSWjVv3Z02BKgpKSOmvQ9r.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4566015.mp4"
+        },
+        {
+          "nome": "Morte no Lago (2013)",
+          "descricao": "Morte no Lago (2013)",
+          "capa": "https://image.tmdb.org/t/p/w780/dpu0RDT7mvSknpWzUfO7FDWZuli.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4564535.mp4"
+        },
+        {
+          "nome": "Morte Nova (2018)",
+          "descricao": "Morte Nova (2018)",
+          "capa": "https://image.tmdb.org/t/p/w780/rJBtPRoHb5d7irfipr1hDGNbimJ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4566067.mp4"
+        },
+        {
+          "nome": "Morte Súbita (1995)",
+          "descricao": "Morte Súbita (1995)",
+          "capa": "https://image.tmdb.org/t/p/w780/vBu3ggozN5xJjUzrkYgAVoI7LLI.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4564999.mp4"
+        },
+        {
+          "nome": "Morte Súbita [L]",
+          "descricao": "Morte Súbita [L]",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ip7nVBDhT9J9blktI3WGWMWCWco.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4564333.mp4"
+        },
+        {
+          "nome": "Moscou Contra 007 (1963)",
+          "descricao": "Moscou Contra 007 (1963)",
+          "capa": "https://image.tmdb.org/t/p/w780/7w8GOJxGfu8tmFoeoX2RsSg6JZM.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565826.mp4"
+        },
+        {
+          "nome": "Moscow - Onde o Inesperado Sempre Acontece (2021)",
+          "descricao": "Moscow - Onde o Inesperado Sempre Acontece (2021)",
+          "capa": "https://image.tmdb.org/t/p/w780/rpx5ovQiayGfAi9DmrjMLbzdapi.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565355.mp4"
+        },
+        {
+          "nome": "Motoqueiros Selvagens (2007)",
+          "descricao": "Motoqueiros Selvagens (2007)",
+          "capa": "https://image.tmdb.org/t/p/w780/c4u9GAAQt573pOtIWUqn1ttwADF.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4566313.mp4"
+        },
+        {
+          "nome": "Mr. Nice Guy: Bom de Briga",
+          "descricao": "Mr. Nice Guy: Bom de Briga",
+          "capa": "https://image.tmdb.org/t/p/w780/tCbEEVZPsQuSfiWTW96BNqPUM85.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4564952.mp4"
+        },
+        {
+          "nome": "Mudança no Jogo (2017)",
+          "descricao": "Mudança no Jogo (2017)",
+          "capa": "https://image.tmdb.org/t/p/w780/gnKvZTFp2JuYjL48UHAWQ68lTyu.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565766.mp4"
+        },
+        {
+          "nome": "Mulher Maravilha (1974)",
+          "descricao": "Mulher Maravilha (1974)",
+          "capa": "https://image.tmdb.org/t/p/w780/ujQthWB6c0ojlARk28NSTmqidbF.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4566311.mp4"
+        },
+        {
+          "nome": "Mulher-Gato (2004)",
+          "descricao": "Mulher-Gato (2004)",
+          "capa": "https://image.tmdb.org/t/p/w780/cGxf5GByZDoYr3et2mTMCwOrjvb.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4566312.mp4"
+        },
+        {
+          "nome": "Mundo Sombrio: Equilibrium (2013)",
+          "descricao": "Mundo Sombrio: Equilibrium (2013)",
+          "capa": "https://image.tmdb.org/t/p/w780/kYLaT0MoljCcFFj1lWFpaHQ3fCI.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4564338.mp4"
+        },
+        {
+          "nome": "Na Escuridão do Oceano",
+          "descricao": "Na Escuridão do Oceano",
+          "capa": "https://image.tmdb.org/t/p/w780/p7aDl4TqjlxI6hdWA17DKmzv3It.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4566432.mp4"
+        },
+        {
+          "nome": "Na Linha de Fogo",
+          "descricao": "Na Linha de Fogo",
+          "capa": "https://image.tmdb.org/t/p/w780/i2yZp1YJOkhyHcUW8JX5b0CZcre.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565556.mp4"
+        },
+        {
+          "nome": "Na Mira (2022)",
+          "descricao": "Na Mira (2022)",
+          "capa": "https://image.tmdb.org/t/p/w780/sbiE2zV3RipiEaWX6mUEYMEvK01.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565045.mp4"
+        },
+        {
+          "nome": "Na Mira do Inimigo (2022)",
+          "descricao": "Na Mira do Inimigo (2022)",
+          "capa": "https://image.tmdb.org/t/p/w780/bRkMV6kSG4Be7ZFn9ClmJ6r6XB1.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4564856.mp4"
+        },
+        {
+          "nome": "Na Mira do Perigo (2021)",
+          "descricao": "Na Mira do Perigo (2021)",
+          "capa": "https://image.tmdb.org/t/p/w780/vW2My12kmNQ6P4877alchnQHTp8.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4564141.mp4"
+        },
+        {
+          "nome": "Na Mira dos Assassinos (2012)",
+          "descricao": "Na Mira dos Assassinos (2012)",
+          "capa": "https://image.tmdb.org/t/p/w780/gyz4sBxx4V6Ja0s8WJ1fSLIdQFx.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4566105.mp4"
+        },
+        {
+          "nome": "Na Mira dos Mercenários (2023)",
+          "descricao": "Na Mira dos Mercenários (2023)",
+          "capa": "https://image.tmdb.org/t/p/w780/1Pak3gqLpv4JjadaEqnn37Q2XdL.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4564430.mp4"
+        },
+        {
+          "nome": "Na Natureza Selvagem (2007)",
+          "descricao": "Na Natureza Selvagem (2007)",
+          "capa": "https://image.tmdb.org/t/p/w780/lik7qbo2k5uslDFssFFMG88oTWW.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4564493.mp4"
+        },
+        {
+          "nome": "Na Ponta da Bala (2019)",
+          "descricao": "Na Ponta da Bala (2019)",
+          "capa": "https://image.tmdb.org/t/p/w780/tPL0QsYAa00BzeNkJz2TGwElEug.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4566005.mp4"
+        },
+        {
+          "nome": "Na Teia da Conspiração (2019)",
+          "descricao": "Na Teia da Conspiração (2019)",
+          "capa": "https://image.tmdb.org/t/p/w780/pjuhUetFtUh8xUgHED4hKGUBHz6.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4566095.mp4"
+        },
+        {
+          "nome": "Na Terra de Santos e Pecadores (2023)",
+          "descricao": "Na Terra de Santos e Pecadores (2023)",
+          "capa": "https://image.tmdb.org/t/p/w780/eHEDQZcA5bl9EGk9lY0KymCZdkt.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4564895.mp4"
+        },
+        {
+          "nome": "Na Toca do Tigre (2015)",
+          "descricao": "Na Toca do Tigre (2015)",
+          "capa": "https://image.tmdb.org/t/p/w780/heqehuEfbg2283Z9hFmsVuv3UE3.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4564632.mp4"
+        },
+        {
+          "nome": "Na Zona Cinzenta (2026)",
+          "descricao": "Na Zona Cinzenta (2026)",
+          "capa": "https://image.tmdb.org/t/p/w780/h1eUeDH35Tdvsfu7Ouefa7CPwLa.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4564168.mp4"
+        },
+        {
+          "nome": "Nadando pelo Ouro (2020)",
+          "descricao": "Nadando pelo Ouro (2020)",
+          "capa": "https://image.tmdb.org/t/p/w780/yJ8SCGtFRjHxfTesnKOyulXb68a.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565548.mp4"
+        },
+        {
+          "nome": "Nancy Drew e o Mistério de Hollywood (2007)",
+          "descricao": "Nancy Drew e o Mistério de Hollywood (2007)",
+          "capa": "https://image.tmdb.org/t/p/w780/shYrJwp5hWHQjzmIX2U47H9nt8K.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565395.mp4"
+        },
+        {
+          "nome": "Naquele Fim de Semana (2022)",
+          "descricao": "Naquele Fim de Semana (2022)",
+          "capa": "https://image.tmdb.org/t/p/w780/zneFMc4Kts6dFPqBiEnXpQvAVah.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565266.mp4"
+        },
+        {
+          "nome": "Nas Terras Perdidas (2025)",
+          "descricao": "Nas Terras Perdidas (2025)",
+          "capa": "https://image.tmdb.org/t/p/w780/c3gA6bnnsXG2JoHBBkXsD6w6emm.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4564646.mp4"
+        },
+        {
+          "nome": "Nascido Para Correr 2: Velocidade Máxima (2014)",
+          "descricao": "Nascido Para Correr 2: Velocidade Máxima (2014)",
+          "capa": "https://image.tmdb.org/t/p/w780/pCW1YWSh1E8UQadLScR1DIukn39.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565041.mp4"
+        },
+        {
+          "nome": "Nascido para Vencer (2021)",
+          "descricao": "Nascido para Vencer (2021)",
+          "capa": "https://image.tmdb.org/t/p/w780/4i3j5sX9RDj9AywcAEk7SHQPkuO.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565602.mp4"
+        },
+        {
+          "nome": "Ned Kelly (2003)",
+          "descricao": "Ned Kelly (2003)",
+          "capa": "https://image.tmdb.org/t/p/w780/vdSCSBsj9bJeCS8EfBc9XTuRpiW.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4564058.mp4"
+        },
+        {
+          "nome": "Need for Speed: O Filme (2014)",
+          "descricao": "Need for Speed: O Filme (2014)",
+          "capa": "https://image.tmdb.org/t/p/w780/tMRqzpQr9v0ji7IWMKboKy1UJfu.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565650.mp4"
+        },
+        {
+          "nome": "Negócios de Família (1989)",
+          "descricao": "Negócios de Família (1989)",
+          "capa": "https://image.tmdb.org/t/p/w780/qz8GzXety1Zwc82ycfegHtzS0Ui.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565535.mp4"
+        },
+        {
+          "nome": "Nem um Passo em Falso (2021)",
+          "descricao": "Nem um Passo em Falso (2021)",
+          "capa": "https://image.tmdb.org/t/p/w780/s3gOA4HILFPzjbRuj7HOC55qKDI.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565522.mp4"
+        },
+        {
+          "nome": "Next Gen (2018)",
+          "descricao": "Next Gen (2018)",
+          "capa": "https://image.tmdb.org/t/p/w780/hUDDo5MPWM6rc6COQYhaoRNqvhE.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4566310.mp4"
+        },
+        {
+          "nome": "Nezha: Correndo pela Vida (2021)",
+          "descricao": "Nezha: Correndo pela Vida (2021)",
+          "capa": "https://image.tmdb.org/t/p/w780/pSOiBDfZWeQ7hFLwZQS0tzcrX2z.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565081.mp4"
+        },
+        {
+          "nome": "Nikita: Criada para Matar (1990)",
+          "descricao": "Nikita: Criada para Matar (1990)",
+          "capa": "https://image.tmdb.org/t/p/w780/rauzM2iqmWnKupzwoN12LxlA5Sp.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4564824.mp4"
+        },
+        {
+          "nome": "Ninja (2009)",
+          "descricao": "Ninja (2009)",
+          "capa": "https://image.tmdb.org/t/p/w780/tKjH1IQVeUmHOlxZinQdjFHkFVG.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565068.mp4"
+        },
+        {
+          "nome": "Ninja 2: A Vingança (2013)",
+          "descricao": "Ninja 2: A Vingança (2013)",
+          "capa": "https://image.tmdb.org/t/p/w780/bdPk58U7rNYzXfvvvm3buVhMRIx.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4564424.mp4"
+        },
+        {
+          "nome": "Ninja 3: A Dominação (1984)",
+          "descricao": "Ninja 3: A Dominação (1984)",
+          "capa": "https://image.tmdb.org/t/p/w780/scAdRGhBGrHYdDwC8cjsSsul18e.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4564523.mp4"
+        },
+        {
+          "nome": "Ninja Assassino (2009)",
+          "descricao": "Ninja Assassino (2009)",
+          "capa": "https://image.tmdb.org/t/p/w780/h9brQOUyWROaa10HfG7wG2dDSB7.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565392.mp4"
+        },
+        {
+          "nome": "No Coração do Perigo (1984)",
+          "descricao": "No Coração do Perigo (1984)",
+          "capa": "https://image.tmdb.org/t/p/w780/cdPGmQdr8hr41K2LKFUzEGBHzbQ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565984.mp4"
+        },
+        {
+          "nome": "No Limite (2017)",
+          "descricao": "No Limite (2017)",
+          "capa": "https://image.tmdb.org/t/p/w780/usYgDPofNJ9E1QiEfdKhyBXLRLM.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4564775.mp4"
+        },
+        {
+          "nome": "No Limite do Amanhã (2014)",
+          "descricao": "No Limite do Amanhã (2014)",
+          "capa": "https://image.tmdb.org/t/p/w780/ibubeKZuo4ZI2Zu2Dm2s0gmMvuk.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4564932.mp4"
+        },
+        {
+          "nome": "No Lugar Errado (2022)",
+          "descricao": "No Lugar Errado (2022)",
+          "capa": "https://image.tmdb.org/t/p/w780/cFlGsQVzmzBei9D95RtSLCyZS6D.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565137.mp4"
+        },
+        {
+          "nome": "No matarás (1975)",
+          "descricao": "No matarás (1975)",
+          "capa": "https://image.tmdb.org/t/p/w780/qiyWq7dcMcXq42ODc89MPx7yGOH.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565622.mp4"
+        },
+        {
+          "nome": "No Olho do Furacão (2003)",
+          "descricao": "No Olho do Furacão (2003)",
+          "capa": "https://image.tmdb.org/t/p/w780/wKugroGel7UUnM83Kcrn2afPTYB.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4566308.mp4"
+        },
+        {
+          "nome": "No Olho do Tornado (2014)",
+          "descricao": "No Olho do Tornado (2014)",
+          "capa": "https://image.tmdb.org/t/p/w780/zVjgGNRnm0vZJPXUP3lg3X879GW.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4566309.mp4"
+        },
+        {
+          "nome": "No Rastro do Perigo (2025)",
+          "descricao": "No Rastro do Perigo (2025)",
+          "capa": "https://image.tmdb.org/t/p/w780/y08wfeMlfXr1VkKwl3CvyXWB5C3.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4564299.mp4"
+        },
+        {
+          "nome": "No Rastro do Tráfico (2019)",
+          "descricao": "No Rastro do Tráfico (2019)",
+          "capa": "https://image.tmdb.org/t/p/w780/dB5vP9rfJqhM8lGreEABbqIKTMD.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565180.mp4"
+        },
+        {
+          "nome": "Nocaute (2015)",
+          "descricao": "Nocaute (2015)",
+          "capa": "https://image.tmdb.org/t/p/w780/ukZDWdH61QfkjIkroONXFUPm005.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4566307.mp4"
+        },
+        {
+          "nome": "Noite Infeliz (2022)",
+          "descricao": "Noite Infeliz (2022)",
+          "capa": "https://image.tmdb.org/t/p/w780/ooWaKY6CgJVamHg1hnnNf4pl2xR.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565088.mp4"
+        },
+        {
+          "nome": "Noite no Paraíso (2020)",
+          "descricao": "Noite no Paraíso (2020)",
+          "capa": "https://image.tmdb.org/t/p/w780/hIv5gxbSnNt9VfXy58APhUukp6E.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565644.mp4"
+        },
+        {
+          "nome": "Noite Sangrenta (2010)",
+          "descricao": "Noite Sangrenta (2010)",
+          "capa": "https://image.tmdb.org/t/p/w780/kgND5yAax4aT4UXEXrEsZavlHDx.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565019.mp4"
+        },
+        {
+          "nome": "Noite Sem Fim (2015)",
+          "descricao": "Noite Sem Fim (2015)",
+          "capa": "https://image.tmdb.org/t/p/w780/r6syWDxxJjeN1DToLPIhdBZ444n.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565916.mp4"
+        },
+        {
+          "nome": "Nos Calcanhares da Máfia (1984)",
+          "descricao": "Nos Calcanhares da Máfia (1984)",
+          "capa": "https://image.tmdb.org/t/p/w780/acHWKICofdm9zeo6B1QS8YPB6vG.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4564721.mp4"
+        },
+        {
+          "nome": "Novocaine: À Prova de Dor (2025)",
+          "descricao": "Novocaine: À Prova de Dor (2025)",
+          "capa": "https://image.tmdb.org/t/p/w780/knIEw2jWOxrb6ugNPEoaiYI6p77.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4564687.mp4"
+        },
+        {
+          "nome": "Nunca Mais (2002)",
+          "descricao": "Nunca Mais (2002)",
+          "capa": "https://image.tmdb.org/t/p/w780/ipHkQew8Y9Unv2vrNYhqMStxaQH.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565132.mp4"
+        },
+        {
+          "nome": "Nunca Morra Sozinho (2004)",
+          "descricao": "Nunca Morra Sozinho (2004)",
+          "capa": "https://image.tmdb.org/t/p/w780/oSWAVKMj9KDCowQpK5cYIR17T7Q.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4564727.mp4"
+        },
+        {
+          "nome": "O 13 Guerreiro",
+          "descricao": "O 13 Guerreiro",
+          "capa": "https://image.tmdb.org/t/p/w780/pkfJhVfaWFZSHJP4ApGE69YReEy.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565188.mp4"
+        },
+        {
+          "nome": "O Agente Faixa-Preta (2024)",
+          "descricao": "O Agente Faixa-Preta (2024)",
+          "capa": "https://image.tmdb.org/t/p/w780/Amy9rY0rR5y6fHNYlLVXVmFEGUi.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4564822.mp4"
+        },
+        {
+          "nome": "O Alvo (1993)",
+          "descricao": "O Alvo (1993)",
+          "capa": "https://image.tmdb.org/t/p/w780/eHASAVtGAblqJ5yk3jgccDLjYwa.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565685.mp4"
+        },
+        {
+          "nome": "O Alvo 2 (2016)",
+          "descricao": "O Alvo 2 (2016)",
+          "capa": "https://image.tmdb.org/t/p/w780/38T48y6nxaPJmqYRoQDCakes2qN.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565684.mp4"
+        },
+        {
+          "nome": "O Anel do Rei: A Última Batalha (2018)",
+          "descricao": "O Anel do Rei: A Última Batalha (2018)",
+          "capa": "https://image.tmdb.org/t/p/w780/iM0Qn26un9HaGoWyxwlOIyGDIHD.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4566306.mp4"
+        },
+        {
+          "nome": "O Anjo da Árvore (2020)",
+          "descricao": "O Anjo da Árvore (2020)",
+          "capa": "https://image.tmdb.org/t/p/w780/kUcaOwo1AQUrmlHdGbGzI1zi801.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565317.mp4"
+        },
+        {
+          "nome": "O Ano do Dragão (1985)",
+          "descricao": "O Ano do Dragão (1985)",
+          "capa": "https://image.tmdb.org/t/p/w780/ktE5oyEyTLxrWGBGWePnhPtmP1B.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565338.mp4"
+        },
+        {
+          "nome": "O Assalto (2023)",
+          "descricao": "O Assalto (2023)",
+          "capa": "https://image.tmdb.org/t/p/w780/gMg4999hCLaziYLdxkpk6rpBk3P.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4564212.mp4"
+        },
+        {
+          "nome": "O Assalto Final (2024)",
+          "descricao": "O Assalto Final (2024)",
+          "capa": "https://image.tmdb.org/t/p/w780/kKOoUcnCrqon6VFR7M2mRrPRBiF.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4564465.mp4"
+        },
+        {
+          "nome": "o Assassino (2001)",
+          "descricao": "o Assassino (2001)",
+          "capa": "https://image.tmdb.org/t/p/w780/kT3YErXILSuODmoiYfNsNexHub8.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4564351.mp4"
+        },
+        {
+          "nome": "o Assassino (2007)",
+          "descricao": "o Assassino (2007)",
+          "capa": "https://image.tmdb.org/t/p/w780/uD82pHlfi7qhNh1DFCTueMeXifP.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565741.mp4"
+        },
+        {
+          "nome": "O Assassino Americano (2021)",
+          "descricao": "O Assassino Americano (2021)",
+          "capa": "https://image.tmdb.org/t/p/w780/yApYYf92j8OgCQyMQNTFbxRrTbU.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565375.mp4"
+        },
+        {
+          "nome": "O Assassino Perfeito (2022)",
+          "descricao": "O Assassino Perfeito (2022)",
+          "capa": "https://image.tmdb.org/t/p/w780/62DJXEJbCazNo1woUU6Jr7l7rgQ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565110.mp4"
+        },
+        {
+          "nome": "O Assassino: O Primeiro Alvo (2017)",
+          "descricao": "O Assassino: O Primeiro Alvo (2017)",
+          "capa": "https://image.tmdb.org/t/p/w780/nvT6niwCAMf27E7YptujhAeE1vW.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4566305.mp4"
+        },
+        {
+          "nome": "O Ataque (2013)",
+          "descricao": "O Ataque (2013)",
+          "capa": "https://image.tmdb.org/t/p/w780/kNAF5z4W5NqV8hfkX5CfgPCX2Ur.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4564699.mp4"
+        },
+        {
+          "nome": "O Ataque dos Vermes Malditos 7: Ilha dos Shriekers (2020)",
+          "descricao": "O Ataque dos Vermes Malditos 7: Ilha dos Shriekers (2020)",
+          "capa": "https://image.tmdb.org/t/p/w780/rPnnnrq6fCY4BMG57CSNIN7z7g4.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565516.mp4"
+        },
+        {
+          "nome": "O Atirador - O Extermínio Final (2017)",
+          "descricao": "O Atirador - O Extermínio Final (2017)",
+          "capa": "https://image.tmdb.org/t/p/w780/l7p6KKU4JlmPndHtAoN4s6QbPML.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4566304.mp4"
+        },
+        {
+          "nome": "O Atirador 2 (2002)",
+          "descricao": "O Atirador 2 (2002)",
+          "capa": "https://image.tmdb.org/t/p/w780/fNqnWkSexhMQIWmTdCXNN2SoBW5.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4564992.mp4"
+        },
+        {
+          "nome": "O Atirador 3 (2004)",
+          "descricao": "O Atirador 3 (2004)",
+          "capa": "https://image.tmdb.org/t/p/w780/1fUsJBT1kEALd29QW1UpsLpHkGT.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4564993.mp4"
+        },
+        {
+          "nome": "O Atirador",
+          "descricao": "O Atirador",
+          "capa": "https://image.tmdb.org/t/p/w780/gRbvXParI3ZdEtsFxlGOQNaQBUQ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4564991.mp4"
+        },
+        {
+          "nome": "O Atirador: A Última Batalha (2025)",
+          "descricao": "O Atirador: A Última Batalha (2025)",
+          "capa": "https://image.tmdb.org/t/p/w780/Lebu7t8eU84kRyFGhT5zD1fT9H.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4564717.mp4"
+        },
+        {
+          "nome": "O Atirador: Fantasma (2016)",
+          "descricao": "O Atirador: Fantasma (2016)",
+          "capa": "https://image.tmdb.org/t/p/w780/81Xcd6lpoRo7SVW8CVWB8VkzhFP.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565886.mp4"
+        },
+        {
+          "nome": "O Atirador: Legado (2014)",
+          "descricao": "O Atirador: Legado (2014)",
+          "capa": "https://image.tmdb.org/t/p/w780/Y7OVpHANbWgrmZBB86MaaF7OGr.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4564945.mp4"
+        },
+        {
+          "nome": "O Atirador: Missão Secreta (2022)",
+          "descricao": "O Atirador: Missão Secreta (2022)",
+          "capa": "https://image.tmdb.org/t/p/w780/uga2O42E9ZyDGaYvxrjML59Zzm9.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565169.mp4"
+        },
+        {
+          "nome": "O Atirador: O Fim de um Assassino (2020)",
+          "descricao": "O Atirador: O Fim de um Assassino (2020)",
+          "capa": "https://image.tmdb.org/t/p/w780/v6joFIShgkQ40Tti3DagEbdvHwp.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565637.mp4"
+        },
+        {
+          "nome": "O Atirador: Resposta Global e Equipe Tática",
+          "descricao": "O Atirador: Resposta Global e Equipe Tática",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/v7mXgXpNZYYPVBo6sqdxjIhQIsb.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565018.mp4"
+        },
+        {
+          "nome": "O Baile das Loucas (2021)",
+          "descricao": "O Baile das Loucas (2021)",
+          "capa": "https://image.tmdb.org/t/p/w780/a2PmxoTMHlqiSzqmKFef69htswW.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565418.mp4"
+        },
+        {
+          "nome": "o Bárbaro (1982)",
+          "descricao": "o Bárbaro (1982)",
+          "capa": "https://image.tmdb.org/t/p/w780/7pXoGVgYSLQpc4N3fGBcDzJHiL.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565111.mp4"
+        },
+        {
+          "nome": "O Bastardo (2023)",
+          "descricao": "O Bastardo (2023)",
+          "capa": "https://image.tmdb.org/t/p/w780/xmFigFDrjHqXov3od5E0LvnyJhP.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4564801.mp4"
+        },
+        {
+          "nome": "O Beijo do Dragão (2001)",
+          "descricao": "O Beijo do Dragão (2001)",
+          "capa": "https://image.tmdb.org/t/p/w780/hpGBqX4SG7xNJx4wqLv075KQoQl.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4566303.mp4"
+        },
+        {
+          "nome": "O Besouro Verde (2011)",
+          "descricao": "O Besouro Verde (2011)",
+          "capa": "https://image.tmdb.org/t/p/w780/9A8qgDY8LI55IsvbmG6veN1JPPn.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565055.mp4"
+        },
+        {
+          "nome": "O Bingo Macabro (2021)",
+          "descricao": "O Bingo Macabro (2021)",
+          "capa": "https://image.tmdb.org/t/p/w780/rTE4Dd4qU3Zabto5CkltlwYRSuZ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565398.mp4"
+        },
+        {
+          "nome": "O Bom Dinossauro (2015)",
+          "descricao": "O Bom Dinossauro (2015)",
+          "capa": "https://image.tmdb.org/t/p/w780/h85jXVapDFhsDvlsrmuMJkfvXSj.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4564044.mp4"
+        },
+        {
+          "nome": "O Bom Pastor (2006)",
+          "descricao": "O Bom Pastor (2006)",
+          "capa": "https://image.tmdb.org/t/p/w780/ApS1M1YQXbz6JfDlLE2W3vpvpiP.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4564658.mp4"
+        },
+        {
+          "nome": "O Caçador de Dragões (2008)",
+          "descricao": "O Caçador de Dragões (2008)",
+          "capa": "https://image.tmdb.org/t/p/w780/bjX8B0Wo3q1KeIrs3II2BZXgIFH.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4564718.mp4"
+        },
+        {
+          "nome": "O Cacador de Encrencas",
+          "descricao": "O Cacador de Encrencas",
+          "capa": "https://image.tmdb.org/t/p/w780/kiI6SZNweOy7R4l02RUwVu6hVfF.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565773.mp4"
+        },
+        {
+          "nome": "O Caçador e a Rainha do Gelo (2016)",
+          "descricao": "O Caçador e a Rainha do Gelo (2016)",
+          "capa": "https://image.tmdb.org/t/p/w780/zIkesM1c2MxRuGitGiGZ9pmis7g.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4566302.mp4"
+        },
+        {
+          "nome": "O Caminho Difícil (2019)",
+          "descricao": "O Caminho Difícil (2019)",
+          "capa": "https://image.tmdb.org/t/p/w780/ivLPgzzlTbxOMH33TfBZcEjGjB7.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4566164.mp4"
+        },
+        {
+          "nome": "O CANDIDATO (2022)",
+          "descricao": "O CANDIDATO (2022)",
+          "capa": "https://image.tmdb.org/t/p/w780/6zcDSOe1akUXsc2Q1APfchKcVaI.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565904.mp4"
+        },
+        {
+          "nome": "O Carma de Um Assassino (2018)",
+          "descricao": "O Carma de Um Assassino (2018)",
+          "capa": "https://image.tmdb.org/t/p/w780/8K5bTpTaCwSvmLo1KiSlw8Md2zP.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4566301.mp4"
+        },
+        {
+          "nome": "O Carma de um Assassino 2 (2022)",
+          "descricao": "O Carma de um Assassino 2 (2022)",
+          "capa": "https://image.tmdb.org/t/p/w780/vzvcglIL6e5tMlOxU8pwSWaOqXL.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4564786.mp4"
+        },
+        {
+          "nome": "O Cartel (2009)",
+          "descricao": "O Cartel (2009)",
+          "capa": "https://image.tmdb.org/t/p/w780/cRYduNdu9qpwoHCpbc86VKGbNiw.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565379.mp4"
+        },
+        {
+          "nome": "O Caso Collini (2019)",
+          "descricao": "O Caso Collini (2019)",
+          "capa": "https://image.tmdb.org/t/p/w780/nq75Nl93yOtBdMuqVu8D4xOST9f.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565884.mp4"
+        },
+        {
+          "nome": "O Centenário Que Saiu Pela Janela e Desapareceu (2013)",
+          "descricao": "O Centenário Que Saiu Pela Janela e Desapareceu (2013)",
+          "capa": "https://image.tmdb.org/t/p/w780/uJGumADQqsVdqrV93vSX20BUhk2.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4564114.mp4"
+        },
+        {
+          "nome": "O Chacal (1997)",
+          "descricao": "O Chacal (1997)",
+          "capa": "https://image.tmdb.org/t/p/w780/9fYDY7FQihQu7pdeSvEz0EcPKeW.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565603.mp4"
+        },
+        {
+          "nome": "O Cobrador de Dívidas (2026)",
+          "descricao": "O Cobrador de Dívidas (2026)",
+          "capa": "https://image.tmdb.org/t/p/w780/qBKdfIV8YeReAYyzebW7R14vWhe.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565965.mp4"
+        },
+        {
+          "nome": "O Cobrador de Dívidas 2 (2020)",
+          "descricao": "O Cobrador de Dívidas 2 (2020)",
+          "capa": "https://image.tmdb.org/t/p/w780/dcWNH4CLkQV5RSwKmpObmXmOklJ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565943.mp4"
+        },
+        {
+          "nome": "O Cobrador de Impostos (2020)",
+          "descricao": "O Cobrador de Impostos (2020)",
+          "capa": "https://image.tmdb.org/t/p/w780/43fdO16uhawDtpVvNXnUNhlzOEt.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565931.mp4"
+        },
+        {
+          "nome": "O Código (2012)",
+          "descricao": "O Código (2012)",
+          "capa": "https://image.tmdb.org/t/p/w780/oAW1cpxsJh4QS5nsS18VpVBeaKI.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565729.mp4"
+        },
+        {
+          "nome": "O Coletivo (2023)",
+          "descricao": "O Coletivo (2023)",
+          "capa": "https://image.tmdb.org/t/p/w780/araUzE6drxWABCMSKvnKHV11vr1.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4564974.mp4"
+        },
+        {
+          "nome": "O Comando (2022)",
+          "descricao": "O Comando (2022)",
+          "capa": "https://image.tmdb.org/t/p/w780/gZuWBZVRJFvczvLUtdh9auGV1Nb.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565226.mp4"
+        },
+        {
+          "nome": "O Começo (2020)",
+          "descricao": "O Começo (2020)",
+          "capa": "https://image.tmdb.org/t/p/w780/69OXF3xeC6jVbnlLpOl31vofJxY.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565284.mp4"
+        },
+        {
+          "nome": "O Conde de Monte Cristo (2002)",
+          "descricao": "O Conde de Monte Cristo (2002)",
+          "capa": "https://image.tmdb.org/t/p/w780/3lvcvLdDIbNgo0QAwI8NPnfkIqS.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4566300.mp4"
+        },
+        {
+          "nome": "O Confronto (2001)",
+          "descricao": "O Confronto (2001)",
+          "capa": "https://image.tmdb.org/t/p/w780/9uLNLSVqXN7IWyUjYhlpfflw6op.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565750.mp4"
+        },
+        {
+          "nome": "O Contador (2016)",
+          "descricao": "O Contador (2016)",
+          "capa": "https://image.tmdb.org/t/p/w780/vgJt4ADIjm5U2y3oPLu6kXEXOCY.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4566299.mp4"
+        },
+        {
+          "nome": "O Contra-Ataque (2021)",
+          "descricao": "O Contra-Ataque (2021)",
+          "capa": "https://image.tmdb.org/t/p/w780/3ujIQNdwWpKOqEGIrtCWUTwW8ux.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565047.mp4"
+        },
+        {
+          "nome": "O Convidado (2019)",
+          "descricao": "O Convidado (2019)",
+          "capa": "https://image.tmdb.org/t/p/w780/o1fVEScF2WRnQkxra9WqPH4Nccp.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565546.mp4"
+        },
+        {
+          "nome": "O Corruptor (1999)",
+          "descricao": "O Corruptor (1999)",
+          "capa": "https://image.tmdb.org/t/p/w780/m02qOBHBu0JEVh9oDkWBw0qIxTe.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4564537.mp4"
+        },
+        {
+          "nome": "O Crime Não Tira Férias (2023)",
+          "descricao": "O Crime Não Tira Férias (2023)",
+          "capa": "https://image.tmdb.org/t/p/w780/uRusSJ8Fu1vy9tgACbvGeo9AUQd.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4564804.mp4"
+        },
+        {
+          "nome": "O Desaparecimento (1977)",
+          "descricao": "O Desaparecimento (1977)",
+          "capa": "https://image.tmdb.org/t/p/w780/z1WrZu8hukcXYM36OKwgcz3Kq8P.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565801.mp4"
+        },
+        {
+          "nome": "O Desinformante (2008)",
+          "descricao": "O Desinformante (2008)",
+          "capa": "https://image.tmdb.org/t/p/w780/bQSXUa3V5ZwUazvYEiOvbdrZ5gn.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4564668.mp4"
+        },
+        {
+          "nome": "O Despertar da Lenda (2014)",
+          "descricao": "O Despertar da Lenda (2014)",
+          "capa": "https://image.tmdb.org/t/p/w780/oyli2Yv4OFCbcvcNHIxkmpbQmGB.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4566137.mp4"
+        },
+        {
+          "nome": "O Despertar De Um Assassino (2017)",
+          "descricao": "O Despertar De Um Assassino (2017)",
+          "capa": "https://image.tmdb.org/t/p/w780/fkWk7Jl3vCGPG56rmJfFurtTMbh.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4564133.mp4"
+        },
+        {
+          "nome": "O Despertar de Um Mestre (2018)",
+          "descricao": "O Despertar de Um Mestre (2018)",
+          "capa": "https://image.tmdb.org/t/p/w780/1ULNeBmJV3Omjl24xZkXd9bsrpz.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4564724.mp4"
+        },
+        {
+          "nome": "O Despertar de uma Paixão (2006)",
+          "descricao": "O Despertar de uma Paixão (2006)",
+          "capa": "https://image.tmdb.org/t/p/w780/4HNQ0HLThnGtIW5TeCKamj32FwS.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4564701.mp4"
+        },
+        {
+          "nome": "O Despertar dos Deuses (2013)",
+          "descricao": "O Despertar dos Deuses (2013)",
+          "capa": "https://image.tmdb.org/t/p/w780/uxVVyvT52kAxE3x6BFAnb3ZgNt.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4564610.mp4"
+        },
+        {
+          "nome": "O Destemido (2010)",
+          "descricao": "O Destemido (2010)",
+          "capa": "https://image.tmdb.org/t/p/w780/r8EE3PjAr4FspswE1jxgXpk7May.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4566129.mp4"
+        },
+        {
+          "nome": "o Destruidor (1984)",
+          "descricao": "o Destruidor (1984)",
+          "capa": "https://image.tmdb.org/t/p/w780/Ai9pPPzK6lX98MSGb4gDpICXtpV.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4566407.mp4"
+        },
+        {
+          "nome": "O Dia Depois de Amanhã (2004)",
+          "descricao": "O Dia Depois de Amanhã (2004)",
+          "capa": "https://image.tmdb.org/t/p/w780/dsI5ezLUYTWjJ56J3iNWmVSC9fK.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4566298.mp4"
+        },
+        {
+          "nome": "O Dia do Atentado (2016)",
+          "descricao": "O Dia do Atentado (2016)",
+          "capa": "https://image.tmdb.org/t/p/w780/m0NYVvl6makz2EATYh0qRR5JFnL.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4564756.mp4"
+        },
+        {
+          "nome": "O Dia do Chacal (1973)",
+          "descricao": "O Dia do Chacal (1973)",
+          "capa": "https://image.tmdb.org/t/p/w780/gV2TBSkuNC8nKSgv2awbjaQSM1g.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565749.mp4"
+        },
+        {
+          "nome": "O Dom da Serpente (2019)",
+          "descricao": "O Dom da Serpente (2019)",
+          "capa": "https://image.tmdb.org/t/p/w780/9MkAcXlNgd7IAU9NAzuFJAcfoya.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565898.mp4"
+        },
+        {
+          "nome": "O Dragão Chinês (1971)",
+          "descricao": "O Dragão Chinês (1971)",
+          "capa": "https://image.tmdb.org/t/p/w780/lHJNefejNktGY7onhed4y3V65mT.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565726.mp4"
+        },
+        {
+          "nome": "O Dragão Invencível (2019)",
+          "descricao": "O Dragão Invencível (2019)",
+          "capa": "https://image.tmdb.org/t/p/w780/6ZrNAMpwNOBISooQDQtTOlb1oSM.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4564842.mp4"
+        },
+        {
+          "nome": "O Dublê (2024)",
+          "descricao": "O Dublê (2024)",
+          "capa": "https://image.tmdb.org/t/p/w780/f7LgXutKkeOxHqx7p5rG7U4i9Qf.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4564894.mp4"
+        },
+        {
+          "nome": "O Duelista (2016)",
+          "descricao": "O Duelista (2016)",
+          "capa": "https://image.tmdb.org/t/p/w780/3bUJweRnNJWGVLoCoiYqz00i8Gd.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565196.mp4"
+        },
+        {
+          "nome": "O Duelo Final (2017)",
+          "descricao": "O Duelo Final (2017)",
+          "capa": "https://image.tmdb.org/t/p/w780/otD1urhitVQlTs0j6UJqiJZnp2I.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4566163.mp4"
+        },
+        {
+          "nome": "O Engenheiro (2023)",
+          "descricao": "O Engenheiro (2023)",
+          "capa": "https://image.tmdb.org/t/p/w780/daEvqdnGCrbk5yMkYkxoDpNuCkP.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565015.mp4"
+        },
+        {
+          "nome": "O Enviado (2004)",
+          "descricao": "O Enviado (2004)",
+          "capa": "https://image.tmdb.org/t/p/w780/neL4KRw7xY5khUQTVxQ1BnvzUd7.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4564628.mp4"
+        },
+        {
+          "nome": "O Escorpião Rei - O Livro das Almas (2018) (2018)",
+          "descricao": "O Escorpião Rei - O Livro das Almas (2018) (2018)",
+          "capa": "https://image.tmdb.org/t/p/w500/skPN6VsQx1NG0xZ6EFBAXrOH7a7.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4842001.mp4"
+        },
+        {
+          "nome": "O Escorpião Rei - O Livro das Almas (2018)",
+          "descricao": "O Escorpião Rei - O Livro das Almas (2018)",
+          "capa": "https://image.tmdb.org/t/p/w780/skPN6VsQx1NG0xZ6EFBAXrOH7a7.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4564510.mp4"
+        },
+        {
+          "nome": "O Escorpião Rei (2002) (2002)",
+          "descricao": "O Escorpião Rei (2002) (2002)",
+          "capa": "https://image.tmdb.org/t/p/w500/5E3tchAzZx8Kc5k1xmKDUalUPLa.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4842026.mp4"
+        },
+        {
+          "nome": "O Escorpião Rei (2002)",
+          "descricao": "O Escorpião Rei (2002)",
+          "capa": "https://image.tmdb.org/t/p/w780/5E3tchAzZx8Kc5k1xmKDUalUPLa.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4566297.mp4"
+        },
+        {
+          "nome": "O Escorpiao Rei 2",
+          "descricao": "O Escorpiao Rei 2",
+          "capa": "https://image.tmdb.org/t/p/w780/cFN11ixhnyFp3QZF01ZaCUaNdFW.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4566296.mp4"
+        },
+        {
+          "nome": "O Escorpião Rei 2: A Saga de um Guerreiro (2008)",
+          "descricao": "O Escorpião Rei 2: A Saga de um Guerreiro (2008)",
+          "capa": "https://image.tmdb.org/t/p/w780/cFN11ixhnyFp3QZF01ZaCUaNdFW.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4564512.mp4"
+        },
+        {
+          "nome": "O Escorpiao Rei 3",
+          "descricao": "O Escorpiao Rei 3",
+          "capa": "https://image.tmdb.org/t/p/w780/3Ate9vumD96nSQJ1aFw9QGORdb.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4566295.mp4"
+        },
+        {
+          "nome": "O Escorpiao Rei 4",
+          "descricao": "O Escorpiao Rei 4",
+          "capa": "https://image.tmdb.org/t/p/w780/KXfXTed3otdXYhlWDb4cXgTZcD.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4566294.mp4"
+        },
+        {
+          "nome": "O Escorpião Rei 4: Na Busca Pelo Poder (2015)",
+          "descricao": "O Escorpião Rei 4: Na Busca Pelo Poder (2015)",
+          "capa": "https://image.tmdb.org/t/p/w780/KXfXTed3otdXYhlWDb4cXgTZcD.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4564511.mp4"
+        },
+        {
+          "nome": "O Escorpiao Rei 5",
+          "descricao": "O Escorpiao Rei 5",
+          "capa": "https://image.tmdb.org/t/p/w780/skPN6VsQx1NG0xZ6EFBAXrOH7a7.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4566293.mp4"
+        },
+        {
+          "nome": "O Especialista (1994)",
+          "descricao": "O Especialista (1994)",
+          "capa": "https://image.tmdb.org/t/p/w780/waOBhHQVqo71q32AyZdbCIDBnHJ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565198.mp4"
+        },
+        {
+          "nome": "O Espetacular Homem-Aranha (2012)",
+          "descricao": "O Espetacular Homem-Aranha (2012)",
+          "capa": "https://image.tmdb.org/t/p/w780/gxSsFBCFuDhVQMCuIDoZcmHOqlY.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565836.mp4"
+        },
+        {
+          "nome": "O Espetacular Homem-Aranha 2: A Ameaça de Electro (2014)",
+          "descricao": "O Espetacular Homem-Aranha 2: A Ameaça de Electro (2014)",
+          "capa": "https://image.tmdb.org/t/p/w780/cyMz4OfmNqpuQ02QQOQCbGxQjwK.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565835.mp4"
+        },
+        {
+          "nome": "O Espião Inglês (2020)",
+          "descricao": "O Espião Inglês (2020)",
+          "capa": "https://image.tmdb.org/t/p/w780/et0OqqfYINGCFB76YTmdinuuGTn.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565451.mp4"
+        },
+        {
+          "nome": "O Esquadrão Suicida (2021)",
+          "descricao": "O Esquadrão Suicida (2021)",
+          "capa": "https://image.tmdb.org/t/p/w780/wTS3dS2DJiMFFgqKDz5fxMTri.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565481.mp4"
+        },
+        {
+          "nome": "O Estrangeiro (2017)",
+          "descricao": "O Estrangeiro (2017)",
+          "capa": "https://image.tmdb.org/t/p/w780/c0k6pnGCNPJHmTHyRzY6tbgVZvl.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4566292.mp4"
+        },
+        {
+          "nome": "o Exterminador de Aço (1986)",
+          "descricao": "o Exterminador de Aço (1986)",
+          "capa": "https://image.tmdb.org/t/p/w780/lxhm9AgywtZbHQeLtLQxClHbPM8.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4564297.mp4"
+        },
+        {
+          "nome": "O Exterminador do Futuro (1984) (1984)",
+          "descricao": "O Exterminador do Futuro (1984) (1984)",
+          "capa": "https://image.tmdb.org/t/p/w500/fo4SSoNT1ASI4JP7dOLrosWNWKa.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4842025.mp4"
+        },
+        {
+          "nome": "O Exterminador do Futuro (1984)",
+          "descricao": "O Exterminador do Futuro (1984)",
+          "capa": "https://image.tmdb.org/t/p/w780/fo4SSoNT1ASI4JP7dOLrosWNWKa.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4566291.mp4"
+        },
+        {
+          "nome": "O Exterminador Do Futuro 2",
+          "descricao": "O Exterminador Do Futuro 2",
+          "capa": "https://image.tmdb.org/t/p/w780/eTIY2LO5cDclxgKtCHuvIKdF3c3.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4566290.mp4"
+        },
+        {
+          "nome": "O Exterminador Do Futuro 4",
+          "descricao": "O Exterminador Do Futuro 4",
+          "capa": "https://image.tmdb.org/t/p/w780/khMIfRCgsMMqjxuGtJ2dUfJ551R.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4566288.mp4"
+        },
+        {
+          "nome": "O Exterminador do Futuro: Destino Sombrio (2019)",
+          "descricao": "O Exterminador do Futuro: Destino Sombrio (2019)",
+          "capa": "https://image.tmdb.org/t/p/w780/3HsG5V6ZpKYgfwbFqXEYONbqtTt.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4566064.mp4"
+        },
+        {
+          "nome": "O Exterminador do Futuro: Gênesis (2015)",
+          "descricao": "O Exterminador do Futuro: Gênesis (2015)",
+          "capa": "https://image.tmdb.org/t/p/w780/xmFGm5Earx8OOYEbgE3iuiNmQpu.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4566289.mp4"
+        },
+        {
+          "nome": "o Faixa Preta (1974)",
+          "descricao": "o Faixa Preta (1974)",
+          "capa": "https://image.tmdb.org/t/p/w780/tnzPJzKr2IVPGqkkE6aCGNePDq0.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4564041.mp4"
+        },
+        {
+          "nome": "o Falcão Está à Solta (1991)",
+          "descricao": "o Falcão Está à Solta (1991)",
+          "capa": "https://image.tmdb.org/t/p/w780/60Pnz4psjEUEAoFdBO6NT7GLEV9.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565606.mp4"
+        },
+        {
+          "nome": "O Fantasma (2000)",
+          "descricao": "O Fantasma (2000)",
+          "capa": "https://image.tmdb.org/t/p/w780/u1U7F18YkP1fy9SmIU8MWV2USBq.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565748.mp4"
+        },
+        {
+          "nome": "O Feiticeiro e a Serpente Branca",
+          "descricao": "O Feiticeiro e a Serpente Branca",
+          "capa": "http://ocvtab.info/images/mgFUi4xTual7RkcyobhP76Ctx6A_big.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4566287.mp4"
+        },
+        {
+          "nome": "O Filho de Spartacus (1962)",
+          "descricao": "O Filho de Spartacus (1962)",
+          "capa": "https://image.tmdb.org/t/p/w780/vESoMNS9zhm0DMjRd7TlazxGnJZ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4564417.mp4"
+        },
+        {
+          "nome": "O Fim dos Dias",
+          "descricao": "O Fim dos Dias",
+          "capa": "http://ocvtab.info/images/xWfAnB5t5Pq8i5RTIEVJKeSB32e_big.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4566286.mp4"
+        },
+        {
+          "nome": "O Fio Invisível (2021)",
+          "descricao": "O Fio Invisível (2021)",
+          "capa": "https://image.tmdb.org/t/p/w780/88SjBbphHV55U6r4MpgEuGFdBLV.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565388.mp4"
+        },
+        {
+          "nome": "O Foragido (1998)",
+          "descricao": "O Foragido (1998)",
+          "capa": "https://image.tmdb.org/t/p/w780/aLdIFGWO9o45Ban58QhRW9DD91X.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565747.mp4"
+        },
+        {
+          "nome": "O Fugitivo (1993)",
+          "descricao": "O Fugitivo (1993)",
+          "capa": "https://image.tmdb.org/t/p/w780/qmMQw6dOZ4Dv3TtPzUNzHdQ8une.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4566034.mp4"
+        },
+        {
+          "nome": "O Gângster Nômade (2021)",
+          "descricao": "O Gângster Nômade (2021)",
+          "capa": "https://image.tmdb.org/t/p/w780/goLoLNagbnWpPQh4YQE9R2hSLqj.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565530.mp4"
+        },
+        {
+          "nome": "o Golfinho (2018)",
+          "descricao": "o Golfinho (2018)",
+          "capa": "https://image.tmdb.org/t/p/w780/lHqItazez95c6Ar1z4va6ngTQlD.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4566107.mp4"
+        },
+        {
+          "nome": "O Gosto da Vingança (2005)",
+          "descricao": "O Gosto da Vingança (2005)",
+          "capa": "https://image.tmdb.org/t/p/w780/kjdwi4qHDFx5HFdXSNDugoIwNa8.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4564591.mp4"
+        },
+        {
+          "nome": "O Grande Desafio (1999)",
+          "descricao": "O Grande Desafio (1999)",
+          "capa": "https://image.tmdb.org/t/p/w780/8sSQVFmKhPq6wuArxY4u6yjNAqf.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565772.mp4"
+        },
+        {
+          "nome": "O Grande Diabólico (2021)",
+          "descricao": "O Grande Diabólico (2021)",
+          "capa": "https://image.tmdb.org/t/p/w780/5p91BQTOezgAevOw2wXnseCZ0iM.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565087.mp4"
+        },
+        {
+          "nome": "O Grande Dragão Branco (1988)",
+          "descricao": "O Grande Dragão Branco (1988)",
+          "capa": "https://image.tmdb.org/t/p/w780/3mVz0Hj92bGYpnyLgKUC6Zqueon.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4566285.mp4"
+        },
+        {
+          "nome": "O Grande Herói (2013)",
+          "descricao": "O Grande Herói (2013)",
+          "capa": "https://image.tmdb.org/t/p/w780/cxoVXitidlXPIvwhnAsCTNo17Ui.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4566151.mp4"
+        },
+        {
+          "nome": "O Grande Lutador (1980)",
+          "descricao": "O Grande Lutador (1980)",
+          "capa": "https://image.tmdb.org/t/p/w780/nyuRx4e4hBWV2CpqhMfJISmIvOf.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565771.mp4"
+        },
+        {
+          "nome": "O Grande Mestre (2008) (2013)",
+          "descricao": "O Grande Mestre (2008) (2013)",
+          "capa": "https://image.tmdb.org/t/p/w500/v3pXEOIw5WCEyCLMnYIUVtI5yw9.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4842024.mp4"
+        },
+        {
+          "nome": "O Grande Mestre (2008)",
+          "descricao": "O Grande Mestre (2008)",
+          "capa": "https://image.tmdb.org/t/p/w780/v3pXEOIw5WCEyCLMnYIUVtI5yw9.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4566284.mp4"
+        },
+        {
+          "nome": "O Grande Mestre 2 (2010)",
+          "descricao": "O Grande Mestre 2 (2010)",
+          "capa": "https://image.tmdb.org/t/p/w780/A20NqGSIckV4jjkw62fSagJ21cA.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4566283.mp4"
+        },
+        {
+          "nome": "O Grande Mestre 3 (2015)",
+          "descricao": "O Grande Mestre 3 (2015)",
+          "capa": "https://image.tmdb.org/t/p/w780/ucm26uGLD6xcixWS68WMHtlJBuu.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4566282.mp4"
+        },
+        {
+          "nome": "O Grande Mestre 4 (2019)",
+          "descricao": "O Grande Mestre 4 (2019)",
+          "capa": "https://image.tmdb.org/t/p/w780/jBWuzMl3UBMVI8scmhHOPRNXPKT.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4564376.mp4"
+        },
+        {
+          "nome": "O Grande Mestre 4: A Batalha Final",
+          "descricao": "O Grande Mestre 4: A Batalha Final",
+          "capa": "https://image.tmdb.org/t/p/w780/jBWuzMl3UBMVI8scmhHOPRNXPKT.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565892.mp4"
+        },
+        {
+          "nome": "O Grande Motim (1962)",
+          "descricao": "O Grande Motim (1962)",
+          "capa": "https://image.tmdb.org/t/p/w780/pCUm3nlg7kHlaQq1kc1sqgTHCUy.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4564211.mp4"
+        },
+        {
+          "nome": "O Guarda Costas (1978)",
+          "descricao": "O Guarda Costas (1978)",
+          "capa": "https://image.tmdb.org/t/p/w780/z9sDwQcCBYjA5DvNqmd8m5rkBqh.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4564586.mp4"
+        },
+        {
+          "nome": "O Guardião",
+          "descricao": "O Guardião",
+          "capa": "https://image.tmdb.org/t/p/w780/cfpCZuEDABUGW36MMlbgpttOugn.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4564463.mp4"
+        },
+        {
+          "nome": "O Guerreiro Silencioso (2010)",
+          "descricao": "O Guerreiro Silencioso (2010)",
+          "capa": "https://image.tmdb.org/t/p/w780/8TICiaQrtSdfdNTk6gcI7mq688s.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4564684.mp4"
+        },
+        {
+          "nome": "O Herói e o Terror (1988)",
+          "descricao": "O Herói e o Terror (1988)",
+          "capa": "https://image.tmdb.org/t/p/w780/rVYeIFLlLXptZxWkV7vIJRhJ9Wj.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4564808.mp4"
+        },
+        {
+          "nome": "O Homem da Máfia (2012)",
+          "descricao": "O Homem da Máfia (2012)",
+          "capa": "https://image.tmdb.org/t/p/w780/1rUbQu5P0rkDsTGLU2f2AGMm9HV.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565066.mp4"
+        },
+        {
+          "nome": "O Homem da Máscara de Ferro (1998)",
+          "descricao": "O Homem da Máscara de Ferro (1998)",
+          "capa": "https://image.tmdb.org/t/p/w780/8TJ9Uu5nEG3tHLGC8Yq3IHrh30.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4566281.mp4"
+        },
+        {
+          "nome": "O Homem de Aço (2013)",
+          "descricao": "O Homem de Aço (2013)",
+          "capa": "https://image.tmdb.org/t/p/w780/cheo9jDPfyW1GevfPjXtnO91KNe.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4566280.mp4"
+        },
+        {
+          "nome": "O Homem de Toronto (2022)",
+          "descricao": "O Homem de Toronto (2022)",
+          "capa": "https://image.tmdb.org/t/p/w780/A7WtrzlvLAhdmXObY9aZCRhtAMs.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565194.mp4"
+        },
+        {
+          "nome": "O Homem do Norte (2022)",
+          "descricao": "O Homem do Norte (2022)",
+          "capa": "https://image.tmdb.org/t/p/w780/vJfLNvOMK1Ek7OvpKgBDSqH2kN1.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565211.mp4"
+        },
+        {
+          "nome": "O Homem do Presidente (2000)",
+          "descricao": "O Homem do Presidente (2000)",
+          "capa": "https://image.tmdb.org/t/p/w780/kisACBfoIhMW5wVD49rONsp7Rsw.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4564653.mp4"
+        },
+        {
+          "nome": "O Homem nas Trevas 2 (2021)",
+          "descricao": "O Homem nas Trevas 2 (2021)",
+          "capa": "https://image.tmdb.org/t/p/w780/bE46qkPtUnff8READ0AYZP9mVj2.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565411.mp4"
+        },
+        {
+          "nome": "O Homem Sem Sombra (2000)",
+          "descricao": "O Homem Sem Sombra (2000)",
+          "capa": "https://image.tmdb.org/t/p/w780/vrDwv0pphH1cw0vXBDkCYglhRNr.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4564680.mp4"
+        },
+        {
+          "nome": "O Homem-Coisa: A Natureza do Medo (2005)",
+          "descricao": "O Homem-Coisa: A Natureza do Medo (2005)",
+          "capa": "https://image.tmdb.org/t/p/w780/f097m37sAKRGEgjgAnRg7yyrQ4n.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565654.mp4"
+        },
+        {
+          "nome": "O Imperador de Paris (2018)",
+          "descricao": "O Imperador de Paris (2018)",
+          "capa": "https://image.tmdb.org/t/p/w780/eXbRJiYpQgzcxRmjjHXJVeUxyFQ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4566094.mp4"
+        },
+        {
+          "nome": "O Implacável (2000)",
+          "descricao": "O Implacável (2000)",
+          "capa": "https://image.tmdb.org/t/p/w780/pHpgkcvHdNFj2jazqwRXgmKTArH.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565316.mp4"
+        },
+        {
+          "nome": "O Incrível Hulk (2008)",
+          "descricao": "O Incrível Hulk (2008)",
+          "capa": "https://image.tmdb.org/t/p/w780/v1UXe9WlwkkZ5YrffUSPdYNeJz3.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565719.mp4"
+        },
+        {
+          "nome": "O Inferno de Dante (1997)",
+          "descricao": "O Inferno de Dante (1997)",
+          "capa": "https://image.tmdb.org/t/p/w780/3XGqLf4CSTJoOOpGVqVEz0Se25d.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4566279.mp4"
+        },
+        {
+          "nome": "O Jardineiro (2021)",
+          "descricao": "O Jardineiro (2021)",
+          "capa": "https://image.tmdb.org/t/p/w780/rhJYhUm7YMGEfUaWzfAeK2M4tYO.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565084.mp4"
+        },
+        {
+          "nome": "O Jogo da Espionagem (2022)",
+          "descricao": "O Jogo da Espionagem (2022)",
+          "capa": "https://image.tmdb.org/t/p/w780/rGjCKq4yXSecw0zpadWsVIFjyF6.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4564939.mp4"
+        },
+        {
+          "nome": "O Jogo da Morte (1998)",
+          "descricao": "O Jogo da Morte (1998)",
+          "capa": "https://image.tmdb.org/t/p/w780/jVtGLK4dJvq1djPwFwMUIhEE6np.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565722.mp4"
+        },
+        {
+          "nome": "O Jogo do Assassino (2024)",
+          "descricao": "O Jogo do Assassino (2024)",
+          "capa": "https://image.tmdb.org/t/p/w780/pPmxLP2eMJEFiY7KZ3WkSFQ1b20.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4564750.mp4"
+        },
+        {
+          "nome": "O Jogo do Disfarce (2023)",
+          "descricao": "O Jogo do Disfarce (2023)",
+          "capa": "https://image.tmdb.org/t/p/w780/d9O2dIxU1X8Qc8s8kf9RFiiDMMB.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4564947.mp4"
+        },
+        {
+          "nome": "O Jogo do Predador (2026)",
+          "descricao": "O Jogo do Predador (2026)",
+          "capa": "https://image.tmdb.org/t/p/w780/mBcYPIubRBPTnTwWdj8OuEC1NHJ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4564325.mp4"
+        },
+        {
+          "nome": "O Justiceiro (2004)",
+          "descricao": "O Justiceiro (2004)",
+          "capa": "https://image.tmdb.org/t/p/w780/9RQ6LDA2NG97cxL2bLw1O2R2nkp.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565762.mp4"
+        },
+        {
+          "nome": "O Justiceiro: Uma Última Morte (2026)",
+          "descricao": "O Justiceiro: Uma Última Morte (2026)",
+          "capa": "https://image.tmdb.org/t/p/w780/ppRmgI2MbEOADvKKvlNoRJHPXOT.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4564290.mp4"
+        },
+        {
+          "nome": "O Labirinto (2019)",
+          "descricao": "O Labirinto (2019)",
+          "capa": "https://image.tmdb.org/t/p/w780/j5zBj7JZIxBYscYjyOap7TpU2Co.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565357.mp4"
+        },
+        {
+          "nome": "O Legado (2023)",
+          "descricao": "O Legado (2023)",
+          "capa": "https://image.tmdb.org/t/p/w780/rpJt3tnGA2zCYSlHIpH8rgDiP8z.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565280.mp4"
+        },
+        {
+          "nome": "O Legado Bourne (2012)",
+          "descricao": "O Legado Bourne (2012)",
+          "capa": "https://image.tmdb.org/t/p/w780/nVNG7ObNVdQF5h2ySzpcXtGgMnH.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565944.mp4"
+        },
+        {
+          "nome": "O Legado Do Grande Mestre",
+          "descricao": "O Legado Do Grande Mestre",
+          "capa": "http://ocvtab.info/images/1a84ecdd3ec4a20943c90f2a5090acc7.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565851.mp4"
+        },
+        {
+          "nome": "O Legionário (2020)",
+          "descricao": "O Legionário (2020)",
+          "capa": "https://image.tmdb.org/t/p/w780/wstr4JUXrNKxOShC8203odHohu0.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565641.mp4"
+        },
+        {
+          "nome": "O Livro de Clarence (2024)",
+          "descricao": "O Livro de Clarence (2024)",
+          "capa": "https://image.tmdb.org/t/p/w780/6SuEJPQZiP9Hzgzl2NJ9YFIefdn.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4564203.mp4"
+        },
+        {
+          "nome": "O Livro de Eli (2010)",
+          "descricao": "O Livro de Eli (2010)",
+          "capa": "https://image.tmdb.org/t/p/w780/hUS4hknUZGJKqdFWf04eNSaaRfC.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4566278.mp4"
+        },
+        {
+          "nome": "O Lutador (2006)",
+          "descricao": "O Lutador (2006)",
+          "capa": "https://image.tmdb.org/t/p/w780/2c0mcPVyWQM92vjys5pZsrmLjJv.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4564682.mp4"
+        },
+        {
+          "nome": "O Magnata (2007)",
+          "descricao": "O Magnata (2007)",
+          "capa": "https://image.tmdb.org/t/p/w780/tqo5s068F1koBYgc7Lspy0OtSoy.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4564580.mp4"
+        },
+        {
+          "nome": "O Mariachi (1993)",
+          "descricao": "O Mariachi (1993)",
+          "capa": "https://image.tmdb.org/t/p/w780/kPmLM0jXVKRwUUK69qzOEd9K8e2.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4564564.mp4"
+        },
+        {
+          "nome": "O Matador (2017)",
+          "descricao": "O Matador (2017)",
+          "capa": "https://image.tmdb.org/t/p/w780/qeL0FpU9n0TmKHvlHpm3UOd3rIm.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565959.mp4"
+        },
+        {
+          "nome": "O Matador: Missão Resgate (2022)",
+          "descricao": "O Matador: Missão Resgate (2022)",
+          "capa": "https://image.tmdb.org/t/p/w780/9aVY0w3q2bxZX9rcGOGSWiM7mH8.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565120.mp4"
+        },
+        {
+          "nome": "O Mercenário (2020)",
+          "descricao": "O Mercenário (2020)",
+          "capa": "https://image.tmdb.org/t/p/w780/e6UpLOZZDDadXQGqkERfuvxiEJp.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565037.mp4"
+        },
+        {
+          "nome": "O Mestre da Guerra (2012)",
+          "descricao": "O Mestre da Guerra (2012)",
+          "capa": "https://image.tmdb.org/t/p/w780/aha0AgGYBBe6BuND9zTqt9aYRJJ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565621.mp4"
+        },
+        {
+          "nome": "O Mestre das Armas (2006)",
+          "descricao": "O Mestre das Armas (2006)",
+          "capa": "https://image.tmdb.org/t/p/w780/yLIjBJxgu5qlR1CZo1P4GkUggu0.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4566277.mp4"
+        },
+        {
+          "nome": "O Mestre das Sombras (2022)",
+          "descricao": "O Mestre das Sombras (2022)",
+          "capa": "https://image.tmdb.org/t/p/w780/yFQ3mmGtZsNluNwfbh8i35b8up.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565052.mp4"
+        },
+        {
+          "nome": "O Mestre do Crime (2024)",
+          "descricao": "O Mestre do Crime (2024)",
+          "capa": "https://image.tmdb.org/t/p/w780/mkxECqhal1sRGHIWzKoJyHfGiOK.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4564660.mp4"
+        },
+        {
+          "nome": "O Mestre Invencível (1978)",
+          "descricao": "O Mestre Invencível (1978)",
+          "capa": "https://image.tmdb.org/t/p/w780/zzJdvt2MvqTR1PbWVngflfArx1m.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565770.mp4"
+        },
+        {
+          "nome": "O Mistério da Casa Assombrada (2020)",
+          "descricao": "O Mistério da Casa Assombrada (2020)",
+          "capa": "https://image.tmdb.org/t/p/w780/j8EcGvxeF6F5nGapm279xDTTo6Y.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565575.mp4"
+        },
+        {
+          "nome": "O Mito (2005)",
+          "descricao": "O Mito (2005)",
+          "capa": "https://image.tmdb.org/t/p/w780/y5x3qlWbPExOh2i1quShN1aL0ta.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565746.mp4"
+        },
+        {
+          "nome": "O Monge à Prova de Balas (2003)",
+          "descricao": "O Monge à Prova de Balas (2003)",
+          "capa": "https://image.tmdb.org/t/p/w780/qNyIyH3lVWSeRUubBff74MXfzE4.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4564434.mp4"
+        },
+        {
+          "nome": "O Mundo dos Esquecidos (2021)",
+          "descricao": "O Mundo dos Esquecidos (2021)",
+          "capa": "https://image.tmdb.org/t/p/w780/4kDlHPIpBSvFmQREFlN1JiU0xRw.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565269.mp4"
+        },
+        {
+          "nome": "O Mundo Imaginário do Dr. Parnassus (2009)",
+          "descricao": "O Mundo Imaginário do Dr. Parnassus (2009)",
+          "capa": "https://image.tmdb.org/t/p/w780/hf85C8N2sHZFh6PtX1MWD6t06Js.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4564070.mp4"
+        },
+        {
+          "nome": "O Negociador (1997)",
+          "descricao": "O Negociador (1997)",
+          "capa": "https://image.tmdb.org/t/p/w780/qL8CO0vq3cpmqj4IjSGivBMByIb.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565295.mp4"
+        },
+        {
+          "nome": "O Novato (2003)",
+          "descricao": "O Novato (2003)",
+          "capa": "https://image.tmdb.org/t/p/w780/mmdSe4CesT9Qcv42ecTn1TIjB1M.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4564069.mp4"
+        },
+        {
+          "nome": "O Pacificador (1997)",
+          "descricao": "O Pacificador (1997)",
+          "capa": "https://image.tmdb.org/t/p/w780/bFVnHoop9hLUtdqUeXfdc2bNVsS.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565429.mp4"
+        },
+        {
+          "nome": "O Pacto (2023)",
+          "descricao": "O Pacto (2023)",
+          "capa": "https://image.tmdb.org/t/p/w780/pTQZT9R6YjKrweJ0llPtq57j1Z0.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565454.mp4"
+        },
+        {
+          "nome": "O Padeiro (2023)",
+          "descricao": "O Padeiro (2023)",
+          "capa": "https://image.tmdb.org/t/p/w780/2deqSt3Z3OXgBfLvUn9jASrKa1c.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4564988.mp4"
+        },
+        {
+          "nome": "O Passageiro (2018)",
+          "descricao": "O Passageiro (2018)",
+          "capa": "https://image.tmdb.org/t/p/w780/kzk7XbUZIpDZWAjHumoFwMea9fF.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4566276.mp4"
+        },
+        {
+          "nome": "O Pequeno Príncipe (2015)",
+          "descricao": "O Pequeno Príncipe (2015)",
+          "capa": "https://image.tmdb.org/t/p/w780/AeWqkAp2bAZEoj1GGd2jLc6R0LD.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4564098.mp4"
+        },
+        {
+          "nome": "O Peso do Talento (2022)",
+          "descricao": "O Peso do Talento (2022)",
+          "capa": "https://image.tmdb.org/t/p/w780/9ShEHTKPMnRJnh05vzCnsF4YMFb.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565203.mp4"
+        },
+        {
+          "nome": "O Plano Perfeito 2 (2019)",
+          "descricao": "O Plano Perfeito 2 (2019)",
+          "capa": "https://image.tmdb.org/t/p/w780/mQg74asUFsfANQwlSKzxSg2YrZJ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565553.mp4"
+        },
+        {
+          "nome": "o Policial e o Diabo (2019)",
+          "descricao": "o Policial e o Diabo (2019)",
+          "capa": "https://image.tmdb.org/t/p/w780/nLNKX18xxW6RpkARYrmxDZvuB8r.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565630.mp4"
+        },
+        {
+          "nome": "O Preço de um Resgate (1996)",
+          "descricao": "O Preço de um Resgate (1996)",
+          "capa": "https://image.tmdb.org/t/p/w780/xUe3caBdcaEYydAUBnO78tJGgZe.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565583.mp4"
+        },
+        {
+          "nome": "O Preço de uma Vida (2022)",
+          "descricao": "O Preço de uma Vida (2022)",
+          "capa": "https://image.tmdb.org/t/p/w780/cs6UlHXUrdN2bQPe4pCPUMUAyMD.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4564474.mp4"
+        },
+        {
+          "nome": "O Preço do Amanhã (2011)",
+          "descricao": "O Preço do Amanhã (2011)",
+          "capa": "https://image.tmdb.org/t/p/w780/xuFZVPVebRrRwiH14uST8m4ulXj.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4566275.mp4"
+        },
+        {
+          "nome": "O Predador: A Caçada (2022)",
+          "descricao": "O Predador: A Caçada (2022)",
+          "capa": "https://image.tmdb.org/t/p/w780/n2hyhBPIYbwvCSipcawcc8iEAsH.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565178.mp4"
+        },
+        {
+          "nome": "O Procurado (2008)",
+          "descricao": "O Procurado (2008)",
+          "capa": "https://image.tmdb.org/t/p/w780/yPID9fe5zoruCIWq49lgcAaLjWa.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4566274.mp4"
+        },
+        {
+          "nome": "O Promotor (2024)",
+          "descricao": "O Promotor (2024)",
+          "capa": "https://image.tmdb.org/t/p/w780/frthFwTTZlUZqGTjm46na3nMcAn.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4564466.mp4"
+        },
+        {
+          "nome": "O Protetor (2005)",
+          "descricao": "O Protetor (2005)",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/r4hEsdJXX2XYeEq55QK2iEAt3iS.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565054.mp4"
+        },
+        {
+          "nome": "O Protetor 2 (2018)",
+          "descricao": "O Protetor 2 (2018)",
+          "capa": "https://image.tmdb.org/t/p/w780/xl3oO2j1vfKasDLyUNwghWjl4jV.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4564913.mp4"
+        },
+        {
+          "nome": "O Protetor: Capítulo Final (2023)",
+          "descricao": "O Protetor: Capítulo Final (2023)",
+          "capa": "https://image.tmdb.org/t/p/w780/eq2Ytq08C9KddMiOzQ74g36Tdpg.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565004.mp4"
+        },
+        {
+          "nome": "O Punho do Condor (2023)",
+          "descricao": "O Punho do Condor (2023)",
+          "capa": "https://image.tmdb.org/t/p/w780/80KfEkM3VtyO836akCVOJZljCxZ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4564821.mp4"
+        },
+        {
+          "nome": "O Quebra Gelo (2016)",
+          "descricao": "O Quebra Gelo (2016)",
+          "capa": "https://image.tmdb.org/t/p/w780/vEQQ1VsN1upQhxbm8r1xPFBGt6y.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4566048.mp4"
+        },
+        {
+          "nome": "O Quinto Elemento (1997)",
+          "descricao": "O Quinto Elemento (1997)",
+          "capa": "https://image.tmdb.org/t/p/w780/t2fanPUgCGty1tmU9t3jtYEOEMS.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565889.mp4"
+        },
+        {
+          "nome": "O Rapto (2017)",
+          "descricao": "O Rapto (2017)",
+          "capa": "https://image.tmdb.org/t/p/w780/jwncNJ0j66bqTcFbEKhtRpQ0LlP.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4566134.mp4"
+        },
+        {
+          "nome": "O Rapto do Menino Dourado (1986)",
+          "descricao": "O Rapto do Menino Dourado (1986)",
+          "capa": "https://image.tmdb.org/t/p/w780/pe7LVjqGXJKnneI3g7pFF60VFcS.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565891.mp4"
+        },
+        {
+          "nome": "O Recepcionista (2020)",
+          "descricao": "O Recepcionista (2020)",
+          "capa": "https://image.tmdb.org/t/p/w780/8Mr1efvuQKAtUN8sSiBM0uJbO8e.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565739.mp4"
+        },
+        {
+          "nome": "O Refúgio (2026)",
+          "descricao": "O Refúgio (2026)",
+          "capa": "https://image.tmdb.org/t/p/w780/49b7CTeJqugnpBboT6D5xGy3h4H.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4564387.mp4"
+        },
+        {
+          "nome": "o Rei da Selva (1984)",
+          "descricao": "o Rei da Selva (1984)",
+          "capa": "https://image.tmdb.org/t/p/w780/5z0ZkkF8KUqRpfPRySPRtjYnH4M.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565401.mp4"
+        },
+        {
+          "nome": "O Rei das Drogas (2018)",
+          "descricao": "O Rei das Drogas (2018)",
+          "capa": "https://image.tmdb.org/t/p/w780/zLuOVMApk1zQq1T4lsoygdwGjFY.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4566160.mp4"
+        },
+        {
+          "nome": "O Rei dos Assassinos (2023)",
+          "descricao": "O Rei dos Assassinos (2023)",
+          "capa": "https://image.tmdb.org/t/p/w780/tHA2wltMBWuaTzOzSf7P2bzhmIy.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4565012.mp4"
+        },
+        {
+          "nome": "O Rei Guerreiro (2017)",
+          "descricao": "O Rei Guerreiro (2017)",
+          "capa": "https://image.tmdb.org/t/p/w780/p6XBvViXzWH1JRc5NW5WHNtyNmG.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4566150.mp4"
+        },
+        {
+          "nome": "O Rei Leão (1994)",
+          "descricao": "O Rei Leão (1994)",
+          "capa": "https://image.tmdb.org/t/p/w780/8aIvm8OaJISOpVTt7rMIh7X35G5.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4566100.mp4"
+        }
+      ]
+    }
+  ],
+  "series": []
+}
