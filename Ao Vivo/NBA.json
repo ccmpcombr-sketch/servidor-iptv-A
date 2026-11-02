@@ -1,0 +1,143 @@
+{
+  "canais": [
+    {
+      "album": "NBA",
+      "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/nba%20pass.png",
+      "subAlbuns": [],
+      "itens": [
+        {
+          "nome": "NBA LEAGUE PASS 01",
+          "descricao": "NBA",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/NBA.png",
+          "urls": {
+            "fhd": "http://servidor/{user}/{pass}/776580.m3u8",
+            "hd": "http://servidor/{user}/{pass}/776580.m3u8",
+            "sd": "http://servidor/{user}/{pass}/776580.m3u8"
+          }
+        },
+        {
+          "nome": "NBA LEAGUE PASS 02",
+          "descricao": "NBA",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/NBA.png",
+          "urls": {
+            "fhd": "http://servidor/{user}/{pass}/776581.m3u8",
+            "hd": "http://servidor/{user}/{pass}/776581.m3u8",
+            "sd": "http://servidor/{user}/{pass}/776581.m3u8"
+          }
+        },
+        {
+          "nome": "NBA LEAGUE PASS 03",
+          "descricao": "NBA",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/NBA.png",
+          "urls": {
+            "fhd": "http://servidor/{user}/{pass}/776582.m3u8",
+            "hd": "http://servidor/{user}/{pass}/776582.m3u8",
+            "sd": "http://servidor/{user}/{pass}/776582.m3u8"
+          }
+        },
+        {
+          "nome": "NBA LEAGUE PASS 04",
+          "descricao": "NBA",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/NBA.png",
+          "urls": {
+            "fhd": "http://servidor/{user}/{pass}/776583.m3u8",
+            "hd": "http://servidor/{user}/{pass}/776583.m3u8",
+            "sd": "http://servidor/{user}/{pass}/776583.m3u8"
+          }
+        },
+        {
+          "nome": "NBA LEAGUE PASS 05",
+          "descricao": "NBA",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/NBA.png",
+          "urls": {
+            "fhd": "http://servidor/{user}/{pass}/776584.m3u8",
+            "hd": "http://servidor/{user}/{pass}/776584.m3u8",
+            "sd": "http://servidor/{user}/{pass}/776584.m3u8"
+          }
+        },
+        {
+          "nome": "NBA LEAGUE PASS 06",
+          "descricao": "NBA",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/NBA.png",
+          "urls": {
+            "fhd": "http://servidor/{user}/{pass}/776585.m3u8",
+            "hd": "http://servidor/{user}/{pass}/776585.m3u8",
+            "sd": "http://servidor/{user}/{pass}/776585.m3u8"
+          }
+        },
+        {
+          "nome": "NBA LEAGUE PASS 07",
+          "descricao": "NBA",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/NBA.png",
+          "urls": {
+            "fhd": "http://servidor/{user}/{pass}/776586.m3u8",
+            "hd": "http://servidor/{user}/{pass}/776586.m3u8",
+            "sd": "http://servidor/{user}/{pass}/776586.m3u8"
+          }
+        },
+        {
+          "nome": "NBA LEAGUE PASS 08",
+          "descricao": "NBA",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/NBA.png",
+          "urls": {
+            "fhd": "http://servidor/{user}/{pass}/776587.m3u8",
+            "hd": "http://servidor/{user}/{pass}/776587.m3u8",
+            "sd": "http://servidor/{user}/{pass}/776587.m3u8"
+          }
+        },
+        {
+          "nome": "NBA LEAGUE PASS 09",
+          "descricao": "NBA",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/NBA.png",
+          "urls": {
+            "fhd": "http://servidor/{user}/{pass}/776588.m3u8",
+            "hd": "http://servidor/{user}/{pass}/776588.m3u8",
+            "sd": "http://servidor/{user}/{pass}/776588.m3u8"
+          }
+        },
+        {
+          "nome": "NBA LEAGUE PASS 10",
+          "descricao": "NBA",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/NBA.png",
+          "urls": {
+            "fhd": "http://servidor/{user}/{pass}/776589.m3u8",
+            "hd": "http://servidor/{user}/{pass}/776589.m3u8",
+            "sd": "http://servidor/{user}/{pass}/776589.m3u8"
+          }
+        },
+        {
+          "nome": "NBA LEAGUE PASS 11",
+          "descricao": "NBA",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/NBA.png",
+          "urls": {
+            "fhd": "http://servidor/{user}/{pass}/1429686.m3u8",
+            "hd": "http://servidor/{user}/{pass}/1429686.m3u8",
+            "sd": "http://servidor/{user}/{pass}/1429686.m3u8"
+          }
+        },
+        {
+          "nome": "NBA LEAGUE PASS 12",
+          "descricao": "NBA",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/NBA.png",
+          "urls": {
+            "fhd": "http://servidor/{user}/{pass}/1429687.m3u8",
+            "hd": "http://servidor/{user}/{pass}/1429687.m3u8",
+            "sd": "http://servidor/{user}/{pass}/1429687.m3u8"
+          }
+        },
+        {
+          "nome": "NBA LEAGUE PASS 13",
+          "descricao": "NBA",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/NBA.png",
+          "urls": {
+            "fhd": "http://servidor/{user}/{pass}/1429685.m3u8",
+            "hd": "http://servidor/{user}/{pass}/1429685.m3u8",
+            "sd": "http://servidor/{user}/{pass}/1429685.m3u8"
+          }
+        }
+      ]
+    }
+  ],
+  "filmes": [],
+  "series": []
+}
