@@ -1,0 +1,93 @@
+{
+  "canais": [
+    {
+      "album": "PREMIERE",
+      "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/premiere.png",
+      "subAlbuns": [],
+      "itens": [
+        {
+          "nome": "PREMIERE 1",
+          "descricao": "PREMIERE",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/PREMIERE.png",
+          "urls": {
+            "fhd": "http://servidor/{user}/{pass}/1479724.m3u8",
+            "hd": "http://servidor/{user}/{pass}/1479725.m3u8",
+            "sd": "http://servidor/{user}/{pass}/208390.m3u8"
+          }
+        },
+        {
+          "nome": "PREMIERE 2",
+          "descricao": "PREMIERE",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/PREMIERE.png",
+          "urls": {
+            "fhd": "http://servidor/{user}/{pass}/93522.m3u8",
+            "hd": "http://servidor/{user}/{pass}/93523.m3u8",
+            "sd": "http://servidor/{user}/{pass}/93538.m3u8"
+          }
+        },
+        {
+          "nome": "PREMIERE 3",
+          "descricao": "PREMIERE",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/PREMIERE.png",
+          "urls": {
+            "fhd": "http://servidor/{user}/{pass}/93524.m3u8",
+            "hd": "http://servidor/{user}/{pass}/93525.m3u8",
+            "sd": "http://servidor/{user}/{pass}/93539.m3u8"
+          }
+        },
+        {
+          "nome": "PREMIERE 4",
+          "descricao": "PREMIERE",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/PREMIERE.png",
+          "urls": {
+            "fhd": "http://servidor/{user}/{pass}/93526.m3u8",
+            "hd": "http://servidor/{user}/{pass}/93527.m3u8",
+            "sd": "http://servidor/{user}/{pass}/93540.m3u8"
+          }
+        },
+        {
+          "nome": "PREMIERE 5",
+          "descricao": "PREMIERE",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/PREMIERE.png",
+          "urls": {
+            "fhd": "http://servidor/{user}/{pass}/4167111.m3u8",
+            "hd": "http://servidor/{user}/{pass}/4167111.m3u8",
+            "sd": "http://servidor/{user}/{pass}/93541.m3u8"
+          }
+        },
+        {
+          "nome": "PREMIERE 6",
+          "descricao": "PREMIERE",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/PREMIERE.png",
+          "urls": {
+            "fhd": "http://servidor/{user}/{pass}/93532.m3u8",
+            "hd": "http://servidor/{user}/{pass}/93530.m3u8",
+            "sd": "http://servidor/{user}/{pass}/93542.m3u8"
+          }
+        },
+        {
+          "nome": "PREMIERE 7",
+          "descricao": "PREMIERE",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/PREMIERE.png",
+          "urls": {
+            "fhd": "http://servidor/{user}/{pass}/211453.m3u8",
+            "hd": "http://servidor/{user}/{pass}/93531.m3u8",
+            "sd": "http://servidor/{user}/{pass}/93544.m3u8"
+          }
+        },
+        {
+          "nome": "PREMIERE 8",
+          "descricao": "PREMIERE",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/PREMIERE.png",
+          "urls": {
+            "fhd": "http://servidor/{user}/{pass}/4167177.m3u8",
+            "hd": "http://servidor/{user}/{pass}/4167177.m3u8",
+            "sd": "http://servidor/{user}/{pass}/4167176.m3u8"
+          }
+        }
+      ]
+    }
+  ],
+  "filmes": [],
+  "series": []
+}
