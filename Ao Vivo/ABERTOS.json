@@ -1,0 +1,313 @@
+{
+  "canais": [
+    {
+      "album": "CANAIS ABERTOS",
+      "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/abertos.png",
+      "subAlbuns": [],
+      "itens": [
+        {
+          "nome": "SBT SP",
+          "descricao": "CANAIS ABERTOS",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/sbt.png",
+          "urls": {
+            "fhd": "http://servidor/{user}/{pass}/91854.m3u8",
+            "hd": "http://servidor/{user}/{pass}/91855.m3u8",
+            "sd": "http://servidor/{user}/{pass}/208410.m3u8"
+          }
+        },
+        {
+          "nome": "RECORD SP",
+          "descricao": "CANAIS ABERTOS",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/RECORD.png",
+          "urls": {
+            "fhd": "http://servidor/{user}/{pass}/784811.m3u8",
+            "hd": "http://servidor/{user}/{pass}/784812.m3u8",
+            "sd": "http://servidor/{user}/{pass}/784813.m3u8"
+          }
+        },
+        {
+          "nome": "BAND SP",
+          "descricao": "CANAIS ABERTOS",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/band.png",
+          "urls": {
+            "fhd": "http://servidor/{user}/{pass}/102793.m3u8",
+            "hd": "http://servidor/{user}/{pass}/102794.m3u8",
+            "sd": "http://servidor/{user}/{pass}/208415.m3u8"
+          }
+        },
+        {
+          "nome": "REDE TV",
+          "descricao": "CANAIS ABERTOS",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/REDE%20TV.PNG",
+          "urls": {
+            "fhd": "http://servidor/{user}/{pass}/727291.m3u8",
+            "hd": "http://servidor/{user}/{pass}/102399.m3u8",
+            "sd": "http://servidor/{user}/{pass}/102398.m3u8"
+          }
+        },
+        {
+          "nome": "GLOBO SP",
+          "descricao": "CANAIS ABERTOS",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/globo.png",
+          "urls": {
+            "fhd": "http://servidor/{user}/{pass}/784469.m3u8",
+            "hd": "http://servidor/{user}/{pass}/784470.m3u8",
+            "sd": "http://servidor/{user}/{pass}/784471.m3u8"
+          }
+        },
+        {
+          "nome": "AGRO CANAL",
+          "descricao": "CANAIS ABERTOS",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/AGRO%20CANAL.PNG",
+          "urls": {
+            "fhd": "http://servidor/{user}/{pass}/208149.m3u8",
+            "hd": "http://servidor/{user}/{pass}/208149.m3u8",
+            "sd": "http://servidor/{user}/{pass}/208397.m3u8"
+          }
+        },
+        {
+          "nome": "CANAL DO BOI",
+          "descricao": "CANAIS ABERTOS",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/CANAL%20DO%20BOI.PNG",
+          "urls": {
+            "fhd": "http://servidor/{user}/{pass}/208152.m3u8",
+            "hd": "http://servidor/{user}/{pass}/208215.m3u8",
+            "sd": "http://servidor/{user}/{pass}/208384.m3u8"
+          }
+        },
+        {
+          "nome": "CANAL RURAL",
+          "descricao": "CANAIS ABERTOS",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/CANAL%20RURAL.PNG",
+          "urls": {
+            "fhd": "http://servidor/{user}/{pass}/208213.m3u8",
+            "hd": "http://servidor/{user}/{pass}/208424.m3u8",
+            "sd": "http://servidor/{user}/{pass}/208424.m3u8"
+          }
+        },
+        {
+          "nome": "CNT",
+          "descricao": "CANAIS ABERTOS",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/CNT.PNG",
+          "urls": {
+            "fhd": "http://servidor/{user}/{pass}/727306.m3u8",
+            "hd": "http://servidor/{user}/{pass}/727306.m3u8",
+            "sd": "http://servidor/{user}/{pass}/727306.m3u8"
+          }
+        },
+        {
+          "nome": "FUTURA",
+          "descricao": "CANAIS ABERTOS",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/FUTURA.PNG",
+          "urls": {
+            "fhd": "http://servidor/{user}/{pass}/727280.m3u8",
+            "hd": "http://servidor/{user}/{pass}/102395.m3u8",
+            "sd": "http://servidor/{user}/{pass}/102394.m3u8"
+          }
+        },
+        {
+          "nome": "REDE BRASIL",
+          "descricao": "CANAIS ABERTOS",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/REDE%20BRASIL.PNG",
+          "urls": {
+            "fhd": "http://servidor/{user}/{pass}/208211.m3u8",
+            "hd": "http://servidor/{user}/{pass}/208211.m3u8",
+            "sd": "http://servidor/{user}/{pass}/208416.m3u8"
+          }
+        },
+        {
+          "nome": "TERRA VIVA",
+          "descricao": "CANAIS ABERTOS",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/TERRA%20VIVA.PNG",
+          "urls": {
+            "fhd": "http://servidor/{user}/{pass}/208189.m3u8",
+            "hd": "http://servidor/{user}/{pass}/208190.m3u8",
+            "sd": "http://servidor/{user}/{pass}/208425.m3u8"
+          }
+        },
+        {
+          "nome": "TV BRASIL",
+          "descricao": "CANAIS ABERTOS",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/TV%20BRASIL.PNG",
+          "urls": {
+            "fhd": "http://servidor/{user}/{pass}/102400.m3u8",
+            "hd": "http://servidor/{user}/{pass}/102401.m3u8",
+            "sd": "http://servidor/{user}/{pass}/102402.m3u8"
+          }
+        },
+        {
+          "nome": "TV CAMARA",
+          "descricao": "CANAIS ABERTOS",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/TV%20CAMARA.PNG",
+          "urls": {
+            "fhd": "http://servidor/{user}/{pass}/102404.m3u8",
+            "hd": "http://servidor/{user}/{pass}/102405.m3u8",
+            "sd": "http://servidor/{user}/{pass}/102403.m3u8"
+          }
+        },
+        {
+          "nome": "TV CULTURA",
+          "descricao": "CANAIS ABERTOS",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/TV%20CULTURA.PNG",
+          "urls": {
+            "fhd": "http://servidor/{user}/{pass}/208156.m3u8",
+            "hd": "http://servidor/{user}/{pass}/102406.m3u8",
+            "sd": "http://servidor/{user}/{pass}/102407.m3u8"
+          }
+        },
+        {
+          "nome": "TV GAZETA",
+          "descricao": "CANAIS ABERTOS",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/TV%20GAZETA.PNG",
+          "urls": {
+            "fhd": "http://servidor/{user}/{pass}/208196.m3u8",
+            "hd": "http://servidor/{user}/{pass}/208197.m3u8",
+            "sd": "http://servidor/{user}/{pass}/208197.m3u8"
+          }
+        },
+        {
+          "nome": "BOA VONTADE TV",
+          "descricao": "CANAIS ABERTOS",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/BOA%20VONTADE%20TV.png",
+          "urls": {
+            "fhd": "http://servidor/{user}/{pass}/99367.m3u8",
+            "hd": "http://servidor/{user}/{pass}/99376",
+            "sd": "http://servidor/{user}/{pass}/99366.m3u8\""
+          }
+        },
+        {
+          "nome": "CANAL BRASIL",
+          "descricao": "CANAIS ABERTOS",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/CANAL%20BRASIL.PNG",
+          "urls": {
+            "fhd": "http://servidor/{user}/{pass}/101977.m3u8",
+            "hd": "http://servidor/{user}/{pass}/101978.m3u8",
+            "sd": "http://servidor/{user}/{pass}/101979.m3u8"
+          }
+        },
+        {
+          "nome": "CANCAO NOVA",
+          "descricao": "CANAIS ABERTOS",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/CANCAO%20NOVA.png",
+          "urls": {
+            "fhd": "http://servidor/{user}/{pass}/99345.m3u8",
+            "hd": "http://servidor/{user}/{pass}/99363.m3u8",
+            "sd": "http://servidor/{user}/{pass}/99379.m3u8"
+          }
+        },
+        {
+          "nome": "CNT",
+          "descricao": "CANAIS ABERTOS",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/CNT.PNG",
+          "urls": {
+            "fhd": "http://servidor/{user}/{pass}/727306.m3u8",
+            "hd": "http://servidor/{user}/{pass}/727306.m3u8",
+            "sd": "http://servidor/{user}/{pass}/727306.m3u8"
+          }
+        },
+        {
+          "nome": "DOG TV",
+          "descricao": "CANAIS ABERTOS",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/DOG%20TV.png",
+          "urls": {
+            "fhd": "http://servidor/{user}/{pass}/94206.m3u8",
+            "hd": "http://servidor/{user}/{pass}/94207.m3u8",
+            "sd": "http://servidor/{user}/{pass}/94208.m3u8"
+          }
+        },
+        {
+          "nome": "GNT",
+          "descricao": "CANAIS ABERTOS",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/GNT.png",
+          "urls": {
+            "fhd": "http://servidor/{user}/{pass}/99949.m3u8",
+            "hd": "http://servidor/{user}/{pass}/99950.m3u8",
+            "sd": "http://servidor/{user}/{pass}/99951.m3u8"
+          }
+        },
+        {
+          "nome": "TV APARECIDA",
+          "descricao": "CANAIS ABERTOS",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/TV%20APARECIDA.png",
+          "urls": {
+            "fhd": "http://servidor/{user}/{pass}/99355.m3u8",
+            "hd": "http://servidor/{user}/{pass}/99356.m3u8",
+            "sd": "http://servidor/{user}/{pass}/208394.m3u8"
+          }
+        },
+        {
+          "nome": "TV ESCOLA",
+          "descricao": "CANAIS ABERTOS",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/TV%20ESCOLA%2002.jpeg",
+          "urls": {
+            "fhd": "http://servidor/{user}/{pass}/102410.m3u8",
+            "hd": "http://servidor/{user}/{pass}/102409.m3u8",
+            "sd": "http://servidor/{user}/{pass}/102409.m3u8"
+          }
+        },
+        {
+          "nome": "TV EVANGELIZAR",
+          "descricao": "CANAIS ABERTOS",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/TV%20EVANGELIZAR.jpeg",
+          "urls": {
+            "fhd": "http://servidor/{user}/{pass}/99369.m3u8",
+            "hd": "http://servidor/{user}/{pass}/99368.m3u8",
+            "sd": "http://servidor/{user}/{pass}/99380.m3u8"
+          }
+        },
+        {
+          "nome": "TV SENADO",
+          "descricao": "CANAIS ABERTOS",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/TV%20SENADO.png",
+          "urls": {
+            "fhd": "http://servidor/{user}/{pass}/102414.m3u8",
+            "hd": "http://servidor/{user}/{pass}/102414.m3u8",
+            "sd": "http://servidor/{user}/{pass}/102414.m3u8"
+          }
+        },
+        {
+          "nome": "VIVA",
+          "descricao": "CANAIS ABERTOS",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/VIVA.png",
+          "urls": {
+            "fhd": "http://servidor/{user}/{pass}/99964.m3u8",
+            "hd": "http://servidor/{user}/{pass}/99966.m3u8",
+            "sd": "http://servidor/{user}/{pass}/99966.m3u8"
+          }
+        },
+        {
+          "nome": "NATAÇÃO ADULTO",
+          "descricao": "CANAIS ABERTOS",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/NATA%C3%87%C3%83O%20ADULTO.png",
+          "urls": {
+            "fhd": "http://servidor/{user}/{pass}/4167168.m3u8",
+            "hd": "http://servidor/{user}/{pass}/4167168.m3u8",
+            "sd": "http://servidor/{user}/{pass}/4167169.m3u8"
+          }
+        },
+        {
+          "nome": "BBC",
+          "descricao": "CANAIS ABERTOS",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/BBC%20NEWS%2002.png",
+          "urls": {
+            "fhd": "http://servidor/{user}/{pass}/4167170.m3u8",
+            "hd": "http://servidor/{user}/{pass}/4167170.m3u8",
+            "sd": "http://servidor/{user}/{pass}/4167171.m3u8"
+          }
+        },
+        {
+          "nome": "TV ACRITICA",
+          "descricao": "CANAIS ABERTOS",
+          "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/TV%20ACRITICA.png",
+          "urls": {
+            "fhd": "http://servidor/{user}/{pass}/727294.m3u8",
+            "hd": "http://servidor/{user}/{pass}/727294.m3u8",
+            "sd": "http://servidor/{user}/{pass}/727295.m3u8"
+          }
+        }
+      ]
+    }
+  ],
+  "filmes": [],
+  "series": []
+}
