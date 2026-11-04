@@ -1,0 +1,157 @@
+{
+  "canais": [],
+  "filmes": [
+    {
+      "album": "♦️ Stand Up Comedy ✔️",
+      "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/filmes/Stand%20Up%20Comedy.png",
+      "subAlbuns": [],
+      "itens": [
+        {
+          "nome": "A Galera do Pretinho em Deixa eu te Falar",
+          "descricao": "A Galera do Pretinho em Deixa eu te Falar",
+          "capa": "https://imageup.me/images/db5a01d6-a25a-4ff5-b482-3f5d2eb34165.jpeg",
+          "url": "http://servidor/movie/{user}/{pass}/4838745.mp4"
+        },
+        {
+          "nome": "Afonso Padilha: Gerações",
+          "descricao": "Afonso Padilha: Gerações",
+          "capa": "https://image.tmdb.org/t/p/w780/e0e0pI3OoaNEfLx6z4FkUkzlJEK.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838744.mp4"
+        },
+        {
+          "nome": "Ary Toledo: Cê Senta",
+          "descricao": "Ary Toledo: Cê Senta",
+          "capa": "https://image.tmdb.org/t/p/w780/vuI6n1IrW6XjuiL54xRaFEhlcEh.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838741.mp4"
+        },
+        {
+          "nome": "Comedians Of The World - Afonso Padilha",
+          "descricao": "Comedians Of The World - Afonso Padilha",
+          "capa": "https://i.imgur.com/2UBKbeu.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838756.mp4"
+        },
+        {
+          "nome": "Comedians Of The World - Mhel Marrer",
+          "descricao": "Comedians Of The World - Mhel Marrer",
+          "capa": "https://i.imgur.com/2UBKbeu.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838755.mp4"
+        },
+        {
+          "nome": "Comedians Of The World - Thiago Ventura",
+          "descricao": "Comedians Of The World - Thiago Ventura",
+          "capa": "https://i.imgur.com/2UBKbeu.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838754.mp4"
+        },
+        {
+          "nome": "Dihh Lopes: Sem Maldade",
+          "descricao": "Dihh Lopes: Sem Maldade",
+          "capa": "https://image.tmdb.org/t/p/w780/xBtny4Z9x9IHUf7UcUkLEFdWe7A.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838749.mp4"
+        },
+        {
+          "nome": "Fábio Rabin: Tá Embaçado",
+          "descricao": "Fábio Rabin: Tá Embaçado",
+          "capa": "https://image.tmdb.org/t/p/w780/zuMSt0INgW7fd1e0hOuOYVx26Sw.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838740.mp4"
+        },
+        {
+          "nome": "Fritada Pablo Marcal",
+          "descricao": "Fritada Pablo Marcal",
+          "capa": "https://i.ibb.co/0C5b9jF/maxresdefault-1.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838742.mp4"
+        },
+        {
+          "nome": "Lugar de Mulher - Bruna Louise",
+          "descricao": "Lugar de Mulher - Bruna Louise",
+          "capa": "http://ocvtab.info/images/nxyKCdpI2WwWv6ea6cLAf6mx521_big.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838753.mp4"
+        },
+        {
+          "nome": "Lugar de Mulher - Carol Zoccoli",
+          "descricao": "Lugar de Mulher - Carol Zoccoli",
+          "capa": "http://ocvtab.info/images/nxyKCdpI2WwWv6ea6cLAf6mx521_big.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838750.mp4"
+        },
+        {
+          "nome": "Lugar de Mulher - Cintia Rosini",
+          "descricao": "Lugar de Mulher - Cintia Rosini",
+          "capa": "http://ocvtab.info/images/nxyKCdpI2WwWv6ea6cLAf6mx521_big.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838751.mp4"
+        },
+        {
+          "nome": "Lugar de Mulher - Micheli Machado",
+          "descricao": "Lugar de Mulher - Micheli Machado",
+          "capa": "http://ocvtab.info/images/nxyKCdpI2WwWv6ea6cLAf6mx521_big.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838752.mp4"
+        },
+        {
+          "nome": "Marcus Cirillo - A Verdadeira Virada de Ano",
+          "descricao": "Marcus Cirillo - A Verdadeira Virada de Ano",
+          "capa": "https://i.imgur.com/40oT68j.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838760.mp4"
+        },
+        {
+          "nome": "Murilo Couto: Leso",
+          "descricao": "Murilo Couto: Leso",
+          "capa": "https://image.tmdb.org/t/p/w780/4UMDeMLfX1Ycl0S1m4VZz0nrHsE.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838746.mp4"
+        },
+        {
+          "nome": "Nando Viana: Da Turma do Fundão desde 1981",
+          "descricao": "Nando Viana: Da Turma do Fundão desde 1981",
+          "capa": "https://image.tmdb.org/t/p/w780/fg9rKVS2MosiqUiK9Yl547qczkk.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838748.mp4"
+        },
+        {
+          "nome": "Rafinha Bastos Ultimato",
+          "descricao": "Rafinha Bastos Ultimato",
+          "capa": "https://image.tmdb.org/t/p/w780/yCbYPaIT2PhS1iIJXD3eySFaU3O.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838762.mp4"
+        },
+        {
+          "nome": "Renato Albani: O Plano Era Bom",
+          "descricao": "Renato Albani: O Plano Era Bom",
+          "capa": "https://image.tmdb.org/t/p/w780/pugW7dOiCG7MWv6JXZdgRPLyRkZ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838739.mp4"
+        },
+        {
+          "nome": "Rodrigo Marques: O Inimigo do Nível",
+          "descricao": "Rodrigo Marques: O Inimigo do Nível",
+          "capa": "https://image.tmdb.org/t/p/w780/miA6VI6fUANcvlQ4avvM7mCCldT.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838743.mp4"
+        },
+        {
+          "nome": "Thiago Ventura - Especial Isso E Tudo Que Eu Tenho",
+          "descricao": "Thiago Ventura - Especial Isso E Tudo Que Eu Tenho",
+          "capa": "https://i.imgur.com/ChDBWG9.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838759.mp4"
+        },
+        {
+          "nome": "Thiago Ventura - Só Agradece (2020)",
+          "descricao": "Thiago Ventura - Só Agradece (2020)",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gq47fNbjwYjrKFaK7XtzmY8Cqn1.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838758.mp4"
+        },
+        {
+          "nome": "Thiago Ventura: Modo Efetivo",
+          "descricao": "Thiago Ventura: Modo Efetivo",
+          "capa": "https://image.tmdb.org/t/p/w780/mNU5k7aOKVJ0klEiXwy9Q3CAnFP.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838738.mp4"
+        },
+        {
+          "nome": "Whindersson Nunes Adulto",
+          "descricao": "Whindersson Nunes Adulto",
+          "capa": "https://image.tmdb.org/t/p/w780/oilvqcZDNXpneiouCZEY2qZXmwp.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838761.mp4"
+        },
+        {
+          "nome": "Whindersson Nunes: Isso não é um culto",
+          "descricao": "Whindersson Nunes: Isso não é um culto",
+          "capa": "https://image.tmdb.org/t/p/w780/om3ojwYvXOkEifztuSIFKqUruly.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838747.mp4"
+        }
+      ]
+    }
+  ],
+  "series": []
+}
