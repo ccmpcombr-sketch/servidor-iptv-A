@@ -1,0 +1,421 @@
+{
+  "canais": [],
+  "filmes": [
+    {
+      "album": "♦️ Aventura ✔️",
+      "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/filmes/Aventura.png",
+      "subAlbuns": [],
+      "itens": [
+        {
+          "nome": "9: A Salvação",
+          "descricao": "9: A Salvação",
+          "capa": "https://image.tmdb.org/t/p/w780/6fe0PbMkDSaGEM6kj5RM5ToMuAL.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769853.mp4"
+        },
+        {
+          "nome": "A Bússola Mágica",
+          "descricao": "A Bússola Mágica",
+          "capa": "https://image.tmdb.org/t/p/w780/29aWzjCPOTvhglqLtSVf3MdJ81d.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769856.mp4"
+        },
+        {
+          "nome": "A Cidade Dourada",
+          "descricao": "A Cidade Dourada",
+          "capa": "https://image.tmdb.org/t/p/w780/fbcuQoaHYcapCnAKgHy8r9rZq7E.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769886.mp4"
+        },
+        {
+          "nome": "A Fera",
+          "descricao": "A Fera",
+          "capa": "https://image.tmdb.org/t/p/w780/gCP9R1jsU0Rk9MsZwAzVyF1wpDT.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769902.mp4"
+        },
+        {
+          "nome": "A Flauta Mágica",
+          "descricao": "A Flauta Mágica",
+          "capa": "https://image.tmdb.org/t/p/w780/5cSgFlXAMTv8M1jbfkJ25lqaLC1.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769875.mp4"
+        },
+        {
+          "nome": "A Irmandade do Dragão",
+          "descricao": "A Irmandade do Dragão",
+          "capa": "https://image.tmdb.org/t/p/w780/tXn6VkbTmH7wuoqCuTrTxmBPemG.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769909.mp4"
+        },
+        {
+          "nome": "A Lenda do Cavaleiro Negro",
+          "descricao": "A Lenda do Cavaleiro Negro",
+          "capa": "https://image.tmdb.org/t/p/w780/q4lnEYzPdvgvxFWlPGsdnDdbxEn.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769906.mp4"
+        },
+        {
+          "nome": "A Maldição de Bridge Hollow",
+          "descricao": "A Maldição de Bridge Hollow",
+          "capa": "https://image.tmdb.org/t/p/w780/f4hdxB3gErjNJtfWBU9rMdhiNbU.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769899.mp4"
+        },
+        {
+          "nome": "a Menina Chamada Passarinha",
+          "descricao": "a Menina Chamada Passarinha",
+          "capa": "https://image.tmdb.org/t/p/w780/oJG7Qjhhc8Tqh6SZhaaqneXmDxS.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769901.mp4"
+        },
+        {
+          "nome": "A Menina Invisível",
+          "descricao": "A Menina Invisível",
+          "capa": "https://image.tmdb.org/t/p/w780/ki7rdw9z0RR131eNy67xvI2bl3Q.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769884.mp4"
+        },
+        {
+          "nome": "A Múmia",
+          "descricao": "A Múmia",
+          "capa": "https://image.tmdb.org/t/p/w780/kyLGWOQT17uOJwYIn0sgj00vVPo.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769868.mp4"
+        },
+        {
+          "nome": "A Pequena Sereia",
+          "descricao": "A Pequena Sereia",
+          "capa": "https://image.tmdb.org/t/p/w780/yeo0MKX2cAE0Ge7qoeRCiMWvSjV.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769879.mp4"
+        },
+        {
+          "nome": "Acampamento Intergaláctico",
+          "descricao": "Acampamento Intergaláctico",
+          "capa": "https://image.tmdb.org/t/p/w780/bm77tBJy28DA1DzP7qExKOPWsEL.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769896.mp4"
+        },
+        {
+          "nome": "Aladdin",
+          "descricao": "Aladdin",
+          "capa": "https://image.tmdb.org/t/p/w780/eLFfl7vS8dkeG1hKp5mwbm37V83.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769874.mp4"
+        },
+        {
+          "nome": "Alice no Mundo da Internet",
+          "descricao": "Alice no Mundo da Internet",
+          "capa": "https://image.tmdb.org/t/p/w780/5TFbrqLvB6eCXSbe208SUVzAyBd.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769904.mp4"
+        },
+        {
+          "nome": "Arthur e a Vingança de Maltazard",
+          "descricao": "Arthur e a Vingança de Maltazard",
+          "capa": "https://image.tmdb.org/t/p/w780/qQ5I4Pwrtp4TBHdt7qIG0uguNRM.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769877.mp4"
+        },
+        {
+          "nome": "Arthur e os Minimoys",
+          "descricao": "Arthur e os Minimoys",
+          "capa": "https://image.tmdb.org/t/p/w780/4h8zDLrDJhZISdYVWVNLPl9WuW5.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769878.mp4"
+        },
+        {
+          "nome": "As Aventuras de Tadeo e a Tábua de Esmeralda",
+          "descricao": "As Aventuras de Tadeo e a Tábua de Esmeralda",
+          "capa": "https://image.tmdb.org/t/p/w780/9KADuZT3KwmCYIrmarPuGyGTriw.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769893.mp4"
+        },
+        {
+          "nome": "Aventura em Legacy Peak",
+          "descricao": "Aventura em Legacy Peak",
+          "capa": "https://image.tmdb.org/t/p/w780/9tMLvle4KpP210u647x5yQ4bTM3.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769876.mp4"
+        },
+        {
+          "nome": "Bruno e o Lobo",
+          "descricao": "Bruno e o Lobo",
+          "capa": "https://image.tmdb.org/t/p/w780/2JuVn3ryQl4SIfEnMWVmVrwZSze.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769869.mp4"
+        },
+        {
+          "nome": "Capitã Nova",
+          "descricao": "Capitã Nova",
+          "capa": "https://image.tmdb.org/t/p/w780/ktBMme7oOHPi2oY8t02OifrrYC1.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769914.mp4"
+        },
+        {
+          "nome": "Charlie: Um Cachorro Especial",
+          "descricao": "Charlie: Um Cachorro Especial",
+          "capa": "https://image.tmdb.org/t/p/w780/6jSjNlbScgnR4w8VSO0lcJdhHJI.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769867.mp4"
+        },
+        {
+          "nome": "Coração de Tinta: O Livro Mágico",
+          "descricao": "Coração de Tinta: O Livro Mágico",
+          "capa": "https://image.tmdb.org/t/p/w780/4VxEXnbDUdxOGAqdf5NjpR7WIiP.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769861.mp4"
+        },
+        {
+          "nome": "Destemida",
+          "descricao": "Destemida",
+          "capa": "https://image.tmdb.org/t/p/w780/7JGAiwq6s43aKHlJrM0ka0iOZcu.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769891.mp4"
+        },
+        {
+          "nome": "Dungeons & Dragons: Honra Entre Rebeldes",
+          "descricao": "Dungeons & Dragons: Honra Entre Rebeldes",
+          "capa": "https://image.tmdb.org/t/p/w780/tt23D7Mkg0dHhsWn3aN0hbslaFw.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769885.mp4"
+        },
+        {
+          "nome": "Em Busca do Anel Perdido",
+          "descricao": "Em Busca do Anel Perdido",
+          "capa": "https://image.tmdb.org/t/p/w780/ge3TbVIHZrnaWz2LKwtK5My7Flq.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769860.mp4"
+        },
+        {
+          "nome": "Em Busca do Barco Perdido",
+          "descricao": "Em Busca do Barco Perdido",
+          "capa": "https://image.tmdb.org/t/p/w780/5tx9EVz5p7WAvqzCdY5VrgukX1v.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769864.mp4"
+        },
+        {
+          "nome": "Fantasma e CIA",
+          "descricao": "Fantasma e CIA",
+          "capa": "https://image.tmdb.org/t/p/w780/8tGZbqePTre2AnpMeC1nqAHhLhZ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769890.mp4"
+        },
+        {
+          "nome": "Foxter & Max: Um Cachorro de Outro Mundo",
+          "descricao": "Foxter & Max: Um Cachorro de Outro Mundo",
+          "capa": "https://image.tmdb.org/t/p/w780/zmJNzjmWGwqKCNdUZ81mu53HtRg.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769857.mp4"
+        },
+        {
+          "nome": "Indiana Jones e A Relíquia do Destino",
+          "descricao": "Indiana Jones e A Relíquia do Destino",
+          "capa": "https://image.tmdb.org/t/p/w780/ohyBuxe8peJQSdoS5hw31VmKCZ4.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769870.mp4"
+        },
+        {
+          "nome": "Jim Knopf e Lucas: O Maquinista",
+          "descricao": "Jim Knopf e Lucas: O Maquinista",
+          "capa": "https://image.tmdb.org/t/p/w780/nXBMrG3Ubon72vxeg6HC8D23h0m.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769898.mp4"
+        },
+        {
+          "nome": "Jim Knopf e os 13 Piratas",
+          "descricao": "Jim Knopf e os 13 Piratas",
+          "capa": "https://image.tmdb.org/t/p/w780/6DKRfX1gHnjiSyz0Kf8azP6kvLA.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769873.mp4"
+        },
+        {
+          "nome": "John e o Potrinho Mágico",
+          "descricao": "John e o Potrinho Mágico",
+          "capa": "https://image.tmdb.org/t/p/w780/t66a8QPn7V8NzxoDEA7IANc4ixI.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769895.mp4"
+        },
+        {
+          "nome": "Jurassic World: Domínio",
+          "descricao": "Jurassic World: Domínio",
+          "capa": "https://image.tmdb.org/t/p/w780/7qeiCNSmzrkcEyIWi8sIcsjrOyW.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769908.mp4"
+        },
+        {
+          "nome": "Kaamelott: Parte 1",
+          "descricao": "Kaamelott: Parte 1",
+          "capa": "https://image.tmdb.org/t/p/w780/4mcovnajaLoy7dbv5arykJjDFFC.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769905.mp4"
+        },
+        {
+          "nome": "King - Meu Melhor Amigo",
+          "descricao": "King - Meu Melhor Amigo",
+          "capa": "https://image.tmdb.org/t/p/w780/ac0qZT3oYnehEVJ2wtG5QSfKVs4.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769912.mp4"
+        },
+        {
+          "nome": "Lassie de Volta a Casa",
+          "descricao": "Lassie de Volta a Casa",
+          "capa": "https://image.tmdb.org/t/p/w780/1zzXwwxdKDly4u2VJP1amHeh4Ku.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769897.mp4"
+        },
+        {
+          "nome": "Max: O Cão Herói",
+          "descricao": "Max: O Cão Herói",
+          "capa": "https://image.tmdb.org/t/p/w780/30kFBE0I4sG9zum3Tv2wz9ulv8g.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769851.mp4"
+        },
+        {
+          "nome": "Meu Amigo Lutcha",
+          "descricao": "Meu Amigo Lutcha",
+          "capa": "https://image.tmdb.org/t/p/w780/9CbBbgftaC2fQYwHYMfrSXkKML0.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769888.mp4"
+        },
+        {
+          "nome": "Meu Cachorro é um Robô",
+          "descricao": "Meu Cachorro é um Robô",
+          "capa": "https://image.tmdb.org/t/p/w780/ds6Pqh14d8cxMUdveOEUIgngZof.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769855.mp4"
+        },
+        {
+          "nome": "Minha Babá é uma Vampira: O Filme",
+          "descricao": "Minha Babá é uma Vampira: O Filme",
+          "capa": "https://image.tmdb.org/t/p/w780/m8LQ72B83OoqmnHvm6vA8jXENVz.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769881.mp4"
+        },
+        {
+          "nome": "Monster High: O Filme",
+          "descricao": "Monster High: O Filme",
+          "capa": "https://image.tmdb.org/t/p/w780/9dUOgkKhmPjsJ4pi5QkES5AubRP.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769900.mp4"
+        },
+        {
+          "nome": "Náufragos em Luta",
+          "descricao": "Náufragos em Luta",
+          "capa": "https://image.tmdb.org/t/p/w780/cofVA8Y9yQWGXtZVDeYZuI7ioH4.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769846.mp4"
+        },
+        {
+          "nome": "O Clube do Tesouro",
+          "descricao": "O Clube do Tesouro",
+          "capa": "https://image.tmdb.org/t/p/w780/shKztvANU0Lqo1WB4QU6wT0cuft.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769862.mp4"
+        },
+        {
+          "nome": "O Elo Perdido",
+          "descricao": "O Elo Perdido",
+          "capa": "https://image.tmdb.org/t/p/w780/dnWHyuheFECYFDW8jWAU6xHiSLl.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769845.mp4"
+        },
+        {
+          "nome": "O Fantástico Sr. Raposo",
+          "descricao": "O Fantástico Sr. Raposo",
+          "capa": "https://image.tmdb.org/t/p/w780/1Ey4LYUzTqzizPNjcBi20pU9joC.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769865.mp4"
+        },
+        {
+          "nome": "O Mágico de Oz",
+          "descricao": "O Mágico de Oz",
+          "capa": "https://image.tmdb.org/t/p/w780/skT3EcFUSWSCpe7XUKTQR8ZTp57.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769866.mp4"
+        },
+        {
+          "nome": "O Rei da Montanha",
+          "descricao": "O Rei da Montanha",
+          "capa": "https://image.tmdb.org/t/p/w780/mS33kCNG2j5Wbc8A13kYJ1fTKRc.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769872.mp4"
+        },
+        {
+          "nome": "O Segredo de Mercator",
+          "descricao": "O Segredo de Mercator",
+          "capa": "https://image.tmdb.org/t/p/w780/S7F1B9HyltgbxAVPtErmRx8zmq.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769852.mp4"
+        },
+        {
+          "nome": "Os Reis da Rua Mulberry: Que Reine o Amor",
+          "descricao": "Os Reis da Rua Mulberry: Que Reine o Amor",
+          "capa": "https://image.tmdb.org/t/p/w780/3Tr5ziHzI6nEJyXwcyr0z29mA77.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769887.mp4"
+        },
+        {
+          "nome": "Osmose Jones - Uma Aventura Radical pelo Corpo Humano",
+          "descricao": "Osmose Jones - Uma Aventura Radical pelo Corpo Humano",
+          "capa": "https://image.tmdb.org/t/p/w780/vLHoUumoFz32rDuPWDpJv3RwlEM.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769863.mp4"
+        },
+        {
+          "nome": "Paddington: Uma Aventura na Floresta",
+          "descricao": "Paddington: Uma Aventura na Floresta",
+          "capa": "https://image.tmdb.org/t/p/w780/CGbayx5xToznAJhHJ3TTEHd4Sb.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769854.mp4"
+        },
+        {
+          "nome": "Passagem Secreta",
+          "descricao": "Passagem Secreta",
+          "capa": "https://image.tmdb.org/t/p/w780/1NB89sWY4coysIN9xyKMmJ3H7s0.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769907.mp4"
+        },
+        {
+          "nome": "Princesa por Acidente",
+          "descricao": "Princesa por Acidente",
+          "capa": "https://image.tmdb.org/t/p/w780/bzl8Z3PdFQscUI568ZvGb0y5d9U.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769903.mp4"
+        },
+        {
+          "nome": "Scooby-Doo! Gostosuras ou Travessuras",
+          "descricao": "Scooby-Doo! Gostosuras ou Travessuras",
+          "capa": "https://image.tmdb.org/t/p/w780/iauo38WI2GhdGAvplbzV6Q8ErWY.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769894.mp4"
+        },
+        {
+          "nome": "Scooby-Doo: O Filme",
+          "descricao": "Scooby-Doo: O Filme",
+          "capa": "https://image.tmdb.org/t/p/w780/Nu9v0wUacgq73ggOAKsz4ZtZ2K.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769883.mp4"
+        },
+        {
+          "nome": "Show Dogs: O Agente Canino",
+          "descricao": "Show Dogs: O Agente Canino",
+          "capa": "https://image.tmdb.org/t/p/w780/x7xXm9EDs5YTnGjczAATJ5jsown.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769847.mp4"
+        },
+        {
+          "nome": "Slime - Uma Aventura Pegajosa",
+          "descricao": "Slime - Uma Aventura Pegajosa",
+          "capa": "https://image.tmdb.org/t/p/w780/1rRpwNLat3lZI5zG4zLtTNn8lGj.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769859.mp4"
+        },
+        {
+          "nome": "Sr. Carrinho e os Cavaleiros Templários",
+          "descricao": "Sr. Carrinho e os Cavaleiros Templários",
+          "capa": "https://image.tmdb.org/t/p/w780/qWuCK5h5o7pQDILZgQYHSIc59TX.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769880.mp4"
+        },
+        {
+          "nome": "Tarzan Vai à Índia",
+          "descricao": "Tarzan Vai à Índia",
+          "capa": "https://image.tmdb.org/t/p/w780/wds220kRFoZs69hLsRAtBZFZH58.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769850.mp4"
+        },
+        {
+          "nome": "Tempestade",
+          "descricao": "Tempestade",
+          "capa": "https://image.tmdb.org/t/p/w780/aaHhadaBgc2sYiQ8HH3lMh1EpdC.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769889.mp4"
+        },
+        {
+          "nome": "Travessuras de Natal",
+          "descricao": "Travessuras de Natal",
+          "capa": "https://image.tmdb.org/t/p/w780/ciJjvlmAPwMYI7fk4Ybil8ZSAvG.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769871.mp4"
+        },
+        {
+          "nome": "Um Garoto no Palácio de Aladdin",
+          "descricao": "Um Garoto no Palácio de Aladdin",
+          "capa": "https://image.tmdb.org/t/p/w780/o7FvvU9nLcQWjMhvq02RLT4weRt.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769849.mp4"
+        },
+        {
+          "nome": "Um Mundo Encantado",
+          "descricao": "Um Mundo Encantado",
+          "capa": "https://image.tmdb.org/t/p/w780/r3RRu2joBRWoKh5Qb4vdLuBpcPm.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769913.mp4"
+        },
+        {
+          "nome": "Uma Aventura Entre Irmãos",
+          "descricao": "Uma Aventura Entre Irmãos",
+          "capa": "https://image.tmdb.org/t/p/w780/8BLdM0zzEbB1WcnBXrc8lc41heS.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769848.mp4"
+        },
+        {
+          "nome": "Uma Jornada Mágica",
+          "descricao": "Uma Jornada Mágica",
+          "capa": "https://image.tmdb.org/t/p/w780/wCMuH4tQHJGSJ0GAJUFAugoB6jr.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769892.mp4"
+        },
+        {
+          "nome": "Uma Tia da Pesada",
+          "descricao": "Uma Tia da Pesada",
+          "capa": "https://image.tmdb.org/t/p/w780/2Hqi5IFKksTwmTnXmCk43aHaYej.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769910.mp4"
+        },
+        {
+          "nome": "Uma Viagem Extraordinária",
+          "descricao": "Uma Viagem Extraordinária",
+          "capa": "https://image.tmdb.org/t/p/w780/iwghCDjSoP8dw5r3YYDKgesrrpk.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769882.mp4"
+        }
+      ]
+    }
+  ],
+  "series": []
+}
