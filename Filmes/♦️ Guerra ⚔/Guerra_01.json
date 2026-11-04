@@ -1,0 +1,859 @@
+{
+  "canais": [],
+  "filmes": [
+    {
+      "album": "♦️ Guerra ⚔",
+      "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/filmes/Guerra.png",
+      "subAlbuns": [],
+      "itens": [
+        {
+          "nome": "13 Noites",
+          "descricao": "13 Noites",
+          "capa": "https://image.tmdb.org/t/p/w780/FKoZ8hkkR1FqRjP8IYz3Xgps3b.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822590.mp4"
+        },
+        {
+          "nome": "100 Dias de Resistência",
+          "descricao": "100 Dias de Resistência",
+          "capa": "https://image.tmdb.org/t/p/w780/naG6PCVZupvYaOf9kGgKd2MVZRZ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822719.mp4"
+        },
+        {
+          "nome": "A Batalha das Ardenas: A Última Ofensiva de Hitler",
+          "descricao": "A Batalha das Ardenas: A Última Ofensiva de Hitler",
+          "capa": "https://image.tmdb.org/t/p/w780/brVPZyqIdTAScO8vg1Au8fbsd0b.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822709.mp4"
+        },
+        {
+          "nome": "A Conquista da Honra",
+          "descricao": "A Conquista da Honra",
+          "capa": "https://image.tmdb.org/t/p/w780/ru8jduqNxGQfccVKYcJ5doKau34.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822657.mp4"
+        },
+        {
+          "nome": "A Corte Marcial Da Nave Da Revolta",
+          "descricao": "A Corte Marcial Da Nave Da Revolta",
+          "capa": "https://image.tmdb.org/t/p/w780/jii0CWMcjFmCfrTXsRyMuwjlNY3.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822680.mp4"
+        },
+        {
+          "nome": "A Disputa",
+          "descricao": "A Disputa",
+          "capa": "https://image.tmdb.org/t/p/w780/qjnFtcmmaO3j87feotRtFta7vmM.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822621.mp4"
+        },
+        {
+          "nome": "A Era de Kasym",
+          "descricao": "A Era de Kasym",
+          "capa": "https://image.tmdb.org/t/p/w780/eKDT8G4qWNqpe889WFOHTyuWusk.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822636.mp4"
+        },
+        {
+          "nome": "À Espreita",
+          "descricao": "À Espreita",
+          "capa": "https://image.tmdb.org/t/p/w780/qfglisVh5Nmo1nGYCoMzqyZUWcz.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822699.mp4"
+        },
+        {
+          "nome": "A Face da Guerra",
+          "descricao": "A Face da Guerra",
+          "capa": "https://image.tmdb.org/t/p/w780/3uTyEas5u5zfzwsSCX3yMBd6Mww.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822662.mp4"
+        },
+        {
+          "nome": "A Fortuna de Escobar",
+          "descricao": "A Fortuna de Escobar",
+          "capa": "https://image.tmdb.org/t/p/w780/xbhskNIkQTyxoLvruk1R3uZZkme.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822591.mp4"
+        },
+        {
+          "nome": "A Grande Fuga",
+          "descricao": "A Grande Fuga",
+          "capa": "https://image.tmdb.org/t/p/w780/lU1sqCOEDLUAG7tcRfBVVHEKqc1.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822669.mp4"
+        },
+        {
+          "nome": "A Guerra Diante dos Meus Olhos",
+          "descricao": "A Guerra Diante dos Meus Olhos",
+          "capa": "https://image.tmdb.org/t/p/w780/1neA1bs9KL9i8YkPMpigk0J5k53.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822616.mp4"
+        },
+        {
+          "nome": "A Guerreira Chinesa",
+          "descricao": "A Guerreira Chinesa",
+          "capa": "https://image.tmdb.org/t/p/w780/qA9irK7Hog7VAn4CfjcYjtCzb7M.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822668.mp4"
+        },
+        {
+          "nome": "A Irmandade da Guerra",
+          "descricao": "A Irmandade da Guerra",
+          "capa": "https://image.tmdb.org/t/p/w780/gqGZehMFRo2fnrSxWUitCH8cLfi.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822714.mp4"
+        },
+        {
+          "nome": "A Rainha Guerreira",
+          "descricao": "A Rainha Guerreira",
+          "capa": "https://image.tmdb.org/t/p/w780/zXiqgwerUrAtIzVL9OyRcG90oTh.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822688.mp4"
+        },
+        {
+          "nome": "A Revolução Romena",
+          "descricao": "A Revolução Romena",
+          "capa": "https://image.tmdb.org/t/p/w780/i0GVbBm0GvV7MO1XWjC4yaZWHmn.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822625.mp4"
+        },
+        {
+          "nome": "A Sniper Russa",
+          "descricao": "A Sniper Russa",
+          "capa": "https://image.tmdb.org/t/p/w780/6Rj2CW7ZaNOcEhGKndXka2p86s4.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822676.mp4"
+        },
+        {
+          "nome": "A Última Esperança Soviética",
+          "descricao": "A Última Esperança Soviética",
+          "capa": "https://image.tmdb.org/t/p/w780/dYAIG6RxtSRPcge3Rzw9fxPSUzE.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822695.mp4"
+        },
+        {
+          "nome": "A Última Linha de Defesa",
+          "descricao": "A Última Linha de Defesa",
+          "capa": "https://image.tmdb.org/t/p/w780/qESC7AdyfqMwYl1ZhQpp5d5iJiG.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822685.mp4"
+        },
+        {
+          "nome": "Abaixo da Superfície",
+          "descricao": "Abaixo da Superfície",
+          "capa": "https://image.tmdb.org/t/p/w780/gAkKXGk7ohoUd5MpYJjsYPrCPfH.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822652.mp4"
+        },
+        {
+          "nome": "Acima das Linhas Inimigas",
+          "descricao": "Acima das Linhas Inimigas",
+          "capa": "https://image.tmdb.org/t/p/w780/sUz7EJ0Ec9vw8g9i2BmymwvzJjo.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822672.mp4"
+        },
+        {
+          "nome": "Além da Escuridão",
+          "descricao": "Além da Escuridão",
+          "capa": "https://image.tmdb.org/t/p/w780/edAu8TypWbX1XQ39bMUjCnT2jzV.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822703.mp4"
+        },
+        {
+          "nome": "Alerta Vermelho",
+          "descricao": "Alerta Vermelho",
+          "capa": "https://image.tmdb.org/t/p/w780/pe17f8VDfzbvbHSAKAlcORtBHmW.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822607.mp4"
+        },
+        {
+          "nome": "Almirante Yamamoto: A Batalha de Pearl Harbour",
+          "descricao": "Almirante Yamamoto: A Batalha de Pearl Harbour",
+          "capa": "https://image.tmdb.org/t/p/w780/dfSUYrZ6BVIA7CbV7Hz38UsxIGz.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822598.mp4"
+        },
+        {
+          "nome": "Amor em Tempos de Ódio",
+          "descricao": "Amor em Tempos de Ódio",
+          "capa": "https://image.tmdb.org/t/p/w780/7ZGqze3H7kNIIKZxWYf60Eng5jX.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822705.mp4"
+        },
+        {
+          "nome": "Anjos Do Desierto",
+          "descricao": "Anjos Do Desierto",
+          "capa": "https://image.tmdb.org/t/p/w780/nzq4o4aLy29Qg9GXqiILCJM7Y9p.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822631.mp4"
+        },
+        {
+          "nome": "Apocalypse Now",
+          "descricao": "Apocalypse Now",
+          "capa": "https://image.tmdb.org/t/p/w780/veXttPnNe8EZulvmeGTyDUrG9T4.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822609.mp4"
+        },
+        {
+          "nome": "As Legiões Emergentes",
+          "descricao": "As Legiões Emergentes",
+          "capa": "https://image.tmdb.org/t/p/w780/vgUoejL9fMVfXylBPekyEInOsnQ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822713.mp4"
+        },
+        {
+          "nome": "Ataque à Colina 400",
+          "descricao": "Ataque à Colina 400",
+          "capa": "https://image.tmdb.org/t/p/w780/7ZtIxZp4tf0Gp5JtVKV4iCShTrg.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822679.mp4"
+        },
+        {
+          "nome": "Até o Limite da Honra",
+          "descricao": "Até o Limite da Honra",
+          "capa": "https://image.tmdb.org/t/p/w780/i8u0gaNBI7TTkxKkqjUTSpAtE5F.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822694.mp4"
+        },
+        {
+          "nome": "Até o Último Obstáculo",
+          "descricao": "Até o Último Obstáculo",
+          "capa": "https://image.tmdb.org/t/p/w780/lGBkMNBe4BCCmSe9Vt7CLWcMwQP.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822615.mp4"
+        },
+        {
+          "nome": "Batalha Aérea",
+          "descricao": "Batalha Aérea",
+          "capa": "https://image.tmdb.org/t/p/w780/8aRl9fIIjCiOc7dREwcXSEmKbQS.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822667.mp4"
+        },
+        {
+          "nome": "Batalha na Fronteira Norte",
+          "descricao": "Batalha na Fronteira Norte",
+          "capa": "https://image.tmdb.org/t/p/w780/8KvKMeT52xBALpB1VY8zpnh2Y4v.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822595.mp4"
+        },
+        {
+          "nome": "Batalhão 6888",
+          "descricao": "Batalhão 6888",
+          "capa": "https://image.tmdb.org/t/p/w780/hSIXnORYGY3mvmxeo1JMzSnX6Yz.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822654.mp4"
+        },
+        {
+          "nome": "Beasts of No Nation",
+          "descricao": "Beasts of No Nation",
+          "capa": "https://image.tmdb.org/t/p/w780/buCUqL6iF8dtnYYrKGbPX2GrwL2.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822661.mp4"
+        },
+        {
+          "nome": "Blitz",
+          "descricao": "Blitz",
+          "capa": "https://image.tmdb.org/t/p/w780/qjqmhhc7uLub22mhu4V6DjOBwXM.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822659.mp4"
+        },
+        {
+          "nome": "Caminhos da Sobrevivência",
+          "descricao": "Caminhos da Sobrevivência",
+          "capa": "https://image.tmdb.org/t/p/w780/FSFhUQD96WlDLfYfheod05WOQo.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822689.mp4"
+        },
+        {
+          "nome": "Casa de Dinamite",
+          "descricao": "Casa de Dinamite",
+          "capa": "https://image.tmdb.org/t/p/w780/rXo2FotSlBMg1MynsV276QIskN9.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822612.mp4"
+        },
+        {
+          "nome": "Che: O Argentino",
+          "descricao": "Che: O Argentino",
+          "capa": "https://image.tmdb.org/t/p/w780/ekUpkM5tStkZuzpIzg77PbkG6SM.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822633.mp4"
+        },
+        {
+          "nome": "Códigos de Guerra",
+          "descricao": "Códigos de Guerra",
+          "capa": "https://image.tmdb.org/t/p/w780/yEHEAa0dP56gGbQb4A21QYu4uHP.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822707.mp4"
+        },
+        {
+          "nome": "Codinome: Banderas",
+          "descricao": "Codinome: Banderas",
+          "capa": "https://image.tmdb.org/t/p/w780/dBUXcKPe4od2yRAYN4wUUdmahBF.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822674.mp4"
+        },
+        {
+          "nome": "Comboio 48: A Última Resistência",
+          "descricao": "Comboio 48: A Última Resistência",
+          "capa": "https://image.tmdb.org/t/p/w780/xSF9LRDRoie7YNwMT1yAfJ8IWNz.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822727.mp4"
+        },
+        {
+          "nome": "Consequências",
+          "descricao": "Consequências",
+          "capa": "https://image.tmdb.org/t/p/w780/6dBd8MEKEEAfvIOFfGvvaFSx0Kb.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822613.mp4"
+        },
+        {
+          "nome": "Coragem Sem Limites",
+          "descricao": "Coragem Sem Limites",
+          "capa": "https://image.tmdb.org/t/p/w780/aAB0Twce1wryIaUY1CC88Xj81N2.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822677.mp4"
+        },
+        {
+          "nome": "Corruptos e Sanguinários",
+          "descricao": "Corruptos e Sanguinários",
+          "capa": "https://image.tmdb.org/t/p/w780/ffSgwjvw8cgPDOpAAWZNDjyklyi.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822646.mp4"
+        },
+        {
+          "nome": "Corvo Branco",
+          "descricao": "Corvo Branco",
+          "capa": "https://image.tmdb.org/t/p/w780/1zNcJWXQYgMDAF3pNoqxU47FHfc.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822702.mp4"
+        },
+        {
+          "nome": "Deixando o Afeganistão",
+          "descricao": "Deixando o Afeganistão",
+          "capa": "https://image.tmdb.org/t/p/w780/k7ITNM3zLK6FhRlfG1yi0oIAQQv.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822712.mp4"
+        },
+        {
+          "nome": "Em Busca do Cálice Sagrado",
+          "descricao": "Em Busca do Cálice Sagrado",
+          "capa": "https://image.tmdb.org/t/p/w780/GGaWFbLZvCEja7StT4d4UC1vLG.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822647.mp4"
+        },
+        {
+          "nome": "Equipe Assassina",
+          "descricao": "Equipe Assassina",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xT70KxeANZBrVQsH33rlVAa77xs.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822611.mp4"
+        },
+        {
+          "nome": "Escuridão",
+          "descricao": "Escuridão",
+          "capa": "https://image.tmdb.org/t/p/w780/iQF2ezkmkF3teT1WsA0hFzm76jk.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822687.mp4"
+        },
+        {
+          "nome": "Faces da Guerra",
+          "descricao": "Faces da Guerra",
+          "capa": "https://image.tmdb.org/t/p/w780/fXBWM0Swd8YEbKcwAIFti1B5RB3.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822596.mp4"
+        },
+        {
+          "nome": "Glória Feita de Sangue",
+          "descricao": "Glória Feita de Sangue",
+          "capa": "https://image.tmdb.org/t/p/w780/3tn73tCktCnZ9CkiUms2cJC4BKt.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822594.mp4"
+        },
+        {
+          "nome": "Golda - A Mulher de uma Nação",
+          "descricao": "Golda - A Mulher de uma Nação",
+          "capa": "https://image.tmdb.org/t/p/w780/sDVD8YkzeRUfvslY7jMwodjDdnD.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822628.mp4"
+        },
+        {
+          "nome": "Guerra 2",
+          "descricao": "Guerra 2",
+          "capa": "https://image.tmdb.org/t/p/w780/fv4tSQb0ukuNcGHcxBsMSmxiXpV.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822604.mp4"
+        },
+        {
+          "nome": "Guerra Civil",
+          "descricao": "Guerra Civil",
+          "capa": "https://image.tmdb.org/t/p/w780/fIEjqQnnkxwUH102XU9R3QwRGEu.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822673.mp4"
+        },
+        {
+          "nome": "Guerra Sem Regras",
+          "descricao": "Guerra Sem Regras",
+          "capa": "https://image.tmdb.org/t/p/w780/oVC6BPY8DlvjssARKyDVDEWFw27.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822670.mp4"
+        },
+        {
+          "nome": "Guerreiras do Ar",
+          "descricao": "Guerreiras do Ar",
+          "capa": "https://image.tmdb.org/t/p/w780/tJBnfoUCCJA2BUoSh88vBFZdMb3.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822605.mp4"
+        },
+        {
+          "nome": "Hamburger Hill",
+          "descricao": "Hamburger Hill",
+          "capa": "https://image.tmdb.org/t/p/w780/u2ZbbYAhsfzFVdUB8co9lHr1xO6.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822588.mp4"
+        },
+        {
+          "nome": "Heróis do Amanhecer",
+          "descricao": "Heróis do Amanhecer",
+          "capa": "https://image.tmdb.org/t/p/w780/17BlmWEnUKoYq4tiNRh0T9EpcC0.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822639.mp4"
+        },
+        {
+          "nome": "II Guerra Mundial Filmes Perdidos: A Guerra no Ar",
+          "descricao": "II Guerra Mundial Filmes Perdidos: A Guerra no Ar",
+          "capa": "https://image.tmdb.org/t/p/w780/9Pln5epyS37fVZAsfirKifHsUs8.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822620.mp4"
+        },
+        {
+          "nome": "Indivisível",
+          "descricao": "Indivisível",
+          "capa": "https://image.tmdb.org/t/p/w780/uBxo5pQWj08sEVr664F5DV71Rme.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822653.mp4"
+        },
+        {
+          "nome": "Inferno no Gelo",
+          "descricao": "Inferno no Gelo",
+          "capa": "https://image.tmdb.org/t/p/w780/y4EL88PYlAu74PwP5jOo3xTtGOt.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822664.mp4"
+        },
+        {
+          "nome": "Inimigo Invisível",
+          "descricao": "Inimigo Invisível",
+          "capa": "https://image.tmdb.org/t/p/w780/5AE9KrZWBUo0GUlYkxcSsToRlhF.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822592.mp4"
+        },
+        {
+          "nome": "Inverno em Chamas",
+          "descricao": "Inverno em Chamas",
+          "capa": "https://image.tmdb.org/t/p/w780/hcfDoTS3Cjy1RQml6WyGBsDDOhY.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822627.mp4"
+        },
+        {
+          "nome": "Irmãos de Guerra",
+          "descricao": "Irmãos de Guerra",
+          "capa": "https://image.tmdb.org/t/p/w780/nSi8DWINHKY3uSg2o9IORDSKDay.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822693.mp4"
+        },
+        {
+          "nome": "Irmãos de Honra",
+          "descricao": "Irmãos de Honra",
+          "capa": "https://image.tmdb.org/t/p/w780/nQzgLJQu4Xrx0WR7cvBdnl0ah7o.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822716.mp4"
+        },
+        {
+          "nome": "Irmãos em Tempos de Guerra",
+          "descricao": "Irmãos em Tempos de Guerra",
+          "capa": "https://image.tmdb.org/t/p/w780/rkV3e2VGVgkEsnRBLOJft3vDfo1.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822602.mp4"
+        },
+        {
+          "nome": "Lados Opostos",
+          "descricao": "Lados Opostos",
+          "capa": "https://image.tmdb.org/t/p/w780/4LLBtwwAqMfou51XQax0Axr2dSo.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822692.mp4"
+        },
+        {
+          "nome": "Lee",
+          "descricao": "Lee",
+          "capa": "https://image.tmdb.org/t/p/w780/zmT8ZQjA8QiZubRGxuRy81lZG9i.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822644.mp4"
+        },
+        {
+          "nome": "Máquina de Guerra",
+          "descricao": "Máquina de Guerra",
+          "capa": "https://image.tmdb.org/t/p/w780/48h40o6Q97hZaqH0g7bOiXOrImX.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822593.mp4"
+        },
+        {
+          "nome": "Mariya - O Simbolo de Uma Guerra",
+          "descricao": "Mariya - O Simbolo de Uma Guerra",
+          "capa": "https://image.tmdb.org/t/p/w780/tKhZ07SBiTaCljSOXyseUrzQQfJ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822726.mp4"
+        },
+        {
+          "nome": "MASH",
+          "descricao": "MASH",
+          "capa": "https://image.tmdb.org/t/p/w780/sGT8KMnARjnv3ODPF1QfdBtnPGr.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822630.mp4"
+        },
+        {
+          "nome": "Na Mira do Atirador",
+          "descricao": "Na Mira do Atirador",
+          "capa": "https://image.tmdb.org/t/p/w780/gRbvXParI3ZdEtsFxlGOQNaQBUQ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822700.mp4"
+        },
+        {
+          "nome": "Nada de Novo no Front",
+          "descricao": "Nada de Novo no Front",
+          "capa": "https://image.tmdb.org/t/p/w780/qmcKs0Aoft7MBdBoj1haZyPRgM2.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822718.mp4"
+        },
+        {
+          "nome": "Napoleão",
+          "descricao": "Napoleão",
+          "capa": "https://image.tmdb.org/t/p/w780/2UY2xfkgw9EgOOyA7ro3eyGJ9V9.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822691.mp4"
+        },
+        {
+          "nome": "Narvik",
+          "descricao": "Narvik",
+          "capa": "https://image.tmdb.org/t/p/w780/lutKUOeedR5TZdfuMbD4fcAy64b.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822715.mp4"
+        },
+        {
+          "nome": "Nascido Para Matar",
+          "descricao": "Nascido Para Matar",
+          "capa": "https://image.tmdb.org/t/p/w780/qHm54HjL1F6CFVyYOz6Q2HAPTfS.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822626.mp4"
+        },
+        {
+          "nome": "Negociando com o Inimigo",
+          "descricao": "Negociando com o Inimigo",
+          "capa": "https://image.tmdb.org/t/p/w780/pW6gJtLujvHKCL4fQ95Ea5N9X66.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822660.mp4"
+        },
+        {
+          "nome": "Número 24",
+          "descricao": "Número 24",
+          "capa": "https://image.tmdb.org/t/p/w780/jB096esffwNRFO65QcNTAPAfIX0.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822651.mp4"
+        },
+        {
+          "nome": "O Atirador 4",
+          "descricao": "O Atirador 4",
+          "capa": "https://image.tmdb.org/t/p/w780/vlftZ2EqKKjpiKW5f4SqHGfOxt2.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822675.mp4"
+        },
+        {
+          "nome": "O Bandido de Kandahar",
+          "descricao": "O Bandido de Kandahar",
+          "capa": "https://image.tmdb.org/t/p/w780/cDAIGPjBjVLfDR5MtUckqdYrmi6.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822606.mp4"
+        },
+        {
+          "nome": "O Barco: Inferno no Mar",
+          "descricao": "O Barco: Inferno no Mar",
+          "capa": "https://image.tmdb.org/t/p/w780/5ZYw60u95SxaLWY6YjoVoRaQKfg.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822642.mp4"
+        },
+        {
+          "nome": "O Destemido Senhor da Guerra",
+          "descricao": "O Destemido Senhor da Guerra",
+          "capa": "https://image.tmdb.org/t/p/w780/ztSXQQXnBkMPo6hBqZFuIcs0UbB.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822656.mp4"
+        },
+        {
+          "nome": "O Dia da Invasão",
+          "descricao": "O Dia da Invasão",
+          "capa": "https://image.tmdb.org/t/p/w780/6vDUjlBmMZEDZdT8pqBughuKul3.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822629.mp4"
+        },
+        {
+          "nome": "O Fantasma Vermelho",
+          "descricao": "O Fantasma Vermelho",
+          "capa": "https://image.tmdb.org/t/p/w780/7OpcrpuTSYOXd5IGfcPPPjbzNhm.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822724.mp4"
+        },
+        {
+          "nome": "O Franco Atirador",
+          "descricao": "O Franco Atirador",
+          "capa": "https://image.tmdb.org/t/p/w780/xjeaIyoZOWnPCX5E1JvzmkNv4QC.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822608.mp4"
+        },
+        {
+          "nome": "O Herói do Holocausto",
+          "descricao": "O Herói do Holocausto",
+          "capa": "https://image.tmdb.org/t/p/w780/xrSyVLzZcLNEU5uvR81eg0ml3Ei.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822663.mp4"
+        },
+        {
+          "nome": "O Infiltrado",
+          "descricao": "O Infiltrado",
+          "capa": "https://image.tmdb.org/t/p/w780/8Yesp1pUKqtm3Ygg1vOnXNxcCr2.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822650.mp4"
+        },
+        {
+          "nome": "O Mensageiro",
+          "descricao": "O Mensageiro",
+          "capa": "https://image.tmdb.org/t/p/w780/32FCYq1U1qfnWR85AycGpRrJ0MT.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822711.mp4"
+        },
+        {
+          "nome": "O Mundo Irá Tremer",
+          "descricao": "O Mundo Irá Tremer",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2VMQnBkGgg2UJM8b3fTJ5X3lyaE.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822601.mp4"
+        },
+        {
+          "nome": "O Pacto",
+          "descricao": "O Pacto",
+          "capa": "https://image.tmdb.org/t/p/w780/pTQZT9R6YjKrweJ0llPtq57j1Z0.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822708.mp4"
+        },
+        {
+          "nome": "O Piloto - Uma Batalha Pela Sobrevivência",
+          "descricao": "O Piloto - Uma Batalha Pela Sobrevivência",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6dw1PE6CiexFkpGc0ZjXKwVucpJ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822697.mp4"
+        },
+        {
+          "nome": "O Resgate: O Dia da Redenção",
+          "descricao": "O Resgate: O Dia da Redenção",
+          "capa": "https://image.tmdb.org/t/p/w780/pB3bVpghYknmwII295HQRQVlbVw.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822643.mp4"
+        },
+        {
+          "nome": "O Sexto Ônibus",
+          "descricao": "O Sexto Ônibus",
+          "capa": "https://image.tmdb.org/t/p/w780/7FmU7GOV6fEUO4fNZRD5vwemMzM.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822684.mp4"
+        },
+        {
+          "nome": "O Silêncio na Noite",
+          "descricao": "O Silêncio na Noite",
+          "capa": "https://image.tmdb.org/t/p/w780/tnIl6PPOVUS2uPTWpZYZ09UgXhp.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822658.mp4"
+        },
+        {
+          "nome": "O Soldado que Não Existiu",
+          "descricao": "O Soldado que Não Existiu",
+          "capa": "https://image.tmdb.org/t/p/w780/hJXW2GUJhNzpuftOp5yx1E6puEw.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822729.mp4"
+        },
+        {
+          "nome": "O Trono Dourado",
+          "descricao": "O Trono Dourado",
+          "capa": "https://image.tmdb.org/t/p/w780/xuTh7oTFqBCUjdc0QaaLKnvj8d2.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822649.mp4"
+        },
+        {
+          "nome": "O Último Ataque de Hitler",
+          "descricao": "O Último Ataque de Hitler",
+          "capa": "https://image.tmdb.org/t/p/w780/pPrGCHk7SVQWLpviozVlOa6HUmF.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822722.mp4"
+        },
+        {
+          "nome": "O Valente",
+          "descricao": "O Valente",
+          "capa": "https://image.tmdb.org/t/p/w780/3AhlvcWi2Ej3nXNAktSG5ARjWSu.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822614.mp4"
+        },
+        {
+          "nome": "Operação Cerveja",
+          "descricao": "Operação Cerveja",
+          "capa": "https://image.tmdb.org/t/p/w780/jp3KDoyADU0eVPLQagBjXcaNO2d.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822721.mp4"
+        },
+        {
+          "nome": "Operação Chromite",
+          "descricao": "Operação Chromite",
+          "capa": "https://image.tmdb.org/t/p/w780/bzMHYaEh5CiqaQDVSHz15X1H2tP.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822635.mp4"
+        },
+        {
+          "nome": "Operação Matador",
+          "descricao": "Operação Matador",
+          "capa": "https://image.tmdb.org/t/p/w780/oET7xoEmZQfwvsQDCr33JTGXwFA.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822634.mp4"
+        },
+        {
+          "nome": "Operação Tempestade",
+          "descricao": "Operação Tempestade",
+          "capa": "https://image.tmdb.org/t/p/w780/zEIizk8khK3xaLBsXaiP1S8SCIq.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822638.mp4"
+        },
+        {
+          "nome": "Os 5 Odiados",
+          "descricao": "Os 5 Odiados",
+          "capa": "https://image.tmdb.org/t/p/w780/dEkG6vEVTLIDyujEbgUc3DrXngf.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822696.mp4"
+        },
+        {
+          "nome": "Os 800",
+          "descricao": "Os 800",
+          "capa": "https://image.tmdb.org/t/p/w780/mx0PP392PYCZ4x0xNryO5ry637X.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822720.mp4"
+        },
+        {
+          "nome": "Os Heróis Da Ferrovia",
+          "descricao": "Os Heróis Da Ferrovia",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gTjZErHBML0uYYgj7YsL7YiUKMV.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822717.mp4"
+        },
+        {
+          "nome": "Os Músicos",
+          "descricao": "Os Músicos",
+          "capa": "https://image.tmdb.org/t/p/w780/z4K5lcMGC6C6HsiQK0pIBsoaeAd.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822624.mp4"
+        },
+        {
+          "nome": "Os Quatro Cavaleiros do Apocalipse",
+          "descricao": "Os Quatro Cavaleiros do Apocalipse",
+          "capa": "https://image.tmdb.org/t/p/w780/dCXz0x9HU4L8klUB3Lqwt6Q86em.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822610.mp4"
+        },
+        {
+          "nome": "Pearl Harbor",
+          "descricao": "Pearl Harbor",
+          "capa": "https://image.tmdb.org/t/p/w780/y8A0Cvp8WQmZ3bjbnsL53lY0dsC.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822576.mp4"
+        },
+        {
+          "nome": "Pelotão de Elite",
+          "descricao": "Pelotão de Elite",
+          "capa": "https://image.tmdb.org/t/p/w780/wCNWZ67c23SsW38HpdYn0H4rPas.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822645.mp4"
+        },
+        {
+          "nome": "Perdoai-nos as Nossas Ofensas",
+          "descricao": "Perdoai-nos as Nossas Ofensas",
+          "capa": "https://image.tmdb.org/t/p/w780/eEboQtwup1vxyqfrGSproADpuQQ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822597.mp4"
+        },
+        {
+          "nome": "Perigo Iminente",
+          "descricao": "Perigo Iminente",
+          "capa": "https://image.tmdb.org/t/p/w780/zkCljVHb1SdhuPTMftSFegju6q.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822723.mp4"
+        },
+        {
+          "nome": "Perturbado Pelo Passado",
+          "descricao": "Perturbado Pelo Passado",
+          "capa": "https://image.tmdb.org/t/p/w780/aefbl9hqx44kU4jqmwQY6CXZYWK.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822589.mp4"
+        },
+        {
+          "nome": "Quando a Guerra Acabar",
+          "descricao": "Quando a Guerra Acabar",
+          "capa": "https://image.tmdb.org/t/p/w780/zglxxVFyhiwwh0X3xfvXa8bPAve.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822671.mp4"
+        },
+        {
+          "nome": "Quando os Bravos se Calam",
+          "descricao": "Quando os Bravos se Calam",
+          "capa": "https://image.tmdb.org/t/p/w780/tDnC5EAYzxemySfkUT1Mwgbl7Ak.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822618.mp4"
+        },
+        {
+          "nome": "Relatos de Guerra",
+          "descricao": "Relatos de Guerra",
+          "capa": "https://image.tmdb.org/t/p/w780/mY8lGn9h379WmPbBSdhKZiV6F2n.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822655.mp4"
+        },
+        {
+          "nome": "Resistência",
+          "descricao": "Resistência",
+          "capa": "https://image.tmdb.org/t/p/w780/a2CroeECoXPpvJlbUxtrfDd4Rih.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822725.mp4"
+        },
+        {
+          "nome": "Sangue e Ouro",
+          "descricao": "Sangue e Ouro",
+          "capa": "https://image.tmdb.org/t/p/w780/1YZT69IKGRUV620PZFmniAGoVrG.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822710.mp4"
+        },
+        {
+          "nome": "Seals: Operação Resgate",
+          "descricao": "Seals: Operação Resgate",
+          "capa": "https://image.tmdb.org/t/p/w780/oIHgYhUsdUQV1KOw4n58F4aUhFt.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822648.mp4"
+        },
+        {
+          "nome": "Segredos de Espiões",
+          "descricao": "Segredos de Espiões",
+          "capa": "https://image.tmdb.org/t/p/w780/iPtwg29ai63UOo7X9BQI6UvVlwJ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822690.mp4"
+        },
+        {
+          "nome": "Sisu",
+          "descricao": "Sisu",
+          "capa": "https://image.tmdb.org/t/p/w780/h4uvgNH99FwREoBllzx2Rrsldah.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822706.mp4"
+        },
+        {
+          "nome": "Sisu: Estrada da Vingança",
+          "descricao": "Sisu: Estrada da Vingança",
+          "capa": "https://image.tmdb.org/t/p/w780/z8LpUN4UOsYcUSLw1STPZsQ5w8B.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822603.mp4"
+        },
+        {
+          "nome": "Tempo de Guerra",
+          "descricao": "Tempo de Guerra",
+          "capa": "https://image.tmdb.org/t/p/w780/223TDJjnhuQV6cTUlvn6e39s0GA.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822637.mp4"
+        },
+        {
+          "nome": "The Caine Mutiny Court-Martial",
+          "descricao": "The Caine Mutiny Court-Martial",
+          "capa": "https://image.tmdb.org/t/p/w780/A3YSJrhAAU7DW5AAgpADZIXRIhP.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822682.mp4"
+        },
+        {
+          "nome": "The Last Kingdom: Seven Kings Must Die",
+          "descricao": "The Last Kingdom: Seven Kings Must Die",
+          "capa": "https://image.tmdb.org/t/p/w780/mMbc0XeYyo85V8GPdyBXh3jEnEJ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822599.mp4"
+        },
+        {
+          "nome": "The Last Rifleman",
+          "descricao": "The Last Rifleman",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/47Qm5qPSq774Fva3TgmjqKrvtQj.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822666.mp4"
+        },
+        {
+          "nome": "Tigerland - A Caminho da Guerra",
+          "descricao": "Tigerland - A Caminho da Guerra",
+          "capa": "https://image.tmdb.org/t/p/w780/xTSxFuExvOkKY7535CTWWIcUBcN.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822640.mp4"
+        },
+        {
+          "nome": "Traumas de Guerra",
+          "descricao": "Traumas de Guerra",
+          "capa": "https://image.tmdb.org/t/p/w780/jLSiWNnWYqIelgKRakUKruwEKi9.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822698.mp4"
+        },
+        {
+          "nome": "Três Mulheres: Uma Esperança",
+          "descricao": "Três Mulheres: Uma Esperança",
+          "capa": "https://image.tmdb.org/t/p/w780/u6AIND02DUvtYUBHQSKu8ZAeFbo.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822704.mp4"
+        },
+        {
+          "nome": "Tróia",
+          "descricao": "Tróia",
+          "capa": "https://image.tmdb.org/t/p/w780/iKp2NxUkqPVSPN2FdXUn9gxj4Nn.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822619.mp4"
+        },
+        {
+          "nome": "U311: Guerra em Alto Mar",
+          "descricao": "U311: Guerra em Alto Mar",
+          "capa": "https://image.tmdb.org/t/p/w780/iyZ5xWPmGEuGopE1NPzSQiPO0Zj.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822701.mp4"
+        },
+        {
+          "nome": "Um Gesto de Esperança",
+          "descricao": "Um Gesto de Esperança",
+          "capa": "https://image.tmdb.org/t/p/w780/j0LYIuYMqDbofwJQuHzxzYvcYkK.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822623.mp4"
+        },
+        {
+          "nome": "Um Homem de Coragem",
+          "descricao": "Um Homem de Coragem",
+          "capa": "https://image.tmdb.org/t/p/w780/ik2DvCkFwyRX3iIeYcuCuNpNAiy.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822600.mp4"
+        },
+        {
+          "nome": "Um Retrato de Esperança",
+          "descricao": "Um Retrato de Esperança",
+          "capa": "https://image.tmdb.org/t/p/w780/iWckl9hilVTIum7P0OSkwCeoBEh.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822577.mp4"
+        },
+        {
+          "nome": "Uma História de Sobrevivência",
+          "descricao": "Uma História de Sobrevivência",
+          "capa": "https://image.tmdb.org/t/p/w780/pfW4P8yF9OEyg1VUKTr39NW6KXi.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822622.mp4"
+        },
+        {
+          "nome": "Uma Lição de Esperança",
+          "descricao": "Uma Lição de Esperança",
+          "capa": "https://image.tmdb.org/t/p/w780/7EzVSW5F9Kbt8VIJJJ2G4x1hz5q.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822728.mp4"
+        },
+        {
+          "nome": "Uma Vida: A História de Nicholas Winton",
+          "descricao": "Uma Vida: A História de Nicholas Winton",
+          "capa": "https://image.tmdb.org/t/p/w780/o65cLhzXPp9nBb5RvKRqLfZiMcH.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822678.mp4"
+        },
+        {
+          "nome": "Vencer ou Morrer",
+          "descricao": "Vencer ou Morrer",
+          "capa": "https://image.tmdb.org/t/p/w780/oJ7aU09UTWSSaoSrdY255kshzAk.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822632.mp4"
+        },
+        {
+          "nome": "Wildcat - Prisioneira de Guerra",
+          "descricao": "Wildcat - Prisioneira de Guerra",
+          "capa": "https://image.tmdb.org/t/p/w780/bE2vVe6lREydPEOh4iB2TjGIpye.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822681.mp4"
+        },
+        {
+          "nome": "Zona de Interesse",
+          "descricao": "Zona de Interesse",
+          "capa": "https://image.tmdb.org/t/p/w780/iQoyDhBjHwo1HTR0DuTzR8o1CqI.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822683.mp4"
+        },
+        {
+          "nome": "Zona de Risco",
+          "descricao": "Zona de Risco",
+          "capa": "https://image.tmdb.org/t/p/w780/qLqI0lA5WFIpItLCQNqPJYM3W6p.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822686.mp4"
+        }
+      ]
+    }
+  ],
+  "series": []
+}
