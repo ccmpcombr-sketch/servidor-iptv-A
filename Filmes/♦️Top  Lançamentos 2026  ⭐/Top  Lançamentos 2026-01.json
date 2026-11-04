@@ -1,0 +1,949 @@
+{
+  "canais": [],
+  "filmes": [
+    {
+      "album": "♦️Top  Lançamentos 2026  ⭐",
+      "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/filmes/Lan%C3%A7amentos%202026.png",
+      "subAlbuns": [],
+      "itens": [
+        {
+          "nome": "A Conspiração Condor (2026)",
+          "descricao": "A Conspiração Condor (2026)",
+          "capa": "https://image.tmdb.org/t/p/w500/rAUpfmmFhQAWeO5f7joqEwL28nv.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4841950.mp4"
+        },
+        {
+          "nome": "A Estação do Terror (2025)",
+          "descricao": "A Estação do Terror (2025)",
+          "capa": "https://image.tmdb.org/t/p/w500/rYK1AOAKxdpQlCJHCoejAMwGYXt.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4841273.mp4"
+        },
+        {
+          "nome": "A Estação do Terror",
+          "descricao": "A Estação do Terror",
+          "capa": "https://image.tmdb.org/t/p/w780/rYK1AOAKxdpQlCJHCoejAMwGYXt.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4595159.mp4"
+        },
+        {
+          "nome": "A Morte do Demônio: Em Chamas",
+          "descricao": "A Morte do Demônio: Em Chamas",
+          "capa": "https://image.tmdb.org/t/p/w780/fteLdvfRnltfLjAEnsl5E3vImnW.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4595129.mp4"
+        },
+        {
+          "nome": "A Primeira Ministra - A História De Jacinda Ardern (2025)",
+          "descricao": "A Primeira Ministra - A História De Jacinda Ardern (2025)",
+          "capa": "https://image.tmdb.org/t/p/w500/dykrjXYUkS6wUSCZNEgFMKb5HxY.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4841274.mp4"
+        },
+        {
+          "nome": "A Primeira Ministra - A História De Jacinda Ardern",
+          "descricao": "A Primeira Ministra - A História De Jacinda Ardern",
+          "capa": "https://image.tmdb.org/t/p/w780/dykrjXYUkS6wUSCZNEgFMKb5HxY.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4595160.mp4"
+        },
+        {
+          "nome": "A Solidão dos Lagartos",
+          "descricao": "A Solidão dos Lagartos",
+          "capa": "https://image.tmdb.org/t/p/w780/biSqWLYrgrsjmVPN55C0fK5wos4.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4595138.mp4"
+        },
+        {
+          "nome": "A Vingança de Nina (2024)",
+          "descricao": "A Vingança de Nina (2024)",
+          "capa": "https://image.tmdb.org/t/p/w500/lUK3NL7Eb685dsvjIboxlm6FCkN.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4841262.mp4"
+        },
+        {
+          "nome": "A Vingança de Nina",
+          "descricao": "A Vingança de Nina",
+          "capa": "https://image.tmdb.org/t/p/w780/lUK3NL7Eb685dsvjIboxlm6FCkN.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4595148.mp4"
+        },
+        {
+          "nome": "AMIGAS PARA SEMPRE",
+          "descricao": "AMIGAS PARA SEMPRE",
+          "capa": "https://image.tmdb.org/t/p/w780/cNL01KL7cmXth41XmF6zEFE47Jv.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4595106.mp4"
+        },
+        {
+          "nome": "Amigos Até A Morte (2023)",
+          "descricao": "Amigos Até A Morte (2023)",
+          "capa": "https://image.tmdb.org/t/p/w500/dkmpODg4OaSXzjvbehLrozQipsG.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4841951.mp4"
+        },
+        {
+          "nome": "Ana Cecília",
+          "descricao": "Ana Cecília",
+          "capa": "https://image.tmdb.org/t/p/w780/m00WOXxwivew7lAB4PKeCAca951.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4595122.mp4"
+        },
+        {
+          "nome": "As Cores e Amores de Lore",
+          "descricao": "As Cores e Amores de Lore",
+          "capa": "https://image.tmdb.org/t/p/w780/sWCu3bkOb3ufzMqhfJcrl5LmVD8.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4595077.mp4"
+        },
+        {
+          "nome": "Asa Branca: A Voz da Arena (2025)",
+          "descricao": "Asa Branca: A Voz da Arena (2025)",
+          "capa": "https://image.tmdb.org/t/p/w500/erFI0UoWAYw88QeAO8se6Mgel74.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4841272.mp4"
+        },
+        {
+          "nome": "Asa Branca: A Voz da Arena",
+          "descricao": "Asa Branca: A Voz da Arena",
+          "capa": "https://image.tmdb.org/t/p/w780/erFI0UoWAYw88QeAO8se6Mgel74.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4595158.mp4"
+        },
+        {
+          "nome": "Atraídos Pelo Destino",
+          "descricao": "Atraídos Pelo Destino",
+          "capa": "https://image.tmdb.org/t/p/w780/99OB0p7ah8wyTphLHrghSJXtmr5.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4595072.mp4"
+        },
+        {
+          "nome": "Bad Men Must Bleed (2026)",
+          "descricao": "Bad Men Must Bleed (2026)",
+          "capa": "https://image.tmdb.org/t/p/w500/hH8EtWSYS7CwVsE4IXPGQtm7rsf.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4841956.mp4"
+        },
+        {
+          "nome": "Batman: A Queda do Morcego - Parte 1 (2026)",
+          "descricao": "Batman: A Queda do Morcego - Parte 1 (2026)",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kOeLi6uIhAlWchS7ZkgDwWSavYT.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4842231.mp4"
+        },
+        {
+          "nome": "Beijar é Fácil (2026)",
+          "descricao": "Beijar é Fácil (2026)",
+          "capa": "https://image.tmdb.org/t/p/w500/1kuUHuFiCIXGdZUfrFobiYulycU.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4841257.mp4"
+        },
+        {
+          "nome": "Beijar é Fácil",
+          "descricao": "Beijar é Fácil",
+          "capa": "https://image.tmdb.org/t/p/w780/1kuUHuFiCIXGdZUfrFobiYulycU.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4595143.mp4"
+        },
+        {
+          "nome": "Camp Rock 3 (2026)",
+          "descricao": "Camp Rock 3 (2026)",
+          "capa": "https://image.tmdb.org/t/p/w500/rS7byWK9cfPfdLeFNlRIaJxH9mN.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4841271.mp4"
+        },
+        {
+          "nome": "Camp Rock 3",
+          "descricao": "Camp Rock 3",
+          "capa": "https://image.tmdb.org/t/p/w780/rS7byWK9cfPfdLeFNlRIaJxH9mN.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4595157.mp4"
+        },
+        {
+          "nome": "Campeonex (2023)",
+          "descricao": "Campeonex (2023)",
+          "capa": "https://image.tmdb.org/t/p/w500/ujQLhp17eOpz9UsadZaogTuC1bd.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4841256.mp4"
+        },
+        {
+          "nome": "Campeonex",
+          "descricao": "Campeonex",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/juLIGT2tbLqVFoVVnGEKj6YRZp1.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4595142.mp4"
+        },
+        {
+          "nome": "Casamento",
+          "descricao": "Casamento",
+          "capa": "https://image.tmdb.org/t/p/w780/bFARF1GDM13XkOi4TpIHddbEbXK.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4595135.mp4"
+        },
+        {
+          "nome": "Cidade Rabat",
+          "descricao": "Cidade Rabat",
+          "capa": "https://image.tmdb.org/t/p/w780/b9z5v8dCdGj1HnqYuoDv2ZFzrwQ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4595116.mp4"
+        },
+        {
+          "nome": "Clash of the Thundermans",
+          "descricao": "Clash of the Thundermans",
+          "capa": "https://image.tmdb.org/t/p/w780/6GCxZ7RXjMZbSAd0CGHAfhmpKnL.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4595100.mp4"
+        },
+        {
+          "nome": "Corrida Contra o Tempo",
+          "descricao": "Corrida Contra o Tempo",
+          "capa": "https://image.tmdb.org/t/p/w780/zPlBUyu9rWhVrdiRfSClwMkmQiT.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4595104.mp4"
+        },
+        {
+          "nome": "Coyote vs. ACME (2026) (2026)",
+          "descricao": "Coyote vs. ACME (2026) (2026)",
+          "capa": "https://image.tmdb.org/t/p/w500/fqnp3doSeUFLGUFIolHVPA41O4E.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4841288.mp4"
+        },
+        {
+          "nome": "Coyote vs. ACME (2026)",
+          "descricao": "Coyote vs. ACME (2026)",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fqnp3doSeUFLGUFIolHVPA41O4E.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4839177.mp4"
+        },
+        {
+          "nome": "Darkgame: O Jogo Da Morte (2024)",
+          "descricao": "Darkgame: O Jogo Da Morte (2024)",
+          "capa": "https://image.tmdb.org/t/p/w500/sMHnCIBjk4KmGbFDc3jmraAoVED.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4841952.mp4"
+        },
+        {
+          "nome": "David: O menino que nasceu três vezes (2026)",
+          "descricao": "David: O menino que nasceu três vezes (2026)",
+          "capa": "https://image.tmdb.org/t/p/w500/u02pvLi7D5EYNSWz2y3kkAQ3m1p.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4841949.mp4"
+        },
+        {
+          "nome": "De Volta Aos Anos 90",
+          "descricao": "De Volta Aos Anos 90",
+          "capa": "https://image.tmdb.org/t/p/w780/pKgzdwNqFPKJNcibY37klP6ySqE.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4595139.mp4"
+        },
+        {
+          "nome": "Den hemmelige kvinde",
+          "descricao": "Den hemmelige kvinde",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/t4vQEOJ665oIUWmHFOKjL2icUWR.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4595113.mp4"
+        },
+        {
+          "nome": "Desaparecida e Esquecida: O Caso Chompoo (2026)",
+          "descricao": "Desaparecida e Esquecida: O Caso Chompoo (2026)",
+          "capa": "https://image.tmdb.org/t/p/w500/1F0ZkDmiVq31SFj2YnTINGVLUoz.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4841255.mp4"
+        },
+        {
+          "nome": "Desaparecida e Esquecida: O Caso Chompoo",
+          "descricao": "Desaparecida e Esquecida: O Caso Chompoo",
+          "capa": "https://image.tmdb.org/t/p/w780/1F0ZkDmiVq31SFj2YnTINGVLUoz.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4595141.mp4"
+        },
+        {
+          "nome": "Deuses da Peste",
+          "descricao": "Deuses da Peste",
+          "capa": "https://image.tmdb.org/t/p/w780/9cJbu8IOzvRCo0jWnbK4IllzcSe.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4595081.mp4"
+        },
+        {
+          "nome": "Diamante Negro",
+          "descricao": "Diamante Negro",
+          "capa": "https://image.tmdb.org/t/p/w780/4aPn0pXvkMoTzeNI6uw2KgvCEK3.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4595132.mp4"
+        },
+        {
+          "nome": "do Quilombo ao Baile (2026) (2026)",
+          "descricao": "do Quilombo ao Baile (2026) (2026)",
+          "capa": "https://image.tmdb.org/t/p/w500/lIk7kIS2JLBRorpYGgsBLdQyUIS.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4841292.mp4"
+        },
+        {
+          "nome": "do Quilombo ao Baile (2026)",
+          "descricao": "do Quilombo ao Baile (2026)",
+          "capa": "https://image.tmdb.org/t/p/w500/68EiPIZ3SFuoMBt6yXprcaPap44.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4841959.mp4"
+        },
+        {
+          "nome": "Elis & Eu",
+          "descricao": "Elis & Eu",
+          "capa": "https://image.tmdb.org/t/p/w780/3D02TZJ2Tpnu3HNmFNZC7wPzxu8.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4595126.mp4"
+        },
+        {
+          "nome": "Emboscada Selvagem (2025) (2025)",
+          "descricao": "Emboscada Selvagem (2025) (2025)",
+          "capa": "https://image.tmdb.org/t/p/w500/aJc0Ej0mAIpNPoQh46oOnUQCqxE.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4841293.mp4"
+        },
+        {
+          "nome": "Felicidade em Dobro",
+          "descricao": "Felicidade em Dobro",
+          "capa": "https://image.tmdb.org/t/p/w780/iFCfFSPdD0N9xzHEB9iVYu4H0jH.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4595085.mp4"
+        },
+        {
+          "nome": "Feras no Limite (2026)",
+          "descricao": "Feras no Limite (2026)",
+          "capa": "https://image.tmdb.org/t/p/w500/s9kLAZDpvjKCkaESrRhpfuuWAQP.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4841269.mp4"
+        },
+        {
+          "nome": "Feras no Limite",
+          "descricao": "Feras no Limite",
+          "capa": "https://image.tmdb.org/t/p/w780/s9kLAZDpvjKCkaESrRhpfuuWAQP.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4595155.mp4"
+        },
+        {
+          "nome": "Ferro's Bar",
+          "descricao": "Ferro's Bar",
+          "capa": "https://image.tmdb.org/t/p/w780/oXekzNaqJXOV9xZk2XP0zEI2vmj.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4595088.mp4"
+        },
+        {
+          "nome": "Gandhari",
+          "descricao": "Gandhari",
+          "capa": "https://image.tmdb.org/t/p/w780/hCHei97aPYCCsh4vicz9X0wmdFV.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4595097.mp4"
+        },
+        {
+          "nome": "Ganoon (2026)",
+          "descricao": "Ganoon (2026)",
+          "capa": "https://image.tmdb.org/t/p/w500/hgr46OnroBUZLE1nGtJV6awB5Mv.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4841276.mp4"
+        },
+        {
+          "nome": "Ganoon",
+          "descricao": "Ganoon",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/q2ODg5xKPxhiFG8Ix3IYaQrqyrX.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4595162.mp4"
+        },
+        {
+          "nome": "George Washington (2026)",
+          "descricao": "George Washington (2026)",
+          "capa": "https://image.tmdb.org/t/p/w500/xgi2dObKLcSeUeFIT2Gw3U6Ed9d.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4841285.mp4"
+        },
+        {
+          "nome": "George Washington",
+          "descricao": "George Washington",
+          "capa": "https://image.tmdb.org/t/p/w780/xgi2dObKLcSeUeFIT2Gw3U6Ed9d.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4595171.mp4"
+        },
+        {
+          "nome": "Gintama: Yoshiwara em Chamas",
+          "descricao": "Gintama: Yoshiwara em Chamas",
+          "capa": "https://image.tmdb.org/t/p/w780/sb41qo6yHw5GS2Tujd7H4NDP4ZH.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4595109.mp4"
+        },
+        {
+          "nome": "Greice",
+          "descricao": "Greice",
+          "capa": "https://image.tmdb.org/t/p/w780/xfWuMW9fAq54Q25DYSWlApuMWzE.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4595078.mp4"
+        },
+        {
+          "nome": "Guerra Primitiva (2025)",
+          "descricao": "Guerra Primitiva (2025)",
+          "capa": "https://image.tmdb.org/t/p/w500/sestJD3hwFb0gGDn2zvLmMZiih9.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4841964.mp4"
+        },
+        {
+          "nome": "Instadocs: The Decoy Plane",
+          "descricao": "Instadocs: The Decoy Plane",
+          "capa": "https://image.tmdb.org/t/p/w780/87fJZ4hBLQWL55Vov5MPIrg5eVc.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4595090.mp4"
+        },
+        {
+          "nome": "Iracema",
+          "descricao": "Iracema",
+          "capa": "https://image.tmdb.org/t/p/w780/uUp9NL9Xr6HuG9mHYBA7EnpuO6u.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4595130.mp4"
+        },
+        {
+          "nome": "Isto Não é um Teste",
+          "descricao": "Isto Não é um Teste",
+          "capa": "https://image.tmdb.org/t/p/w780/9ps2jm2lacM2l2AHzSw2EUOoSON.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4595118.mp4"
+        },
+        {
+          "nome": "Juvenal e o Dragão",
+          "descricao": "Juvenal e o Dragão",
+          "capa": "https://image.tmdb.org/t/p/w780/dGH0KE6WTOfccI4KfKedZDpYdXW.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4595073.mp4"
+        },
+        {
+          "nome": "Kangaroo: Uma Aventura na Austrália",
+          "descricao": "Kangaroo: Uma Aventura na Austrália",
+          "capa": "https://image.tmdb.org/t/p/w780/hMXGSk1sOqEynzHHWnJ4VyhSyKy.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4595080.mp4"
+        },
+        {
+          "nome": "Kraken (2026)",
+          "descricao": "Kraken (2026)",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hlNRCWGoFFvmRZERUgNUbntO5EU.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4595099.mp4"
+        },
+        {
+          "nome": "Kraken: Terror no Mar (2025) (2025)",
+          "descricao": "Kraken: Terror no Mar (2025) (2025)",
+          "capa": "https://image.tmdb.org/t/p/w500/yCWClPA1FL2VjO38MLJnzmsKoGH.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4841291.mp4"
+        },
+        {
+          "nome": "La Captura",
+          "descricao": "La Captura",
+          "capa": "https://image.tmdb.org/t/p/w780/8JL52sl5g11JwNAqC6APVqNyNha.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4595136.mp4"
+        },
+        {
+          "nome": "Lego Disney Princesa: Bagunça Mágica",
+          "descricao": "Lego Disney Princesa: Bagunça Mágica",
+          "capa": "https://image.tmdb.org/t/p/w780/3tCKtHBq9LC5Vd8S1UHVocZDj0l.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4595134.mp4"
+        },
+        {
+          "nome": "LEGO Star Wars: The Mandalorian",
+          "descricao": "LEGO Star Wars: The Mandalorian",
+          "capa": "https://image.tmdb.org/t/p/w780/x3HEvYXWOW6WHqsHmg2MUVy3SLm.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4595101.mp4"
+        },
+        {
+          "nome": "Máfia de Mumbai: Polícia Contra o Crime Organizado (2023)",
+          "descricao": "Máfia de Mumbai: Polícia Contra o Crime Organizado (2023)",
+          "capa": "https://image.tmdb.org/t/p/w500/x8KYZWt1nraPdRSkNfxdrxFdjim.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4841284.mp4"
+        },
+        {
+          "nome": "Máfia de Mumbai: Polícia Contra o Crime Organizado",
+          "descricao": "Máfia de Mumbai: Polícia Contra o Crime Organizado",
+          "capa": "https://image.tmdb.org/t/p/w780/x8KYZWt1nraPdRSkNfxdrxFdjim.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4595170.mp4"
+        },
+        {
+          "nome": "Mayday",
+          "descricao": "Mayday",
+          "capa": "https://image.tmdb.org/t/p/w780/hVXjX1jLZ1ljFSNGXpjJfbTUOa7.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4595095.mp4"
+        },
+        {
+          "nome": "Mestre Bhagat Singh",
+          "descricao": "Mestre Bhagat Singh",
+          "capa": "https://image.tmdb.org/t/p/w780/uUBQZNZTUDxoSHjk5KG9BLB0Jlk.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4595110.mp4"
+        },
+        {
+          "nome": "Meu Amigo Dino",
+          "descricao": "Meu Amigo Dino",
+          "capa": "https://image.tmdb.org/t/p/w780/54rWYTW1kmAhv4aSLVE94nfXVuJ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4595127.mp4"
+        },
+        {
+          "nome": "Meu Amigo Dino: Retorno ao Mundo Perdido",
+          "descricao": "Meu Amigo Dino: Retorno ao Mundo Perdido",
+          "capa": "https://image.tmdb.org/t/p/w780/3Uo2baDjwhkCW265GGrlMOW29y8.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4595128.mp4"
+        },
+        {
+          "nome": "Meu Nome é Eneas",
+          "descricao": "Meu Nome é Eneas",
+          "capa": "https://image.tmdb.org/t/p/w780/nz7DNjZ7wtsuxktqLHij6Af7x0M.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4595121.mp4"
+        },
+        {
+          "nome": "Meu Próprio Filho (2026)",
+          "descricao": "Meu Próprio Filho (2026)",
+          "capa": "https://image.tmdb.org/t/p/w500/iBD5kzk6XMyQEuV4m4A6OotqcSK.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4841277.mp4"
+        },
+        {
+          "nome": "Meu Próprio Filho",
+          "descricao": "Meu Próprio Filho",
+          "capa": "https://image.tmdb.org/t/p/w780/iBD5kzk6XMyQEuV4m4A6OotqcSK.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4595163.mp4"
+        },
+        {
+          "nome": "Minions & Monstros (2026)",
+          "descricao": "Minions & Monstros (2026)",
+          "capa": "https://image.tmdb.org/t/p/w500/hTowtXrkCY7FJyoj4p91JckrJSE.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4841266.mp4"
+        },
+        {
+          "nome": "Minions & Monstros",
+          "descricao": "Minions & Monstros",
+          "capa": "https://image.tmdb.org/t/p/w780/hTowtXrkCY7FJyoj4p91JckrJSE.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4595152.mp4"
+        },
+        {
+          "nome": "Moana (2026)",
+          "descricao": "Moana (2026)",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/92clN62AIYMOAKaSlkJyZmGQM4R.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4841294.mp4"
+        },
+        {
+          "nome": "Nando Entre Dois Mundos: Um Filme Sintonia (2026)",
+          "descricao": "Nando Entre Dois Mundos: Um Filme Sintonia (2026)",
+          "capa": "https://image.tmdb.org/t/p/w500/dwnqhUeXO1vRgXH9zgyeeihpxqo.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4841283.mp4"
+        },
+        {
+          "nome": "Nando Entre Dois Mundos: Um Filme Sintonia",
+          "descricao": "Nando Entre Dois Mundos: Um Filme Sintonia",
+          "capa": "https://image.tmdb.org/t/p/w780/dwnqhUeXO1vRgXH9zgyeeihpxqo.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4595169.mp4"
+        },
+        {
+          "nome": "Não Deseje Boa Sorte (2026)",
+          "descricao": "Não Deseje Boa Sorte (2026)",
+          "capa": "https://image.tmdb.org/t/p/w500/l6cwkNbPIOdjvFwm7XZTI2EZhZu.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4841268.mp4"
+        },
+        {
+          "nome": "Não Deseje Boa Sorte",
+          "descricao": "Não Deseje Boa Sorte",
+          "capa": "https://image.tmdb.org/t/p/w780/l6cwkNbPIOdjvFwm7XZTI2EZhZu.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4595154.mp4"
+        },
+        {
+          "nome": "Nightborn (2026)",
+          "descricao": "Nightborn (2026)",
+          "capa": "https://image.tmdb.org/t/p/w500/40156uwnmuDxVcmUXHq6tZxqteI.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4841258.mp4"
+        },
+        {
+          "nome": "Nightborn",
+          "descricao": "Nightborn",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bLSrV2Him731C9tDCRuHq2drit5.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4595144.mp4"
+        },
+        {
+          "nome": "No Caminho",
+          "descricao": "No Caminho",
+          "capa": "https://image.tmdb.org/t/p/w780/9KLh8HYa3FiNxDVR8MN9BG4cTtB.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4595091.mp4"
+        },
+        {
+          "nome": "Nu Entre Lobos",
+          "descricao": "Nu Entre Lobos",
+          "capa": "https://image.tmdb.org/t/p/w780/q3Rp1139ZzLrwYkS4STfFCmxMwh.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4595074.mp4"
+        },
+        {
+          "nome": "O Afinador",
+          "descricao": "O Afinador",
+          "capa": "https://image.tmdb.org/t/p/w780/bq21NGxKqV6DgHfm5j48mscM7Ai.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4595167.mp4"
+        },
+        {
+          "nome": "O Céu Não Sabe Meu Nome (2024)",
+          "descricao": "O Céu Não Sabe Meu Nome (2024)",
+          "capa": "https://image.tmdb.org/t/p/w500/jNaYcuFw1RbMNvv3yB2R5rTuPj8.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4841264.mp4"
+        },
+        {
+          "nome": "O Céu Não Sabe Meu Nome",
+          "descricao": "O Céu Não Sabe Meu Nome",
+          "capa": "https://image.tmdb.org/t/p/w780/jNaYcuFw1RbMNvv3yB2R5rTuPj8.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4595150.mp4"
+        },
+        {
+          "nome": "O Convite",
+          "descricao": "O Convite",
+          "capa": "https://image.tmdb.org/t/p/w780/yXLx87GoPrM1ofZyIdFJOaqCjKP.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4595120.mp4"
+        },
+        {
+          "nome": "O Destino de Layla (2023)",
+          "descricao": "O Destino de Layla (2023)",
+          "capa": "https://image.tmdb.org/t/p/w500/E36c1FffP7ZcLFKehekQrwmbAF.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4841282.mp4"
+        },
+        {
+          "nome": "O Destino de Layla",
+          "descricao": "O Destino de Layla",
+          "capa": "https://image.tmdb.org/t/p/w780/E36c1FffP7ZcLFKehekQrwmbAF.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4595168.mp4"
+        },
+        {
+          "nome": "O Estranho",
+          "descricao": "O Estranho",
+          "capa": "https://image.tmdb.org/t/p/w780/yuV9eprDTTyBvMtuYaZQ4BY4ldw.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4595082.mp4"
+        },
+        {
+          "nome": "O Homem que Sussurra",
+          "descricao": "O Homem que Sussurra",
+          "capa": "https://image.tmdb.org/t/p/w780/umlg3mqkny7opAfPtBLUGYwZ8xF.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4595112.mp4"
+        },
+        {
+          "nome": "O Poder do Rosário (2026)",
+          "descricao": "O Poder do Rosário (2026)",
+          "capa": "https://image.tmdb.org/t/p/w500/zUxCtzf2EY0PHz99OJtAm5VsPMA.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4841287.mp4"
+        },
+        {
+          "nome": "O Poder do Rosário",
+          "descricao": "O Poder do Rosário",
+          "capa": "https://image.tmdb.org/t/p/w780/zUxCtzf2EY0PHz99OJtAm5VsPMA.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4595173.mp4"
+        },
+        {
+          "nome": "O Rei da Internet",
+          "descricao": "O Rei da Internet",
+          "capa": "https://image.tmdb.org/t/p/w780/7XwnN6bGkJWY9SYGZslciMs7QTW.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4595115.mp4"
+        },
+        {
+          "nome": "O Sol Nasce Para Todos (2025)",
+          "descricao": "O Sol Nasce Para Todos (2025)",
+          "capa": "https://image.tmdb.org/t/p/w500/j5hiqvH4lqSU4m83wkqGTiMvXpX.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4841278.mp4"
+        },
+        {
+          "nome": "O Sol Nasce Para Todos",
+          "descricao": "O Sol Nasce Para Todos",
+          "capa": "https://image.tmdb.org/t/p/w780/j5hiqvH4lqSU4m83wkqGTiMvXpX.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4595164.mp4"
+        },
+        {
+          "nome": "O Solar dos Prazeres Noturnos",
+          "descricao": "O Solar dos Prazeres Noturnos",
+          "capa": "https://image.tmdb.org/t/p/w780/463w8tVTsqxqkDcmxlqvksbOBAH.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4595087.mp4"
+        },
+        {
+          "nome": "O Último Grande Assalto (2026)",
+          "descricao": "O Último Grande Assalto (2026)",
+          "capa": "https://image.tmdb.org/t/p/w500/keU6EsXrkcc1uAEsEt1pI8keSsO.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4841280.mp4"
+        },
+        {
+          "nome": "O Último Grande Assalto",
+          "descricao": "O Último Grande Assalto",
+          "capa": "https://image.tmdb.org/t/p/w780/keU6EsXrkcc1uAEsEt1pI8keSsO.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4595166.mp4"
+        },
+        {
+          "nome": "O Último Nascer do Sol",
+          "descricao": "O Último Nascer do Sol",
+          "capa": "https://image.tmdb.org/t/p/w780/aUP8lmnCvOUiG0n1ciXaeFEou3j.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4595125.mp4"
+        },
+        {
+          "nome": "One Last Shot (2026)",
+          "descricao": "One Last Shot (2026)",
+          "capa": "https://image.tmdb.org/t/p/w500/owdiTFWuWq4UxPth6nXNsO6x74Q.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4841947.mp4"
+        },
+        {
+          "nome": "Os Segredos da Alimentação (2024)",
+          "descricao": "Os Segredos da Alimentação (2024)",
+          "capa": "https://image.tmdb.org/t/p/w500/rUCgAF6P0lfSU9Q2VqVErXVowOf.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4841265.mp4"
+        },
+        {
+          "nome": "Os Segredos da Alimentação",
+          "descricao": "Os Segredos da Alimentação",
+          "capa": "https://image.tmdb.org/t/p/w780/rUCgAF6P0lfSU9Q2VqVErXVowOf.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4595151.mp4"
+        },
+        {
+          "nome": "Patrulha Canina: Uma Aventura Dino",
+          "descricao": "Patrulha Canina: Uma Aventura Dino",
+          "capa": "https://image.tmdb.org/t/p/w780/bVwQR66OsPwCsUutfp3aNuaN1pW.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4595070.mp4"
+        },
+        {
+          "nome": "Pépi e Limão (2025)",
+          "descricao": "Pépi e Limão (2025)",
+          "capa": "https://image.tmdb.org/t/p/w500/92cC9JVjGPEfWzkmiIdiHa37RJ5.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4841261.mp4"
+        },
+        {
+          "nome": "Pépi e Limão",
+          "descricao": "Pépi e Limão",
+          "capa": "https://image.tmdb.org/t/p/w780/92cC9JVjGPEfWzkmiIdiHa37RJ5.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4595147.mp4"
+        },
+        {
+          "nome": "Plantão Noturno",
+          "descricao": "Plantão Noturno",
+          "capa": "https://image.tmdb.org/t/p/w780/1SIpCUiVn0G8neLbWOtdkrAnYnA.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4595133.mp4"
+        },
+        {
+          "nome": "Por Que Eu Me Casei de Novo?",
+          "descricao": "Por Que Eu Me Casei de Novo?",
+          "capa": "https://image.tmdb.org/t/p/w780/bHMtdZFZztcAE5uHHhsY2pWRPB9.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4595071.mp4"
+        },
+        {
+          "nome": "Possuída no Deserto",
+          "descricao": "Possuída no Deserto",
+          "capa": "https://image.tmdb.org/t/p/w780/id3E7PwXH073DrnruuH8Eec9fo9.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4595137.mp4"
+        },
+        {
+          "nome": "Praia Formosa",
+          "descricao": "Praia Formosa",
+          "capa": "https://image.tmdb.org/t/p/w780/29SNRUTcgrtfsnrfnSRgRVB2QZm.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4595083.mp4"
+        },
+        {
+          "nome": "Presos em um Crime (2025)",
+          "descricao": "Presos em um Crime (2025)",
+          "capa": "https://image.tmdb.org/t/p/w500/8cHcvKPWay62YPDXTqmB17C2Cvt.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4841275.mp4"
+        },
+        {
+          "nome": "Presos em um Crime",
+          "descricao": "Presos em um Crime",
+          "capa": "https://image.tmdb.org/t/p/w780/8cHcvKPWay62YPDXTqmB17C2Cvt.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4595161.mp4"
+        },
+        {
+          "nome": "Quando Eu Me Encontrar",
+          "descricao": "Quando Eu Me Encontrar",
+          "capa": "https://image.tmdb.org/t/p/w780/nuWuyVOPjttUBgUAth8MI1KcJrR.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4595086.mp4"
+        },
+        {
+          "nome": "Queda Livre: As Consequências do Caso Boeing (2026)",
+          "descricao": "Queda Livre: As Consequências do Caso Boeing (2026)",
+          "capa": "https://image.tmdb.org/t/p/w500/c4xTdrb3mCRFcv6iIKyyySLGD75.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4841259.mp4"
+        },
+        {
+          "nome": "Queda Livre: As Consequências do Caso Boeing",
+          "descricao": "Queda Livre: As Consequências do Caso Boeing",
+          "capa": "https://image.tmdb.org/t/p/w780/c4xTdrb3mCRFcv6iIKyyySLGD75.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4595145.mp4"
+        },
+        {
+          "nome": "Quem é seu Pai? (2023)",
+          "descricao": "Quem é seu Pai? (2023)",
+          "capa": "https://image.tmdb.org/t/p/w500/v8oqxldyiCBdotYwtkU8IILgfZM.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4841254.mp4"
+        },
+        {
+          "nome": "Quem é seu Pai?",
+          "descricao": "Quem é seu Pai?",
+          "capa": "https://image.tmdb.org/t/p/w780/v8oqxldyiCBdotYwtkU8IILgfZM.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4595140.mp4"
+        },
+        {
+          "nome": "Quinze Dias (2026)",
+          "descricao": "Quinze Dias (2026)",
+          "capa": "https://image.tmdb.org/t/p/w500/7SkSZOAHPJbks40PQYwIH2bV1f2.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4841260.mp4"
+        },
+        {
+          "nome": "Quinze Dias",
+          "descricao": "Quinze Dias",
+          "capa": "https://image.tmdb.org/t/p/w780/7SkSZOAHPJbks40PQYwIH2bV1f2.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4595146.mp4"
+        },
+        {
+          "nome": "Quinze Quase Dezesseis",
+          "descricao": "Quinze Quase Dezesseis",
+          "capa": "https://image.tmdb.org/t/p/w780/6U49qgczvZQYt1KpfQSK7olsXU4.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4595089.mp4"
+        },
+        {
+          "nome": "Relatos de um Assassino",
+          "descricao": "Relatos de um Assassino",
+          "capa": "https://image.tmdb.org/t/p/w780/czgoPOZbgT03sCuRIjV6HkLwFUx.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4595124.mp4"
+        },
+        {
+          "nome": "Rendel: Cycle of Revenge",
+          "descricao": "Rendel: Cycle of Revenge",
+          "capa": "https://image.tmdb.org/t/p/w780/2dzdKVWbWZrBLIHhdDmd0OTfmSM.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4595114.mp4"
+        },
+        {
+          "nome": "Saudades te Amo",
+          "descricao": "Saudades te Amo",
+          "capa": "https://image.tmdb.org/t/p/w780/82IHHlvPbDrsTXfMpabil0TM5UD.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4595111.mp4"
+        },
+        {
+          "nome": "Segredo Obscuro (2025)",
+          "descricao": "Segredo Obscuro (2025)",
+          "capa": "https://image.tmdb.org/t/p/w500/lHXXpXzPv22WQCzTYMuwers5jkz.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4841279.mp4"
+        },
+        {
+          "nome": "Segredo Obscuro",
+          "descricao": "Segredo Obscuro",
+          "capa": "https://image.tmdb.org/t/p/w780/lHXXpXzPv22WQCzTYMuwers5jkz.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4595165.mp4"
+        },
+        {
+          "nome": "seine Freundin und ich (2026)",
+          "descricao": "seine Freundin und ich (2026)",
+          "capa": "https://image.tmdb.org/t/p/w500/zyTqoS4eXC5vf3g61CuoxIr6Tyn.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4841270.mp4"
+        },
+        {
+          "nome": "seine Freundin und ich",
+          "descricao": "seine Freundin und ich",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/xk2QaaDjaHG1xKhyB6hpi2OcQmL.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4595156.mp4"
+        },
+        {
+          "nome": "Sete Homens e uma Sentença",
+          "descricao": "Sete Homens e uma Sentença",
+          "capa": "https://image.tmdb.org/t/p/w780/8AUo6zNOJQXfBSEnOEmCBSwRN3U.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4595105.mp4"
+        },
+        {
+          "nome": "Só por Uma Noite (2026)",
+          "descricao": "Só por Uma Noite (2026)",
+          "capa": "https://image.tmdb.org/t/p/w500/8Gm5ME1RJ5xbHht65sXRc9BCIsB.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4841948.mp4"
+        },
+        {
+          "nome": "Sobrenatural: Agora Entre Nós (2026) (2026)",
+          "descricao": "Sobrenatural: Agora Entre Nós (2026) (2026)",
+          "capa": "https://image.tmdb.org/t/p/w500/8IEzyoBOCbKIvJ9DMwHgceJkNsP.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4841289.mp4"
+        },
+        {
+          "nome": "Soy Nevenka",
+          "descricao": "Soy Nevenka",
+          "capa": "https://image.tmdb.org/t/p/w780/wEIMnGFeRpyKMHSycH0AK770I77.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4595092.mp4"
+        },
+        {
+          "nome": "Star Wars: O Mandaloriano e Grogu",
+          "descricao": "Star Wars: O Mandaloriano e Grogu",
+          "capa": "https://image.tmdb.org/t/p/w780/dNwaS0tnwgQRaQFPY5MbGxdmYXr.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4595102.mp4"
+        },
+        {
+          "nome": "sua Namorada e Eu (2026) (2026)",
+          "descricao": "sua Namorada e Eu (2026) (2026)",
+          "capa": "https://image.tmdb.org/t/p/w500/zyTqoS4eXC5vf3g61CuoxIr6Tyn.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4841290.mp4"
+        },
+        {
+          "nome": "Tatame (2024)",
+          "descricao": "Tatame (2024)",
+          "capa": "https://image.tmdb.org/t/p/w500/p2MXdU1I5tBYevsFqorQejGL1Ji.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4841263.mp4"
+        },
+        {
+          "nome": "Tatame",
+          "descricao": "Tatame",
+          "capa": "https://image.tmdb.org/t/p/w780/p2MXdU1I5tBYevsFqorQejGL1Ji.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4595149.mp4"
+        },
+        {
+          "nome": "Technocracia: O Algoritmo do Poder",
+          "descricao": "Technocracia: O Algoritmo do Poder",
+          "capa": "https://image.tmdb.org/t/p/w780/vyEmVDmpBiwpUUWIKDn7x16wHGx.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4595079.mp4"
+        },
+        {
+          "nome": "Termodielétrico",
+          "descricao": "Termodielétrico",
+          "capa": "https://image.tmdb.org/t/p/w780/zlj3bZSAl4d4aJsbQXgKApA5Mpa.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4595084.mp4"
+        },
+        {
+          "nome": "The M Factor: Shredding the Silence on Menopause",
+          "descricao": "The M Factor: Shredding the Silence on Menopause",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aFuSIXs9umwKtqZLQjUUDiLRUiZ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4595075.mp4"
+        },
+        {
+          "nome": "The Mortuary Assistant",
+          "descricao": "The Mortuary Assistant",
+          "capa": "https://image.tmdb.org/t/p/w780/mc3nj2DI1MZeFoAR08zSRDxezzf.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4595119.mp4"
+        },
+        {
+          "nome": "The Vigilante",
+          "descricao": "The Vigilante",
+          "capa": "https://image.tmdb.org/t/p/w780/2BlLUc57bMcvljHA48uS3fOw7W9.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4595093.mp4"
+        },
+        {
+          "nome": "Toy Story 5 [4K] (2026)",
+          "descricao": "Toy Story 5 [4K] (2026)",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sssrBhdvDcczgMQYDc8oCoSuFEJ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4842242.mp4"
+        },
+        {
+          "nome": "Trago Seu Amor (2026)",
+          "descricao": "Trago Seu Amor (2026)",
+          "capa": "https://image.tmdb.org/t/p/w500/efxarxk7R7V7YDDxOyHxua51wxk.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4841286.mp4"
+        },
+        {
+          "nome": "Trago Seu Amor",
+          "descricao": "Trago Seu Amor",
+          "capa": "https://image.tmdb.org/t/p/w780/efxarxk7R7V7YDDxOyHxua51wxk.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4595172.mp4"
+        },
+        {
+          "nome": "Tubarão de Guerra (2025)",
+          "descricao": "Tubarão de Guerra (2025)",
+          "capa": "https://image.tmdb.org/t/p/w500/uRyae43AYHR4Gus0FmqA1HavYvK.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4841954.mp4"
+        },
+        {
+          "nome": "Turning Point: Generation 9/11",
+          "descricao": "Turning Point: Generation 9/11",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/4LbwNKDDRysSYvMlqTsy0uph8zq.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4595103.mp4"
+        },
+        {
+          "nome": "Um Retrato de Esperança",
+          "descricao": "Um Retrato de Esperança",
+          "capa": "https://image.tmdb.org/t/p/w780/iWckl9hilVTIum7P0OSkwCeoBEh.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4595096.mp4"
+        },
+        {
+          "nome": "Uma Canção de Gratidão",
+          "descricao": "Uma Canção de Gratidão",
+          "capa": "https://image.tmdb.org/t/p/w780/s7XEPjBUbDnAvxSf4HGYlilUf5c.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4595107.mp4"
+        },
+        {
+          "nome": "Universe Designed",
+          "descricao": "Universe Designed",
+          "capa": "https://image.tmdb.org/t/p/w780/5ZwtApFloy9gY8ui2raBQDg3CfJ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4595108.mp4"
+        },
+        {
+          "nome": "Untold Mr. T: I Pity the Fool",
+          "descricao": "Untold Mr. T: I Pity the Fool",
+          "capa": "https://image.tmdb.org/t/p/w780/cAbqySXexjVnPIxLAn29VWx2aZS.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4595076.mp4"
+        },
+        {
+          "nome": "Violent Ends",
+          "descricao": "Violent Ends",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9BrXyyrd5amNmpbZNc4gSblt6kQ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4595117.mp4"
+        },
+        {
+          "nome": "Você Me Deixa Louca",
+          "descricao": "Você Me Deixa Louca",
+          "capa": "https://image.tmdb.org/t/p/w780/ggrMFhEc50M2OmpxBeXNPOadpsZ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4595094.mp4"
+        },
+        {
+          "nome": "Voltei na Foto",
+          "descricao": "Voltei na Foto",
+          "capa": "https://image.tmdb.org/t/p/w780/5dnHNzYDXouqR6IYzm9Tipyr5rf.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4595131.mp4"
+        },
+        {
+          "nome": "Yellow Mirror",
+          "descricao": "Yellow Mirror",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ePafPnFV817iSOs9I6EB805EGX2.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4595123.mp4"
+        },
+        {
+          "nome": "Zico: O Samurai de Quintino (2026)",
+          "descricao": "Zico: O Samurai de Quintino (2026)",
+          "capa": "https://image.tmdb.org/t/p/w500/jXkVclcZGysTYWDnJoJSYpnirDz.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4841267.mp4"
+        },
+        {
+          "nome": "Zico: O Samurai de Quintino",
+          "descricao": "Zico: O Samurai de Quintino",
+          "capa": "https://image.tmdb.org/t/p/w780/jXkVclcZGysTYWDnJoJSYpnirDz.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4595153.mp4"
+        }
+      ]
+    }
+  ],
+  "series": []
+}
