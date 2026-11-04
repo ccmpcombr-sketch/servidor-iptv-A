@@ -1,0 +1,331 @@
+{
+  "canais": [],
+  "filmes": [
+    {
+      "album": "♦️ Especial Infantil ✔️",
+      "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/filmes/Especial%20Infantil.png",
+      "subAlbuns": [],
+      "itens": [
+        {
+          "nome": "A Abelhinha Maya e O Ovo Dourado",
+          "descricao": "A Abelhinha Maya e O Ovo Dourado",
+          "capa": "https://image.tmdb.org/t/p/w780/nA6Jg8fLhJtabQYozYOUM3GzXs7.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822741.mp4"
+        },
+        {
+          "nome": "A Bela Adormecida",
+          "descricao": "A Bela Adormecida",
+          "capa": "https://image.tmdb.org/t/p/w780/2MjuCYa6RkhNHmNDl4MqktxK8XH.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822785.mp4"
+        },
+        {
+          "nome": "a Lenda de Lady Dragon",
+          "descricao": "a Lenda de Lady Dragon",
+          "capa": "https://image.tmdb.org/t/p/w780/qStibJTjjgriA7nqrA1LVCeNMIu.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822749.mp4"
+        },
+        {
+          "nome": "A Princesa Encantada - O Reino da Música",
+          "descricao": "A Princesa Encantada - O Reino da Música",
+          "capa": "https://image.tmdb.org/t/p/w780/6WU5ORvayBF1Cep3FYyo17KYGDG.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822746.mp4"
+        },
+        {
+          "nome": "Amigos",
+          "descricao": "Amigos",
+          "capa": "https://image.tmdb.org/t/p/w780/dWWITF02c1M1w6Q4jTFuC5KqTc7.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822764.mp4"
+        },
+        {
+          "nome": "As Aventuras De Ichabod E Sr. Sapo",
+          "descricao": "As Aventuras De Ichabod E Sr. Sapo",
+          "capa": "https://image.tmdb.org/t/p/w780/3CToUMsftJF5JEAOTGK9Fygi1pJ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822763.mp4"
+        },
+        {
+          "nome": "As Peripécias de um Ratinho Detetive",
+          "descricao": "As Peripécias de um Ratinho Detetive",
+          "capa": "https://image.tmdb.org/t/p/w780/TBn5DRkFl5VaogycjbQXYuJXqk.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822757.mp4"
+        },
+        {
+          "nome": "Aventuras de Betty",
+          "descricao": "Aventuras de Betty",
+          "capa": "https://image.tmdb.org/t/p/w780/gMZRPm4tcwdzfx7xu3sVzdNPVYi.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822744.mp4"
+        },
+        {
+          "nome": "Barbie & Chelsea: O Aniversário Perdido",
+          "descricao": "Barbie & Chelsea: O Aniversário Perdido",
+          "capa": "https://image.tmdb.org/t/p/w780/i2pMxkhKpDjMHXxmgAYVKXfGVxP.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822735.mp4"
+        },
+        {
+          "nome": "Barbie e as Sapatilhas Magicas",
+          "descricao": "Barbie e as Sapatilhas Magicas",
+          "capa": "https://image.tmdb.org/t/p/w780/59FPQDQWyiPhDJH06mUeOxU0Oo5.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822783.mp4"
+        },
+        {
+          "nome": "Barbie e as Tres Mosqueteiras",
+          "descricao": "Barbie e as Tres Mosqueteiras",
+          "capa": "https://image.tmdb.org/t/p/w780/aulv0DUM41tmEM9BoDVaczBojsz.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822782.mp4"
+        },
+        {
+          "nome": "Barbie e o Castelo de Diamante",
+          "descricao": "Barbie e o Castelo de Diamante",
+          "capa": "https://image.tmdb.org/t/p/w780/z9Vjau5vb53j8xkNs2G2F0slSEk.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822781.mp4"
+        },
+        {
+          "nome": "Barbie e o Segredo das Fadas",
+          "descricao": "Barbie e o Segredo das Fadas",
+          "capa": "https://image.tmdb.org/t/p/w780/u3OiN7HWxi9S8lcRqkmLVJ0BP1u.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822780.mp4"
+        },
+        {
+          "nome": "Barbie Em Vida De Sereia",
+          "descricao": "Barbie Em Vida De Sereia",
+          "capa": "https://image.tmdb.org/t/p/w780/rrD263RRyDPXqDY7FBtNP7gEuQZ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822784.mp4"
+        },
+        {
+          "nome": "Barbie: Super Princesa",
+          "descricao": "Barbie: Super Princesa",
+          "capa": "https://image.tmdb.org/t/p/w780/oqKtENqN7JjPQYR8PyNiahAxcPC.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822742.mp4"
+        },
+        {
+          "nome": "Benji",
+          "descricao": "Benji",
+          "capa": "https://image.tmdb.org/t/p/w780/79pacM3h5FoETnfuRC6O2qPfzn4.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822779.mp4"
+        },
+        {
+          "nome": "Branca de Neve e os Sete Anoes",
+          "descricao": "Branca de Neve e os Sete Anoes",
+          "capa": "https://image.tmdb.org/t/p/w780/5l0dsoLXP2eifLQ0lFCYNC5Lcv0.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822778.mp4"
+        },
+        {
+          "nome": "Cantando de Galo: O Resgate dos Ovinhos",
+          "descricao": "Cantando de Galo: O Resgate dos Ovinhos",
+          "capa": "https://image.tmdb.org/t/p/w780/crPmQKdQMS2DGbvMS3oDYG3Xe92.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822738.mp4"
+        },
+        {
+          "nome": "Carrossel: O Filme",
+          "descricao": "Carrossel: O Filme",
+          "capa": "https://image.tmdb.org/t/p/w780/7mFT1RnjzI83o65kh6NRsg2P8V8.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822734.mp4"
+        },
+        {
+          "nome": "Cinderela II: Os Sonhos se Realizam",
+          "descricao": "Cinderela II: Os Sonhos se Realizam",
+          "capa": "https://image.tmdb.org/t/p/w780/vZRdNagaEzgZh7UXOm1I0rZ3v5K.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822752.mp4"
+        },
+        {
+          "nome": "Cinderela III: Uma Volta no Tempo",
+          "descricao": "Cinderela III: Uma Volta no Tempo",
+          "capa": "https://image.tmdb.org/t/p/w780/7fr4MYy91VmZMLl0soPK7z82wxI.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822751.mp4"
+        },
+        {
+          "nome": "Cinderela",
+          "descricao": "Cinderela",
+          "capa": "https://image.tmdb.org/t/p/w780/x8MnNc8zaKMPo5W4TuWN0xVIbNy.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822748.mp4"
+        },
+        {
+          "nome": "Como é Bom se Divertir",
+          "descricao": "Como é Bom se Divertir",
+          "capa": "https://image.tmdb.org/t/p/w780/tGOVtD7F6WYb0n3dR4PLauS6wj.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822761.mp4"
+        },
+        {
+          "nome": "Dumbo",
+          "descricao": "Dumbo",
+          "capa": "https://image.tmdb.org/t/p/w780/4EoFz2i2h2OYtv51dAddVYeZXcj.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822760.mp4"
+        },
+        {
+          "nome": "Flummels: Extintos!",
+          "descricao": "Flummels: Extintos!",
+          "capa": "https://image.tmdb.org/t/p/w780/9AMJnitm4Kmw7ZrC7EnwXpYpwFK.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822736.mp4"
+        },
+        {
+          "nome": "Galinha Pintadinha 2",
+          "descricao": "Galinha Pintadinha 2",
+          "capa": "https://image.tmdb.org/t/p/w780/y5hyi7xnc8rjqpx9SRQLfWnScG4.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822777.mp4"
+        },
+        {
+          "nome": "Galinha Pintadinha 3",
+          "descricao": "Galinha Pintadinha 3",
+          "capa": "https://image.tmdb.org/t/p/w780/dh5RAkisuHtTtd2lTzT52f1qHdB.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822776.mp4"
+        },
+        {
+          "nome": "Galinha Pintadinha 4",
+          "descricao": "Galinha Pintadinha 4",
+          "capa": "https://image.tmdb.org/t/p/w780/8lAOuS7QCT2jxWJbxNN7i1PTAdH.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822775.mp4"
+        },
+        {
+          "nome": "Galinha Pintadinha Mini - Volume 7",
+          "descricao": "Galinha Pintadinha Mini - Volume 7",
+          "capa": "https://image.tmdb.org/t/p/w780/o5qYkbCnScrnzbXITCGSmO69m0U.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822765.mp4"
+        },
+        {
+          "nome": "Galinha Pintadinha",
+          "descricao": "Galinha Pintadinha",
+          "capa": "https://image.tmdb.org/t/p/w780/bIZRBnn8djbEvi8AI8MymPqqekl.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822774.mp4"
+        },
+        {
+          "nome": "Go! Festa Inesquecível",
+          "descricao": "Go! Festa Inesquecível",
+          "capa": "https://image.tmdb.org/t/p/w780/nlOwY83L5xkIkwqcMFm3rkuqVjF.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822756.mp4"
+        },
+        {
+          "nome": "Manda Chuva O Filme",
+          "descricao": "Manda Chuva O Filme",
+          "capa": "https://image.tmdb.org/t/p/w780/yKLuExp4jmSiHFQWq1CTIS3LonF.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822766.mp4"
+        },
+        {
+          "nome": "Masha e o Urso O Filme",
+          "descricao": "Masha e o Urso O Filme",
+          "capa": "https://image.tmdb.org/t/p/w780/zZZDHukS9VOpicduVl8oR4imSSt.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822773.mp4"
+        },
+        {
+          "nome": "Meu Malvado Favorito 2",
+          "descricao": "Meu Malvado Favorito 2",
+          "capa": "https://image.tmdb.org/t/p/w780/7mYMq6OQyum1wAiUI7i6w78YKEO.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822772.mp4"
+        },
+        {
+          "nome": "Meu Malvado Favorito 3",
+          "descricao": "Meu Malvado Favorito 3",
+          "capa": "https://image.tmdb.org/t/p/w780/6z0KlRIrXfkgNz3IJOCAQxdVXAg.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822771.mp4"
+        },
+        {
+          "nome": "Meu Malvado Favorito",
+          "descricao": "Meu Malvado Favorito",
+          "capa": "https://image.tmdb.org/t/p/w780/rYZzutMXxvirK9gK01iLo3Blaj3.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822770.mp4"
+        },
+        {
+          "nome": "My Little Pony: Nova Geração",
+          "descricao": "My Little Pony: Nova Geração",
+          "capa": "https://image.tmdb.org/t/p/w780/gsd8CzmWi4daZbEvuH4rgWbu5yT.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822743.mp4"
+        },
+        {
+          "nome": "O Caldeirão Mágico",
+          "descricao": "O Caldeirão Mágico",
+          "capa": "https://image.tmdb.org/t/p/w780/3ZADXxqb4qMEZ1MAanujQ4GZzTf.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822755.mp4"
+        },
+        {
+          "nome": "O Cão e a Raposa 2",
+          "descricao": "O Cão e a Raposa 2",
+          "capa": "https://image.tmdb.org/t/p/w780/p7tPn2knHDMTlgr63L5bdPBPZf7.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822731.mp4"
+        },
+        {
+          "nome": "O Cão e a Raposa",
+          "descricao": "O Cão e a Raposa",
+          "capa": "https://image.tmdb.org/t/p/w780/efIxA3aIzYaKamMUbIC4I8hJTAL.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822754.mp4"
+        },
+        {
+          "nome": "O Cavaleiro do Dragão",
+          "descricao": "O Cavaleiro do Dragão",
+          "capa": "https://image.tmdb.org/t/p/w780/v8O3Sk7xw50LMLpxYNhEY4gTZvd.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822745.mp4"
+        },
+        {
+          "nome": "O Poderoso Chefinho 2: Negócios da Família",
+          "descricao": "O Poderoso Chefinho 2: Negócios da Família",
+          "capa": "http://ocvtab.info/images/d24d52107a7f56463f59b4783f9f060a.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822737.mp4"
+        },
+        {
+          "nome": "O Retorno de Mary Poppins",
+          "descricao": "O Retorno de Mary Poppins",
+          "capa": "https://image.tmdb.org/t/p/w780/8g1P4sxOitwFaf3UBeT8n4F5sBy.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822768.mp4"
+        },
+        {
+          "nome": "Os Ursinhos de Yellowstone",
+          "descricao": "Os Ursinhos de Yellowstone",
+          "capa": "https://image.tmdb.org/t/p/w780/obfsGf8eQKCOVSAHYrNF1vvexq3.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822750.mp4"
+        },
+        {
+          "nome": "Patrulha Canina: O Filme",
+          "descricao": "Patrulha Canina: O Filme",
+          "capa": "https://image.tmdb.org/t/p/w780/cl3JWmv9HbSx43TDsYyUkABKV3M.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822740.mp4"
+        },
+        {
+          "nome": "Perdido pra Cachorro 2",
+          "descricao": "Perdido pra Cachorro 2",
+          "capa": "https://image.tmdb.org/t/p/w780/czTdyOQmxRmziru9e4ZElHM7rhB.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822733.mp4"
+        },
+        {
+          "nome": "Perdido pra Cachorro 3",
+          "descricao": "Perdido pra Cachorro 3",
+          "capa": "https://image.tmdb.org/t/p/w780/hcvzgsNPoS2ImrSkWCRl2bxMdbA.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822732.mp4"
+        },
+        {
+          "nome": "Perdido pra Cachorro",
+          "descricao": "Perdido pra Cachorro",
+          "capa": "https://image.tmdb.org/t/p/w780/aKpkqpVYyUYqV8ahTAspbu7cCJw.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822730.mp4"
+        },
+        {
+          "nome": "Pica-Pau: O Filme",
+          "descricao": "Pica-Pau: O Filme",
+          "capa": "https://image.tmdb.org/t/p/w780/vJXWViokoejHZqEn7GWdNMQ4BRv.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822769.mp4"
+        },
+        {
+          "nome": "Pinóquio",
+          "descricao": "Pinóquio",
+          "capa": "https://image.tmdb.org/t/p/w780/rJTpz9LJFmDflvibkY2Y7IFOGua.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822759.mp4"
+        },
+        {
+          "nome": "Spirit: O Indomável",
+          "descricao": "Spirit: O Indomável",
+          "capa": "https://image.tmdb.org/t/p/w780/dSFaiG2xgwq2Z0ceUXPyfxnITC8.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822747.mp4"
+        },
+        {
+          "nome": "Você Já Foi à Bahia?",
+          "descricao": "Você Já Foi à Bahia?",
+          "capa": "https://image.tmdb.org/t/p/w780/wllGcOAeh4bVNVNLK5H0thC74Cx.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822758.mp4"
+        },
+        {
+          "nome": "Ze Colmeia - O Filme",
+          "descricao": "Ze Colmeia - O Filme",
+          "capa": "https://image.tmdb.org/t/p/w780/fJznQfkWmN8MDnOvwxrt1UOnEAG.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822767.mp4"
+        }
+      ]
+    }
+  ],
+  "series": []
+}
