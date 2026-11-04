@@ -1,0 +1,169 @@
+{
+  "canais": [],
+  "filmes": [
+    {
+      "album": "♦️ Nacionais ✔️",
+      "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/filmes/Nacionais.png",
+      "subAlbuns": [],
+      "itens": [
+        {
+          "nome": "Vermelho Monet",
+          "descricao": "Vermelho Monet",
+          "capa": "https://image.tmdb.org/t/p/w780/v6hYcU106i5avj1XOuSiU5z3W1X.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4834294.mp4"
+        },
+        {
+          "nome": "Verônica",
+          "descricao": "Verônica",
+          "capa": "https://image.tmdb.org/t/p/w780/apmLzurcJmojmAX0yu1xyitvlT8.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4834341.mp4"
+        },
+        {
+          "nome": "Vidente Por Acidente",
+          "descricao": "Vidente Por Acidente",
+          "capa": "https://image.tmdb.org/t/p/w780/3L4YF9CLtXunQgvvuUe4cuhNe4T.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4834492.mp4"
+        },
+        {
+          "nome": "Vidro Fumê",
+          "descricao": "Vidro Fumê",
+          "capa": "https://image.tmdb.org/t/p/w780/7IqRgkMnsQpuOLZmn7z8bkxAUQf.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4834402.mp4"
+        },
+        {
+          "nome": "Villa-Lobos: Uma Vida de Paixão",
+          "descricao": "Villa-Lobos: Uma Vida de Paixão",
+          "capa": "https://image.tmdb.org/t/p/w780/yKl6FvyUAWnQl3hA9X8O9INGTsy.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4833907.mp4"
+        },
+        {
+          "nome": "Vingança [L]",
+          "descricao": "Vingança [L]",
+          "capa": "https://image.tmdb.org/t/p/w780/6beErlF91ptFtraozlFDP8Bw4Ul.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4834222.mp4"
+        },
+        {
+          "nome": "Virgínia e Adelaide",
+          "descricao": "Virgínia e Adelaide",
+          "capa": "https://image.tmdb.org/t/p/w780/bpIkeP0Dv1NuSV2hHXo1oFikZbi.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4834273.mp4"
+        },
+        {
+          "nome": "Vítimas do Dia",
+          "descricao": "Vítimas do Dia",
+          "capa": "https://image.tmdb.org/t/p/w780/qoohRRRIH67NN7vORNeVDARr2SK.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4834437.mp4"
+        },
+        {
+          "nome": "Vitória",
+          "descricao": "Vitória",
+          "capa": "https://image.tmdb.org/t/p/w780/pT1j9Y9bpyYKE3wFpARyNK4NdBe.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4834348.mp4"
+        },
+        {
+          "nome": "Viva a Vida",
+          "descricao": "Viva a Vida",
+          "capa": "https://image.tmdb.org/t/p/w780/fIjIEZ8ug2pLGbV2JiKytZyj2NG.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4834359.mp4"
+        },
+        {
+          "nome": "Você Está Sendo Filmado",
+          "descricao": "Você Está Sendo Filmado",
+          "capa": "https://image.tmdb.org/t/p/w780/vsUmlZDp7xHH5wEcctDOq0DHciH.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4834419.mp4"
+        },
+        {
+          "nome": "Voltei na Foto",
+          "descricao": "Voltei na Foto",
+          "capa": "https://image.tmdb.org/t/p/w780/5dnHNzYDXouqR6IYzm9Tipyr5rf.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4833755.mp4"
+        },
+        {
+          "nome": "Vovó Ninja",
+          "descricao": "Vovó Ninja",
+          "capa": "https://image.tmdb.org/t/p/w780/bfvasPhu04Utqq6YzhyrS10n80H.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4834080.mp4"
+        },
+        {
+          "nome": "Whindersson Nunes: É de Mim Mesmo",
+          "descricao": "Whindersson Nunes: É de Mim Mesmo",
+          "capa": "https://image.tmdb.org/t/p/w780/1Dk3lqCcOesF4Qr9ptHDB1zjIX1.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4834614.mp4"
+        },
+        {
+          "nome": "Xingu",
+          "descricao": "Xingu",
+          "capa": "https://image.tmdb.org/t/p/w780/z41DkjNycIZ5xRMsRJRO6g06rv8.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4834658.mp4"
+        },
+        {
+          "nome": "Xuxa e o Tesouro da Cidade Perdida",
+          "descricao": "Xuxa e o Tesouro da Cidade Perdida",
+          "capa": "https://image.tmdb.org/t/p/w780/1HgVQnNhzIrZspYVGyuvBGoNR6.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4833790.mp4"
+        },
+        {
+          "nome": "Xuxa Requebra",
+          "descricao": "Xuxa Requebra",
+          "capa": "https://image.tmdb.org/t/p/w780/e4CAEG3Fxj5qGry8mRWHXOWIKbd.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4833791.mp4"
+        },
+        {
+          "nome": "Yonlu",
+          "descricao": "Yonlu",
+          "capa": "https://image.tmdb.org/t/p/w780/riX9lP1BgSlgCBaRDvxASIhcqvf.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4834788.mp4"
+        },
+        {
+          "nome": "Yorimatã",
+          "descricao": "Yorimatã",
+          "capa": "https://image.tmdb.org/t/p/w780/3fMupuug9FATtfqHrkT6UtX32ll.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4834075.mp4"
+        },
+        {
+          "nome": "Zé",
+          "descricao": "Zé",
+          "capa": "https://image.tmdb.org/t/p/w780/glVfECG4rUlYbb1U36c7JQMDzBs.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4834038.mp4"
+        },
+        {
+          "nome": "Zico",
+          "descricao": "Zico",
+          "capa": "https://image.tmdb.org/t/p/w780/6IaDW9uLWXHYVrNoiLGWSQCq85G.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4833903.mp4"
+        },
+        {
+          "nome": "Zico: O Samurai de Quintino",
+          "descricao": "Zico: O Samurai de Quintino",
+          "capa": "https://image.tmdb.org/t/p/w780/jXkVclcZGysTYWDnJoJSYpnirDz.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4833933.mp4"
+        },
+        {
+          "nome": "Ziraldo: Era Uma Vez Um Menino",
+          "descricao": "Ziraldo: Era Uma Vez Um Menino",
+          "capa": "https://image.tmdb.org/t/p/w780/f9yMYYCugtaT8i4HngnZK59rTcE.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4833802.mp4"
+        },
+        {
+          "nome": "Zombio 2: Chimarrão Zombies",
+          "descricao": "Zombio 2: Chimarrão Zombies",
+          "capa": "https://image.tmdb.org/t/p/w780/k5doBmp5arzi1qn1aCxJf2tRmqy.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4834180.mp4"
+        },
+        {
+          "nome": "Zoya",
+          "descricao": "Zoya",
+          "capa": "https://image.tmdb.org/t/p/w780/uKz44FpX5yRxcRpe5uXuClb7jfl.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4834295.mp4"
+        },
+        {
+          "nome": "Zuzu Angel",
+          "descricao": "Zuzu Angel",
+          "capa": "https://image.tmdb.org/t/p/w780/zqeNZIMZN7xNUn0h46LLthH1s5R.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4834258.mp4"
+        }
+      ]
+    }
+  ],
+  "series": []
+}
