@@ -1,0 +1,97 @@
+{
+  "canais": [],
+  "filmes": [
+    {
+      "album": "♦️ Cinema ⭐",
+      "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/filmes/CINEMA.png",
+      "subAlbuns": [],
+      "itens": [
+        {
+          "nome": "A Morte do Demônio: Em Chamas [Cinema] (2026)",
+          "descricao": "A Morte do Demônio: Em Chamas [Cinema] (2026)",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fteLdvfRnltfLjAEnsl5E3vImnW.jpg",
+          "url": "http://cdnplaynewcast.fun/movie/193692844/945082180/4839199.mp4"
+        },
+        {
+          "nome": "A Odisseia (2026)",
+          "descricao": "A Odisseia (2026)",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/muMwJAiMtReEHLKpKMWt2rMkYF7.jpg",
+          "url": "http://cdnplaynewcast.fun/movie/193692844/945082180/4839198.mp4"
+        },
+        {
+          "nome": "A Odisseia [Cinema] (2026)",
+          "descricao": "A Odisseia [Cinema] (2026)",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/muMwJAiMtReEHLKpKMWt2rMkYF7.jpg",
+          "url": "http://cdnplaynewcast.fun/movie/193692844/945082180/4839193.mp4"
+        },
+        {
+          "nome": "A Revolta [CAM] (2026)",
+          "descricao": "A Revolta [CAM] (2026)",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wyelfvUoNINgzug19uGBaQqTuQB.jpg",
+          "url": "http://cdnplaynewcast.fun/movie/193692844/945082180/4841751.mp4"
+        },
+        {
+          "nome": "Águas Mortais [L] [Cinema] (2026)",
+          "descricao": "Águas Mortais [L] [Cinema] (2026)",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dWsw0X420R6ngEcVCkNlZ189Amr.jpg",
+          "url": "http://cdnplaynewcast.fun/movie/193692844/945082180/4839194.mp4"
+        },
+        {
+          "nome": "Her Private Hell [L] [Cinema] (2026)",
+          "descricao": "Her Private Hell [L] [Cinema] (2026)",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/62gkeidbflMmVmav17G7xJiGMA4.jpg",
+          "url": "http://cdnplaynewcast.fun/movie/193692844/945082180/4839200.mp4"
+        },
+        {
+          "nome": "Homem-Aranha: Um Novo Dia (2026)",
+          "descricao": "Homem-Aranha: Um Novo Dia (2026)",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/x0nvYzQpyJc5pdT9lMnkMuYAg0O.jpg",
+          "url": "http://cdnplaynewcast.fun/movie/193692844/945082180/4839195.mp4"
+        },
+        {
+          "nome": "Homem-Aranha: Um Novo Dia [Cinema] (2026)",
+          "descricao": "Homem-Aranha: Um Novo Dia [Cinema] (2026)",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/x0nvYzQpyJc5pdT9lMnkMuYAg0O.jpg",
+          "url": "http://cdnplaynewcast.fun/movie/193692844/945082180/4839191.mp4"
+        },
+        {
+          "nome": "Moana [Cinema] (2026)",
+          "descricao": "Moana [Cinema] (2026)",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sUkilgOKAGjw9c7OsRPLa392MOw.jpg",
+          "url": "http://cdnplaynewcast.fun/movie/193692844/945082180/4839192.mp4"
+        },
+        {
+          "nome": "Motor City [L] [Cinema] (2026)",
+          "descricao": "Motor City [L] [Cinema] (2026)",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/djQDbncuITRUOheWun2oecgLIDW.jpg",
+          "url": "http://cdnplaynewcast.fun/movie/193692844/945082180/4839197.mp4"
+        },
+        {
+          "nome": "Pinóquio: Maldição de Madeira [L] [Cinema] (2026)",
+          "descricao": "Pinóquio: Maldição de Madeira [L] [Cinema] (2026)",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wgO649swkzsI58q3ikpxYNvkwv7.jpg",
+          "url": "http://cdnplaynewcast.fun/movie/193692844/945082180/4839196.mp4"
+        },
+        {
+          "nome": "Resident Evil [CAM] (2026)",
+          "descricao": "Resident Evil [CAM] (2026)",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gQ76UL64RQe3oHwiwHwODTC23g4.jpg",
+          "url": "http://cdnplaynewcast.fun/movie/193692844/945082180/4842139.mp4"
+        },
+        {
+          "nome": "The Fix [CAM] [L] (2026)",
+          "descricao": "The Fix [CAM] [L] (2026)",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yopXjun3ICFfJci2ukcEzceZjUs.jpg",
+          "url": "http://cdnplaynewcast.fun/movie/193692844/945082180/4841752.mp4"
+        },
+        {
+          "nome": "Toy Story 5 [Cinema] (2026)",
+          "descricao": "Toy Story 5 [Cinema] (2026)",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/sssrBhdvDcczgMQYDc8oCoSuFEJ.jpg",
+          "url": "http://cdnplaynewcast.fun/movie/193692844/945082180/4839201.mp4"
+        }
+      ]
+    }
+  ],
+  "series": []
+}
