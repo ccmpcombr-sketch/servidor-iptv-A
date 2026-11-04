@@ -1,0 +1,157 @@
+{
+  "canais": [],
+  "filmes": [
+    {
+      "album": "♦️ Documentário ✔️",
+      "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/ao%20vivo/documentarios.png",
+      "subAlbuns": [],
+      "itens": [
+        {
+          "nome": "Uma Gota de Esperança",
+          "descricao": "Uma Gota de Esperança",
+          "capa": "https://image.tmdb.org/t/p/w780/43PfIx3oQVsVJIQM6pdCBKTyBNu.jpg",
+          "url": "http://cdnplaynewcast.fun/movie/193692844/945082180/4818065.mp4"
+        },
+        {
+          "nome": "Uma Viagem ao Infinito",
+          "descricao": "Uma Viagem ao Infinito",
+          "capa": "https://image.tmdb.org/t/p/w780/38KllKVpeTLvirHvuLWWy5I71rX.jpg",
+          "url": "http://cdnplaynewcast.fun/movie/193692844/945082180/4817937.mp4"
+        },
+        {
+          "nome": "Unknown: Cave of Bones",
+          "descricao": "Unknown: Cave of Bones",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/irDu0rnlzTpl8RkOEl7XG2B88tJ.jpg",
+          "url": "http://cdnplaynewcast.fun/movie/193692844/945082180/4817847.mp4"
+        },
+        {
+          "nome": "Unknown: The Lost Pyramid",
+          "descricao": "Unknown: The Lost Pyramid",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5KV7WxGjF5O5fhBJnjNME4jkJC7.jpg",
+          "url": "http://cdnplaynewcast.fun/movie/193692844/945082180/4817862.mp4"
+        },
+        {
+          "nome": "Untold: A Vergonha do Doping",
+          "descricao": "Untold: A Vergonha do Doping",
+          "capa": "https://image.tmdb.org/t/p/w780/sIk2wnKj9OSMrUNZ5Z97XkzUICK.jpg",
+          "url": "http://cdnplaynewcast.fun/movie/193692844/945082180/4817824.mp4"
+        },
+        {
+          "nome": "Untold: Crime e Infrações",
+          "descricao": "Untold: Crime e Infrações",
+          "capa": "https://image.tmdb.org/t/p/w780/zKXmY2UYtCrhBZfzgmDgpteWyV4.jpg",
+          "url": "http://cdnplaynewcast.fun/movie/193692844/945082180/4817890.mp4"
+        },
+        {
+          "nome": "Untold: Johnny Football",
+          "descricao": "Untold: Johnny Football",
+          "capa": "https://image.tmdb.org/t/p/w780/eFfoGdcIk6llb8bO1dREzW84zm8.jpg",
+          "url": "http://cdnplaynewcast.fun/movie/193692844/945082180/4817827.mp4"
+        },
+        {
+          "nome": "Untold: O Assassinato de Steve McNair",
+          "descricao": "Untold: O Assassinato de Steve McNair",
+          "capa": "https://image.tmdb.org/t/p/w780/rIftnxHrJnQkLmP3Ga3WvjN0via.jpg",
+          "url": "http://cdnplaynewcast.fun/movie/193692844/945082180/4817668.mp4"
+        },
+        {
+          "nome": "Ursos Polares",
+          "descricao": "Ursos Polares",
+          "capa": "https://image.tmdb.org/t/p/w780/37ZjYyJuTVy1aS268KUTeTFASKP.jpg",
+          "url": "http://cdnplaynewcast.fun/movie/193692844/945082180/4818128.mp4"
+        },
+        {
+          "nome": "Utopia Distopia",
+          "descricao": "Utopia Distopia",
+          "capa": "https://image.tmdb.org/t/p/w780/amMBFvXCv8Opc0RrAtRRmy3AnsI.jpg",
+          "url": "http://cdnplaynewcast.fun/movie/193692844/945082180/4817661.mp4"
+        },
+        {
+          "nome": "Vale dos Reis: Os Segredos do Egito",
+          "descricao": "Vale dos Reis: Os Segredos do Egito",
+          "capa": "http://ocvtab.info/images/fe7f55f539cb653463f73a708bde6b0a.jpg",
+          "url": "http://cdnplaynewcast.fun/movie/193692844/945082180/4817981.mp4"
+        },
+        {
+          "nome": "Varig: A Caixa-Preta do Brasil",
+          "descricao": "Varig: A Caixa-Preta do Brasil",
+          "capa": "https://image.tmdb.org/t/p/w780/3HEADpGkr12fXev9TPsUDOQfttS.jpg",
+          "url": "http://cdnplaynewcast.fun/movie/193692844/945082180/4817921.mp4"
+        },
+        {
+          "nome": "Vinicius",
+          "descricao": "Vinicius",
+          "capa": "https://image.tmdb.org/t/p/w780/sCrB21RM0vnqPmmz1PHXqoxE8AF.jpg",
+          "url": "http://cdnplaynewcast.fun/movie/193692844/945082180/4818034.mp4"
+        },
+        {
+          "nome": "Virando a Mesa do Poder",
+          "descricao": "Virando a Mesa do Poder",
+          "capa": "https://image.tmdb.org/t/p/w780/uAfixuZIFVbWIsWytzROJDY85D7.jpg",
+          "url": "http://cdnplaynewcast.fun/movie/193692844/945082180/4818163.mp4"
+        },
+        {
+          "nome": "Visitas Extraterrestres",
+          "descricao": "Visitas Extraterrestres",
+          "capa": "https://image.tmdb.org/t/p/w780/mC0GjHcnrkQRVBmHEVd54dGV1m0.jpg",
+          "url": "http://cdnplaynewcast.fun/movie/193692844/945082180/4817930.mp4"
+        },
+        {
+          "nome": "Vítima X Suspeita",
+          "descricao": "Vítima X Suspeita",
+          "capa": "https://image.tmdb.org/t/p/w780/tGaFFNfqS6rH51LJS8a663OGwdO.jpg",
+          "url": "http://cdnplaynewcast.fun/movie/193692844/945082180/4817877.mp4"
+        },
+        {
+          "nome": "Viveiro",
+          "descricao": "Viveiro",
+          "capa": "https://image.tmdb.org/t/p/w780/9XrDnB08bFBQwvXg3oluQyhGHsW.jpg",
+          "url": "http://cdnplaynewcast.fun/movie/193692844/945082180/4818113.mp4"
+        },
+        {
+          "nome": "Vivo",
+          "descricao": "Vivo",
+          "capa": "https://image.tmdb.org/t/p/w780/91FAYeluKya14DmtENl8yzzWBv.jpg",
+          "url": "http://cdnplaynewcast.fun/movie/193692844/945082180/4817895.mp4"
+        },
+        {
+          "nome": "Vozes Que Inspiram",
+          "descricao": "Vozes Que Inspiram",
+          "capa": "https://image.tmdb.org/t/p/w780/2qlQceN0IrqXXEIcFCcpm6B3jQb.jpg",
+          "url": "http://cdnplaynewcast.fun/movie/193692844/945082180/4818083.mp4"
+        },
+        {
+          "nome": "Vulcão Whakaari: Resgate na Nova Zelândia",
+          "descricao": "Vulcão Whakaari: Resgate na Nova Zelândia",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/gSTZ7B1yn6AeTAbxKvwqOkbXKyh.jpg",
+          "url": "http://cdnplaynewcast.fun/movie/193692844/945082180/4817923.mp4"
+        },
+        {
+          "nome": "Vulcões: A Tragédia de Katia e Maurice Krafft",
+          "descricao": "Vulcões: A Tragédia de Katia e Maurice Krafft",
+          "capa": "https://image.tmdb.org/t/p/w780/jT8R2lqEpC49odCc1fCzAi6Z0ZE.jpg",
+          "url": "http://cdnplaynewcast.fun/movie/193692844/945082180/4817940.mp4"
+        },
+        {
+          "nome": "Wig",
+          "descricao": "Wig",
+          "capa": "https://image.tmdb.org/t/p/w780/g5kGmiMXr7t51hHZgUo0zB9toHl.jpg",
+          "url": "http://cdnplaynewcast.fun/movie/193692844/945082180/4818158.mp4"
+        },
+        {
+          "nome": "Winter on Fire: Ukraine's Fight for Freedom",
+          "descricao": "Winter on Fire: Ukraine's Fight for Freedom",
+          "capa": "https://image.tmdb.org/t/p/w780/xGKMWhYsK3OxQ6ceqMnvXBfFd7G.jpg",
+          "url": "http://cdnplaynewcast.fun/movie/193692844/945082180/4818103.mp4"
+        },
+        {
+          "nome": "Yaõkwa - Imagem e Memória",
+          "descricao": "Yaõkwa - Imagem e Memória",
+          "capa": "https://image.tmdb.org/t/p/w780/hrsODYUpQWZ0TmJuzTQl9xvTefT.jpg",
+          "url": "http://cdnplaynewcast.fun/movie/193692844/945082180/4817667.mp4"
+        }
+      ]
+    }
+  ],
+  "series": []
+}
