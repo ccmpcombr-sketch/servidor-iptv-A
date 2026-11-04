@@ -1,0 +1,1273 @@
+{
+  "canais": [],
+  "filmes": [
+    {
+      "album": "⭐ ReelsShorts",
+      "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/filmes/ReelsShorts.png",
+      "subAlbuns": [],
+      "itens": [
+        {
+          "nome": "A Crianca Mimada",
+          "descricao": "A Crianca Mimada",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838663.mp4"
+        },
+        {
+          "nome": "A Cura E O Poder",
+          "descricao": "A Cura E O Poder",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838662.mp4"
+        },
+        {
+          "nome": "A Dupla Identidade Da Herdeira Milionaria",
+          "descricao": "A Dupla Identidade Da Herdeira Milionaria",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838661.mp4"
+        },
+        {
+          "nome": "A Esposa Sobrevivente Vingativa",
+          "descricao": "A Esposa Sobrevivente Vingativa",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838660.mp4"
+        },
+        {
+          "nome": "A Faxineira Milionaria [L]",
+          "descricao": "A Faxineira Milionaria [L]",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838659.mp4"
+        },
+        {
+          "nome": "A Gravida Queridinha Do Chefe",
+          "descricao": "A Gravida Queridinha Do Chefe",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838658.mp4"
+        },
+        {
+          "nome": "A Herdeira Bilionaria Divorciada",
+          "descricao": "A Herdeira Bilionaria Divorciada",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838657.mp4"
+        },
+        {
+          "nome": "A Incrivel Cecilia",
+          "descricao": "A Incrivel Cecilia",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838656.mp4"
+        },
+        {
+          "nome": "A Jornada De Conquista De Uma Gorda [L]",
+          "descricao": "A Jornada De Conquista De Uma Gorda [L]",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838655.mp4"
+        },
+        {
+          "nome": "A Mae Ceo E O Pai Incrivel",
+          "descricao": "A Mae Ceo E O Pai Incrivel",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838654.mp4"
+        },
+        {
+          "nome": "A Mentira Da Nora [L]",
+          "descricao": "A Mentira Da Nora [L]",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838653.mp4"
+        },
+        {
+          "nome": "A Minha Mae E Uma Herdeira [L]",
+          "descricao": "A Minha Mae E Uma Herdeira [L]",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838652.mp4"
+        },
+        {
+          "nome": "A Patroa Falida",
+          "descricao": "A Patroa Falida",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838650.mp4"
+        },
+        {
+          "nome": "A Princesa Retorna Da Adversidade",
+          "descricao": "A Princesa Retorna Da Adversidade",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838649.mp4"
+        },
+        {
+          "nome": "A Rainha Da Gaiola",
+          "descricao": "A Rainha Da Gaiola",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838648.mp4"
+        },
+        {
+          "nome": "A Rejeitada Luna Voltou Com Um Filho",
+          "descricao": "A Rejeitada Luna Voltou Com Um Filho",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838647.mp4"
+        },
+        {
+          "nome": "A Tortura Delicada Da Mafia",
+          "descricao": "A Tortura Delicada Da Mafia",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838646.mp4"
+        },
+        {
+          "nome": "A Ultima Batida Por Amor",
+          "descricao": "A Ultima Batida Por Amor",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838645.mp4"
+        },
+        {
+          "nome": "A Vida Dupla Do Meu Marido Bilionario",
+          "descricao": "A Vida Dupla Do Meu Marido Bilionario",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838644.mp4"
+        },
+        {
+          "nome": "A Vida Secreta do meu Marido Bilionario",
+          "descricao": "A Vida Secreta do meu Marido Bilionario",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838643.mp4"
+        },
+        {
+          "nome": "A Vinganca Alem Do Tumulo [L]",
+          "descricao": "A Vinganca Alem Do Tumulo [L]",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838642.mp4"
+        },
+        {
+          "nome": "A Vinganca Do General",
+          "descricao": "A Vinganca Do General",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838641.mp4"
+        },
+        {
+          "nome": "Abandonada Na Nevasca [L]",
+          "descricao": "Abandonada Na Nevasca [L]",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838638.mp4"
+        },
+        {
+          "nome": "Acordando Gravida Waking Up Pregnant",
+          "descricao": "Acordando Gravida Waking Up Pregnant",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838637.mp4"
+        },
+        {
+          "nome": "Adeus Irmaos Bobos Oi Sr Certo",
+          "descricao": "Adeus Irmaos Bobos Oi Sr Certo",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838636.mp4"
+        },
+        {
+          "nome": "Adeus Para Sempre Ceo Possessivo [L]",
+          "descricao": "Adeus Para Sempre Ceo Possessivo [L]",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838635.mp4"
+        },
+        {
+          "nome": "Alem Do Sol [L]",
+          "descricao": "Alem Do Sol [L]",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838634.mp4"
+        },
+        {
+          "nome": "Amando Intensamente O Tio Mais Velho [L]",
+          "descricao": "Amando Intensamente O Tio Mais Velho [L]",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838633.mp4"
+        },
+        {
+          "nome": "Amor Atrasado",
+          "descricao": "Amor Atrasado",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838632.mp4"
+        },
+        {
+          "nome": "Amor E Loucura",
+          "descricao": "Amor E Loucura",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838631.mp4"
+        },
+        {
+          "nome": "Amor E Reencontro [L]",
+          "descricao": "Amor E Reencontro [L]",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838630.mp4"
+        },
+        {
+          "nome": "Amor Entre Segredos",
+          "descricao": "Amor Entre Segredos",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838628.mp4"
+        },
+        {
+          "nome": "Amor Entre Segredos [L]",
+          "descricao": "Amor Entre Segredos [L]",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838629.mp4"
+        },
+        {
+          "nome": "Amor Perdido Em Vao",
+          "descricao": "Amor Perdido Em Vao",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838627.mp4"
+        },
+        {
+          "nome": "Amor Perdido Na Neblina",
+          "descricao": "Amor Perdido Na Neblina",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838626.mp4"
+        },
+        {
+          "nome": "Amor Tardio [L]",
+          "descricao": "Amor Tardio [L]",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838625.mp4"
+        },
+        {
+          "nome": "Apenas Diga Sim",
+          "descricao": "Apenas Diga Sim",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838624.mp4"
+        },
+        {
+          "nome": "Arcom Com Quem Me Casei Era Um Figurao [L]",
+          "descricao": "Arcom Com Quem Me Casei Era Um Figurao [L]",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838623.mp4"
+        },
+        {
+          "nome": "Boa Menina Da Mafia [L]",
+          "descricao": "Boa Menina Da Mafia [L]",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838621.mp4"
+        },
+        {
+          "nome": "Brilho Solitario No Frio [L]",
+          "descricao": "Brilho Solitario No Frio [L]",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838620.mp4"
+        },
+        {
+          "nome": "Caminho Para A Felicidade Perseguicao Da Felicidade",
+          "descricao": "Caminho Para A Felicidade Perseguicao Da Felicidade",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838618.mp4"
+        },
+        {
+          "nome": "Caminho Para A Felicidade Perseguicao Da Felicidade [L]",
+          "descricao": "Caminho Para A Felicidade Perseguicao Da Felicidade [L]",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838619.mp4"
+        },
+        {
+          "nome": "Casados Num Piscar De Olhos E Totalmente Mimados",
+          "descricao": "Casados Num Piscar De Olhos E Totalmente Mimados",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838617.mp4"
+        },
+        {
+          "nome": "Casamento Apaixonado",
+          "descricao": "Casamento Apaixonado",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838615.mp4"
+        },
+        {
+          "nome": "Casamento Apaixonado Dden Millionairess Never Forgive You",
+          "descricao": "Casamento Apaixonado Dden Millionairess Never Forgive You",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838616.mp4"
+        },
+        {
+          "nome": "Casamento De Repente Filhos Do Segredo [L]",
+          "descricao": "Casamento De Repente Filhos Do Segredo [L]",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838614.mp4"
+        },
+        {
+          "nome": "Casamento Rapido Com O Ceo Bilionario",
+          "descricao": "Casamento Rapido Com O Ceo Bilionario",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838613.mp4"
+        },
+        {
+          "nome": "Casamento Relampago Mascaras Caindo [L]",
+          "descricao": "Casamento Relampago Mascaras Caindo [L]",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838611.mp4"
+        },
+        {
+          "nome": "Casando Com O Tio Do Meu Ex [L]",
+          "descricao": "Casando Com O Tio Do Meu Ex [L]",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838610.mp4"
+        },
+        {
+          "nome": "Casar Se Com Milionario Apos Despedir Se Do Amor Toxico",
+          "descricao": "Casar Se Com Milionario Apos Despedir Se Do Amor Toxico",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838609.mp4"
+        },
+        {
+          "nome": "Casei Com Uma Mulher Imbativel",
+          "descricao": "Casei Com Uma Mulher Imbativel",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838608.mp4"
+        },
+        {
+          "nome": "Cleopatra [L]",
+          "descricao": "Cleopatra [L]",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838607.mp4"
+        },
+        {
+          "nome": "Com Voce Nunca Falho",
+          "descricao": "Com Voce Nunca Falho",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838606.mp4"
+        },
+        {
+          "nome": "Contra Um Marido Influenciavel",
+          "descricao": "Contra Um Marido Influenciavel",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838605.mp4"
+        },
+        {
+          "nome": "Coracao Traido",
+          "descricao": "Coracao Traido",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838604.mp4"
+        },
+        {
+          "nome": "De Funcionaria De Fast Food A Primeira Dama [L]",
+          "descricao": "De Funcionaria De Fast Food A Primeira Dama [L]",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838603.mp4"
+        },
+        {
+          "nome": "Depois De Comprar Esperma De Um Bilionario",
+          "descricao": "Depois De Comprar Esperma De Um Bilionario",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838602.mp4"
+        },
+        {
+          "nome": "Depois Do Divorcio Eu Possuia Tres Bilonarios [L]",
+          "descricao": "Depois Do Divorcio Eu Possuia Tres Bilonarios [L]",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838600.mp4"
+        },
+        {
+          "nome": "Desmascarando A Falsa Herdeira",
+          "descricao": "Desmascarando A Falsa Herdeira",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838599.mp4"
+        },
+        {
+          "nome": "Desmascarando A Sua Farsa",
+          "descricao": "Desmascarando A Sua Farsa",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838598.mp4"
+        },
+        {
+          "nome": "Deus Do Dinheiro Num Moleque",
+          "descricao": "Deus Do Dinheiro Num Moleque",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838597.mp4"
+        },
+        {
+          "nome": "Dificil Voltar [L]",
+          "descricao": "Dificil Voltar [L]",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838596.mp4"
+        },
+        {
+          "nome": "Divorciada Diretora De Volta",
+          "descricao": "Divorciada Diretora De Volta",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838595.mp4"
+        },
+        {
+          "nome": "Divorciada No Dia Do Casamento (Dub)",
+          "descricao": "Divorciada No Dia Do Casamento (Dub)",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838594.mp4"
+        },
+        {
+          "nome": "Do Amor Ao Desprezo [L]",
+          "descricao": "Do Amor Ao Desprezo [L]",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838593.mp4"
+        },
+        {
+          "nome": "Do Coracao Partido A Queridinha Do Bilionario",
+          "descricao": "Do Coracao Partido A Queridinha Do Bilionario",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838592.mp4"
+        },
+        {
+          "nome": "Do Lixo Ao Dinheiro Como Encontrei Um Bilionario [L]",
+          "descricao": "Do Lixo Ao Dinheiro Como Encontrei Um Bilionario [L]",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838591.mp4"
+        },
+        {
+          "nome": "Domando O Leao Bilionario Em Motocicletas [L]",
+          "descricao": "Domando O Leao Bilionario Em Motocicletas [L]",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838590.mp4"
+        },
+        {
+          "nome": "Duque Com Beneficios [L]",
+          "descricao": "Duque Com Beneficios [L]",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838589.mp4"
+        },
+        {
+          "nome": "Ela Foi Embora",
+          "descricao": "Ela Foi Embora",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838588.mp4"
+        },
+        {
+          "nome": "Ela Sobreviveu E Voltou",
+          "descricao": "Ela Sobreviveu E Voltou",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838587.mp4"
+        },
+        {
+          "nome": "Encontrei Um Marido Multimilionario Sem Teto Para O Natal (Dub)",
+          "descricao": "Encontrei Um Marido Multimilionario Sem Teto Para O Natal (Dub)",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838586.mp4"
+        },
+        {
+          "nome": "Entre Estrelas E Destinos [L]",
+          "descricao": "Entre Estrelas E Destinos [L]",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838585.mp4"
+        },
+        {
+          "nome": "Es O Meu Unico [L]",
+          "descricao": "Es O Meu Unico [L]",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838584.mp4"
+        },
+        {
+          "nome": "Escorting The Heiress Acompanhando A Herdeira",
+          "descricao": "Escorting The Heiress Acompanhando A Herdeira",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838583.mp4"
+        },
+        {
+          "nome": "Fortuna Revelada Meu Marido E De Estouro [L]",
+          "descricao": "Fortuna Revelada Meu Marido E De Estouro [L]",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838576.mp4"
+        },
+        {
+          "nome": "Ganhei O Presidente [L]",
+          "descricao": "Ganhei O Presidente [L]",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838574.mp4"
+        },
+        {
+          "nome": "Garota Renascida Mudando O Destino Tragico Da Mamae",
+          "descricao": "Garota Renascida Mudando O Destino Tragico Da Mamae",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838573.mp4"
+        },
+        {
+          "nome": "Go Where You Are Episode [L]",
+          "descricao": "Go Where You Are Episode [L]",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838572.mp4"
+        },
+        {
+          "nome": "Gravida E Casada Com Uma Estrela De Cinema [L]",
+          "descricao": "Gravida E Casada Com Uma Estrela De Cinema [L]",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838571.mp4"
+        },
+        {
+          "nome": "I Wish It Were You Eu Queria Que Fosse Voce",
+          "descricao": "I Wish It Were You Eu Queria Que Fosse Voce",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838570.mp4"
+        },
+        {
+          "nome": "Infiltration And Seduction The Lawyers Dangerous Pact [L]",
+          "descricao": "Infiltration And Seduction The Lawyers Dangerous Pact [L]",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838569.mp4"
+        },
+        {
+          "nome": "Inverno De Paixao No Grande Hotel",
+          "descricao": "Inverno De Paixao No Grande Hotel",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838568.mp4"
+        },
+        {
+          "nome": "Jade Foster E Minha [L]",
+          "descricao": "Jade Foster E Minha [L]",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838567.mp4"
+        },
+        {
+          "nome": "Jovem Elite [L]",
+          "descricao": "Jovem Elite [L]",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838566.mp4"
+        },
+        {
+          "nome": "Lacos De Sangue E Vinganca",
+          "descricao": "Lacos De Sangue E Vinganca",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838565.mp4"
+        },
+        {
+          "nome": "Ladrao De Coracoes [L]",
+          "descricao": "Ladrao De Coracoes [L]",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838564.mp4"
+        },
+        {
+          "nome": "Lâmina Offline",
+          "descricao": "Lâmina Offline",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838563.mp4"
+        },
+        {
+          "nome": "Lista De Desejos Da Virgem [L]",
+          "descricao": "Lista De Desejos Da Virgem [L]",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838562.mp4"
+        },
+        {
+          "nome": "Love Captive To The Mafia Boss",
+          "descricao": "Love Captive To The Mafia Boss",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838561.mp4"
+        },
+        {
+          "nome": "Lucifer Meu Namorado Do Inferno",
+          "descricao": "Lucifer Meu Namorado Do Inferno",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838560.mp4"
+        },
+        {
+          "nome": "Mae Solteira Sou A Princesa Da Familia Do Meu Chefe",
+          "descricao": "Mae Solteira Sou A Princesa Da Familia Do Meu Chefe",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838559.mp4"
+        },
+        {
+          "nome": "Marca Nas Nuvens",
+          "descricao": "Marca Nas Nuvens",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838558.mp4"
+        },
+        {
+          "nome": "Marido Da Internet E Um Grande Espelho [L]",
+          "descricao": "Marido Da Internet E Um Grande Espelho [L]",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838557.mp4"
+        },
+        {
+          "nome": "Marido Desprezivel [L]",
+          "descricao": "Marido Desprezivel [L]",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838556.mp4"
+        },
+        {
+          "nome": "Me Aliou Ao Tio Do Noivo",
+          "descricao": "Me Aliou Ao Tio Do Noivo",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838555.mp4"
+        },
+        {
+          "nome": "Me Ame Como Voce Faz Love Like You Do Me",
+          "descricao": "Me Ame Como Voce Faz Love Like You Do Me",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838554.mp4"
+        },
+        {
+          "nome": "Meu Ceo [L]",
+          "descricao": "Meu Ceo [L]",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838553.mp4"
+        },
+        {
+          "nome": "Meu Chefe Ficou Apaixonado Por Mim [L]",
+          "descricao": "Meu Chefe Ficou Apaixonado Por Mim [L]",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838552.mp4"
+        },
+        {
+          "nome": "Meu Marido Bilionario De Duas Caras [L]",
+          "descricao": "Meu Marido Bilionario De Duas Caras [L]",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838551.mp4"
+        },
+        {
+          "nome": "Meu Marido Era Meu Azar",
+          "descricao": "Meu Marido Era Meu Azar",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838550.mp4"
+        },
+        {
+          "nome": "Meu Pai E O Magnata Misterioso [L]",
+          "descricao": "Meu Pai E O Magnata Misterioso [L]",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838549.mp4"
+        },
+        {
+          "nome": "Meu Pai Trabalha Como Seguranca [L]",
+          "descricao": "Meu Pai Trabalha Como Seguranca [L]",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838548.mp4"
+        },
+        {
+          "nome": "Meu Pobre Esposo E Bilionario",
+          "descricao": "Meu Pobre Esposo E Bilionario",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838547.mp4"
+        },
+        {
+          "nome": "Meus Tios Magnatas Me Mimam [L]",
+          "descricao": "Meus Tios Magnatas Me Mimam [L]",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838546.mp4"
+        },
+        {
+          "nome": "Mimada Por Quatro Bilionarios [L]",
+          "descricao": "Mimada Por Quatro Bilionarios [L]",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838545.mp4"
+        },
+        {
+          "nome": "Mimada Por Tres Irmaos Poderosos",
+          "descricao": "Mimada Por Tres Irmaos Poderosos",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838544.mp4"
+        },
+        {
+          "nome": "Mimar Minha Esposa Depois De Acordar [L]",
+          "descricao": "Mimar Minha Esposa Depois De Acordar [L]",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838543.mp4"
+        },
+        {
+          "nome": "Minha Ex Esposa E Poderosa [L]",
+          "descricao": "Minha Ex Esposa E Poderosa [L]",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838542.mp4"
+        },
+        {
+          "nome": "Minha Ex Mulher Floresce Apos Divorcio",
+          "descricao": "Minha Ex Mulher Floresce Apos Divorcio",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838541.mp4"
+        },
+        {
+          "nome": "Minha Princesa Medica",
+          "descricao": "Minha Princesa Medica",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838540.mp4"
+        },
+        {
+          "nome": "Minha Querida Filha [L]",
+          "descricao": "Minha Querida Filha [L]",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838539.mp4"
+        },
+        {
+          "nome": "Minha Rainha Tregua Nunca Mais [L]",
+          "descricao": "Minha Rainha Tregua Nunca Mais [L]",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838538.mp4"
+        },
+        {
+          "nome": "My Call Boy Billionaire Daddy [L]",
+          "descricao": "My Call Boy Billionaire Daddy [L]",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838537.mp4"
+        },
+        {
+          "nome": "Não Despertem o Dragão Dormindo",
+          "descricao": "Não Despertem o Dragão Dormindo",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838536.mp4"
+        },
+        {
+          "nome": "Nao Posso Esquecer Me De Ti [L]",
+          "descricao": "Nao Posso Esquecer Me De Ti [L]",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838533.mp4"
+        },
+        {
+          "nome": "Nao Sou Nada Mais Que Um Mortal",
+          "descricao": "Nao Sou Nada Mais Que Um Mortal",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838532.mp4"
+        },
+        {
+          "nome": "Nao Sou Santo Sacrificio [L]",
+          "descricao": "Nao Sou Santo Sacrificio [L]",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838531.mp4"
+        },
+        {
+          "nome": "Noiva Do Inimigo",
+          "descricao": "Noiva Do Inimigo",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838530.mp4"
+        },
+        {
+          "nome": "Noiva Renegada",
+          "descricao": "Noiva Renegada",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838529.mp4"
+        },
+        {
+          "nome": "O Amor Caido",
+          "descricao": "O Amor Caido",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838528.mp4"
+        },
+        {
+          "nome": "O Amor Nao Correspondido Do Ceo [L]",
+          "descricao": "O Amor Nao Correspondido Do Ceo [L]",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838527.mp4"
+        },
+        {
+          "nome": "O Amor Queimou Ela Ressuscitou Ilesa [L]",
+          "descricao": "O Amor Queimou Ela Ressuscitou Ilesa [L]",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838526.mp4"
+        },
+        {
+          "nome": "O Aroma Da Vinganca [L]",
+          "descricao": "O Aroma Da Vinganca [L]",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838525.mp4"
+        },
+        {
+          "nome": "O Bebe Secreto Da Sereia",
+          "descricao": "O Bebe Secreto Da Sereia",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838524.mp4"
+        },
+        {
+          "nome": "O Cavalo E A Influenciadora [L]",
+          "descricao": "O Cavalo E A Influenciadora [L]",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838523.mp4"
+        },
+        {
+          "nome": "O Curandeiro Encantador",
+          "descricao": "O Curandeiro Encantador",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838522.mp4"
+        },
+        {
+          "nome": "O Drama Do Banquete De Noivado",
+          "descricao": "O Drama Do Banquete De Noivado",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838521.mp4"
+        },
+        {
+          "nome": "O Herdeiro Perdido Nas Vesperas De Retomar Tudo",
+          "descricao": "O Herdeiro Perdido Nas Vesperas De Retomar Tudo",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838520.mp4"
+        },
+        {
+          "nome": "O Irmao Do Ex Namorado Me Adora",
+          "descricao": "O Irmao Do Ex Namorado Me Adora",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838519.mp4"
+        },
+        {
+          "nome": "O Jogo Sombrio Da Esposa",
+          "descricao": "O Jogo Sombrio Da Esposa",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838518.mp4"
+        },
+        {
+          "nome": "O Legado Perdido Do Chef Divino",
+          "descricao": "O Legado Perdido Do Chef Divino",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838517.mp4"
+        },
+        {
+          "nome": "O Magnata Presidente Se Apaixona Por Mim",
+          "descricao": "O Magnata Presidente Se Apaixona Por Mim",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838516.mp4"
+        },
+        {
+          "nome": "O Marido Acabou Sendo O Chefe [L]",
+          "descricao": "O Marido Acabou Sendo O Chefe [L]",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838515.mp4"
+        },
+        {
+          "nome": "O Mundo Nas Minhas Maos",
+          "descricao": "O Mundo Nas Minhas Maos",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838514.mp4"
+        },
+        {
+          "nome": "O Pedreiro E Padrinho",
+          "descricao": "O Pedreiro E Padrinho",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838513.mp4"
+        },
+        {
+          "nome": "O Playboy Se Torna Meu Brinquedo [L]",
+          "descricao": "O Playboy Se Torna Meu Brinquedo [L]",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838512.mp4"
+        },
+        {
+          "nome": "O Poder Da Estrela Que Volta",
+          "descricao": "O Poder Da Estrela Que Volta",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838511.mp4"
+        },
+        {
+          "nome": "O Preco De Amar Um Playboy",
+          "descricao": "O Preco De Amar Um Playboy",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838510.mp4"
+        },
+        {
+          "nome": "O Renascimento Da Medica Concubina Rura",
+          "descricao": "O Renascimento Da Medica Concubina Rura",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838509.mp4"
+        },
+        {
+          "nome": "O Resgate Do Bilionario [L]",
+          "descricao": "O Resgate Do Bilionario [L]",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838508.mp4"
+        },
+        {
+          "nome": "O Retorno Da Esperanca",
+          "descricao": "O Retorno Da Esperanca",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838507.mp4"
+        },
+        {
+          "nome": "O Retorno Da Fenix",
+          "descricao": "O Retorno Da Fenix",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838506.mp4"
+        },
+        {
+          "nome": "O Retorno Da Imperatriz Oculta [L]",
+          "descricao": "O Retorno Da Imperatriz Oculta [L]",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838505.mp4"
+        },
+        {
+          "nome": "O Retorno Da Luz Brilhante",
+          "descricao": "O Retorno Da Luz Brilhante",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838504.mp4"
+        },
+        {
+          "nome": "O Retorno Da Senhora Ceo [L]",
+          "descricao": "O Retorno Da Senhora Ceo [L]",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838503.mp4"
+        },
+        {
+          "nome": "O Retorno Do Jovem Mestre [L]",
+          "descricao": "O Retorno Do Jovem Mestre [L]",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838502.mp4"
+        },
+        {
+          "nome": "O Sabor Proibido Do Meu Meio Irmao [L]",
+          "descricao": "O Sabor Proibido Do Meu Meio Irmao [L]",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838501.mp4"
+        },
+        {
+          "nome": "O Selo Imperial",
+          "descricao": "O Selo Imperial",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838500.mp4"
+        },
+        {
+          "nome": "O Tesouro Fofo Contra Ataca",
+          "descricao": "O Tesouro Fofo Contra Ataca",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838499.mp4"
+        },
+        {
+          "nome": "Oito Anos Um Adeus",
+          "descricao": "Oito Anos Um Adeus",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838498.mp4"
+        },
+        {
+          "nome": "Papai Voce Esta Mimando A Crianca Errada [L]",
+          "descricao": "Papai Voce Esta Mimando A Crianca Errada [L]",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838497.mp4"
+        },
+        {
+          "nome": "Pedido Diario Do Marido Amnesico",
+          "descricao": "Pedido Diario Do Marido Amnesico",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838496.mp4"
+        },
+        {
+          "nome": "Quando O Amor Chega",
+          "descricao": "Quando O Amor Chega",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838495.mp4"
+        },
+        {
+          "nome": "Quando O Destino Atinge O Amor",
+          "descricao": "Quando O Destino Atinge O Amor",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838494.mp4"
+        },
+        {
+          "nome": "Quando Te Encontrei",
+          "descricao": "Quando Te Encontrei",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838493.mp4"
+        },
+        {
+          "nome": "Quatro Irmas Imploram Me Para Ir Para Casa",
+          "descricao": "Quatro Irmas Imploram Me Para Ir Para Casa",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838492.mp4"
+        },
+        {
+          "nome": "Reencarnacao Nunca Mais Ficarei De Quarto Por Ela",
+          "descricao": "Reencarnacao Nunca Mais Ficarei De Quarto Por Ela",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838491.mp4"
+        },
+        {
+          "nome": "Renascida Da Herdeira",
+          "descricao": "Renascida Da Herdeira",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838490.mp4"
+        },
+        {
+          "nome": "Renascida Domando O Lorde Libertino",
+          "descricao": "Renascida Domando O Lorde Libertino",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838489.mp4"
+        },
+        {
+          "nome": "Renascida E Mimada Pelo Tio Reencarnada E Mimada Pelo Tio Do Meu Ex [L]",
+          "descricao": "Renascida E Mimada Pelo Tio Reencarnada E Mimada Pelo Tio Do Meu Ex [L]",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838488.mp4"
+        },
+        {
+          "nome": "Renascimento A Rainha Do Pop [L]",
+          "descricao": "Renascimento A Rainha Do Pop [L]",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838487.mp4"
+        },
+        {
+          "nome": "Renascimento Sua Vinganca [L]",
+          "descricao": "Renascimento Sua Vinganca [L]",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838486.mp4"
+        },
+        {
+          "nome": "Resistir Ao Sr Lloyd Romance Idade Gap",
+          "descricao": "Resistir Ao Sr Lloyd Romance Idade Gap",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838485.mp4"
+        },
+        {
+          "nome": "Rezando Por Uma Segunda Chance Parte [L]",
+          "descricao": "Rezando Por Uma Segunda Chance Parte [L]",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838484.mp4"
+        },
+        {
+          "nome": "Se Alguem Me Ama",
+          "descricao": "Se Alguem Me Ama",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838482.mp4"
+        },
+        {
+          "nome": "Secretamente Mimada Por Meu Marido Bilionario [L]",
+          "descricao": "Secretamente Mimada Por Meu Marido Bilionario [L]",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838481.mp4"
+        },
+        {
+          "nome": "Segredos Da Orquidea",
+          "descricao": "Segredos Da Orquidea",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838480.mp4"
+        },
+        {
+          "nome": "Segredos De Gemeas Um So Amor",
+          "descricao": "Segredos De Gemeas Um So Amor",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838479.mp4"
+        },
+        {
+          "nome": "Segredos De Uma Magnata A Verdadeira Senhorita",
+          "descricao": "Segredos De Uma Magnata A Verdadeira Senhorita",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838478.mp4"
+        },
+        {
+          "nome": "Segundo Amor Bilionario Secreto",
+          "descricao": "Segundo Amor Bilionario Secreto",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838477.mp4"
+        },
+        {
+          "nome": "Seja Meu Obediente [L]",
+          "descricao": "Seja Meu Obediente [L]",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838476.mp4"
+        },
+        {
+          "nome": "Ser Madrasta Sem Querer [L]",
+          "descricao": "Ser Madrasta Sem Querer [L]",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838475.mp4"
+        },
+        {
+          "nome": "Sob A Luz Das Flores Caidas",
+          "descricao": "Sob A Luz Das Flores Caidas",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838473.mp4"
+        },
+        {
+          "nome": "Stripper Nanny Parte [L]",
+          "descricao": "Stripper Nanny Parte [L]",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838470.mp4"
+        },
+        {
+          "nome": "Sua Ex Esposa Deslumbrante",
+          "descricao": "Sua Ex Esposa Deslumbrante",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838468.mp4"
+        },
+        {
+          "nome": "Te Amo Antes Que O Tempo Acabe [L]",
+          "descricao": "Te Amo Antes Que O Tempo Acabe [L]",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838467.mp4"
+        },
+        {
+          "nome": "Te Amo Nesse Pleno Dia De Sol [L]",
+          "descricao": "Te Amo Nesse Pleno Dia De Sol [L]",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838466.mp4"
+        },
+        {
+          "nome": "Ternura [L]",
+          "descricao": "Ternura [L]",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838465.mp4"
+        },
+        {
+          "nome": "Ternura Desvanecida",
+          "descricao": "Ternura Desvanecida",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838464.mp4"
+        },
+        {
+          "nome": "The Elegy Of A Lost Romance Um Romance Perdido",
+          "descricao": "The Elegy Of A Lost Romance Um Romance Perdido",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838463.mp4"
+        },
+        {
+          "nome": "The Mafia Boss",
+          "descricao": "The Mafia Boss",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838462.mp4"
+        },
+        {
+          "nome": "The Unwanted Mate O Companheiro Indesejado",
+          "descricao": "The Unwanted Mate O Companheiro Indesejado",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838461.mp4"
+        },
+        {
+          "nome": "Toque Magico Ceo Fofinho",
+          "descricao": "Toque Magico Ceo Fofinho",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838460.mp4"
+        },
+        {
+          "nome": "Traicao Nunca Mais Nos Veremos",
+          "descricao": "Traicao Nunca Mais Nos Veremos",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838459.mp4"
+        },
+        {
+          "nome": "Um Coracao Libertado [L]",
+          "descricao": "Um Coracao Libertado [L]",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838458.mp4"
+        },
+        {
+          "nome": "Uma Estrela Da Sorte Com Seis Anos E Meio [L]",
+          "descricao": "Uma Estrela Da Sorte Com Seis Anos E Meio [L]",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838457.mp4"
+        },
+        {
+          "nome": "Uma Segunda Chance Com Minha Amante Secreta [L]",
+          "descricao": "Uma Segunda Chance Com Minha Amante Secreta [L]",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838456.mp4"
+        },
+        {
+          "nome": "Under The Royal Rule Sob O Dominio Real",
+          "descricao": "Under The Royal Rule Sob O Dominio Real",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838455.mp4"
+        },
+        {
+          "nome": "Velocidade Furiosa",
+          "descricao": "Velocidade Furiosa",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838454.mp4"
+        },
+        {
+          "nome": "Vendida Ao Chefe Possessivo Da Mafia [L]",
+          "descricao": "Vendida Ao Chefe Possessivo Da Mafia [L]",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838453.mp4"
+        },
+        {
+          "nome": "Verdade E Redencao [L]",
+          "descricao": "Verdade E Redencao [L]",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838452.mp4"
+        },
+        {
+          "nome": "Voce E Minha Unica Certeza [L]",
+          "descricao": "Voce E Minha Unica Certeza [L]",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838451.mp4"
+        },
+        {
+          "nome": "Voce E Tudo Que Eu Quero [L]",
+          "descricao": "Voce E Tudo Que Eu Quero [L]",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838450.mp4"
+        },
+        {
+          "nome": "Voce Sera Meu Amor Novamente [L]",
+          "descricao": "Voce Sera Meu Amor Novamente [L]",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838449.mp4"
+        },
+        {
+          "nome": "Voltei No Tempo Para Ficar Contigo",
+          "descricao": "Voltei No Tempo Para Ficar Contigo",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838448.mp4"
+        },
+        {
+          "nome": "A Virgem E O Milionario Parte 1",
+          "descricao": "A Virgem E O Milionario Parte 1",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838640.mp4"
+        },
+        {
+          "nome": "Nao Ha Escapatoria Parte 1",
+          "descricao": "Nao Ha Escapatoria Parte 1",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838535.mp4"
+        },
+        {
+          "nome": "Sparkshorts E01",
+          "descricao": "Sparkshorts E01",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838472.mp4"
+        },
+        {
+          "nome": "Nao Ha Escapatoria Parte 2",
+          "descricao": "Nao Ha Escapatoria Parte 2",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838534.mp4"
+        },
+        {
+          "nome": "Rezando Por Uma Segunda Chance Parte 2 [L]",
+          "descricao": "Rezando Por Uma Segunda Chance Parte 2 [L]",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838483.mp4"
+        },
+        {
+          "nome": "Sparkshorts E02",
+          "descricao": "Sparkshorts E02",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838471.mp4"
+        },
+        {
+          "nome": "Stripper Nanny Parte 2 [L]",
+          "descricao": "Stripper Nanny Parte 2 [L]",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838469.mp4"
+        },
+        {
+          "nome": "A Virgem E O Milionario Parte 3",
+          "descricao": "A Virgem E O Milionario Parte 3",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838639.mp4"
+        },
+        {
+          "nome": "Gabriela So Tem 3 Meses E Esta A Solta [L]",
+          "descricao": "Gabriela So Tem 3 Meses E Esta A Solta [L]",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838575.mp4"
+        },
+        {
+          "nome": "Casamento Relampago Com Meu Ex 8 Anos Apos A Separacao",
+          "descricao": "Casamento Relampago Com Meu Ex 8 Anos Apos A Separacao",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838612.mp4"
+        },
+        {
+          "nome": "19 Anos Para Amar Voce Parte 1 [L]",
+          "descricao": "19 Anos Para Amar Voce Parte 1 [L]",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838665.mp4"
+        },
+        {
+          "nome": "19 Anos Para Amar Voce Parte 2 [L]",
+          "descricao": "19 Anos Para Amar Voce Parte 2 [L]",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838664.mp4"
+        },
+        {
+          "nome": "As Ultimas 24 Horas",
+          "descricao": "As Ultimas 24 Horas",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838622.mp4"
+        },
+        {
+          "nome": "Seu Pleno Poder Nos 50",
+          "descricao": "Seu Pleno Poder Nos 50",
+          "capa": "https://www.acstatic.co/vod/capinha/reels_shorts.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838474.mp4"
+        }
+      ]
+    }
+  ],
+  "series": []
+}
