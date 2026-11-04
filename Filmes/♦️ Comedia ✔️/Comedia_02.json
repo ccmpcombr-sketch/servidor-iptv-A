@@ -1,0 +1,3013 @@
+{
+  "canais": [],
+  "filmes": [
+    {
+      "album": "♦️ Comedia ✔️",
+      "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/filmes/Comedia.png",
+      "subAlbuns": [],
+      "itens": [
+        {
+          "nome": "Busco Namorada",
+          "descricao": "Busco Namorada",
+          "capa": "https://image.tmdb.org/t/p/w780/iXGCldSSeZBZHfow0jSTXGJdVh1.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771321.mp4"
+        },
+        {
+          "nome": "Buzine por Jesus. Salve a Sua Alma.",
+          "descricao": "Buzine por Jesus. Salve a Sua Alma.",
+          "capa": "https://image.tmdb.org/t/p/w780/tVUEQX678hV84xaqJc4FOPAR6nN.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771224.mp4"
+        },
+        {
+          "nome": "Cabelo & Bigode",
+          "descricao": "Cabelo & Bigode",
+          "capa": "https://image.tmdb.org/t/p/w780/jvLZHjiJRj2uefPoBlBaF0ohxsL.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771397.mp4"
+        },
+        {
+          "nome": "Caca Fantasmas Na Trilha Do Gelo",
+          "descricao": "Caca Fantasmas Na Trilha Do Gelo",
+          "capa": "https://image.tmdb.org/t/p/w780/dW09SXaRhTH5UfuaUwkuyMtq544.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4772210.mp4"
+        },
+        {
+          "nome": "Caçadores das Almas Perdidas",
+          "descricao": "Caçadores das Almas Perdidas",
+          "capa": "https://image.tmdb.org/t/p/w780/dQlAJxkPxKImDAKGTF9hm6z6DMj.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4772182.mp4"
+        },
+        {
+          "nome": "Caça-Fantasmas",
+          "descricao": "Caça-Fantasmas",
+          "capa": "https://image.tmdb.org/t/p/w780/qcpfGdYahW1NkqPAz2MHLPHas8O.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4770481.mp4"
+        },
+        {
+          "nome": "Caçula",
+          "descricao": "Caçula",
+          "capa": "https://image.tmdb.org/t/p/w780/uc2txUknq7W3ZyZN0hiwgvpoOOj.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4770883.mp4"
+        },
+        {
+          "nome": "Cada um tem a Gemea que Merece",
+          "descricao": "Cada um tem a Gemea que Merece",
+          "capa": "https://image.tmdb.org/t/p/w780/cklXRmdNUmXSkM0gMAz30pkzGGx.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4772670.mp4"
+        },
+        {
+          "nome": "Cade a Minha Entrega",
+          "descricao": "Cade a Minha Entrega",
+          "capa": "https://image.tmdb.org/t/p/w780/e8BWhGPDGZOaJPgOvGeV4WFmUlg.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4772329.mp4"
+        },
+        {
+          "nome": "Cadê Meu Cachorro",
+          "descricao": "Cadê Meu Cachorro",
+          "capa": "https://image.tmdb.org/t/p/w780/gnER31hiAdPRLpepT22ob1A01M3.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4770501.mp4"
+        },
+        {
+          "nome": "Cadê os Morgan?",
+          "descricao": "Cadê os Morgan?",
+          "capa": "https://image.tmdb.org/t/p/w780/7A6yr34dY8D9Hr9I6IeeJ4JauGb.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771828.mp4"
+        },
+        {
+          "nome": "Cães de Guerra",
+          "descricao": "Cães de Guerra",
+          "capa": "https://image.tmdb.org/t/p/w780/uv9g0yF3z10tWWq24OQewQf6r5e.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4770736.mp4"
+        },
+        {
+          "nome": "Caindo na Estrada",
+          "descricao": "Caindo na Estrada",
+          "capa": "https://image.tmdb.org/t/p/w780/2iMiXw4hUL0UqvfXLxPPLptz94X.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771798.mp4"
+        },
+        {
+          "nome": "Caminhos Tortos",
+          "descricao": "Caminhos Tortos",
+          "capa": "https://image.tmdb.org/t/p/w780/qgFLue2nYRyGuxjRHfpU0yyNZ3z.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771118.mp4"
+        },
+        {
+          "nome": "Camp Hideout",
+          "descricao": "Camp Hideout",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iRqstvN60G1JytNcqerdvOvEA21.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771030.mp4"
+        },
+        {
+          "nome": "Camp Rock 1",
+          "descricao": "Camp Rock 1",
+          "capa": "http://ocvtab.info/images/53VTzu0nhbNYmIbqdDbFqobsLHt_big.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4772669.mp4"
+        },
+        {
+          "nome": "Camp Rock 2",
+          "descricao": "Camp Rock 2",
+          "capa": "https://image.tmdb.org/t/p/w780/8RSdWqC259zR72Jjo6ANAM4ndhM.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4772668.mp4"
+        },
+        {
+          "nome": "Campeões",
+          "descricao": "Campeões",
+          "capa": "https://image.tmdb.org/t/p/w780/vev8jjpprfAVNad1CTOczNELAn1.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771203.mp4"
+        },
+        {
+          "nome": "Campeonex",
+          "descricao": "Campeonex",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/juLIGT2tbLqVFoVVnGEKj6YRZp1.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769989.mp4"
+        },
+        {
+          "nome": "Canção de Inverno",
+          "descricao": "Canção de Inverno",
+          "capa": "https://image.tmdb.org/t/p/w780/od9wf1FSKez2bdpcquXaZmCqae3.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771089.mp4"
+        },
+        {
+          "nome": "Canção para Marion",
+          "descricao": "Canção para Marion",
+          "capa": "https://image.tmdb.org/t/p/w780/y0EYcI8dVfnTW64QRjcwjHGlIhv.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4770509.mp4"
+        },
+        {
+          "nome": "Candidato Aloprado",
+          "descricao": "Candidato Aloprado",
+          "capa": "https://image.tmdb.org/t/p/w780/rj33AtWqylfufwPXBMXrVi4N6rw.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769921.mp4"
+        },
+        {
+          "nome": "Canina",
+          "descricao": "Canina",
+          "capa": "https://image.tmdb.org/t/p/w780/fny7sIv34t3rvCNk2GWpckHSUXU.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4770831.mp4"
+        },
+        {
+          "nome": "Cantando na Chuva",
+          "descricao": "Cantando na Chuva",
+          "capa": "https://image.tmdb.org/t/p/w780/tLUOxyl1myKTQGMTCnuA9RRArHS.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771717.mp4"
+        },
+        {
+          "nome": "Cão e Gato",
+          "descricao": "Cão e Gato",
+          "capa": "https://image.tmdb.org/t/p/w780/cn7yYRFOcNsyRlSgAv3oW3Ubd4p.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771004.mp4"
+        },
+        {
+          "nome": "Cão Que Ladra Não Morde",
+          "descricao": "Cão Que Ladra Não Morde",
+          "capa": "https://image.tmdb.org/t/p/w780/aSMfCrFD7xlguMTrjnZYLEgEsIO.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4770272.mp4"
+        },
+        {
+          "nome": "Cãofusões",
+          "descricao": "Cãofusões",
+          "capa": "https://image.tmdb.org/t/p/w780/1Rft8KYJCCPngqHIlBbQ1NhnzNT.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4770746.mp4"
+        },
+        {
+          "nome": "Capitão Fantástico",
+          "descricao": "Capitão Fantástico",
+          "capa": "https://image.tmdb.org/t/p/w780/t4UH0AJql4paQMq4Dlg1gk2tqhk.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4772159.mp4"
+        },
+        {
+          "nome": "Cara Cade Meu Carro",
+          "descricao": "Cara Cade Meu Carro",
+          "capa": "https://image.tmdb.org/t/p/w780/gEMqCjWru37wjTqo4eF3FZdJCiI.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4772667.mp4"
+        },
+        {
+          "nome": "Cara",
+          "descricao": "Cara",
+          "capa": "https://image.tmdb.org/t/p/w780/9PP5gusHiYiu22dFiBi6WFrC3jw.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4770293.mp4"
+        },
+        {
+          "nome": "Carlinhos e Carlão",
+          "descricao": "Carlinhos e Carlão",
+          "capa": "https://image.tmdb.org/t/p/w780/1wesoVz3mscgkxrzCVpEsQm9O03.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4772056.mp4"
+        },
+        {
+          "nome": "Carnaval",
+          "descricao": "Carnaval",
+          "capa": "https://image.tmdb.org/t/p/w780/ivoEN53J1zvyvLd8vOgVEtCKjDz.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771820.mp4"
+        },
+        {
+          "nome": "Carros Usados",
+          "descricao": "Carros Usados",
+          "capa": "https://image.tmdb.org/t/p/w780/6KMrmkglJLZYCyHBG78iTSW4TAF.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4770790.mp4"
+        },
+        {
+          "nome": "Cartas para Julieta",
+          "descricao": "Cartas para Julieta",
+          "capa": "https://image.tmdb.org/t/p/w780/xcrkatLWdrI0662uKo7LTyLEY38.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771753.mp4"
+        },
+        {
+          "nome": "Casa Amor: Exclusive for Ladies",
+          "descricao": "Casa Amor: Exclusive for Ladies",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/vOEoBP1BUiDd7FFOCVCPLQldQaW.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771558.mp4"
+        },
+        {
+          "nome": "Casa da Mae Joana 2",
+          "descricao": "Casa da Mae Joana 2",
+          "capa": "https://image.tmdb.org/t/p/w780/9jpaOJq1SZeABRRyXYFpL7VO7Cs.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4772666.mp4"
+        },
+        {
+          "nome": "Casa da Mae Joana",
+          "descricao": "Casa da Mae Joana",
+          "capa": "https://image.tmdb.org/t/p/w780/kGUoy9Cb4KzAoRKp1dsxLcYV6Li.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4772665.mp4"
+        },
+        {
+          "nome": "Casa do Carvalho - O Filme",
+          "descricao": "Casa do Carvalho - O Filme",
+          "capa": "https://image.tmdb.org/t/p/w780/ueYgWeUbaNTam7mtG8AXH9vt6Hk.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771091.mp4"
+        },
+        {
+          "nome": "Casal de Fachada",
+          "descricao": "Casal de Fachada",
+          "capa": "https://image.tmdb.org/t/p/w780/prYUfVvnq9tAMP4LRduyoQtQIjQ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771445.mp4"
+        },
+        {
+          "nome": "Casal Improvavel",
+          "descricao": "Casal Improvavel",
+          "capa": "https://image.tmdb.org/t/p/w780/wt050OjvLsiP2pS39CvsKuNLwcp.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4772309.mp4"
+        },
+        {
+          "nome": "Casamento Australiano",
+          "descricao": "Casamento Australiano",
+          "capa": "https://image.tmdb.org/t/p/w780/5LWuB9sNBqcz8z4U13AMxYpeNTw.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771656.mp4"
+        },
+        {
+          "nome": "Casamento em Cuba (2019)",
+          "descricao": "Casamento em Cuba (2019)",
+          "capa": "https://image.tmdb.org/t/p/w500/6PF2yTLShaenUceuWC0GwiO2Hz0.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4842052.mp4"
+        },
+        {
+          "nome": "Casamento em Família",
+          "descricao": "Casamento em Família",
+          "capa": "https://image.tmdb.org/t/p/w780/1vi88La90aTwEtsRMNqXNwtTXn3.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771225.mp4"
+        },
+        {
+          "nome": "Casamento Grego 2",
+          "descricao": "Casamento Grego 2",
+          "capa": "https://image.tmdb.org/t/p/w780/5s5e5xTzUcpnRmFnPT1zXFnaJ5z.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4772122.mp4"
+        },
+        {
+          "nome": "Casamento Grego 3",
+          "descricao": "Casamento Grego 3",
+          "capa": "https://image.tmdb.org/t/p/w780/hVmsjW1QEIJ8ixG0H6ymqBqaxEc.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771063.mp4"
+        },
+        {
+          "nome": "Casamento Grego",
+          "descricao": "Casamento Grego",
+          "capa": "https://image.tmdb.org/t/p/w780/7InkKCZeGemG0MVUi0JKJkJdb8s.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4772123.mp4"
+        },
+        {
+          "nome": "Casamentos Cruzados",
+          "descricao": "Casamentos Cruzados",
+          "capa": "https://image.tmdb.org/t/p/w780/sAW7zuce39RLbSVwnFlCNDG913Z.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4770825.mp4"
+        },
+        {
+          "nome": "Casamentos e Outros Desastres",
+          "descricao": "Casamentos e Outros Desastres",
+          "capa": "https://image.tmdb.org/t/p/w780/lt4xvo3V6mn6wJHiFm88syQTdn7.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771678.mp4"
+        },
+        {
+          "nome": "Casei com Minha Chefe",
+          "descricao": "Casei com Minha Chefe",
+          "capa": "https://image.tmdb.org/t/p/w780/mMppx1cm3dPiHTcBJlSBXYs7bz1.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4770138.mp4"
+        },
+        {
+          "nome": "Casi Divas",
+          "descricao": "Casi Divas",
+          "capa": "https://image.tmdb.org/t/p/w780/3LcWs8yO4QRytqBLEBD6MJNt5ME.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4770579.mp4"
+        },
+        {
+          "nome": "Cassino in Ischia",
+          "descricao": "Cassino in Ischia",
+          "capa": "https://image.tmdb.org/t/p/w780/bQlT58ClG3YPUXj2QuQSAUvxNTS.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4770778.mp4"
+        },
+        {
+          "nome": "Castelo de Inverno 2: Um Amor de Inverno",
+          "descricao": "Castelo de Inverno 2: Um Amor de Inverno",
+          "capa": "https://image.tmdb.org/t/p/w780/e3xZfgBq8p6wOJK9sAoiO22qsuC.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771299.mp4"
+        },
+        {
+          "nome": "Castigados",
+          "descricao": "Castigados",
+          "capa": "https://image.tmdb.org/t/p/w780/v4nnbRDIyTwWxUQIrbsv2j3sfhG.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4770678.mp4"
+        },
+        {
+          "nome": "Cats",
+          "descricao": "Cats",
+          "capa": "https://image.tmdb.org/t/p/w780/5XIZDh3n6BZAy00PqXpK1D16tZg.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4772135.mp4"
+        },
+        {
+          "nome": "Cavalheiro Sob Medida",
+          "descricao": "Cavalheiro Sob Medida",
+          "capa": "https://image.tmdb.org/t/p/w780/73ookyuGc5mXu27Qv0hOJHipCc5.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769944.mp4"
+        },
+        {
+          "nome": "CB4 - Uma História Sem Rap End",
+          "descricao": "CB4 - Uma História Sem Rap End",
+          "capa": "https://image.tmdb.org/t/p/w780/7bP66TCKWPTsiER72xgyKUsjg82.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4770292.mp4"
+        },
+        {
+          "nome": "Cegos Surdos e Loucos",
+          "descricao": "Cegos Surdos e Loucos",
+          "capa": "https://image.tmdb.org/t/p/w780/tiAZPZjZdNy7KZi9oTKgo0BOhUc.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4772664.mp4"
+        },
+        {
+          "nome": "Cenas de Natureza Sexual",
+          "descricao": "Cenas de Natureza Sexual",
+          "capa": "https://image.tmdb.org/t/p/w780/5hoBWrhuv5NEsrOX2VAlwkaYKqS.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4770022.mp4"
+        },
+        {
+          "nome": "Cha Cha Real Smooth: O Próximo Passo",
+          "descricao": "Cha Cha Real Smooth: O Próximo Passo",
+          "capa": "https://image.tmdb.org/t/p/w780/2ojP5Z3m1UVFsqN9cESJ0tN94SM.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771417.mp4"
+        },
+        {
+          "nome": "Charada",
+          "descricao": "Charada",
+          "capa": "https://image.tmdb.org/t/p/w780/7z6sVZyLX9RVHRn6IkIYiiEEE2x.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4770249.mp4"
+        },
+        {
+          "nome": "Charlie Brown",
+          "descricao": "Charlie Brown",
+          "capa": "https://image.tmdb.org/t/p/w780/eds4cxarUjHn7OdDd26SauphUnR.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4770458.mp4"
+        },
+        {
+          "nome": "Cheech e Chong - Os Irmãos Corsos",
+          "descricao": "Cheech e Chong - Os Irmãos Corsos",
+          "capa": "https://image.tmdb.org/t/p/w780/DO6DC8LFMiXe7LVQajtnlxL16N.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771589.mp4"
+        },
+        {
+          "nome": "Chef",
+          "descricao": "Chef",
+          "capa": "https://image.tmdb.org/t/p/w780/1yLaXY38bywjmhakKVj5mzdGuzA.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4770775.mp4"
+        },
+        {
+          "nome": "Cheios de Graça",
+          "descricao": "Cheios de Graça",
+          "capa": "https://image.tmdb.org/t/p/w780/bLurlqMXO5ljLw4NtL3cuaoWoCk.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771042.mp4"
+        },
+        {
+          "nome": "Cheque Em Branco",
+          "descricao": "Cheque Em Branco",
+          "capa": "https://image.tmdb.org/t/p/w780/kjoLpAN1MtU4rzfiGgMGsCGm0Oa.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4772663.mp4"
+        },
+        {
+          "nome": "Cherry 2000",
+          "descricao": "Cherry 2000",
+          "capa": "https://image.tmdb.org/t/p/w780/t3uds00MHLsibhKLCL0BbCEGxXb.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771863.mp4"
+        },
+        {
+          "nome": "Cherry",
+          "descricao": "Cherry",
+          "capa": "https://image.tmdb.org/t/p/w780/sTlOUvhrsiGdtwVKbdlB5pAdE2U.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771814.mp4"
+        },
+        {
+          "nome": "Chicago",
+          "descricao": "Chicago",
+          "capa": "https://image.tmdb.org/t/p/w780/r3ZluYmNgfow3HokBDmIp9GLFE2.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771802.mp4"
+        },
+        {
+          "nome": "Chips",
+          "descricao": "Chips",
+          "capa": "https://image.tmdb.org/t/p/w780/v4v0CHg2DzlHAVCPK5ITbL8IAx9.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4772662.mp4"
+        },
+        {
+          "nome": "Chocolate",
+          "descricao": "Chocolate",
+          "capa": "https://image.tmdb.org/t/p/w780/qSrRgEoGJD4WkXum7MtT9F0kfei.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771831.mp4"
+        },
+        {
+          "nome": "Christmas on the Farm",
+          "descricao": "Christmas on the Farm",
+          "capa": "https://image.tmdb.org/t/p/w780/ccmYtW6KUayJcg9XR80HqaFiZur.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4770415.mp4"
+        },
+        {
+          "nome": "Chuva de Milhões",
+          "descricao": "Chuva de Milhões",
+          "capa": "https://image.tmdb.org/t/p/w780/qWf9N2fUVocgQGxfHcDhxuFRZrz.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771486.mp4"
+        },
+        {
+          "nome": "Cilada.com",
+          "descricao": "Cilada.com",
+          "capa": "https://image.tmdb.org/t/p/w780/jCTh6jL9fd39Zu65Af5lnlHg0uw.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4772661.mp4"
+        },
+        {
+          "nome": "Cinco Anos de Noivado",
+          "descricao": "Cinco Anos de Noivado",
+          "capa": "https://image.tmdb.org/t/p/w780/fcUnjgrxu6TpOR2EYBYJPS1B7wm.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4770500.mp4"
+        },
+        {
+          "nome": "Cinderela em Paris",
+          "descricao": "Cinderela em Paris",
+          "capa": "https://image.tmdb.org/t/p/w780/nzCwkEkb36NFYPQNyzDwQoAPyqU.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771772.mp4"
+        },
+        {
+          "nome": "Cinquenta Tons de Preto",
+          "descricao": "Cinquenta Tons de Preto",
+          "capa": "https://image.tmdb.org/t/p/w780/zVwhEEwV86v3JbPQyfIy4fmmzfS.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4772115.mp4"
+        },
+        {
+          "nome": "Cíntia - A Criatura",
+          "descricao": "Cíntia - A Criatura",
+          "capa": "https://image.tmdb.org/t/p/w780/wdw5oSacotvxregDHYOEvVJMogG.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771293.mp4"
+        },
+        {
+          "nome": "Círculo Vicioso",
+          "descricao": "Círculo Vicioso",
+          "capa": "https://image.tmdb.org/t/p/w780/9vM6tlF3p8DeWPniRfkUJQl5bZf.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771778.mp4"
+        },
+        {
+          "nome": "City Hunter",
+          "descricao": "City Hunter",
+          "capa": "https://image.tmdb.org/t/p/w780/oiP01GX3Qp0AAVIM0sT6hUJNRRf.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4770981.mp4"
+        },
+        {
+          "nome": "CJ7 - O Brinquedo Mágico",
+          "descricao": "CJ7 - O Brinquedo Mágico",
+          "capa": "https://image.tmdb.org/t/p/w780/dPPMfNgrSLmsQ5MQ9gCy53ZHrX5.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4770490.mp4"
+        },
+        {
+          "nome": "Click",
+          "descricao": "Click",
+          "capa": "https://image.tmdb.org/t/p/w780/54NxZF30Nhy6bfw5ItwC1ajWNro.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4772660.mp4"
+        },
+        {
+          "nome": "Cliente Morto Não Paga",
+          "descricao": "Cliente Morto Não Paga",
+          "capa": "https://image.tmdb.org/t/p/w780/kLTXbyOZXXDEJHcpZTLlihEKpkT.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771774.mp4"
+        },
+        {
+          "nome": "Clube da Luta para Meninas",
+          "descricao": "Clube da Luta para Meninas",
+          "capa": "https://image.tmdb.org/t/p/w780/1quLTLv1f7Qpt3gJVyXfEU4oTEU.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771093.mp4"
+        },
+        {
+          "nome": "Clube dos Cafajestes",
+          "descricao": "Clube dos Cafajestes",
+          "capa": "https://image.tmdb.org/t/p/w780/37RHvunfP3uZBujIt8kw1yntejZ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4770817.mp4"
+        },
+        {
+          "nome": "Clube dos Cinco",
+          "descricao": "Clube dos Cinco",
+          "capa": "https://image.tmdb.org/t/p/w780/pFVjzMlJjjyTa7pDaFUzsLF6PsW.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4772152.mp4"
+        },
+        {
+          "nome": "Clube dos Divorciados",
+          "descricao": "Clube dos Divorciados",
+          "capa": "https://image.tmdb.org/t/p/w780/pJaqDlrGbmolUF5hqE7XEeTijrH.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4770425.mp4"
+        },
+        {
+          "nome": "Clube dos Infieis Honestos",
+          "descricao": "Clube dos Infieis Honestos",
+          "capa": "https://image.tmdb.org/t/p/w780/w2cqKX8xMp9s5Ng8j0npVGbX770.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4772376.mp4"
+        },
+        {
+          "nome": "Clube dos Pervertidos",
+          "descricao": "Clube dos Pervertidos",
+          "capa": "https://image.tmdb.org/t/p/w780/b0nu9nbPrxXyR194MBeB60tf0s1.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771608.mp4"
+        },
+        {
+          "nome": "Coffee And Kareem",
+          "descricao": "Coffee And Kareem",
+          "capa": "https://image.tmdb.org/t/p/w780/fsIIv6QKDlqrVyGGkouMah4D4ir.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4772140.mp4"
+        },
+        {
+          "nome": "Cohen vs. Rosi",
+          "descricao": "Cohen vs. Rosi",
+          "capa": "https://image.tmdb.org/t/p/w780/1mBpRqjSw9phNvCKvxzWyedj5t8.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4770640.mp4"
+        },
+        {
+          "nome": "Coisas Divertidas Sobre o Amor",
+          "descricao": "Coisas Divertidas Sobre o Amor",
+          "capa": "https://image.tmdb.org/t/p/w780/uIUFGA0G124m52CEJmNlsp3ui9W.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771062.mp4"
+        },
+        {
+          "nome": "Cold Souls",
+          "descricao": "Cold Souls",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/aQx0pmzb76soQNFQoGjjA2chlS7.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4770367.mp4"
+        },
+        {
+          "nome": "Com a Bola Toda",
+          "descricao": "Com a Bola Toda",
+          "capa": "https://image.tmdb.org/t/p/w780/x5dkT5LwiBXJ100xV2nbjLRBWvp.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771054.mp4"
+        },
+        {
+          "nome": "Com Amor Simon",
+          "descricao": "Com Amor Simon",
+          "capa": "https://image.tmdb.org/t/p/w780/wFi5P1vnZRmCQY747y3vOgKsObM.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771884.mp4"
+        },
+        {
+          "nome": "Com Amor",
+          "descricao": "Com Amor",
+          "capa": "https://image.tmdb.org/t/p/w780/d2aVcAMi5tZPLPBc7ZSVQ0rN2cr.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4770184.mp4"
+        },
+        {
+          "nome": "Com Mérito",
+          "descricao": "Com Mérito",
+          "capa": "https://image.tmdb.org/t/p/w780/g2DdTlGSMAFjlXZMHYK6FfFOkX.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771806.mp4"
+        },
+        {
+          "nome": "Com Quem Sera?",
+          "descricao": "Com Quem Sera?",
+          "capa": "https://image.tmdb.org/t/p/w780/bfWQzMsa9iBD5s8VKDwvDFdTSa3.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4772304.mp4"
+        },
+        {
+          "nome": "Combinação Perfeita",
+          "descricao": "Combinação Perfeita",
+          "capa": "https://image.tmdb.org/t/p/w780/xBdOs8RqlOAhhgVuqvDDCv4xzsU.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771448.mp4"
+        },
+        {
+          "nome": "Como Agarrar Meu Ex-Namorado",
+          "descricao": "Como Agarrar Meu Ex-Namorado",
+          "capa": "https://image.tmdb.org/t/p/w780/au8CiS0UEO23hPMwXbjPIvwvGcK.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4770341.mp4"
+        },
+        {
+          "nome": "Como Agarrar um Marido",
+          "descricao": "Como Agarrar um Marido",
+          "capa": "https://image.tmdb.org/t/p/w780/nBh2GmDL3AA7Aaq3AsW1AyvMVLL.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4770699.mp4"
+        },
+        {
+          "nome": "Como Agradar Uma Mulher",
+          "descricao": "Como Agradar Uma Mulher",
+          "capa": "https://image.tmdb.org/t/p/w780/9PONfgIdAx01DJ0Ld93PVXxoU9r.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771258.mp4"
+        },
+        {
+          "nome": "Como Assaltar Um Banco",
+          "descricao": "Como Assaltar Um Banco",
+          "capa": "https://image.tmdb.org/t/p/w780/5qElteE5duGiTNeGZIRRjIHGY5p.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771296.mp4"
+        },
+        {
+          "nome": "Como Cães e Gatos 2 A Vingança de Kitty Galore",
+          "descricao": "Como Cães e Gatos 2 A Vingança de Kitty Galore",
+          "capa": "https://image.tmdb.org/t/p/w780/e8hmNAAcRCUa1jJBLl5J10oBTBf.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4772082.mp4"
+        },
+        {
+          "nome": "Como Cães e Gatos 2: A Vingança de Kitty Galore",
+          "descricao": "Como Cães e Gatos 2: A Vingança de Kitty Galore",
+          "capa": "https://image.tmdb.org/t/p/w780/e8hmNAAcRCUa1jJBLl5J10oBTBf.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4770626.mp4"
+        },
+        {
+          "nome": "Como Cães e Gatos 3: Peludos Unidos!",
+          "descricao": "Como Cães e Gatos 3: Peludos Unidos!",
+          "capa": "https://image.tmdb.org/t/p/w780/58ZwIMQbwZD243jG782KVegzm1U.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4772081.mp4"
+        },
+        {
+          "nome": "Como Cães e Gatos",
+          "descricao": "Como Cães e Gatos",
+          "capa": "https://image.tmdb.org/t/p/w780/5UmSAUg8ZwdzGcBFhYHv45VhueM.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4772083.mp4"
+        },
+        {
+          "nome": "Como Casar com um Milionário",
+          "descricao": "Como Casar com um Milionário",
+          "capa": "https://image.tmdb.org/t/p/w780/s3n3swgSLQzTZSZsnUueQBBnvTy.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4772026.mp4"
+        },
+        {
+          "nome": "Como Construir uma Garota",
+          "descricao": "Como Construir uma Garota",
+          "capa": "http://ocvtab.info/images/e9bdabb70bd5db7da77fbb338f06ac19.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4772017.mp4"
+        },
+        {
+          "nome": "Como é Cruel Viver Assim",
+          "descricao": "Como é Cruel Viver Assim",
+          "capa": "https://image.tmdb.org/t/p/w780/9U14Dip0WmvEUMrU8cCcqipoHZF.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4772218.mp4"
+        },
+        {
+          "nome": "Como Enlouquecer seu Chefe",
+          "descricao": "Como Enlouquecer seu Chefe",
+          "capa": "https://image.tmdb.org/t/p/w780/72Fzujf9o63Vkj3qaszG3JKkh5e.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771842.mp4"
+        },
+        {
+          "nome": "Como Hackear Seu Chefe",
+          "descricao": "Como Hackear Seu Chefe",
+          "capa": "https://image.tmdb.org/t/p/w780/k0SuLsAqIJaLVQkQZpZ2qeaUPnR.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771758.mp4"
+        },
+        {
+          "nome": "Como Impedir um Assalto",
+          "descricao": "Como Impedir um Assalto",
+          "capa": "https://image.tmdb.org/t/p/w780/cgXzuC3hL4dW4WwkC0poEBoLlkb.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4770416.mp4"
+        },
+        {
+          "nome": "Como Impedir um Casamento",
+          "descricao": "Como Impedir um Casamento",
+          "capa": "https://image.tmdb.org/t/p/w780/Si2ysoqiCmlm1e9eQECHudxYEh.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771000.mp4"
+        },
+        {
+          "nome": "Como Perder um Homem em 10 Dias",
+          "descricao": "Como Perder um Homem em 10 Dias",
+          "capa": "https://image.tmdb.org/t/p/w780/qxwgxjFUtZ3qf7vib9na6tdPfwT.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4772659.mp4"
+        },
+        {
+          "nome": "Como Sair de Buffalo",
+          "descricao": "Como Sair de Buffalo",
+          "capa": "https://image.tmdb.org/t/p/w780/cBZG2akI4aMbIb2pyeZAzKli1Qr.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771849.mp4"
+        },
+        {
+          "nome": "Como Se Fosse a Primeira Vez",
+          "descricao": "Como Se Fosse a Primeira Vez",
+          "capa": "https://image.tmdb.org/t/p/w780/h0st50VJ755VG1kzSc2FgwtDHdk.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4772338.mp4"
+        },
+        {
+          "nome": "Como Se Livrar de uma Madrasta",
+          "descricao": "Como Se Livrar de uma Madrasta",
+          "capa": "https://image.tmdb.org/t/p/w780/ucdESasIQpwWPAuNyntgc2lclrl.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4770342.mp4"
+        },
+        {
+          "nome": "Como se Tornar um Conquistador",
+          "descricao": "Como se Tornar um Conquistador",
+          "capa": "https://image.tmdb.org/t/p/w780/fMMnWxxJz6xgmgASLg1NfvAQsAw.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771683.mp4"
+        },
+        {
+          "nome": "Como Se Tornar um Homem Moderno",
+          "descricao": "Como Se Tornar um Homem Moderno",
+          "capa": "https://image.tmdb.org/t/p/w780/6YzAFlckX7boxNhq163AQXTUmSI.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4770669.mp4"
+        },
+        {
+          "nome": "Como Ser Solteira",
+          "descricao": "Como Ser Solteira",
+          "capa": "https://image.tmdb.org/t/p/w780/rZparClNSC5qI99PdauqEM9n8x4.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4770952.mp4"
+        },
+        {
+          "nome": "Como Sobreviver a um Ataque Zumbi",
+          "descricao": "Como Sobreviver a um Ataque Zumbi",
+          "capa": "https://image.tmdb.org/t/p/w780/wT88c7CdVYaNTMtDVLw0xrHumfu.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771294.mp4"
+        },
+        {
+          "nome": "Como Superar um Coração em Pedaços",
+          "descricao": "Como Superar um Coração em Pedaços",
+          "capa": "https://image.tmdb.org/t/p/w780/19CG7aTgNRF8DvM3Cla4Zn2qWzh.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771134.mp4"
+        },
+        {
+          "nome": "Como Vender a Lua",
+          "descricao": "Como Vender a Lua",
+          "capa": "https://image.tmdb.org/t/p/w780/vGLp898JntN7s5KABbiJ7PCS3ZL.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4770920.mp4"
+        },
+        {
+          "nome": "Como Você Quiser",
+          "descricao": "Como Você Quiser",
+          "capa": "https://image.tmdb.org/t/p/w780/9p7usjeoHlOr2EhWKt4EkyDM93f.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771541.mp4"
+        },
+        {
+          "nome": "Compramos um Zoológico",
+          "descricao": "Compramos um Zoológico",
+          "capa": "https://image.tmdb.org/t/p/w780/c2iq6EV5Q7PHJX3GSn0SbwOLMKT.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4772203.mp4"
+        },
+        {
+          "nome": "Concorrência Oficial",
+          "descricao": "Concorrência Oficial",
+          "capa": "https://image.tmdb.org/t/p/w780/fey5dXqHTc4SUJs96Hv1Li9ezpD.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771398.mp4"
+        },
+        {
+          "nome": "Conduzindo Madeleine",
+          "descricao": "Conduzindo Madeleine",
+          "capa": "https://image.tmdb.org/t/p/w780/4PMWCeXmEYjjHgoCFwplu0Ji7v3.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4770948.mp4"
+        },
+        {
+          "nome": "Confinamento",
+          "descricao": "Confinamento",
+          "capa": "https://image.tmdb.org/t/p/w780/jQFj3thRxlA8LE7QlaaJ1utjh5K.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771805.mp4"
+        },
+        {
+          "nome": "Confissões de Uma Garota Excluída",
+          "descricao": "Confissões de Uma Garota Excluída",
+          "capa": "https://image.tmdb.org/t/p/w780/bGIy308alpX12xdBVsREgsHawQC.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771664.mp4"
+        },
+        {
+          "nome": "Confissões de uma Mente Perigosa",
+          "descricao": "Confissões de uma Mente Perigosa",
+          "capa": "https://image.tmdb.org/t/p/w780/8y8M1Ly1h4nzF5QPJpevXacBuq1.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4770248.mp4"
+        },
+        {
+          "nome": "Conflitos em Familia",
+          "descricao": "Conflitos em Familia",
+          "capa": "https://image.tmdb.org/t/p/w780/2J8VR4OecoqdCqjT3A9f01h6fZZ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4772658.mp4"
+        },
+        {
+          "nome": "Conforme a Música (2026)",
+          "descricao": "Conforme a Música (2026)",
+          "capa": "https://image.tmdb.org/t/p/w500/vmjK9vC8usvMQ4dRqKVnx8P18Np.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4842048.mp4"
+        },
+        {
+          "nome": "Consequência",
+          "descricao": "Consequência",
+          "capa": "https://image.tmdb.org/t/p/w780/dTQZwcItQNEeSjpk3BYKYg27v9t.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4770226.mp4"
+        },
+        {
+          "nome": "Convidados de Honra",
+          "descricao": "Convidados de Honra",
+          "capa": "http://ocvtab.info/images/crHZY0Ol1jsHUJ4suEKUKWmyLzA_big.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4772657.mp4"
+        },
+        {
+          "nome": "Cora Bora",
+          "descricao": "Cora Bora",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ulgczyiS9s41CoyeDIKGkyF8Azr.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4770316.mp4"
+        },
+        {
+          "nome": "Corações Apaixonados",
+          "descricao": "Corações Apaixonados",
+          "capa": "https://image.tmdb.org/t/p/w780/lbRnowODIndH9mhEDZBANOsPlBG.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769993.mp4"
+        },
+        {
+          "nome": "Corner Office",
+          "descricao": "Corner Office",
+          "capa": "https://image.tmdb.org/t/p/w780/sCTtlzHwHGlptqQbSiD2W2i8Ahp.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4770723.mp4"
+        },
+        {
+          "nome": "Corporate Animals",
+          "descricao": "Corporate Animals",
+          "capa": "https://image.tmdb.org/t/p/w780/2MxD8jvD6olMlwsist0QGJJRudT.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4772128.mp4"
+        },
+        {
+          "nome": "Corra que a Policia Vem Ai 1",
+          "descricao": "Corra que a Policia Vem Ai 1",
+          "capa": "https://image.tmdb.org/t/p/w780/iYCWSKbC4fwzaKEJ9QFx8MsH7bJ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4772656.mp4"
+        },
+        {
+          "nome": "Corra que a Policia Vem Ai 2",
+          "descricao": "Corra que a Policia Vem Ai 2",
+          "capa": "https://image.tmdb.org/t/p/w780/vm2sW0g0wMYCFNGvyBDAtxtjW6S.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4772655.mp4"
+        },
+        {
+          "nome": "Corra que a Policia Vem Ai 3",
+          "descricao": "Corra que a Policia Vem Ai 3",
+          "capa": "https://image.tmdb.org/t/p/w780/aMjd4C0wOZwYzFK7Vb3cL9OQd5F.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4772654.mp4"
+        },
+        {
+          "nome": "Correndo Atras de um Pai",
+          "descricao": "Correndo Atras de um Pai",
+          "capa": "https://image.tmdb.org/t/p/w780/q67ptsqjWgY3bbKVljvCOkcp6tJ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4772653.mp4"
+        },
+        {
+          "nome": "Correndo Atrás",
+          "descricao": "Correndo Atrás",
+          "capa": "https://image.tmdb.org/t/p/w780/xzMKUJ5OsBr3GVAWlNsi8soA4Vu.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771611.mp4"
+        },
+        {
+          "nome": "Correspondentes Especiais",
+          "descricao": "Correspondentes Especiais",
+          "capa": "https://image.tmdb.org/t/p/w780/sQPkqwW4qh5fKbSI8V12wc8ZMlJ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4770287.mp4"
+        },
+        {
+          "nome": "Crazy Trips - Budapeste",
+          "descricao": "Crazy Trips - Budapeste",
+          "capa": "https://image.tmdb.org/t/p/w780/8lDG1Clxtxl2smirw9BRsddhQQP.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4772375.mp4"
+        },
+        {
+          "nome": "Crescendo Juntas",
+          "descricao": "Crescendo Juntas",
+          "capa": "https://image.tmdb.org/t/p/w780/7dmr6Pl9XWDzQNWTjtq118Gkfd9.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771092.mp4"
+        },
+        {
+          "nome": "Crescer Não é Brincadeira 2",
+          "descricao": "Crescer Não é Brincadeira 2",
+          "capa": "https://image.tmdb.org/t/p/w780/rrKWYUP7BEZEMptVTyXCzVGYU3I.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4770958.mp4"
+        },
+        {
+          "nome": "Crescer Não é Brincadeira",
+          "descricao": "Crescer Não é Brincadeira",
+          "capa": "https://image.tmdb.org/t/p/w780/c8HEdeEEp9KL30t4ws7dz6npakc.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4770959.mp4"
+        },
+        {
+          "nome": "Cresci!",
+          "descricao": "Cresci!",
+          "capa": "https://image.tmdb.org/t/p/w780/pQQVDyuNOoAzwRIxqLHlrtFi521.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4770038.mp4"
+        },
+        {
+          "nome": "Criando Verdades",
+          "descricao": "Criando Verdades",
+          "capa": "https://image.tmdb.org/t/p/w780/q2xXZGR9kE2XmFReJS9BxW4h3DO.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4770428.mp4"
+        },
+        {
+          "nome": "Crise da Meia Idade (2016)",
+          "descricao": "Crise da Meia Idade (2016)",
+          "capa": "https://image.tmdb.org/t/p/w500/5qKBVvYSOCKIgtTgxEVKAaMhrOQ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4842051.mp4"
+        },
+        {
+          "nome": "Cro em Familia",
+          "descricao": "Cro em Familia",
+          "capa": "https://image.tmdb.org/t/p/w780/i3hfC09ov7ozxAwbof8IwcahYUi.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4772652.mp4"
+        },
+        {
+          "nome": "Crocodilo Dundee em Hollywood",
+          "descricao": "Crocodilo Dundee em Hollywood",
+          "capa": "https://image.tmdb.org/t/p/w780/ydMIq7JSVGw54TC4bte4scf8TYw.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4770931.mp4"
+        },
+        {
+          "nome": "Crocodilo Dundee II",
+          "descricao": "Crocodilo Dundee II",
+          "capa": "https://image.tmdb.org/t/p/w780/oT1xCT6wSZxSEO01W3L86bxErNi.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4770932.mp4"
+        },
+        {
+          "nome": "Crocodilo Dundee",
+          "descricao": "Crocodilo Dundee",
+          "capa": "https://image.tmdb.org/t/p/w780/wYJj9QRGV0n6gQ9UqeLnOMDtIc4.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4770933.mp4"
+        },
+        {
+          "nome": "Crocodilo",
+          "descricao": "Crocodilo",
+          "capa": "https://image.tmdb.org/t/p/w780/v4cqxZz2mHS0iyXvladOVltjJLQ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771334.mp4"
+        },
+        {
+          "nome": "Cruella",
+          "descricao": "Cruella",
+          "capa": "https://image.tmdb.org/t/p/w780/qlUS4Hnex5brqtvNsQFTex00iYm.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771824.mp4"
+        },
+        {
+          "nome": "Crush à Altura 2",
+          "descricao": "Crush à Altura 2",
+          "capa": "https://image.tmdb.org/t/p/w780/isORwC0r1F3NYwFoBS4P6KerHgD.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771497.mp4"
+        },
+        {
+          "nome": "Crush à Altura",
+          "descricao": "Crush à Altura",
+          "capa": "https://image.tmdb.org/t/p/w780/ovcUbuw5XYC10EhU17RLpP93dgv.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4772291.mp4"
+        },
+        {
+          "nome": "Crush: Amor Colorido",
+          "descricao": "Crush: Amor Colorido",
+          "capa": "https://image.tmdb.org/t/p/w780/yET3VJN40au485aOUbmJ1cUuaps.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771460.mp4"
+        },
+        {
+          "nome": "Cruzeiro das Loucas",
+          "descricao": "Cruzeiro das Loucas",
+          "capa": "https://image.tmdb.org/t/p/w780/h0maYaV3gxbpCZh1qyZM03iY7ta.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4772651.mp4"
+        },
+        {
+          "nome": "Cuidado com Meu Guarda-Costas",
+          "descricao": "Cuidado com Meu Guarda-Costas",
+          "capa": "https://image.tmdb.org/t/p/w780/5x16VwAR8dVIVdKpM3AsZIzvTdG.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4770824.mp4"
+        },
+        {
+          "nome": "Curtas dos Minions 2",
+          "descricao": "Curtas dos Minions 2",
+          "capa": "https://image.tmdb.org/t/p/w780/jL2xuJkM4eO0L4jbVWkjHEt5Sp6.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771344.mp4"
+        },
+        {
+          "nome": "Curtindo a Vida Adoidado",
+          "descricao": "Curtindo a Vida Adoidado",
+          "capa": "https://image.tmdb.org/t/p/w780/okPQfh1x7d4i1UpZUmdqADpcDSd.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4772650.mp4"
+        },
+        {
+          "nome": "Curvas Perigosas",
+          "descricao": "Curvas Perigosas",
+          "capa": "https://image.tmdb.org/t/p/w780/vjpgP4crB6cvY7TTs9YbzzZCaI2.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4770325.mp4"
+        },
+        {
+          "nome": "D2 - Nós Somos os Campeões",
+          "descricao": "D2 - Nós Somos os Campeões",
+          "capa": "https://image.tmdb.org/t/p/w780/1mxurJNKvQujUVm1yKkYCZ28fmo.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4770112.mp4"
+        },
+        {
+          "nome": "Daisy Quokka: O Animal Mais Feroz Do Mundo",
+          "descricao": "Daisy Quokka: O Animal Mais Feroz Do Mundo",
+          "capa": "https://image.tmdb.org/t/p/w780/xXNPv6xSu7fLnuBBq0o8CJwMWu1.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771521.mp4"
+        },
+        {
+          "nome": "Damas De Preto",
+          "descricao": "Damas De Preto",
+          "capa": "https://image.tmdb.org/t/p/w780/pgHaDqcrS3tpkBgVP7KFIhokBrP.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4772127.mp4"
+        },
+        {
+          "nome": "Dance Comigo",
+          "descricao": "Dance Comigo",
+          "capa": "https://image.tmdb.org/t/p/w780/8li7nEWRPtRdF5N4PArwVVfcvqz.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771862.mp4"
+        },
+        {
+          "nome": "Darby: A Jovem Sensitiva",
+          "descricao": "Darby: A Jovem Sensitiva",
+          "capa": "https://image.tmdb.org/t/p/w780/dfgKwPUMc8WVzm40eJ5ox6DSk1L.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771274.mp4"
+        },
+        {
+          "nome": "Darlings",
+          "descricao": "Darlings",
+          "capa": "https://image.tmdb.org/t/p/w780/lyA7kXCIAG17hVuvFOxlMmmv31A.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771386.mp4"
+        },
+        {
+          "nome": "David contra os Bancos",
+          "descricao": "David contra os Bancos",
+          "capa": "https://image.tmdb.org/t/p/w780/nYM7ooxIqyMcywcC1QDanyc9Hh8.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771108.mp4"
+        },
+        {
+          "nome": "De Cabelos em Pé",
+          "descricao": "De Cabelos em Pé",
+          "capa": "https://image.tmdb.org/t/p/w780/efBqrNubCcWbL6qeZj41KB2c0gj.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4770232.mp4"
+        },
+        {
+          "nome": "De Carona para o Amor",
+          "descricao": "De Carona para o Amor",
+          "capa": "https://image.tmdb.org/t/p/w780/yAlNDE3bdS3CmpdO7UoJr9y7ScE.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4772353.mp4"
+        },
+        {
+          "nome": "De Caso com a Máfia",
+          "descricao": "De Caso com a Máfia",
+          "capa": "https://image.tmdb.org/t/p/w780/kT1xShz59V7oXV5fY7C2cP1RIuy.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4770816.mp4"
+        },
+        {
+          "nome": "De Encontro Com a Vida",
+          "descricao": "De Encontro Com a Vida",
+          "capa": "https://image.tmdb.org/t/p/w780/8Ml2HI0fW5ASiiyLAQ2GESGq5H9.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4772648.mp4"
+        },
+        {
+          "nome": "De Férias com Você",
+          "descricao": "De Férias com Você",
+          "capa": "https://image.tmdb.org/t/p/w780/yDNXI2I1h1HFHGheOn8OoKBxPyH.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769963.mp4"
+        },
+        {
+          "nome": "De Férias da Família",
+          "descricao": "De Férias da Família",
+          "capa": "https://image.tmdb.org/t/p/w780/mGPFbEmWdaDVxO5V64xYwv6v8j.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771380.mp4"
+        },
+        {
+          "nome": "De Frente Com Meu Ex",
+          "descricao": "De Frente Com Meu Ex",
+          "capa": "https://image.tmdb.org/t/p/w780/hYDmSFa3UPyt8zldr6suWXnuO4O.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771931.mp4"
+        },
+        {
+          "nome": "De Mãos Atadas",
+          "descricao": "De Mãos Atadas",
+          "capa": "https://image.tmdb.org/t/p/w780/6VATA27N5XyMEyFGjLrYuAiltEt.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4770997.mp4"
+        },
+        {
+          "nome": "De Novo!",
+          "descricao": "De Novo!",
+          "capa": "https://image.tmdb.org/t/p/w780/f4qYU8OF2dgpM6Fe7Xj8dJDnvdN.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771447.mp4"
+        },
+        {
+          "nome": "De Onde Eu Te Vejo",
+          "descricao": "De Onde Eu Te Vejo",
+          "capa": "https://image.tmdb.org/t/p/w780/3dbErPyvo8D1NSsoQVpvja8sC0l.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771718.mp4"
+        },
+        {
+          "nome": "De Pernas Pro Ar 2",
+          "descricao": "De Pernas Pro Ar 2",
+          "capa": "https://image.tmdb.org/t/p/w780/9Qd8MSJLAtDHMiPrZ3kgHW63DIc.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4772647.mp4"
+        },
+        {
+          "nome": "De Pernas pro Ar",
+          "descricao": "De Pernas pro Ar",
+          "capa": "https://image.tmdb.org/t/p/w780/znPIkNrcN8XAlpm6NI5sD8bjwI2.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4772646.mp4"
+        },
+        {
+          "nome": "De Perto Ela Não é Normal",
+          "descricao": "De Perto Ela Não é Normal",
+          "capa": "https://image.tmdb.org/t/p/w780/x385ldrHXkuGyxXd8xJjTRCAkTt.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4772061.mp4"
+        },
+        {
+          "nome": "De quem é o Sutiã?",
+          "descricao": "De quem é o Sutiã?",
+          "capa": "https://image.tmdb.org/t/p/w780/fnrseou0XiuR7QrsdruTwe584x8.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4772088.mp4"
+        },
+        {
+          "nome": "De repente 30",
+          "descricao": "De repente 30",
+          "capa": "https://image.tmdb.org/t/p/w780/hZmL1NlCUb0GycCtAJKX1JaMjhx.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4772645.mp4"
+        },
+        {
+          "nome": "De Repente 70",
+          "descricao": "De Repente 70",
+          "capa": "https://image.tmdb.org/t/p/w780/fvPQQKCTbMRK4Mo6C91nPVcjFeA.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771243.mp4"
+        },
+        {
+          "nome": "De Repente Pai",
+          "descricao": "De Repente Pai",
+          "capa": "https://image.tmdb.org/t/p/w780/4iviSGM2KWEUDhU4m8ujyN9MI6K.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771756.mp4"
+        },
+        {
+          "nome": "De Repente Uma Familia",
+          "descricao": "De Repente Uma Familia",
+          "capa": "https://image.tmdb.org/t/p/w780/89uyFdvre8F51FfEk4GYv5iW8AL.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4772374.mp4"
+        },
+        {
+          "nome": "De Repente... É Natal",
+          "descricao": "De Repente... É Natal",
+          "capa": "https://image.tmdb.org/t/p/w780/4fZOZSJYEWcp8MboU8AHH3Db8tP.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4770273.mp4"
+        },
+        {
+          "nome": "De Volta à Ativa",
+          "descricao": "De Volta à Ativa",
+          "capa": "https://image.tmdb.org/t/p/w780/ssav9soOaIzXGbqrpt3jIbe1eI1.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771080.mp4"
+        },
+        {
+          "nome": "De Volta à Itália",
+          "descricao": "De Volta à Itália",
+          "capa": "https://image.tmdb.org/t/p/w780/66py8oBTzjessl8kCBVj9uJnS5Y.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771761.mp4"
+        },
+        {
+          "nome": "De Volta ao Baile",
+          "descricao": "De Volta ao Baile",
+          "capa": "https://image.tmdb.org/t/p/w780/xrP0WLCpfUprD0PHobzxK1VBUCL.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771451.mp4"
+        },
+        {
+          "nome": "De Volta Aos Anos 90",
+          "descricao": "De Volta Aos Anos 90",
+          "capa": "https://image.tmdb.org/t/p/w780/pKgzdwNqFPKJNcibY37klP6ySqE.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769987.mp4"
+        },
+        {
+          "nome": "Debi & Lóide - Dois Idiotas em Apuros",
+          "descricao": "Debi & Lóide - Dois Idiotas em Apuros",
+          "capa": "https://image.tmdb.org/t/p/w780/3pJwSxO8L2MOGXGaJIOAAq35LAP.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771829.mp4"
+        },
+        {
+          "nome": "Debi & Lóide 2",
+          "descricao": "Debi & Lóide 2",
+          "capa": "https://image.tmdb.org/t/p/w780/nvEzon664YC1ygTE56rVJ4IkaEI.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771830.mp4"
+        },
+        {
+          "nome": "Delírios",
+          "descricao": "Delírios",
+          "capa": "https://image.tmdb.org/t/p/w780/mzvotMImtPJE7QVGj9ZoZ9Qg2Ne.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4770410.mp4"
+        },
+        {
+          "nome": "Demolição",
+          "descricao": "Demolição",
+          "capa": "https://image.tmdb.org/t/p/w780/a357EfYN4gJxX99LR3f3nlQya6i.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4770771.mp4"
+        },
+        {
+          "nome": "Depois a Louca Sou Eu",
+          "descricao": "Depois a Louca Sou Eu",
+          "capa": "https://image.tmdb.org/t/p/w780/iASQXlZqZfERdwTnBxIRpfgKrsO.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771870.mp4"
+        },
+        {
+          "nome": "Depois de Horas",
+          "descricao": "Depois de Horas",
+          "capa": "https://image.tmdb.org/t/p/w780/a8cykn2DbXdeE7hSqzBtVhPjOUn.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4770799.mp4"
+        },
+        {
+          "nome": "Depois de tudo",
+          "descricao": "Depois de tudo",
+          "capa": "https://image.tmdb.org/t/p/w780/sw5kUH6D1y6weFm7w8BJSHcXvt9.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771700.mp4"
+        },
+        {
+          "nome": "Depois dos 30",
+          "descricao": "Depois dos 30",
+          "capa": "https://image.tmdb.org/t/p/w780/aidaUGm6hqa1OqrCyRVmyCMmpMY.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4770659.mp4"
+        },
+        {
+          "nome": "Desafio na Neve",
+          "descricao": "Desafio na Neve",
+          "capa": "https://image.tmdb.org/t/p/w780/zJ4fDJ4rakX0pSXG73hqpiVm4Vr.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771559.mp4"
+        },
+        {
+          "nome": "Desapega!",
+          "descricao": "Desapega!",
+          "capa": "https://image.tmdb.org/t/p/w780/b0aRBdFnIi1MZbsW7QTZvRHcpo3.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771240.mp4"
+        },
+        {
+          "nome": "Descendentes: País das Maravilhas Malvado",
+          "descricao": "Descendentes: País das Maravilhas Malvado",
+          "capa": "https://image.tmdb.org/t/p/w780/2IdGPF5ALnkPbDBqxuzjdTuCOFC.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4770029.mp4"
+        },
+        {
+          "nome": "Descobrindo a Vida",
+          "descricao": "Descobrindo a Vida",
+          "capa": "https://image.tmdb.org/t/p/w780/zO7RaaBEgMtVOUAI5TpcWKn4fEi.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4772226.mp4"
+        },
+        {
+          "nome": "Descompensada",
+          "descricao": "Descompensada",
+          "capa": "https://image.tmdb.org/t/p/w780/dzrTvZGK1IDYfrWiNdr2RCwLOVF.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4772644.mp4"
+        },
+        {
+          "nome": "Desconectados",
+          "descricao": "Desconectados",
+          "capa": "https://image.tmdb.org/t/p/w780/8Wad2HeJg4Y67dFRGC6oGKqLJWO.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771304.mp4"
+        },
+        {
+          "nome": "Desconstruindo Harry",
+          "descricao": "Desconstruindo Harry",
+          "capa": "https://image.tmdb.org/t/p/w780/iVUBHtvmzZPLyMWEpwngvNqnO3c.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4770366.mp4"
+        },
+        {
+          "nome": "Desculpe te Incomodar",
+          "descricao": "Desculpe te Incomodar",
+          "capa": "https://image.tmdb.org/t/p/w780/an1oaHvLqmz6YioxAx66vchy8BW.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4772327.mp4"
+        },
+        {
+          "nome": "Desejos da Tarde",
+          "descricao": "Desejos da Tarde",
+          "capa": "https://image.tmdb.org/t/p/w780/vqPH9thiPqCXfmBdKHyAVxzZ81C.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771544.mp4"
+        },
+        {
+          "nome": "Desencantada",
+          "descricao": "Desencantada",
+          "capa": "https://image.tmdb.org/t/p/w780/8tuvxhScKT6qs8Js7ghLCLG5gxD.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771337.mp4"
+        },
+        {
+          "nome": "Desencontros Amorosos",
+          "descricao": "Desencontros Amorosos",
+          "capa": "https://image.tmdb.org/t/p/w780/43PGEGYAvgpUE9EvET2YkfITWU7.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771137.mp4"
+        },
+        {
+          "nome": "Desenhos",
+          "descricao": "Desenhos",
+          "capa": "https://image.tmdb.org/t/p/w780/pVNUoueDS6aZxZ7vMma7sbzGCMw.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4770514.mp4"
+        },
+        {
+          "nome": "Desfile de Corações",
+          "descricao": "Desfile de Corações",
+          "capa": "https://image.tmdb.org/t/p/w780/A48bE3SKZKdaEXYXgOM9jYusp4I.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771419.mp4"
+        },
+        {
+          "nome": "Deslizando pela Vida 2",
+          "descricao": "Deslizando pela Vida 2",
+          "capa": "https://image.tmdb.org/t/p/w780/kYhfg9OkOqnJl0RFJYRY7djvngq.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4770691.mp4"
+        },
+        {
+          "nome": "Deslizando pela Vida",
+          "descricao": "Deslizando pela Vida",
+          "capa": "https://image.tmdb.org/t/p/w780/6Q53nx651SCGCZFWIbethzQhyfZ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771257.mp4"
+        },
+        {
+          "nome": "Despedida em Grande Estilo",
+          "descricao": "Despedida em Grande Estilo",
+          "capa": "https://image.tmdb.org/t/p/w780/6nge1qOYikif7e6dN80KOQuRTtT.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771086.mp4"
+        },
+        {
+          "nome": "Desperados",
+          "descricao": "Desperados",
+          "capa": "https://image.tmdb.org/t/p/w780/hoUzSMxGu4Bm73EvH6B3iceFwW8.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4772105.mp4"
+        },
+        {
+          "nome": "Destemida",
+          "descricao": "Destemida",
+          "capa": "https://image.tmdb.org/t/p/w780/7JGAiwq6s43aKHlJrM0ka0iOZcu.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4772042.mp4"
+        },
+        {
+          "nome": "Destino em Dose Dupla",
+          "descricao": "Destino em Dose Dupla",
+          "capa": "https://image.tmdb.org/t/p/w780/wiWzmYFyl723n6MLadIGVBElJSS.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4770720.mp4"
+        },
+        {
+          "nome": "Destino Londres",
+          "descricao": "Destino Londres",
+          "capa": "https://image.tmdb.org/t/p/w780/8Lee7JPuq7XWUErCoJZqCMhuBMQ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4770908.mp4"
+        },
+        {
+          "nome": "Detetive Madeinusa",
+          "descricao": "Detetive Madeinusa",
+          "capa": "https://image.tmdb.org/t/p/w780/57zz2DffLRTAwbIxomUkJnmXgxU.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771597.mp4"
+        },
+        {
+          "nome": "Detox Digital",
+          "descricao": "Detox Digital",
+          "capa": "https://image.tmdb.org/t/p/w780/6UUBHMDIHYyZPxW8RwSl47Uzwgq.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771289.mp4"
+        },
+        {
+          "nome": "Detroit Rock City",
+          "descricao": "Detroit Rock City",
+          "capa": "https://image.tmdb.org/t/p/w780/4gYnlFWpLF0SLHlHBNRCkJUomjM.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4770247.mp4"
+        },
+        {
+          "nome": "Deu A Louca Em Hollywood",
+          "descricao": "Deu A Louca Em Hollywood",
+          "capa": "https://image.tmdb.org/t/p/w780/jkC8e0HaEwZWltjxPO8RhG6HlL2.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771928.mp4"
+        },
+        {
+          "nome": "Deu a Louca na Chapeuzinho",
+          "descricao": "Deu a Louca na Chapeuzinho",
+          "capa": "https://image.tmdb.org/t/p/w780/9fgIhvFgpgzawR0IflGXIQmyn8s.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771156.mp4"
+        },
+        {
+          "nome": "Deu a Louca na História: O Filme",
+          "descricao": "Deu a Louca na História: O Filme",
+          "capa": "https://image.tmdb.org/t/p/w780/joJGjHPtqgZs8RhcrIRWKdRIJJB.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771370.mp4"
+        },
+        {
+          "nome": "Deu a Louca nos Bichos",
+          "descricao": "Deu a Louca nos Bichos",
+          "capa": "https://image.tmdb.org/t/p/w780/zX95nyovPV4vV8UHR25IfnpjSSw.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4772020.mp4"
+        },
+        {
+          "nome": "Deu Ruim!",
+          "descricao": "Deu Ruim!",
+          "capa": "https://image.tmdb.org/t/p/w780/9SkVFb3Xgc0TtLirjXb2J2EPC70.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4770147.mp4"
+        },
+        {
+          "nome": "Deu Ruim",
+          "descricao": "Deu Ruim",
+          "capa": "https://image.tmdb.org/t/p/w780/nlctoDg3eaTjIZQZkY7XRwx2fAE.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771605.mp4"
+        },
+        {
+          "nome": "Deu Zebra!",
+          "descricao": "Deu Zebra!",
+          "capa": "https://image.tmdb.org/t/p/w780/xc7XfDiuyxa8ai4dwLfJIXahWL0.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4770529.mp4"
+        },
+        {
+          "nome": "Deus Nos Ajude!",
+          "descricao": "Deus Nos Ajude!",
+          "capa": "https://image.tmdb.org/t/p/w780/1peyXYEPGjUHbm6IE2Njt8zC1AJ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4770588.mp4"
+        },
+        {
+          "nome": "Dia De Casamento 4",
+          "descricao": "Dia De Casamento 4",
+          "capa": "https://image.tmdb.org/t/p/w780/6Z41716N4nvRsvtYvINkFpgdijg.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4772373.mp4"
+        },
+        {
+          "nome": "Dia do Sim",
+          "descricao": "Dia do Sim",
+          "capa": "https://image.tmdb.org/t/p/w780/wiluKb3NgB6QmuN8hWLKIUxBxxU.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771938.mp4"
+        },
+        {
+          "nome": "Diário da Minha Vagina",
+          "descricao": "Diário da Minha Vagina",
+          "capa": "https://image.tmdb.org/t/p/w780/aIVu5nMOCNZvOYs3Uhv8TnLvcYk.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4770999.mp4"
+        },
+        {
+          "nome": "Diário de um Banana 2: Rodrick é o Cara",
+          "descricao": "Diário de um Banana 2: Rodrick é o Cara",
+          "capa": "https://image.tmdb.org/t/p/w780/2odtMjixpacXJel3wzg4iUlqjvB.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4772243.mp4"
+        },
+        {
+          "nome": "Diário de um Banana 3: Dias de Cão",
+          "descricao": "Diário de um Banana 3: Dias de Cão",
+          "capa": "https://image.tmdb.org/t/p/w780/86kXUydkWpE7TezCn1LCPwvE2VI.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4772242.mp4"
+        },
+        {
+          "nome": "Diário de um Banana 4: Caindo na Estrada",
+          "descricao": "Diário de um Banana 4: Caindo na Estrada",
+          "capa": "https://image.tmdb.org/t/p/w780/dsVyfkAdTDZWNMiaY39nYwrheZQ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4772241.mp4"
+        },
+        {
+          "nome": "Diário de um Banana",
+          "descricao": "Diário de um Banana",
+          "capa": "https://image.tmdb.org/t/p/w780/tY58gmX8031nEX76v76acQyqi6U.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4772244.mp4"
+        },
+        {
+          "nome": "Diários de Intercâmbio",
+          "descricao": "Diários de Intercâmbio",
+          "capa": "https://image.tmdb.org/t/p/w780/vqVVwT8hwHUlPscS2yE8c4aEm0T.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771740.mp4"
+        },
+        {
+          "nome": "Dias Incríveis",
+          "descricao": "Dias Incríveis",
+          "capa": "https://image.tmdb.org/t/p/w780/puogBeaTUJLxMURi6ghIIBNen2B.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771173.mp4"
+        },
+        {
+          "nome": "Diferenças Irreconciliáveis",
+          "descricao": "Diferenças Irreconciliáveis",
+          "capa": "https://image.tmdb.org/t/p/w780/7xQyPRooZ3Itpal7iser9oMJTVJ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771813.mp4"
+        },
+        {
+          "nome": "Diga-me Quando",
+          "descricao": "Diga-me Quando",
+          "capa": "https://image.tmdb.org/t/p/w780/brrueWMNGQjz2sFXS2RXPa2frUf.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771893.mp4"
+        },
+        {
+          "nome": "Discurso Oculto",
+          "descricao": "Discurso Oculto",
+          "capa": "https://image.tmdb.org/t/p/w780/a3mMwp42qXaA4DLNcXvNO0u01Pi.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771132.mp4"
+        },
+        {
+          "nome": "Distração Fatal",
+          "descricao": "Distração Fatal",
+          "capa": "https://image.tmdb.org/t/p/w780/syewFnehGbbya5BdxoHLzrcm5Ne.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771587.mp4"
+        },
+        {
+          "nome": "Diversão a Três",
+          "descricao": "Diversão a Três",
+          "capa": "https://image.tmdb.org/t/p/w780/tQqcjb3rNKvtltvtzihUQcg05XQ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771230.mp4"
+        },
+        {
+          "nome": "Divino Processo",
+          "descricao": "Divino Processo",
+          "capa": "https://image.tmdb.org/t/p/w780/tCClur6bULHIZUqbiqwYTOs9BHu.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4770246.mp4"
+        },
+        {
+          "nome": "Divinos Segredos",
+          "descricao": "Divinos Segredos",
+          "capa": "https://image.tmdb.org/t/p/w780/7TVOq6Av1mlX1sVcVzreW3yfNdN.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771642.mp4"
+        },
+        {
+          "nome": "Divórcio em Las Vegas",
+          "descricao": "Divórcio em Las Vegas",
+          "capa": "https://image.tmdb.org/t/p/w780/gVsZb4BsTbp6zW1NOBab9J7LrDA.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771600.mp4"
+        },
+        {
+          "nome": "Divorcio",
+          "descricao": "Divorcio",
+          "capa": "http://ocvtab.info/images/zOI81CTgr1ZkDR62RFOTu6mtFrv_big.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4772643.mp4"
+        },
+        {
+          "nome": "Dix Pour Cent ! Le Film (2026)",
+          "descricao": "Dix Pour Cent ! Le Film (2026)",
+          "capa": "https://image.tmdb.org/t/p/w500/41Yezvy8Kxr9bcwQsPR3teq4EvX.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4842054.mp4"
+        },
+        {
+          "nome": "Dizem por aí...",
+          "descricao": "Dizem por aí...",
+          "capa": "https://image.tmdb.org/t/p/w780/4MD9Z7tEpc6IcpJTjbJ39aPz9Zs.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771646.mp4"
+        },
+        {
+          "nome": "DJ à Paisana",
+          "descricao": "DJ à Paisana",
+          "capa": "https://image.tmdb.org/t/p/w780/gspluUUTwGMT33rR6YietqRIjok.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4770748.mp4"
+        },
+        {
+          "nome": "Do Jeito que Elas Querem",
+          "descricao": "Do Jeito que Elas Querem",
+          "capa": "https://image.tmdb.org/t/p/w780/1xR2g5r0z69ToAocEHQ7lLxMnCd.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4772642.mp4"
+        },
+        {
+          "nome": "Do Jeito Que Elas Querem: O Próximo Capítulo",
+          "descricao": "Do Jeito Que Elas Querem: O Próximo Capítulo",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lXoeOcWWhPpLH1wzTIhOx8jydBo.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771174.mp4"
+        },
+        {
+          "nome": "Do Mundo Nada Se Leva",
+          "descricao": "Do Mundo Nada Se Leva",
+          "capa": "https://image.tmdb.org/t/p/w780/j7J2zAFDLYPdLCeRmW0JAkKygfZ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771680.mp4"
+        },
+        {
+          "nome": "Do Not Disturb",
+          "descricao": "Do Not Disturb",
+          "capa": "https://image.tmdb.org/t/p/w780/6IKOvrOA5Uye2ePEOfNFuAfMAK8.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771126.mp4"
+        },
+        {
+          "nome": "Do Outro Lado da Dor",
+          "descricao": "Do Outro Lado da Dor",
+          "capa": "https://image.tmdb.org/t/p/w780/4loAQSV9tLQbVPvWrAntNn0kBIO.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771046.mp4"
+        },
+        {
+          "nome": "Do Outro Lado da Fronteira",
+          "descricao": "Do Outro Lado da Fronteira",
+          "capa": "https://image.tmdb.org/t/p/w780/eetGTB97g2tVZlRyKglxKa8EUpw.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771128.mp4"
+        },
+        {
+          "nome": "Do Outro Lado Da Linha",
+          "descricao": "Do Outro Lado Da Linha",
+          "capa": "https://image.tmdb.org/t/p/w780/u0h8jtnDLQFhWRPezgGo5HWEjzT.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771941.mp4"
+        },
+        {
+          "nome": "Do que as Mulheres Gostam",
+          "descricao": "Do que as Mulheres Gostam",
+          "capa": "https://image.tmdb.org/t/p/w780/xj2uHWw6T90M2Ep8ZtTtVC0LcG0.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4772641.mp4"
+        },
+        {
+          "nome": "Do Que os Homens Gostam",
+          "descricao": "Do Que os Homens Gostam",
+          "capa": "https://image.tmdb.org/t/p/w780/6UDohjhxprSjsnZfqbbpuwxDPSS.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4772331.mp4"
+        },
+        {
+          "nome": "Doce Amor de Inverno",
+          "descricao": "Doce Amor de Inverno",
+          "capa": "https://image.tmdb.org/t/p/w780/Sp2vUXCAKvma23CUxWUW7QjShL.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771071.mp4"
+        },
+        {
+          "nome": "Doce Argumento",
+          "descricao": "Doce Argumento",
+          "capa": "https://image.tmdb.org/t/p/w780/u9PG1LG0zLnl6QQxw4WoRJEroXF.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4772640.mp4"
+        },
+        {
+          "nome": "Doce Lar",
+          "descricao": "Doce Lar",
+          "capa": "https://image.tmdb.org/t/p/w780/exMwWR4b80r6V6MJKtTnmQ6SseO.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771594.mp4"
+        },
+        {
+          "nome": "Doce Trapaça",
+          "descricao": "Doce Trapaça",
+          "capa": "https://image.tmdb.org/t/p/w780/5XMLRutKAyZhvHFFJvAvIJyhw6t.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4772025.mp4"
+        },
+        {
+          "nome": "Doce Vida",
+          "descricao": "Doce Vida",
+          "capa": "https://image.tmdb.org/t/p/w780/xSPhZ3jSzUBZTjqvzRMqQz7KnQH.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4770491.mp4"
+        },
+        {
+          "nome": "Dog - A Aventura de Uma Vida",
+          "descricao": "Dog - A Aventura de Uma Vida",
+          "capa": "https://image.tmdb.org/t/p/w780/gln0b5rezteLuyv9kO1q0h0vqnA.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4770532.mp4"
+        },
+        {
+          "nome": "Doidas e Santas",
+          "descricao": "Doidas e Santas",
+          "capa": "https://image.tmdb.org/t/p/w780/kXUzTD1vVnO8UK9uQmD8GVbfhmQ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771570.mp4"
+        },
+        {
+          "nome": "Doidos e Alucinados",
+          "descricao": "Doidos e Alucinados",
+          "capa": "https://image.tmdb.org/t/p/w780/pfLTDC1JZ0ETMawUaTDXuASurT6.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4770230.mp4"
+        },
+        {
+          "nome": "Dois Caras Legais",
+          "descricao": "Dois Caras Legais",
+          "capa": "https://image.tmdb.org/t/p/w780/73SSGXRwxSCWafZhJOmEDweQ9rn.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771235.mp4"
+        },
+        {
+          "nome": "Dois Chefs e um Bolo de Casamento (2023)",
+          "descricao": "Dois Chefs e um Bolo de Casamento (2023)",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mqYIvsjgxmbAmf3XISSKFcCoR8t.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4841772.mp4"
+        },
+        {
+          "nome": "Dois Loucos com Sorte",
+          "descricao": "Dois Loucos com Sorte",
+          "capa": "https://image.tmdb.org/t/p/w780/aoU6nHaXiO6FsbFqWdfsDoFId4s.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4772639.mp4"
+        },
+        {
+          "nome": "Dois Malucos Na Tv",
+          "descricao": "Dois Malucos Na Tv",
+          "capa": "https://image.tmdb.org/t/p/w780/cYLz9eENFrIHLPnJ15mE2omn2eN.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4772638.mp4"
+        },
+        {
+          "nome": "Dois na Lona",
+          "descricao": "Dois na Lona",
+          "capa": "https://image.tmdb.org/t/p/w780/o3nMosj3HQtmiirWsKNaLpyfbQi.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4770646.mp4"
+        },
+        {
+          "nome": "Dois Parceiros em Apuros",
+          "descricao": "Dois Parceiros em Apuros",
+          "capa": "https://image.tmdb.org/t/p/w780/ELUbssa0CbcbmtmnR4gfplFmxQ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4770527.mp4"
+        },
+        {
+          "nome": "Dois Tiras Fora de Ordem",
+          "descricao": "Dois Tiras Fora de Ordem",
+          "capa": "https://image.tmdb.org/t/p/w780/6ciWfYXAJ4Prnne5KtBIvis1GPN.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4772637.mp4"
+        },
+        {
+          "nome": "Dois Virgens na America",
+          "descricao": "Dois Virgens na America",
+          "capa": "https://image.tmdb.org/t/p/w780/p2lwzQkgAJAo6mGsbtc18yqmYSJ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4772636.mp4"
+        },
+        {
+          "nome": "Dolittle",
+          "descricao": "Dolittle",
+          "capa": "https://image.tmdb.org/t/p/w780/tsa2NZ3QzR6zHg2e20yJfSOhUnS.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4772146.mp4"
+        },
+        {
+          "nome": "Domingo de Páscoa",
+          "descricao": "Domingo de Páscoa",
+          "capa": "https://image.tmdb.org/t/p/w780/4puabQ9VHHG8pA3rK3SUyP5Bx1H.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771143.mp4"
+        },
+        {
+          "nome": "Domingo",
+          "descricao": "Domingo",
+          "capa": "https://image.tmdb.org/t/p/w780/zIzySOMQhxfIfnc0t21Gih90uAn.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4772071.mp4"
+        },
+        {
+          "nome": "Don Oscar",
+          "descricao": "Don Oscar",
+          "capa": "https://image.tmdb.org/t/p/w780/2N8JbnOYUKGMEMghqNydGYfbrX0.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771939.mp4"
+        },
+        {
+          "nome": "Don Quijote cabalga de nuevo",
+          "descricao": "Don Quijote cabalga de nuevo",
+          "capa": "https://image.tmdb.org/t/p/w780/yR2ouxrAFwsRG1FrqZOgdZ1smcS.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769962.mp4"
+        },
+        {
+          "nome": "Dora e a Busca por Sol Dorado",
+          "descricao": "Dora e a Busca por Sol Dorado",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/Ai8ovMarE9PwV0TqcAv1Tc9eyoo.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4770616.mp4"
+        },
+        {
+          "nome": "Dormindo com as Outras Pessoas",
+          "descricao": "Dormindo com as Outras Pessoas",
+          "capa": "https://image.tmdb.org/t/p/w780/thYomS3wTYDTRZaM98ADMfBiDxm.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771658.mp4"
+        },
+        {
+          "nome": "Dormindo com seu Ídolo",
+          "descricao": "Dormindo com seu Ídolo",
+          "capa": "https://image.tmdb.org/t/p/w780/oB5DoPDrxnoLwoZTgbcTG62LQU4.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4770549.mp4"
+        },
+        {
+          "nome": "Dormindo Fora de Casa",
+          "descricao": "Dormindo Fora de Casa",
+          "capa": "https://image.tmdb.org/t/p/w780/8R4lpFHyMXY4A8CVc9WeLUO1IgB.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4770834.mp4"
+        },
+        {
+          "nome": "Doula",
+          "descricao": "Doula",
+          "capa": "https://image.tmdb.org/t/p/w780/4v6zhPBZuuxuFGN2CwMu97Z8u3l.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771401.mp4"
+        },
+        {
+          "nome": "Doutor Estranho",
+          "descricao": "Doutor Estranho",
+          "capa": "https://image.tmdb.org/t/p/w780/pb4clPWRJ5AKlSFu1HrrHdt5uAw.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4770003.mp4"
+        },
+        {
+          "nome": "Downtown Owl",
+          "descricao": "Downtown Owl",
+          "capa": "https://image.tmdb.org/t/p/w780/faDNFxp3reZcGMSTxEBt9T3h4Eb.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4770982.mp4"
+        },
+        {
+          "nome": "Doze é Demais 2",
+          "descricao": "Doze é Demais 2",
+          "capa": "https://image.tmdb.org/t/p/w780/pWycE2t6Vu4X8QWbJLzq4Wx0aO6.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4770978.mp4"
+        },
+        {
+          "nome": "Doze é Demais",
+          "descricao": "Doze é Demais",
+          "capa": "https://image.tmdb.org/t/p/w780/kWFxqnDGY5D9dYZn97bikXpB5DR.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771481.mp4"
+        },
+        {
+          "nome": "Dr. Dolittle 2",
+          "descricao": "Dr. Dolittle 2",
+          "capa": "https://image.tmdb.org/t/p/w780/mznxoYMKFOmJt7TOn12XHy4YiH1.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771505.mp4"
+        },
+        {
+          "nome": "Dr. Dolittle 3",
+          "descricao": "Dr. Dolittle 3",
+          "capa": "https://image.tmdb.org/t/p/w780/mODEH6RuoL8s9ptF1Mbrq1Z6aYz.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771503.mp4"
+        },
+        {
+          "nome": "Dr. Dolittle 4",
+          "descricao": "Dr. Dolittle 4",
+          "capa": "https://image.tmdb.org/t/p/w780/cN2WUr3VbJPT5isKDJfIQsCmkQx.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771504.mp4"
+        },
+        {
+          "nome": "Dr. Dolittle 5",
+          "descricao": "Dr. Dolittle 5",
+          "capa": "https://image.tmdb.org/t/p/w780/x89H52kTxNTDl34HMCmJGoeXTzr.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771506.mp4"
+        },
+        {
+          "nome": "Dr. Dolittle",
+          "descricao": "Dr. Dolittle",
+          "capa": "https://image.tmdb.org/t/p/w780/g84Os8iaDJNs51oNo1VtATGpbOV.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771509.mp4"
+        },
+        {
+          "nome": "Dr. Fantástico",
+          "descricao": "Dr. Fantástico",
+          "capa": "https://image.tmdb.org/t/p/w780/lFcwVewzDwmJjIIjNIWwST4ctaC.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769977.mp4"
+        },
+        {
+          "nome": "Dragging the Classics: The Brady Bunch",
+          "descricao": "Dragging the Classics: The Brady Bunch",
+          "capa": "https://image.tmdb.org/t/p/w780/2zMtM8yv3yfk33DYYlAR2frQ0gE.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771516.mp4"
+        },
+        {
+          "nome": "Drillbit Taylor",
+          "descricao": "Drillbit Taylor",
+          "capa": "https://image.tmdb.org/t/p/w780/at5krk23eGHYVeBqaUVf55bRnsi.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771140.mp4"
+        },
+        {
+          "nome": "Druk Mais uma Rodada",
+          "descricao": "Druk Mais uma Rodada",
+          "capa": "https://image.tmdb.org/t/p/w780/pA578AE4WOCWvxslKWPGi2h9kxa.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771900.mp4"
+        },
+        {
+          "nome": "Druk: Mais Uma Rodada",
+          "descricao": "Druk: Mais Uma Rodada",
+          "capa": "https://image.tmdb.org/t/p/w780/pA578AE4WOCWvxslKWPGi2h9kxa.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769976.mp4"
+        },
+        {
+          "nome": "Duas de Mim",
+          "descricao": "Duas de Mim",
+          "capa": "https://image.tmdb.org/t/p/w780/jrs1YqNT9HeZfQaXENohXBvIPWS.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4772635.mp4"
+        },
+        {
+          "nome": "Duas Por Uma",
+          "descricao": "Duas Por Uma",
+          "capa": "https://image.tmdb.org/t/p/w780/x7u85jbkrHGV6sPrV6Y6A3wez90.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4772037.mp4"
+        },
+        {
+          "nome": "Duas Vidas",
+          "descricao": "Duas Vidas",
+          "capa": "https://image.tmdb.org/t/p/w780/5N2lniI07omhti7Oxa3THrCrPhs.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4770540.mp4"
+        },
+        {
+          "nome": "Dude - A Vida e Assim",
+          "descricao": "Dude - A Vida e Assim",
+          "capa": "https://image.tmdb.org/t/p/w780/ac2bAPqL1RI8BMUnjYbxILlgnmR.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4772634.mp4"
+        },
+        {
+          "nome": "Dudu e Edu - Chorando de Medo",
+          "descricao": "Dudu e Edu - Chorando de Medo",
+          "capa": "https://image.tmdb.org/t/p/w780/2MOFGhJgEQghYzv0x0NhM0kfuGs.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4770489.mp4"
+        },
+        {
+          "nome": "Duets: Vem Cantar Comigo",
+          "descricao": "Duets: Vem Cantar Comigo",
+          "capa": "https://image.tmdb.org/t/p/w780/bq699Jr0K1UPReX53OmW5UIzFfB.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771540.mp4"
+        },
+        {
+          "nome": "Dupla em Fúria",
+          "descricao": "Dupla em Fúria",
+          "capa": "https://image.tmdb.org/t/p/w780/3oiFevn4lSptX1O2c88QC5NFlHx.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4770620.mp4"
+        },
+        {
+          "nome": "Duplamente Grávida 2",
+          "descricao": "Duplamente Grávida 2",
+          "capa": "https://image.tmdb.org/t/p/w780/1hk0j5TWq7sUfbvNBIHId2R9cNA.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771383.mp4"
+        },
+        {
+          "nome": "Duplex",
+          "descricao": "Duplex",
+          "capa": "https://image.tmdb.org/t/p/w780/mCQ4oO9djqcthBRD3ftTnR8qSP7.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4772633.mp4"
+        },
+        {
+          "nome": "Duro de Casar",
+          "descricao": "Duro de Casar",
+          "capa": "https://image.tmdb.org/t/p/w780/ymFTRHAEDGkvLOvxGY5vqE3Hmbe.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4770591.mp4"
+        },
+        {
+          "nome": "E Agora Mamãe Saiu de Férias 2… E Levou A Família (2020)",
+          "descricao": "E Agora Mamãe Saiu de Férias 2… E Levou A Família (2020)",
+          "capa": "https://image.tmdb.org/t/p/w500/b8m6uEOnTB1bqDQVl0Fu4XNxXAv.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4842058.mp4"
+        },
+        {
+          "nome": "E Agora? A Mamãe Saiu de Férias!",
+          "descricao": "E Agora? A Mamãe Saiu de Férias!",
+          "capa": "https://image.tmdb.org/t/p/w780/wLPGZEcVxPjLVZc2pBCDnbTkH5T.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4772178.mp4"
+        },
+        {
+          "nome": "E Ai Comeu",
+          "descricao": "E Ai Comeu",
+          "capa": "https://image.tmdb.org/t/p/w780/Av3xRNFS0Zgvqp4nirocppD3Bjy.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4772632.mp4"
+        },
+        {
+          "nome": "É Culpa da Alegria",
+          "descricao": "É Culpa da Alegria",
+          "capa": "https://image.tmdb.org/t/p/w780/sp2JMBYeOAPf38zAGSF0cNyEhtW.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771161.mp4"
+        },
+        {
+          "nome": "É de Chuá!",
+          "descricao": "É de Chuá!",
+          "capa": "https://image.tmdb.org/t/p/w780/HQHiLZ43AYQrnWc3BiG4CfT5Bn.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4770563.mp4"
+        },
+        {
+          "nome": "E Fada",
+          "descricao": "E Fada",
+          "capa": "https://image.tmdb.org/t/p/w780/krowYpPk8PiINjZLnbFkk3Nvd5.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4772631.mp4"
+        },
+        {
+          "nome": "E O Fim",
+          "descricao": "E O Fim",
+          "capa": "https://image.tmdb.org/t/p/w780/1qJbCTfbocsiBJfTeXndHT9RsQ1.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4772337.mp4"
+        },
+        {
+          "nome": "É Para o Seu Próprio Bem",
+          "descricao": "É Para o Seu Próprio Bem",
+          "capa": "https://image.tmdb.org/t/p/w780/u5PxX1ZjCmyAIET8ANtTfFlbmp8.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771674.mp4"
+        },
+        {
+          "nome": "É Preciso um Vilarejo… (2026)",
+          "descricao": "É Preciso um Vilarejo… (2026)",
+          "capa": "https://image.tmdb.org/t/p/w500/cXxFrrKMMu4gipC8kVoplzo0HAr.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4842056.mp4"
+        },
+        {
+          "nome": "E Se Fosse Verdade",
+          "descricao": "E Se Fosse Verdade",
+          "capa": "https://image.tmdb.org/t/p/w780/4izi3hayXIu34qNMpyHPGkT0OZf.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4772630.mp4"
+        },
+        {
+          "nome": "E Se Voce Tivesse a Segunda Chance",
+          "descricao": "E Se Voce Tivesse a Segunda Chance",
+          "capa": "https://image.tmdb.org/t/p/w780/xrSsFbTxuMcdFcfOWJqcJBvdyT0.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4772629.mp4"
+        },
+        {
+          "nome": "Ed Wood",
+          "descricao": "Ed Wood",
+          "capa": "https://image.tmdb.org/t/p/w780/n8SrO3WbyuY2b6KazogqbQF348C.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4770447.mp4"
+        },
+        {
+          "nome": "Ela é a Poderosa",
+          "descricao": "Ela é a Poderosa",
+          "capa": "https://image.tmdb.org/t/p/w780/wJJTdcLZZlhi3gBPbG7GsCJJ6aC.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771539.mp4"
+        },
+        {
+          "nome": "Ela é Demais",
+          "descricao": "Ela é Demais",
+          "capa": "https://image.tmdb.org/t/p/w780/gsRJu5TDhO37WeQa6dYjG6AzGLj.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4770431.mp4"
+        },
+        {
+          "nome": "Ela e o Cara",
+          "descricao": "Ela e o Cara",
+          "capa": "https://image.tmdb.org/t/p/w780/ooZWyBiibhT8il0MGjOYQYYJcsT.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771911.mp4"
+        },
+        {
+          "nome": "Ela é o Diabo",
+          "descricao": "Ela é o Diabo",
+          "capa": "https://image.tmdb.org/t/p/w780/rvBwl68HivxcSLNO4Su2D58H5A.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4770546.mp4"
+        },
+        {
+          "nome": "Ela e os Caras",
+          "descricao": "Ela e os Caras",
+          "capa": "https://image.tmdb.org/t/p/w780/pEQrYazDeikffJ2Me4r0xrwXSA3.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771586.mp4"
+        },
+        {
+          "nome": "Ela Escolhe Perdoar",
+          "descricao": "Ela Escolhe Perdoar",
+          "capa": "https://image.tmdb.org/t/p/w780/rfTuVZv3KgL70pu25ta4sERqHMR.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4770148.mp4"
+        },
+        {
+          "nome": "Ele Disse",
+          "descricao": "Ele Disse",
+          "capa": "https://image.tmdb.org/t/p/w780/9wrpjGA7naIPnGPoIJ2la6gbAlT.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4772231.mp4"
+        },
+        {
+          "nome": "Ele é Demais",
+          "descricao": "Ele é Demais",
+          "capa": "https://image.tmdb.org/t/p/w780/dR5s6KTvHFBzVMiSiFFHkOhEbbJ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771731.mp4"
+        },
+        {
+          "nome": "Ele Esta de Volta",
+          "descricao": "Ele Esta de Volta",
+          "capa": "https://image.tmdb.org/t/p/w780/6yhZMpF53MRq2hfBM8Tg9upsQ2p.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4772628.mp4"
+        },
+        {
+          "nome": "Ele Está de Volta",
+          "descricao": "Ele Está de Volta",
+          "capa": "https://image.tmdb.org/t/p/w780/6yhZMpF53MRq2hfBM8Tg9upsQ2p.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771741.mp4"
+        },
+        {
+          "nome": "Ele Não Está Tão a Fim de Você",
+          "descricao": "Ele Não Está Tão a Fim de Você",
+          "capa": "https://image.tmdb.org/t/p/w780/nUNvLGc3QeywVlRU5LSDj8mAn43.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771769.mp4"
+        },
+        {
+          "nome": "Elvira: a Rainha das Trevas",
+          "descricao": "Elvira: a Rainha das Trevas",
+          "capa": "https://image.tmdb.org/t/p/w780/1qqnoUwNYv2cRkS1jZLZFVcRDIA.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4770769.mp4"
+        },
+        {
+          "nome": "Em Algum Lugar do Queens",
+          "descricao": "Em Algum Lugar do Queens",
+          "capa": "https://image.tmdb.org/t/p/w780/2XjTOxrE69VJUmENvfQOfmqv6bR.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771157.mp4"
+        },
+        {
+          "nome": "Em Busca do Ouro",
+          "descricao": "Em Busca do Ouro",
+          "capa": "https://image.tmdb.org/t/p/w780/ypxEfNGJ2Ik6uFulVY91J2aHeJ7.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771676.mp4"
+        },
+        {
+          "nome": "Em Cima Do Muro",
+          "descricao": "Em Cima Do Muro",
+          "capa": "https://image.tmdb.org/t/p/w780/9f1tTenIreJSKAxuPpICFhrzw4d.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4772307.mp4"
+        },
+        {
+          "nome": "Em Dívida com a Sorte",
+          "descricao": "Em Dívida com a Sorte",
+          "capa": "https://image.tmdb.org/t/p/w780/2iBS7Z67jouOU1LJkhRPAPRYkTU.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4770774.mp4"
+        },
+        {
+          "nome": "Em Guerra com o Vovô",
+          "descricao": "Em Guerra com o Vovô",
+          "capa": "https://image.tmdb.org/t/p/w780/ewvz24Ck6OwWoEGOzUkTksDA9TB.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771800.mp4"
+        },
+        {
+          "nome": "Em Seu Lugar",
+          "descricao": "Em Seu Lugar",
+          "capa": "https://image.tmdb.org/t/p/w780/45yz8A86TOa99UxOEYElENJkWih.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4772372.mp4"
+        },
+        {
+          "nome": "Em Todas as Partes",
+          "descricao": "Em Todas as Partes",
+          "capa": "https://image.tmdb.org/t/p/w780/pJ0UlaKXi0yuAjPV4hgG5huJvFl.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771263.mp4"
+        },
+        {
+          "nome": "Em um Passe de Mágica",
+          "descricao": "Em um Passe de Mágica",
+          "capa": "https://image.tmdb.org/t/p/w780/lfprZ6p6rliMRgnhE09kVV57Q1o.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771373.mp4"
+        },
+        {
+          "nome": "Embarque",
+          "descricao": "Embarque",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/t5kFi1WobkXOZAScfXaZw0fTTZk.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4770095.mp4"
+        },
+        {
+          "nome": "Emergência",
+          "descricao": "Emergência",
+          "capa": "https://image.tmdb.org/t/p/w780/gkXzcMt1WcAYvjJPnz6CcThRdxy.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771442.mp4"
+        },
+        {
+          "nome": "Emma",
+          "descricao": "Emma",
+          "capa": "https://image.tmdb.org/t/p/w780/rzVlyZRQQnYe0rDuLrHSnVtDD3j.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4772141.mp4"
+        },
+        {
+          "nome": "Encaixe Perfeito",
+          "descricao": "Encaixe Perfeito",
+          "capa": "https://image.tmdb.org/t/p/w780/dXAVrQQi0PR4eptYvppdJUk3SAk.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771764.mp4"
+        },
+        {
+          "nome": "Encantada",
+          "descricao": "Encantada",
+          "capa": "https://image.tmdb.org/t/p/w780/dv3I9Zhn6Y1CGDyyrNEX9KFFdXR.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4772627.mp4"
+        },
+        {
+          "nome": "Encanto",
+          "descricao": "Encanto",
+          "capa": "https://image.tmdb.org/t/p/w780/uWwgb89vSbNNtSPCpIKdbxqi5if.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771531.mp4"
+        },
+        {
+          "nome": "Encolhi a Gente",
+          "descricao": "Encolhi a Gente",
+          "capa": "https://image.tmdb.org/t/p/w780/txUoJzA5MQjIDB9fJ6TJr0NKBby.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771465.mp4"
+        },
+        {
+          "nome": "Encontra um Tesouro",
+          "descricao": "Encontra um Tesouro",
+          "capa": "https://image.tmdb.org/t/p/w780/iGAmOAQYqE6nVKahWjWWGyIG2yd.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4772452.mp4"
+        },
+        {
+          "nome": "Encontro com um Anjo",
+          "descricao": "Encontro com um Anjo",
+          "capa": "https://image.tmdb.org/t/p/w780/g9CjIIyZdCybuCRkn4Ad8uWBclu.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771793.mp4"
+        },
+        {
+          "nome": "Encontro de Casais",
+          "descricao": "Encontro de Casais",
+          "capa": "https://image.tmdb.org/t/p/w780/hR52K4R1eGAj2VYno6t6pCTlphA.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771002.mp4"
+        },
+        {
+          "nome": "Encontro Marcado",
+          "descricao": "Encontro Marcado",
+          "capa": "https://image.tmdb.org/t/p/w780/xpIVnmEHEYq70tVMjtITfyvw6XB.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4770130.mp4"
+        },
+        {
+          "nome": "Encontro por Acaso",
+          "descricao": "Encontro por Acaso",
+          "capa": "https://image.tmdb.org/t/p/w780/whow3cyd0JkNld9XVuW1T6enndK.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771473.mp4"
+        },
+        {
+          "nome": "Encontros e Desencontros",
+          "descricao": "Encontros e Desencontros",
+          "capa": "https://image.tmdb.org/t/p/w780/gXrA8NMHAs3X9kegmoqtqNF8mXW.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771655.mp4"
+        },
+        {
+          "nome": "Endgame: Roubo de Identidade",
+          "descricao": "Endgame: Roubo de Identidade",
+          "capa": "https://image.tmdb.org/t/p/w780/euoonsQCowBYYqI1ztvonNjxibM.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771389.mp4"
+        },
+        {
+          "nome": "Endiabrado",
+          "descricao": "Endiabrado",
+          "capa": "https://image.tmdb.org/t/p/w780/wQc3H6J25f8mYwqbyzQI1psup8q.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4772626.mp4"
+        },
+        {
+          "nome": "Enola Holmes 2",
+          "descricao": "Enola Holmes 2",
+          "capa": "https://image.tmdb.org/t/p/w780/tegBpjM5ODoYoM1NjaiHVLEA0QM.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771351.mp4"
+        },
+        {
+          "nome": "Enquanto o Amor Durar",
+          "descricao": "Enquanto o Amor Durar",
+          "capa": "https://image.tmdb.org/t/p/w780/blrIHNeeMBPxHSAV6GHdLPD3qr1.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4770010.mp4"
+        },
+        {
+          "nome": "Enquanto Voce Dormia",
+          "descricao": "Enquanto Voce Dormia",
+          "capa": "https://image.tmdb.org/t/p/w780/lYws9GA4EBAuRKuADPBV4Wy2UGZ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771910.mp4"
+        },
+        {
+          "nome": "Entourage: Fama e Amizade",
+          "descricao": "Entourage: Fama e Amizade",
+          "capa": "https://image.tmdb.org/t/p/w780/55XAKrUPTTQSFmM4XhZu2fD7sa4.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4772258.mp4"
+        },
+        {
+          "nome": "Entrando Numa Fria Maior Ainda com a Família",
+          "descricao": "Entrando Numa Fria Maior Ainda com a Família",
+          "capa": "https://image.tmdb.org/t/p/w780/z0iSQfhBHoob0EVn0nSG3oiSSBX.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771983.mp4"
+        },
+        {
+          "nome": "Entrando Numa Fria Maior Ainda",
+          "descricao": "Entrando Numa Fria Maior Ainda",
+          "capa": "https://image.tmdb.org/t/p/w780/oNGHCp0ZTBSMMocBFBvInptzpe7.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771984.mp4"
+        },
+        {
+          "nome": "Entrando Numa Fria",
+          "descricao": "Entrando Numa Fria",
+          "capa": "https://image.tmdb.org/t/p/w780/29ITGm8T6DuMBmxh2zZB2tzDMh7.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4770711.mp4"
+        },
+        {
+          "nome": "Entrando Numa Roubada",
+          "descricao": "Entrando Numa Roubada",
+          "capa": "https://image.tmdb.org/t/p/w780/9qxMHUcTmvgy4UqAm6bO5ATkYsc.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771068.mp4"
+        },
+        {
+          "nome": "Entre Facas e Segredos",
+          "descricao": "Entre Facas e Segredos",
+          "capa": "https://image.tmdb.org/t/p/w780/9H8PNc4JJRjPnfSh8gGukD0CbqQ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4772193.mp4"
+        },
+        {
+          "nome": "Entre Nós: Uma Dose Extra de Amor",
+          "descricao": "Entre Nós: Uma Dose Extra de Amor",
+          "capa": "https://image.tmdb.org/t/p/w780/foFIkupQR27Ku5fwtmezDAiV1gW.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4770315.mp4"
+        },
+        {
+          "nome": "Entre os Templos",
+          "descricao": "Entre os Templos",
+          "capa": "https://image.tmdb.org/t/p/w780/sw5mxSLV8gNeHsc6G52YPSGZm1j.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4770871.mp4"
+        },
+        {
+          "nome": "Entre Rosas",
+          "descricao": "Entre Rosas",
+          "capa": "https://image.tmdb.org/t/p/w780/w9nP4DisTtdynffsRAzXdXyvsCo.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771347.mp4"
+        },
+        {
+          "nome": "Entre Vinho E Vinagre",
+          "descricao": "Entre Vinho E Vinagre",
+          "capa": "https://image.tmdb.org/t/p/w780/eQRNsUDVtisHWk6Nn1zN4gzk2zO.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4772361.mp4"
+        },
+        {
+          "nome": "Entrega Imediata: O Carteiro",
+          "descricao": "Entrega Imediata: O Carteiro",
+          "capa": "https://image.tmdb.org/t/p/w780/dbdW4Db9QNBlkFBtUmTYPMNzYA3.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4769961.mp4"
+        },
+        {
+          "nome": "Entrei em Pânico ao Saber o Que Vocês Fizeram na Sexta-feira 13 do Verão Passado",
+          "descricao": "Entrei em Pânico ao Saber o Que Vocês Fizeram na Sexta-feira 13 do Verão Passado",
+          "capa": "https://image.tmdb.org/t/p/w780/23jUYorNDOpAASKFk4xPdImjdS4.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771953.mp4"
+        },
+        {
+          "nome": "Enxame",
+          "descricao": "Enxame",
+          "capa": "https://image.tmdb.org/t/p/w780/6eAnVe0dJrgvr665iJWH65ETnKz.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771342.mp4"
+        },
+        {
+          "nome": "Era Uma Vez em… Hollywood (2019)",
+          "descricao": "Era Uma Vez em… Hollywood (2019)",
+          "capa": "https://image.tmdb.org/t/p/w500/zgr02U2Fh0sR5JtaAXY5yBU1wka.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4842055.mp4"
+        },
+        {
+          "nome": "Era Uma Vez um Colchão",
+          "descricao": "Era Uma Vez um Colchão",
+          "capa": "https://image.tmdb.org/t/p/w780/ncmIJ9b3sTxoFzvGks7GZvJj3Sr.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771780.mp4"
+        },
+        {
+          "nome": "Ernest O Bobo e A Fera",
+          "descricao": "Ernest O Bobo e A Fera",
+          "capa": "https://image.tmdb.org/t/p/w780/UE3nwKph9wSO1Hm3xgYT7lzODr.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771835.mp4"
+        },
+        {
+          "nome": "Escalando o Everest de Chinelos",
+          "descricao": "Escalando o Everest de Chinelos",
+          "capa": "https://image.tmdb.org/t/p/w780/5FsGF8LbFweTcFC9KRvjKykygm2.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4770069.mp4"
+        },
+        {
+          "nome": "Escape Room - Sem Saída",
+          "descricao": "Escape Room - Sem Saída",
+          "capa": "https://image.tmdb.org/t/p/w780/krqoxicEy3vNtQXLpkPPfn1gMm9.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4770960.mp4"
+        },
+        {
+          "nome": "Escola da Máfia [L]",
+          "descricao": "Escola da Máfia [L]",
+          "capa": "https://image.tmdb.org/t/p/w780/jP9dumQHczoFU2OSUVtKF4DsDrp.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4770679.mp4"
+        },
+        {
+          "nome": "Escola da Máfia",
+          "descricao": "Escola da Máfia",
+          "capa": "https://image.tmdb.org/t/p/w780/jP9dumQHczoFU2OSUVtKF4DsDrp.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4770680.mp4"
+        },
+        {
+          "nome": "Escola da Vida",
+          "descricao": "Escola da Vida",
+          "capa": "https://image.tmdb.org/t/p/w780/mZifEY09JNU4lTpukg4vzIUyUAK.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4770339.mp4"
+        },
+        {
+          "nome": "Escola de Espiões",
+          "descricao": "Escola de Espiões",
+          "capa": "https://image.tmdb.org/t/p/w780/tFe8SrBgrQ0Sl9s5tr26QElprTc.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771804.mp4"
+        },
+        {
+          "nome": "Escola de Quebrada",
+          "descricao": "Escola de Quebrada",
+          "capa": "https://image.tmdb.org/t/p/w780/bYgRlSTnsjHqiK0z6JxBf4xAEqB.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771251.mp4"
+        },
+        {
+          "nome": "Escola De Rock",
+          "descricao": "Escola De Rock",
+          "capa": "https://image.tmdb.org/t/p/w780/13Yfl9rgkipRAZriIpcm21sjySz.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4772625.mp4"
+        },
+        {
+          "nome": "Escola de Solteiras",
+          "descricao": "Escola de Solteiras",
+          "capa": "https://image.tmdb.org/t/p/w780/4xAcWQhSd5ANs9ipsXoac8yeW2p.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4772289.mp4"
+        },
+        {
+          "nome": "Escrito Nas Estrelas",
+          "descricao": "Escrito Nas Estrelas",
+          "capa": "https://image.tmdb.org/t/p/w780/kD0U1dENdFpbTm6cIWIkZOqKMkB.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4772624.mp4"
+        },
+        {
+          "nome": "Esculturas da Vida",
+          "descricao": "Esculturas da Vida",
+          "capa": "https://image.tmdb.org/t/p/w780/cA9ihYHlTBfbWKXxjgmVpl7QJGx.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771040.mp4"
+        },
+        {
+          "nome": "Espantosa e Horrorosa",
+          "descricao": "Espantosa e Horrorosa",
+          "capa": "https://image.tmdb.org/t/p/w780/6tkZERPpbqMzAuGu2YMLC8V4wSP.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4770754.mp4"
+        },
+        {
+          "nome": "Espartalhoes",
+          "descricao": "Espartalhoes",
+          "capa": "https://image.tmdb.org/t/p/w780/nUS2xrE3VKkLBF5dxGwGuhLiHoi.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4772623.mp4"
+        },
+        {
+          "nome": "Especialista em Crise",
+          "descricao": "Especialista em Crise",
+          "capa": "https://image.tmdb.org/t/p/w780/m5UUZiCXEfaMAHIHb3ZfbvFYYi7.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4772249.mp4"
+        },
+        {
+          "nome": "Espírito de Família",
+          "descricao": "Espírito de Família",
+          "capa": "https://image.tmdb.org/t/p/w780/a621qVL1n3d7sKSx9MJb4GhVqmt.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771848.mp4"
+        },
+        {
+          "nome": "Espontânea",
+          "descricao": "Espontânea",
+          "capa": "https://image.tmdb.org/t/p/w780/2ZffUR7JjVosp72AQOl8R3o1fB.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4772044.mp4"
+        },
+        {
+          "nome": "Esposa de Aluguel",
+          "descricao": "Esposa de Aluguel",
+          "capa": "https://image.tmdb.org/t/p/w780/28E42Ea3Ml3cjvUMHaSqeGYXBfI.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771353.mp4"
+        },
+        {
+          "nome": "Esposa de Mentirinha",
+          "descricao": "Esposa de Mentirinha",
+          "capa": "https://image.tmdb.org/t/p/w780/glC4pDnSieQ9NGU501rfVIqUCTB.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4772622.mp4"
+        },
+        {
+          "nome": "Esquadrao Classe A",
+          "descricao": "Esquadrao Classe A",
+          "capa": "https://image.tmdb.org/t/p/w780/wkHFuOIOtZJrtql8gSSvbLtEcNk.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4772621.mp4"
+        },
+        {
+          "nome": "Esqueça Paris",
+          "descricao": "Esqueça Paris",
+          "capa": "https://image.tmdb.org/t/p/w780/c2RwGHqWwvh7nmRKpdIyYUWMEvP.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4770381.mp4"
+        },
+        {
+          "nome": "Esqueceram de Mim 2: Perdido em Nova York",
+          "descricao": "Esqueceram de Mim 2: Perdido em Nova York",
+          "capa": "https://image.tmdb.org/t/p/w780/qffLHZU9mU0zqmOISnjir2oDEsR.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771463.mp4"
+        },
+        {
+          "nome": "Esqueceram de Mim 3",
+          "descricao": "Esqueceram de Mim 3",
+          "capa": "https://image.tmdb.org/t/p/w780/2KFSpBBHbVf4lHiwPL2c8bwbwLJ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4772005.mp4"
+        },
+        {
+          "nome": "Esqueceram de Mim 4",
+          "descricao": "Esqueceram de Mim 4",
+          "capa": "https://image.tmdb.org/t/p/w780/7D1anhTEVsBjgAEihUEFHx5PbF7.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4772004.mp4"
+        },
+        {
+          "nome": "Esqueceram de Mim",
+          "descricao": "Esqueceram de Mim",
+          "capa": "https://image.tmdb.org/t/p/w780/AeaRJ5a4SxFJSo4AHOLKpr3PEyi.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771466.mp4"
+        },
+        {
+          "nome": "Esqueceram de Nós",
+          "descricao": "Esqueceram de Nós",
+          "capa": "https://image.tmdb.org/t/p/w780/ajlDyFFJcl55oMcnYexvPg2Crls.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771548.mp4"
+        },
+        {
+          "nome": "Essas Garotas!",
+          "descricao": "Essas Garotas!",
+          "capa": "https://image.tmdb.org/t/p/w780/hORLWsFsU2alaqELm0Qc39egEsJ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771584.mp4"
+        },
+        {
+          "nome": "Este é o Meu Garoto",
+          "descricao": "Este é o Meu Garoto",
+          "capa": "https://image.tmdb.org/t/p/w780/avc0QOU93qnpH9b9ocDGBwL68Qr.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4772057.mp4"
+        },
+        {
+          "nome": "Este Velório é uma Parada",
+          "descricao": "Este Velório é uma Parada",
+          "capa": "https://image.tmdb.org/t/p/w780/3qasbx678SK6HAStwys8pNHm9W8.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4770430.mp4"
+        },
+        {
+          "nome": "Esticando a Festa",
+          "descricao": "Esticando a Festa",
+          "capa": "https://image.tmdb.org/t/p/w780/ygKMsqCscAnRl0F8utCh23w5M2C.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771710.mp4"
+        },
+        {
+          "nome": "Eu Aceito",
+          "descricao": "Eu Aceito",
+          "capa": "https://image.tmdb.org/t/p/w780/da3WRoL5JDuxUOMhIoidkYCvi25.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4770891.mp4"
+        },
+        {
+          "nome": "Eu Acredito em Conto de Fadas",
+          "descricao": "Eu Acredito em Conto de Fadas",
+          "capa": "https://image.tmdb.org/t/p/w780/3lI4fjY5AuOIvkjem5rNXAN6zc3.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771195.mp4"
+        },
+        {
+          "nome": "Eu Deus E Bin Laden",
+          "descricao": "Eu Deus E Bin Laden",
+          "capa": "https://image.tmdb.org/t/p/w780/tUSD5vubdimvBYQB7zhVa9EfBny.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771955.mp4"
+        },
+        {
+          "nome": "Eu e Ele",
+          "descricao": "Eu e Ele",
+          "capa": "https://image.tmdb.org/t/p/w780/rpAkySUQOe8H3yw1DDO5VnJwMws.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4770258.mp4"
+        },
+        {
+          "nome": "Eu Me Importo",
+          "descricao": "Eu Me Importo",
+          "capa": "https://image.tmdb.org/t/p/w780/ejMx7Hzh6FkG6BVWRpGYUMONlO2.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771973.mp4"
+        },
+        {
+          "nome": "Eu Mesma e Diana",
+          "descricao": "Eu Mesma e Diana",
+          "capa": "https://image.tmdb.org/t/p/w780/amK92ja6UVjQVAtNefh4JiLGesW.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771107.mp4"
+        },
+        {
+          "nome": "Eu Mesmo & Irene",
+          "descricao": "Eu Mesmo & Irene",
+          "capa": "https://image.tmdb.org/t/p/w780/gzoeXKICGubWgdQ0EYRNZceVpPs.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771930.mp4"
+        },
+        {
+          "nome": "Eu Nao Sou Um Homem Facil",
+          "descricao": "Eu Nao Sou Um Homem Facil",
+          "capa": "https://image.tmdb.org/t/p/w780/4zNw5nVeQkdj3HS82HRBRkQXbvf.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4772620.mp4"
+        },
+        {
+          "nome": "Eu Não Sou um Robô",
+          "descricao": "Eu Não Sou um Robô",
+          "capa": "https://image.tmdb.org/t/p/w780/wfAdvOJM3VC2QviYOF6Ex83eEmz.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771508.mp4"
+        },
+        {
+          "nome": "Eu os Declaro Marido e Larry",
+          "descricao": "Eu os Declaro Marido e Larry",
+          "capa": "https://image.tmdb.org/t/p/w780/aIlsFdoLkSixeqwqcSKi19xAT2w.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4772619.mp4"
+        },
+        {
+          "nome": "Eu os Declaro Marido... e Larry",
+          "descricao": "Eu os Declaro Marido... e Larry",
+          "capa": "https://image.tmdb.org/t/p/w780/aIlsFdoLkSixeqwqcSKi19xAT2w.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4770043.mp4"
+        },
+        {
+          "nome": "Eu Queria Ter a Sua Vida",
+          "descricao": "Eu Queria Ter a Sua Vida",
+          "capa": "https://image.tmdb.org/t/p/w780/iM9IE9khJDIWFwwzGoxWSi5vOyf.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4770158.mp4"
+        },
+        {
+          "nome": "Eu Te Amo",
+          "descricao": "Eu Te Amo",
+          "capa": "https://image.tmdb.org/t/p/w780/uJ2TVrEXUPe4tKGoVkvCjbkxyGr.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4770939.mp4"
+        },
+        {
+          "nome": "Eu Você e a Garota Que Vai Morrer",
+          "descricao": "Eu Você e a Garota Que Vai Morrer",
+          "capa": "https://image.tmdb.org/t/p/w780/oZ0Te6p0fEdg80sGHZk1HR5FyLQ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4772202.mp4"
+        },
+        {
+          "nome": "EuroTrip Passaporte Para a Confusao",
+          "descricao": "EuroTrip Passaporte Para a Confusao",
+          "capa": "https://image.tmdb.org/t/p/w780/i3vxmhNlkLSzIHxuJDQa1YimJ8U.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4772618.mp4"
+        },
+        {
+          "nome": "Everything's Going to Be Great",
+          "descricao": "Everything's Going to Be Great",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/v64pw0k8FvWb7fvfpWCNj8il8Ei.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4770437.mp4"
+        },
+        {
+          "nome": "Ex Casados",
+          "descricao": "Ex Casados",
+          "capa": "https://image.tmdb.org/t/p/w780/3tjKLVs5YRViiRieScxCTuhkYU8.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771392.mp4"
+        },
+        {
+          "nome": "Ex em Domicilio",
+          "descricao": "Ex em Domicilio",
+          "capa": "https://image.tmdb.org/t/p/w780/hrvJ9udxSMSy3GhJeDWuYTZB93x.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4772352.mp4"
+        },
+        {
+          "nome": "Explota Explota",
+          "descricao": "Explota Explota",
+          "capa": "https://image.tmdb.org/t/p/w780/4GvZ2HFBe7URP3ByCsBYwmDnmzG.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771738.mp4"
+        },
+        {
+          "nome": "Fã ou Hater?",
+          "descricao": "Fã ou Hater?",
+          "capa": "https://image.tmdb.org/t/p/w780/e9iG3bhtXqS3SH4wR9PJdvBYXAZ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4770722.mp4"
+        },
+        {
+          "nome": "Fábrica de Sonhos",
+          "descricao": "Fábrica de Sonhos",
+          "capa": "https://image.tmdb.org/t/p/w780/8EzwkItfERGB05BOKNJTJFo93Z.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4770365.mp4"
+        },
+        {
+          "nome": "Fala Serio Mae",
+          "descricao": "Fala Serio Mae",
+          "capa": "https://image.tmdb.org/t/p/w780/p4YiseA6zPrXQMAJ7dj9GxCTHmo.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4772617.mp4"
+        },
+        {
+          "nome": "Falei",
+          "descricao": "Falei",
+          "capa": "https://image.tmdb.org/t/p/w780/a1bu48BHurEJxy865CdgWPhO5IL.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771271.mp4"
+        },
+        {
+          "nome": "Fama a Qualquer Preço",
+          "descricao": "Fama a Qualquer Preço",
+          "capa": "https://image.tmdb.org/t/p/w780/7g09iGPnhyPniphDlw1cJe1aDim.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771212.mp4"
+        },
+        {
+          "nome": "Família de Aluguel",
+          "descricao": "Família de Aluguel",
+          "capa": "https://image.tmdb.org/t/p/w780/6OLrvwkdkQ3vzEzhNR7g24HYbeg.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4770290.mp4"
+        },
+        {
+          "nome": "Familia do Bagulho",
+          "descricao": "Familia do Bagulho",
+          "capa": "https://image.tmdb.org/t/p/w780/d3JidSElLNqkJdddZmGdwPr9DCg.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4772615.mp4"
+        },
+        {
+          "nome": "Família Não Se Escolhe",
+          "descricao": "Família Não Se Escolhe",
+          "capa": "https://image.tmdb.org/t/p/w780/AsOwUOaJdN5ikVQiq63WyEOCWfM.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4770518.mp4"
+        },
+        {
+          "nome": "Fantasy Football",
+          "descricao": "Fantasy Football",
+          "capa": "https://image.tmdb.org/t/p/w780/lC99lme4UplMUICswlA4mfe5GNx.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771270.mp4"
+        },
+        {
+          "nome": "Fe Demais Nao Cheira Bem",
+          "descricao": "Fe Demais Nao Cheira Bem",
+          "capa": "https://image.tmdb.org/t/p/w780/vtSuD3S1YCwDTEwvj84EvdJBkqq.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771966.mp4"
+        },
+        {
+          "nome": "Febre de Juventude",
+          "descricao": "Febre de Juventude",
+          "capa": "https://image.tmdb.org/t/p/w780/e0nQ966IWh6leXPWGx3UeOeNMJZ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771957.mp4"
+        },
+        {
+          "nome": "Febre em Ibiza",
+          "descricao": "Febre em Ibiza",
+          "capa": "https://image.tmdb.org/t/p/w780/6D6BN5RSoKeXGqecIYiVB5MxAlN.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4770380.mp4"
+        },
+        {
+          "nome": "Feel the Beat",
+          "descricao": "Feel the Beat",
+          "capa": "https://image.tmdb.org/t/p/w780/Af2jt7m9GLFpR4V11xOsFmT8OKD.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4772126.mp4"
+        },
+        {
+          "nome": "Feitiço do Rio",
+          "descricao": "Feitiço do Rio",
+          "capa": "https://image.tmdb.org/t/p/w780/yzNtmqL6HUFC7FZl9DnGmhnCQUL.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771575.mp4"
+        },
+        {
+          "nome": "Feito Cães e Gatos",
+          "descricao": "Feito Cães e Gatos",
+          "capa": "https://image.tmdb.org/t/p/w780/73Rm3onL8f4yyyN75Fe17t9DXRo.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771860.mp4"
+        },
+        {
+          "nome": "Felicidade por um Fio",
+          "descricao": "Felicidade por um Fio",
+          "capa": "https://image.tmdb.org/t/p/w780/aDWH0x69jGwqX66VcX8vn7EHIk4.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4772614.mp4"
+        },
+        {
+          "nome": "Feliz Ano Nosso",
+          "descricao": "Feliz Ano Nosso",
+          "capa": "https://image.tmdb.org/t/p/w780/qw4R9WRAmf4QkzU4XjkyBbZtGZh.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771300.mp4"
+        },
+        {
+          "nome": "Felpudo - O Cachorro Promotor",
+          "descricao": "Felpudo - O Cachorro Promotor",
+          "capa": "https://image.tmdb.org/t/p/w780/hIMYGxGKhjrtGdEU7XXpq8UGQoJ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4770409.mp4"
+        },
+        {
+          "nome": "Feminices",
+          "descricao": "Feminices",
+          "capa": "https://image.tmdb.org/t/p/w780/sxnbXGJva2xTPuqeH7IgwhcroLz.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4770498.mp4"
+        },
+        {
+          "nome": "Férias a Todo Custo",
+          "descricao": "Férias a Todo Custo",
+          "capa": "https://image.tmdb.org/t/p/w780/v781B5tXTizzKtzXcbmibGgWIDg.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4770995.mp4"
+        },
+        {
+          "nome": "Férias de Verão",
+          "descricao": "Férias de Verão",
+          "capa": "https://image.tmdb.org/t/p/w780/mcMj1XhDPyxa0xuZ9aNrbPVs1CJ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771103.mp4"
+        },
+        {
+          "nome": "Ferias do Barulho",
+          "descricao": "Ferias do Barulho",
+          "capa": "https://image.tmdb.org/t/p/w780/6WojSQEpmAuwiLXI6CF2wV7jlku.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4772611.mp4"
+        },
+        {
+          "nome": "Férias Forçadas",
+          "descricao": "Férias Forçadas",
+          "capa": "https://image.tmdb.org/t/p/w780/j6DLrKZ9Y9jOWUvwiH3KvVdoDd2.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4770297.mp4"
+        },
+        {
+          "nome": "Ferias Frustradas de Verao",
+          "descricao": "Ferias Frustradas de Verao",
+          "capa": "https://image.tmdb.org/t/p/w780/r3N1tfzMOoGK8KIFT2OAOb9oUoh.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4772613.mp4"
+        },
+        {
+          "nome": "Férias Frustradas em Las Vegas",
+          "descricao": "Férias Frustradas em Las Vegas",
+          "capa": "https://image.tmdb.org/t/p/w780/tRwdlRFsP8tvDJQdf4BsUIvTJ2u.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771725.mp4"
+        },
+        {
+          "nome": "Ferias Frustradas",
+          "descricao": "Ferias Frustradas",
+          "capa": "https://image.tmdb.org/t/p/w780/tnt6zhUzarBNgO49KJDodbeSkhl.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4772612.mp4"
+        },
+        {
+          "nome": "Férias Frustradas",
+          "descricao": "Férias Frustradas",
+          "capa": "https://image.tmdb.org/t/p/w780/tnt6zhUzarBNgO49KJDodbeSkhl.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771017.mp4"
+        },
+        {
+          "nome": "Férias no Caribe",
+          "descricao": "Férias no Caribe",
+          "capa": "https://image.tmdb.org/t/p/w780/nE1lapmQp7qkOb2mbL3kwSrtGxS.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4770208.mp4"
+        },
+        {
+          "nome": "Férias no Trailer",
+          "descricao": "Férias no Trailer",
+          "capa": "https://image.tmdb.org/t/p/w780/coJwCd1px2f9FqA5hRC1RtTIsqM.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4772319.mp4"
+        },
+        {
+          "nome": "Festa do Pijama Muito Louca",
+          "descricao": "Festa do Pijama Muito Louca",
+          "capa": "https://image.tmdb.org/t/p/w780/1i7dglSbXeDUJrGd4rKGhLKzqGJ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771102.mp4"
+        },
+        {
+          "nome": "Festa no Covil",
+          "descricao": "Festa no Covil",
+          "capa": "https://image.tmdb.org/t/p/w780/bMJWHovJJLBRnWX75sO6zRgfOO3.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4770975.mp4"
+        },
+        {
+          "nome": "Festival Eurovision da Canção: A Saga de Sigrit e Lars",
+          "descricao": "Festival Eurovision da Canção: A Saga de Sigrit e Lars",
+          "capa": "https://image.tmdb.org/t/p/w780/7fMJ8ktszaWOyRs5sWntcpssFG.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4772121.mp4"
+        },
+        {
+          "nome": "Festival Sangrento",
+          "descricao": "Festival Sangrento",
+          "capa": "https://image.tmdb.org/t/p/w780/oglP0iKN7PXXzPny7jEuPqHIczg.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4772107.mp4"
+        },
+        {
+          "nome": "Fetiches",
+          "descricao": "Fetiches",
+          "capa": "https://image.tmdb.org/t/p/w780/raxokMXK7cy87N2QGBveTLIcR8c.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771450.mp4"
+        },
+        {
+          "nome": "Ficção Americana",
+          "descricao": "Ficção Americana",
+          "capa": "https://image.tmdb.org/t/p/w780/bndwT7YCJv9nEHGSXuzvx9PJ013.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4770946.mp4"
+        },
+        {
+          "nome": "Fight or Flight",
+          "descricao": "Fight or Flight",
+          "capa": "https://image.tmdb.org/t/p/w780/qSDBkBVooWJ27Xz3tqmzU8ca3IW.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4770714.mp4"
+        },
+        {
+          "nome": "Filhinho da Mamãe",
+          "descricao": "Filhinho da Mamãe",
+          "capa": "https://image.tmdb.org/t/p/w780/qaGu6mysRg6ytttMuadNCec29L3.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771648.mp4"
+        },
+        {
+          "nome": "Final Feliz",
+          "descricao": "Final Feliz",
+          "capa": "https://image.tmdb.org/t/p/w780/z8UoFcduV263EwXDaMMbOclVW8R.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771133.mp4"
+        },
+        {
+          "nome": "Fire Island: Orgulho & Sedução",
+          "descricao": "Fire Island: Orgulho & Sedução",
+          "capa": "https://image.tmdb.org/t/p/w780/1CbO5NixfMKCLXTqSr3hsfBLXM3.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771433.mp4"
+        },
+        {
+          "nome": "Flamin' Hot: O Sabor que Mudou a História",
+          "descricao": "Flamin' Hot: O Sabor que Mudou a História",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/swcV0H1ODbH2Afb9ljYzzdeUyCW.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771207.mp4"
+        },
+        {
+          "nome": "Flops: Agentes Nada Secretos",
+          "descricao": "Flops: Agentes Nada Secretos",
+          "capa": "https://image.tmdb.org/t/p/w780/p8o3JbCpf0yJqVCZtR7ghBhtRxO.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4772022.mp4"
+        },
+        {
+          "nome": "Flor de Cacto",
+          "descricao": "Flor de Cacto",
+          "capa": "https://image.tmdb.org/t/p/w780/x1yIdI1rtG1I0xR9BZh5jpEOOJ4.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4770822.mp4"
+        },
+        {
+          "nome": "Flora e Filho: Música em Família",
+          "descricao": "Flora e Filho: Música em Família",
+          "capa": "https://image.tmdb.org/t/p/w780/i1Xv3pmIwEXmrbnMOwl6BExjV9a.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771125.mp4"
+        },
+        {
+          "nome": "Florence: Quem é Essa Mulher?",
+          "descricao": "Florence: Quem é Essa Mulher?",
+          "capa": "https://image.tmdb.org/t/p/w780/oXIkaUF2DDfs4c3jfO5wHj0fJuh.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4770768.mp4"
+        },
+        {
+          "nome": "Flores Partidas",
+          "descricao": "Flores Partidas",
+          "capa": "https://image.tmdb.org/t/p/w780/pSvtfXwjdb7UpiyVMp3gt8pTOHT.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4770280.mp4"
+        },
+        {
+          "nome": "Fora de Controle",
+          "descricao": "Fora de Controle",
+          "capa": "https://image.tmdb.org/t/p/w780/mVv91KbPaP2ngPe8HoytUgWLBAh.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771751.mp4"
+        },
+        {
+          "nome": "Fora de Série",
+          "descricao": "Fora de Série",
+          "capa": "https://image.tmdb.org/t/p/w780/yfIAkRcPUbbfSGR2JOuUppAAMLV.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4772288.mp4"
+        },
+        {
+          "nome": "Fora dos Trilhos",
+          "descricao": "Fora dos Trilhos",
+          "capa": "https://image.tmdb.org/t/p/w780/lNtHQww0YenkHMmiYFcd6o7DaSb.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771467.mp4"
+        },
+        {
+          "nome": "Força de Pai para Filha",
+          "descricao": "Força de Pai para Filha",
+          "capa": "https://image.tmdb.org/t/p/w780/fV638xlTJDKIGwURcs3y7AmWUGt.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771163.mp4"
+        },
+        {
+          "nome": "Forever Rich",
+          "descricao": "Forever Rich",
+          "capa": "https://image.tmdb.org/t/p/w780/vRbX9sTiZheczEtNfjAi0bhHPAn.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771650.mp4"
+        },
+        {
+          "nome": "Forrest Gump O Contador de Histórias",
+          "descricao": "Forrest Gump O Contador de Histórias",
+          "capa": "https://image.tmdb.org/t/p/w780/d74WpIsH8379TIL4wUxDneRCYv2.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771954.mp4"
+        },
+        {
+          "nome": "France: Sob Os Holofotes",
+          "descricao": "France: Sob Os Holofotes",
+          "capa": "https://image.tmdb.org/t/p/w780/wpFJGrThPtTjFLyEc3r9MdQH7xr.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771317.mp4"
+        },
+        {
+          "nome": "Free Guy: Assumindo o Controle",
+          "descricao": "Free Guy: Assumindo o Controle",
+          "capa": "https://image.tmdb.org/t/p/w780/bAnms4gJ5YkZzZCDkHsRKxEg2Xj.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771654.mp4"
+        },
+        {
+          "nome": "Frida (2002)",
+          "descricao": "Frida (2002)",
+          "capa": "https://image.tmdb.org/t/p/w500/a4hgR6aKoohB6MHni171jbi9BkU.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4842037.mp4"
+        },
+        {
+          "nome": "Frozen Hot Boys",
+          "descricao": "Frozen Hot Boys",
+          "capa": "https://image.tmdb.org/t/p/w780/3ScTCGjCuGyN3PcnasJ5ji7OmaU.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4770742.mp4"
+        },
+        {
+          "nome": "Fuga de Ravenshead",
+          "descricao": "Fuga de Ravenshead",
+          "capa": "https://image.tmdb.org/t/p/w780/ss7yvN0PAKX16lNOGVGTPQiujgD.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4770121.mp4"
+        },
+        {
+          "nome": "Fuks 2",
+          "descricao": "Fuks 2",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/r3yxvHMcIsefxh1iELl1EtjNlI5.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4770724.mp4"
+        },
+        {
+          "nome": "Fullmetal Alchemist (2017)",
+          "descricao": "Fullmetal Alchemist (2017)",
+          "capa": "https://image.tmdb.org/t/p/w500/caGcgsmRTeaJkmt6HlBlGDVEuw9.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4842040.mp4"
+        },
+        {
+          "nome": "Funcionário do Mês",
+          "descricao": "Funcionário do Mês",
+          "capa": "https://image.tmdb.org/t/p/w780/jyPtb3SA0mq4FGJJOGxz3sYnPPc.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4770457.mp4"
+        },
+        {
+          "nome": "Fundo do Poço",
+          "descricao": "Fundo do Poço",
+          "capa": "https://image.tmdb.org/t/p/w780/ijXKi02M7HIAHtjpBCWKTQj5L3X.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771098.mp4"
+        },
+        {
+          "nome": "Fúria de Titãs 2",
+          "descricao": "Fúria de Titãs 2",
+          "capa": "https://image.tmdb.org/t/p/w780/yf5sWg9T7mT8PTkg3kOdtzhH7P6.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4770009.mp4"
+        },
+        {
+          "nome": "Galeria Futuro",
+          "descricao": "Galeria Futuro",
+          "capa": "https://image.tmdb.org/t/p/w780/3dJsqGb8pQydRTvz8clV49BbErI.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771494.mp4"
+        },
+        {
+          "nome": "Gananciosos",
+          "descricao": "Gananciosos",
+          "capa": "https://image.tmdb.org/t/p/w780/uPBFus1jv5s7klf2X2B6pTZRpTq.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4770741.mp4"
+        },
+        {
+          "nome": "Garcia & Garcia",
+          "descricao": "Garcia & Garcia",
+          "capa": "https://image.tmdb.org/t/p/w780/h5KrcYPCL7w41gGbq0ejzCVPJx2.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4770882.mp4"
+        },
+        {
+          "nome": "Garçonete",
+          "descricao": "Garçonete",
+          "capa": "https://image.tmdb.org/t/p/w780/eEaZpzAp5bgu9ilQYifli3qYiDB.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4772271.mp4"
+        },
+        {
+          "nome": "Garfield - O Filme",
+          "descricao": "Garfield - O Filme",
+          "capa": "https://image.tmdb.org/t/p/w780/sFkRpWVC9PDop5IGvcHF1ZeGqIQ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4772248.mp4"
+        },
+        {
+          "nome": "Garota Infernal",
+          "descricao": "Garota Infernal",
+          "capa": "https://image.tmdb.org/t/p/w780/lIHXfHgVPDP0r5tKuysqpNkQQmV.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4772610.mp4"
+        },
+        {
+          "nome": "Garota Mimada",
+          "descricao": "Garota Mimada",
+          "capa": "https://image.tmdb.org/t/p/w780/oEUUdt0l38zOln1QNjZF0IgEoD2.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771043.mp4"
+        },
+        {
+          "nome": "Garota Veneno",
+          "descricao": "Garota Veneno",
+          "capa": "https://image.tmdb.org/t/p/w780/9z1UEKXrfYZTRq7dfxyiKqf1K6T.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4771416.mp4"
+        },
+        {
+          "nome": "Garotas em Fuga",
+          "descricao": "Garotas em Fuga",
+          "capa": "https://image.tmdb.org/t/p/w780/kWJXbCDnbZ3dptB1jibZBraqmRL.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4770971.mp4"
+        },
+        {
+          "nome": "Gary - Um Treinador Muito Louco",
+          "descricao": "Gary - Um Treinador Muito Louco",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/s8LMr71B3ByCm2E1U33d9uynudY.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4770360.mp4"
+        },
+        {
+          "nome": "Gato Sórdido",
+          "descricao": "Gato Sórdido",
+          "capa": "https://image.tmdb.org/t/p/w780/gFXB1hTXaPFruaWG1pY4AtikxUF.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4772225.mp4"
+        }
+      ]
+    }
+  ],
+  "series": []
+}
