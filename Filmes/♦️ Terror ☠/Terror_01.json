@@ -1,0 +1,3013 @@
+{
+  "canais": [],
+  "filmes": [
+    {
+      "album": "♦️ Terror ☠",
+      "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/filmes/Terror.png",
+      "subAlbuns": [],
+      "itens": [
+        {
+          "nome": "#AMFAD: All My Friends Are Dead",
+          "descricao": "#AMFAD: All My Friends Are Dead",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/7QyJll2kuqlQgvT2Z08iYmeUKe1.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4836799.mp4"
+        },
+        {
+          "nome": "#Sem_Filtro - Noite Sangrenta",
+          "descricao": "#Sem_Filtro - Noite Sangrenta",
+          "capa": "https://image.tmdb.org/t/p/w780/hlIXhMYMjxhppv2EagLNXXey5H5.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4836997.mp4"
+        },
+        {
+          "nome": "#SemSaída",
+          "descricao": "#SemSaída",
+          "capa": "https://image.tmdb.org/t/p/w780/fUCIj47O9v5zktS81hRWktUVnSR.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838000.mp4"
+        },
+        {
+          "nome": "(A) Fronteira",
+          "descricao": "(A) Fronteira",
+          "capa": "https://image.tmdb.org/t/p/w780/qiJK2iJUifpO7eU8V6t4YWXAEEg.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837063.mp4"
+        },
+        {
+          "nome": "(In) Seguros",
+          "descricao": "(In) Seguros",
+          "capa": "https://image.tmdb.org/t/p/w780/geqLzzDs1w08qojyFOD8eqlXFwz.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837923.mp4"
+        },
+        {
+          "nome": "(Re)Nascer",
+          "descricao": "(Re)Nascer",
+          "capa": "https://image.tmdb.org/t/p/w780/qjjwYBk21klwdD86bxPro54qqaC.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837450.mp4"
+        },
+        {
+          "nome": "[REC] 2 Posuidos",
+          "descricao": "[REC] 2 Posuidos",
+          "capa": "http://ocvtab.info/images/83A9LTmRsqmWEfhquZ3cAGoxATp_big.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838060.mp4"
+        },
+        {
+          "nome": "[REC] 2: Possuídos",
+          "descricao": "[REC] 2: Possuídos",
+          "capa": "https://image.tmdb.org/t/p/w780/83A9LTmRsqmWEfhquZ3cAGoxATp.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4836657.mp4"
+        },
+        {
+          "nome": "[REC] 3 Genesis",
+          "descricao": "[REC] 3 Genesis",
+          "capa": "https://image.tmdb.org/t/p/w780/uLIyUugRBrJrKPAFw3cC4oY31k0.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838059.mp4"
+        },
+        {
+          "nome": "[REC] 3: Gênesis",
+          "descricao": "[REC] 3: Gênesis",
+          "capa": "https://image.tmdb.org/t/p/w780/uLIyUugRBrJrKPAFw3cC4oY31k0.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4836656.mp4"
+        },
+        {
+          "nome": "[REC] 4 Apocalipse",
+          "descricao": "[REC] 4 Apocalipse",
+          "capa": "https://image.tmdb.org/t/p/w780/uUGdIdCl8Fy4TRcXLizRCDPQJ5R.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838058.mp4"
+        },
+        {
+          "nome": "[REC] 4: Apocalipse",
+          "descricao": "[REC] 4: Apocalipse",
+          "capa": "https://image.tmdb.org/t/p/w780/uUGdIdCl8Fy4TRcXLizRCDPQJ5R.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4836655.mp4"
+        },
+        {
+          "nome": "[REC]",
+          "descricao": "[REC]",
+          "capa": "https://image.tmdb.org/t/p/w780/nfbO00NKXSzBIzcN3KbUMdPT1EU.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838061.mp4"
+        },
+        {
+          "nome": "0.0MHz",
+          "descricao": "0.0MHz",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/9usnHrtzl6CejBTr8JTvQtxTLAS.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4836629.mp4"
+        },
+        {
+          "nome": "7 Desejos",
+          "descricao": "7 Desejos",
+          "capa": "https://image.tmdb.org/t/p/w780/hZIeMWNciyHyhIqrLiZXJ4VgXHb.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838266.mp4"
+        },
+        {
+          "nome": "13 Dias no Lago da Morte",
+          "descricao": "13 Dias no Lago da Morte",
+          "capa": "https://image.tmdb.org/t/p/w780/lpzEoqapKvczwg9tFeQ07BfZRdy.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4836750.mp4"
+        },
+        {
+          "nome": "13 exorcismos",
+          "descricao": "13 exorcismos",
+          "capa": "https://image.tmdb.org/t/p/w780/8LpnMIqpRiwxpbGR33ALCmVl7gj.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837658.mp4"
+        },
+        {
+          "nome": "13 Fantasmas",
+          "descricao": "13 Fantasmas",
+          "capa": "https://image.tmdb.org/t/p/w780/rVcigGnXNtYQoBAhTWGAS9o03jc.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838443.mp4"
+        },
+        {
+          "nome": "15 Câmeras",
+          "descricao": "15 Câmeras",
+          "capa": "https://image.tmdb.org/t/p/w780/w2aD11rXlALjQLMbj9FZlGeS7Vg.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4836963.mp4"
+        },
+        {
+          "nome": "30 Dias de Noite 1",
+          "descricao": "30 Dias de Noite 1",
+          "capa": "http://ocvtab.info/images/b3B9y2KRlBCveMKuQERbajuJzRK_big.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838442.mp4"
+        },
+        {
+          "nome": "30 Dias de Noite 2",
+          "descricao": "30 Dias de Noite 2",
+          "capa": "https://image.tmdb.org/t/p/w780/b3B9y2KRlBCveMKuQERbajuJzRK.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838441.mp4"
+        },
+        {
+          "nome": "30 Dias de Noite 2: Dias Sombrios",
+          "descricao": "30 Dias de Noite 2: Dias Sombrios",
+          "capa": "https://image.tmdb.org/t/p/w780/b3B9y2KRlBCveMKuQERbajuJzRK.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4836578.mp4"
+        },
+        {
+          "nome": "31 - A Morte é a Única Saída",
+          "descricao": "31 - A Morte é a Única Saída",
+          "capa": "https://image.tmdb.org/t/p/w780/jHkIIkP4O0vUkSACcizOPZQIiF7.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4836577.mp4"
+        },
+        {
+          "nome": "60 Minutos para Morrer",
+          "descricao": "60 Minutos para Morrer",
+          "capa": "https://image.tmdb.org/t/p/w780/i5pJ8IoOanVAPBzKi3GiVnGlOld.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838440.mp4"
+        },
+        {
+          "nome": "1303 - Apartamento do Mal",
+          "descricao": "1303 - Apartamento do Mal",
+          "capa": "https://image.tmdb.org/t/p/w780/n3MlYZPW6erXCyDf2EHf269qUnu.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837985.mp4"
+        },
+        {
+          "nome": "1408",
+          "descricao": "1408",
+          "capa": "https://image.tmdb.org/t/p/w780/nBwGQFymu3EhnBnhNSN1GX7zsZL.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4836579.mp4"
+        },
+        {
+          "nome": "1978",
+          "descricao": "1978",
+          "capa": "https://image.tmdb.org/t/p/w780/vjLOK4VEISFIUgSw0GXEEon9qNJ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837081.mp4"
+        },
+        {
+          "nome": "2035: Dimensão Proibida",
+          "descricao": "2035: Dimensão Proibida",
+          "capa": "https://image.tmdb.org/t/p/w780/6sMswNlvoCXK0wX14NRzSFRRIFs.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838024.mp4"
+        },
+        {
+          "nome": "A 5ª Vítima",
+          "descricao": "A 5ª Vítima",
+          "capa": "https://image.tmdb.org/t/p/w780/8zmZnOR7YEAVueWAaPphjxUamiK.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4836768.mp4"
+        },
+        {
+          "nome": "A Aldeia dos Amaldiçoados",
+          "descricao": "A Aldeia dos Amaldiçoados",
+          "capa": "https://image.tmdb.org/t/p/w780/yo4rQ0qyDWc0D99G7lEjcTKPTQL.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837010.mp4"
+        },
+        {
+          "nome": "A Anfitriã",
+          "descricao": "A Anfitriã",
+          "capa": "https://image.tmdb.org/t/p/w780/nYf6MDUJCeeS73biahFNK3vcoOI.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837601.mp4"
+        },
+        {
+          "nome": "A Aparição",
+          "descricao": "A Aparição",
+          "capa": "https://image.tmdb.org/t/p/w780/xmKiLCYL0MK1wrRRPuu7lsGPoJs.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837884.mp4"
+        },
+        {
+          "nome": "A Armadilha do Diabo",
+          "descricao": "A Armadilha do Diabo",
+          "capa": "https://image.tmdb.org/t/p/w780/3aSpIz1wwQ93lFNpX342bwEC1ZM.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4836869.mp4"
+        },
+        {
+          "nome": "A Armadilha",
+          "descricao": "A Armadilha",
+          "capa": "https://image.tmdb.org/t/p/w780/oKLhLgH5uvNPeGfrIC91J2IMuiy.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4836567.mp4"
+        },
+        {
+          "nome": "A Ascensão dos Mortos",
+          "descricao": "A Ascensão dos Mortos",
+          "capa": "https://image.tmdb.org/t/p/w780/giSnlWJHLixMjcarPWW25VXXKn2.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4836863.mp4"
+        },
+        {
+          "nome": "A Autopsia",
+          "descricao": "A Autopsia",
+          "capa": "https://image.tmdb.org/t/p/w780/9hY2AVLqdklon41dr9PSQ4KdW8K.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838439.mp4"
+        },
+        {
+          "nome": "A Baba",
+          "descricao": "A Baba",
+          "capa": "https://image.tmdb.org/t/p/w780/wfs8vJ5TfEvKEK8OsUJzx3GriGg.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838295.mp4"
+        },
+        {
+          "nome": "A Babá",
+          "descricao": "A Babá",
+          "capa": "https://image.tmdb.org/t/p/w780/wfs8vJ5TfEvKEK8OsUJzx3GriGg.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837709.mp4"
+        },
+        {
+          "nome": "A Babá: O Chamado das Sombras",
+          "descricao": "A Babá: O Chamado das Sombras",
+          "capa": "https://image.tmdb.org/t/p/w780/urbyC5UsvP8Ym15S4Rd3sZ9WBkw.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837828.mp4"
+        },
+        {
+          "nome": "A Babá: Rainha da Morte",
+          "descricao": "A Babá: Rainha da Morte",
+          "capa": "https://image.tmdb.org/t/p/w780/1JnolYGDrhgo5y3rOb0S1VErF4f.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838158.mp4"
+        },
+        {
+          "nome": "A Boca do Diabo",
+          "descricao": "A Boca do Diabo",
+          "capa": "https://image.tmdb.org/t/p/w780/2CZecxLrTSmzngWqIGganSMg6gK.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4836573.mp4"
+        },
+        {
+          "nome": "A Bolha Assassina",
+          "descricao": "A Bolha Assassina",
+          "capa": "https://image.tmdb.org/t/p/w780/l9zZIz8ku6HQ03tDwiJGiIKsgM2.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838063.mp4"
+        },
+        {
+          "nome": "A Boneca do Mal",
+          "descricao": "A Boneca do Mal",
+          "capa": "https://image.tmdb.org/t/p/w780/2SkGdF5H5dKjrGsmaveJ0TB3KYZ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4836693.mp4"
+        },
+        {
+          "nome": "A Bruma Assassina O Nevoeiro",
+          "descricao": "A Bruma Assassina O Nevoeiro",
+          "capa": "https://image.tmdb.org/t/p/w780/zqg7z8CzTTdC7gVaUwLpIh0Hc1t.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838142.mp4"
+        },
+        {
+          "nome": "A Bruxa da Casa ao Lado",
+          "descricao": "A Bruxa da Casa ao Lado",
+          "capa": "https://image.tmdb.org/t/p/w780/7TmNhEKfTg9Yya0trhMou1V6gUf.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838111.mp4"
+        },
+        {
+          "nome": "A Bruxa de Blair 2: O Livro das Sombras",
+          "descricao": "A Bruxa de Blair 2: O Livro das Sombras",
+          "capa": "https://image.tmdb.org/t/p/w780/k8UT6J9GedRoYhKLcbQVuXCZ9SS.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4836932.mp4"
+        },
+        {
+          "nome": "A Bruxa De Blair",
+          "descricao": "A Bruxa De Blair",
+          "capa": "https://image.tmdb.org/t/p/w780/jAKX4midH0vSm2XT54g5TWluQqw.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838121.mp4"
+        },
+        {
+          "nome": "A Bruxa do Bosque",
+          "descricao": "A Bruxa do Bosque",
+          "capa": "https://image.tmdb.org/t/p/w780/zM2ACidkiuHZBTVtBOjyupvH5pS.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837229.mp4"
+        },
+        {
+          "nome": "A Bruxa do Gelo",
+          "descricao": "A Bruxa do Gelo",
+          "capa": "https://image.tmdb.org/t/p/w780/nE8kvNUcEQ1HhILzT5gDPM5Lj25.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837502.mp4"
+        },
+        {
+          "nome": "A Bruxa dos Doces",
+          "descricao": "A Bruxa dos Doces",
+          "capa": "https://image.tmdb.org/t/p/w780/rAiHWkMfMyDpbft4BP3gKc82wpM.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837858.mp4"
+        },
+        {
+          "nome": "A Bruxa dos Mortos: Baghead",
+          "descricao": "A Bruxa dos Mortos: Baghead",
+          "capa": "https://image.tmdb.org/t/p/w780/hV1duOiPt8o4JxUltlSbYXMJehf.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837446.mp4"
+        },
+        {
+          "nome": "A Bruxa",
+          "descricao": "A Bruxa",
+          "capa": "https://image.tmdb.org/t/p/w780/opuDnG7MX2eKb4s0r1a1GVJmUXE.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837376.mp4"
+        },
+        {
+          "nome": "A Cabana da Morte",
+          "descricao": "A Cabana da Morte",
+          "capa": "https://image.tmdb.org/t/p/w780/piSpzW9vjUejGDnLDkuhu8F0ate.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4836889.mp4"
+        },
+        {
+          "nome": "A Cabana Maldita",
+          "descricao": "A Cabana Maldita",
+          "capa": "https://image.tmdb.org/t/p/w780/la033FX81LsiIId67AM5SEtVSXt.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837698.mp4"
+        },
+        {
+          "nome": "À Caça do Monstro",
+          "descricao": "À Caça do Monstro",
+          "capa": "https://image.tmdb.org/t/p/w780/lygDmTXJgynNuHkXH0PjJidXQ0F.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4836829.mp4"
+        },
+        {
+          "nome": "a Caça Vampiros",
+          "descricao": "a Caça Vampiros",
+          "capa": "https://image.tmdb.org/t/p/w780/hokzY8zEyYhUDhqr6H7jyY1C3i4.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837927.mp4"
+        },
+        {
+          "nome": "A Caça",
+          "descricao": "A Caça",
+          "capa": "https://image.tmdb.org/t/p/w780/jksxm18n70boh0LSlXibjimGr9g.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837294.mp4"
+        },
+        {
+          "nome": "A Caçadora de Auschwitz",
+          "descricao": "A Caçadora de Auschwitz",
+          "capa": "https://image.tmdb.org/t/p/w780/xCG4aYLiJougK9UIHsCsBMjQ4pl.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837358.mp4"
+        },
+        {
+          "nome": "A Câmera do Demônio",
+          "descricao": "A Câmera do Demônio",
+          "capa": "https://image.tmdb.org/t/p/w780/6eLpPX4rdmyDYOOq3qxisc64C1V.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837347.mp4"
+        },
+        {
+          "nome": "A Canção de Ninar de Katherine",
+          "descricao": "A Canção de Ninar de Katherine",
+          "capa": "https://image.tmdb.org/t/p/w780/ayzTpIN174Cc9qaSewsL4YyC0ny.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837443.mp4"
+        },
+        {
+          "nome": "A Casa Amaldiçoada",
+          "descricao": "A Casa Amaldiçoada",
+          "capa": "https://image.tmdb.org/t/p/w780/mCLRN9c3n4OAxmKxucZLDpeFB2Y.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4836726.mp4"
+        },
+        {
+          "nome": "A Casa da Colina",
+          "descricao": "A Casa da Colina",
+          "capa": "https://image.tmdb.org/t/p/w780/cE52KPgeJqDyaVu29OFGKqSDyET.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838146.mp4"
+        },
+        {
+          "nome": "A Casa da Morte",
+          "descricao": "A Casa da Morte",
+          "capa": "https://image.tmdb.org/t/p/w780/lwhA8HNKODD2iBo1tJG1nMlIzXe.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837707.mp4"
+        },
+        {
+          "nome": "A Casa de Cera",
+          "descricao": "A Casa de Cera",
+          "capa": "https://image.tmdb.org/t/p/w780/eQlJHrEDEocVpVofwMeJCRpw8vE.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838438.mp4"
+        },
+        {
+          "nome": "A Casa de Tijolos de Barro",
+          "descricao": "A Casa de Tijolos de Barro",
+          "capa": "https://image.tmdb.org/t/p/w780/AvztgPp1vHSaJEjWI5LHZTIMv13.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4836748.mp4"
+        },
+        {
+          "nome": "A Casa do Medo - Incidente em Ghostland",
+          "descricao": "A Casa do Medo - Incidente em Ghostland",
+          "capa": "http://ocvtab.info/images/j7p3JKIAwysHpZsmdINLNeVjApg_big.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838294.mp4"
+        },
+        {
+          "nome": "A Casa do Silêncio",
+          "descricao": "A Casa do Silêncio",
+          "capa": "https://image.tmdb.org/t/p/w780/4BjuktN3lKpreHYAHr5so7MP5zF.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837919.mp4"
+        },
+        {
+          "nome": "A Casa do Terror",
+          "descricao": "A Casa do Terror",
+          "capa": "https://image.tmdb.org/t/p/w780/pRapSkoVtHeXDPfUP4883njzIJ3.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838153.mp4"
+        },
+        {
+          "nome": "A Casa dos 1000 Corpos",
+          "descricao": "A Casa dos 1000 Corpos",
+          "capa": "https://image.tmdb.org/t/p/w780/jN1cpttVUjNqbhzRXDt8QVPtGh8.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4836967.mp4"
+        },
+        {
+          "nome": "A Casa Dos Mortos",
+          "descricao": "A Casa Dos Mortos",
+          "capa": "https://image.tmdb.org/t/p/w780/ct33oot4pArg8hZ87wEeG7ojyTz.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837916.mp4"
+        },
+        {
+          "nome": "A Casa dos Segredos Enterrados",
+          "descricao": "A Casa dos Segredos Enterrados",
+          "capa": "https://image.tmdb.org/t/p/w780/uTSvLQrZb02MayBilIg5U8ltRE3.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4836847.mp4"
+        },
+        {
+          "nome": "A Casa Mal-Assombrada",
+          "descricao": "A Casa Mal-Assombrada",
+          "capa": "https://image.tmdb.org/t/p/w780/p0hUOirK8MeufK1v93QiV9xQSYK.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837380.mp4"
+        },
+        {
+          "nome": "A Casa Mórbida",
+          "descricao": "A Casa Mórbida",
+          "capa": "https://image.tmdb.org/t/p/w780/xUb8Q8HsOoE30VHigKUE1emkVDT.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837308.mp4"
+        },
+        {
+          "nome": "A Casa no Bayou",
+          "descricao": "A Casa no Bayou",
+          "capa": "https://image.tmdb.org/t/p/w780/7OhsKXY8CV4uAdrc82sGgpGXUNc.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837815.mp4"
+        },
+        {
+          "nome": "A Casa Silenciosa",
+          "descricao": "A Casa Silenciosa",
+          "capa": "https://image.tmdb.org/t/p/w780/qrjjNKUQikiPoS8tK0vSTtruig.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837899.mp4"
+        },
+        {
+          "nome": "A Casa Sombria",
+          "descricao": "A Casa Sombria",
+          "capa": "https://image.tmdb.org/t/p/w780/sDbo3qnxxMnC1f4RMfmUlcKNNST.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837618.mp4"
+        },
+        {
+          "nome": "A Casa",
+          "descricao": "A Casa",
+          "capa": "https://image.tmdb.org/t/p/w780/AqOwuZ4X0Ssi3LIsYqXNw52IIvW.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837929.mp4"
+        },
+        {
+          "nome": "A Caverna",
+          "descricao": "A Caverna",
+          "capa": "https://image.tmdb.org/t/p/w780/qGfT6Edm2PSXDbGfwIJgCUzbHCl.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837953.mp4"
+        },
+        {
+          "nome": "A Cela",
+          "descricao": "A Cela",
+          "capa": "https://image.tmdb.org/t/p/w780/yw4zCsJ7iJBdiRlg9Qgznu6irzt.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837862.mp4"
+        },
+        {
+          "nome": "A Centopeia Humana",
+          "descricao": "A Centopeia Humana",
+          "capa": "https://image.tmdb.org/t/p/w780/9CJBXYOs1dpmMZzvHm8XTbKfNos.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838437.mp4"
+        },
+        {
+          "nome": "A Chave Mestra",
+          "descricao": "A Chave Mestra",
+          "capa": "https://image.tmdb.org/t/p/w780/yTJVjJX5KyBccMSx6lUjPahr26r.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837586.mp4"
+        },
+        {
+          "nome": "A Chorona",
+          "descricao": "A Chorona",
+          "capa": "https://image.tmdb.org/t/p/w780/Agi0zMOOOqQCn1kM2ds9k5wDamJ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837792.mp4"
+        },
+        {
+          "nome": "A Cidade dos Mortos-Vivos",
+          "descricao": "A Cidade dos Mortos-Vivos",
+          "capa": "https://image.tmdb.org/t/p/w780/8kxjaN6h3oytf5UOHPRIkPDsCOj.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4836744.mp4"
+        },
+        {
+          "nome": "A Coisa",
+          "descricao": "A Coisa",
+          "capa": "https://image.tmdb.org/t/p/w780/zKdqe9kfhLQ9giuLcpoQI3WL1Vw.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4836953.mp4"
+        },
+        {
+          "nome": "A Colheita",
+          "descricao": "A Colheita",
+          "capa": "https://image.tmdb.org/t/p/w780/1OP0tCN36vC1WuMvjDD5tEXa2xw.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837918.mp4"
+        },
+        {
+          "nome": "A Convidada",
+          "descricao": "A Convidada",
+          "capa": "https://image.tmdb.org/t/p/w780/eVb7aEM4W0jTHZjSV5iRlRToRCx.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4836857.mp4"
+        },
+        {
+          "nome": "A Cor Que Caiu do Espaco",
+          "descricao": "A Cor Que Caiu do Espaco",
+          "capa": "https://image.tmdb.org/t/p/w780/xulMdGldIZY4AD5Wbtqf5GcK0b1.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838115.mp4"
+        },
+        {
+          "nome": "A Cor Que Caiu do Espaço",
+          "descricao": "A Cor Que Caiu do Espaço",
+          "capa": "https://image.tmdb.org/t/p/w780/xulMdGldIZY4AD5Wbtqf5GcK0b1.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4836663.mp4"
+        },
+        {
+          "nome": "A Corrente do Mal",
+          "descricao": "A Corrente do Mal",
+          "capa": "https://image.tmdb.org/t/p/w780/AqseTuFQAFtjTJUNJPqz35tatOR.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838066.mp4"
+        },
+        {
+          "nome": "A Criança Zombie",
+          "descricao": "A Criança Zombie",
+          "capa": "https://image.tmdb.org/t/p/w780/iOGd9M2bxx6yxpvfZ6p9pYD13W.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838177.mp4"
+        },
+        {
+          "nome": "A Criatura Mutante",
+          "descricao": "A Criatura Mutante",
+          "capa": "https://image.tmdb.org/t/p/w780/zoN5kHjr0EdFttVg6lxqdZOJS46.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4836705.mp4"
+        },
+        {
+          "nome": "A Cura",
+          "descricao": "A Cura",
+          "capa": "https://image.tmdb.org/t/p/w780/g2x1gF89LFej8gOTeeLVefDP5Je.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838436.mp4"
+        },
+        {
+          "nome": "A Enfermeira Assassina",
+          "descricao": "A Enfermeira Assassina",
+          "capa": "https://image.tmdb.org/t/p/w780/1Sv0E1E0NwlntDrqH1c43vvSrLF.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837954.mp4"
+        },
+        {
+          "nome": "A Entidade 2",
+          "descricao": "A Entidade 2",
+          "capa": "https://image.tmdb.org/t/p/w780/1nKrDcCzDG5LLamYb3dWWenE92L.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838119.mp4"
+        },
+        {
+          "nome": "A Entidade",
+          "descricao": "A Entidade",
+          "capa": "https://image.tmdb.org/t/p/w780/uTaCFSTQ29LKqLXJU75owdir04h.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838118.mp4"
+        },
+        {
+          "nome": "A Epidemia",
+          "descricao": "A Epidemia",
+          "capa": "https://image.tmdb.org/t/p/w780/cc6QIKKSDVWYHtSLoNKi2aqYslY.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4836675.mp4"
+        },
+        {
+          "nome": "A Escuridao",
+          "descricao": "A Escuridao",
+          "capa": "https://image.tmdb.org/t/p/w780/7KZTACSm5nih0B2xfQEJ84UrNcp.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838435.mp4"
+        },
+        {
+          "nome": "À Espera da Morte",
+          "descricao": "À Espera da Morte",
+          "capa": "https://image.tmdb.org/t/p/w780/kwCIrIEAQaUfzopPSM8iwBzCjDG.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4836735.mp4"
+        },
+        {
+          "nome": "À Espreita do Mal",
+          "descricao": "À Espreita do Mal",
+          "capa": "https://image.tmdb.org/t/p/w780/1Egbm90ioUCi9Wuzrk46v4gbNaq.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4836662.mp4"
+        },
+        {
+          "nome": "A Estação do Terror",
+          "descricao": "A Estação do Terror",
+          "capa": "https://image.tmdb.org/t/p/w780/rYK1AOAKxdpQlCJHCoejAMwGYXt.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4836563.mp4"
+        },
+        {
+          "nome": "A Estirpe dos Malditos",
+          "descricao": "A Estirpe dos Malditos",
+          "capa": "https://image.tmdb.org/t/p/w780/l8zpr1tq03YPqdOz6aAmnSpD7o6.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837009.mp4"
+        },
+        {
+          "nome": "A Estranha Hospedaria dos Prazeres",
+          "descricao": "A Estranha Hospedaria dos Prazeres",
+          "capa": "https://image.tmdb.org/t/p/w780/fFbEHyB8zTZNEWCKIHO7xkV6ZJ8.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4836741.mp4"
+        },
+        {
+          "nome": "A Experiência 4: O Despertar",
+          "descricao": "A Experiência 4: O Despertar",
+          "capa": "https://image.tmdb.org/t/p/w780/3RzU7WX8A3uVt9Hm1Pu5XHLyXfG.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838054.mp4"
+        },
+        {
+          "nome": "A Experiência II - A Mutação",
+          "descricao": "A Experiência II - A Mutação",
+          "capa": "https://image.tmdb.org/t/p/w780/53IqPn7T5uP5SSv6ToQW0a3i9Rk.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838056.mp4"
+        },
+        {
+          "nome": "A Experiência III",
+          "descricao": "A Experiência III",
+          "capa": "https://image.tmdb.org/t/p/w780/eH7pQTCwenRToalvPAreFjdHDmG.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838055.mp4"
+        },
+        {
+          "nome": "A Experiência",
+          "descricao": "A Experiência",
+          "capa": "https://image.tmdb.org/t/p/w780/uRssQeAvrXVYoCkgfQounfUQ1y1.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838057.mp4"
+        },
+        {
+          "nome": "A Face da Morte",
+          "descricao": "A Face da Morte",
+          "capa": "https://image.tmdb.org/t/p/w780/3DMBmtuggij6pOqtWBFg58THVqo.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838434.mp4"
+        },
+        {
+          "nome": "A Face da Vingança",
+          "descricao": "A Face da Vingança",
+          "capa": "https://image.tmdb.org/t/p/w780/tlMVU37EuUzgfc737cuusJMTQlr.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837281.mp4"
+        },
+        {
+          "nome": "A Fera Interior",
+          "descricao": "A Fera Interior",
+          "capa": "https://image.tmdb.org/t/p/w780/rfvQPZBRmpwAPm0ZcJ1EKsmS1vz.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837246.mp4"
+        },
+        {
+          "nome": "A Forca 2 - Segundo Ato",
+          "descricao": "A Forca 2 - Segundo Ato",
+          "capa": "http://ocvtab.info/images/r9Se1buPgxxMF5iZ4tIK8AzT5td_big.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838233.mp4"
+        },
+        {
+          "nome": "A Forma do Medo",
+          "descricao": "A Forma do Medo",
+          "capa": "https://image.tmdb.org/t/p/w780/27trSNWE8XYrokG7ef7mAv9NMc2.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837405.mp4"
+        },
+        {
+          "nome": "A Freira 2",
+          "descricao": "A Freira 2",
+          "capa": "https://image.tmdb.org/t/p/w780/omV2IW2OlFTSw6Hih13hz6lFdvP.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837389.mp4"
+        },
+        {
+          "nome": "A Freira",
+          "descricao": "A Freira",
+          "capa": "https://image.tmdb.org/t/p/w780/8RkHWJFDuzm0mrsJUxTbPTnsPe7.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837390.mp4"
+        },
+        {
+          "nome": "A Fúria de Becky",
+          "descricao": "A Fúria de Becky",
+          "capa": "https://image.tmdb.org/t/p/w780/l3fBun1ZXnSU8NVNEr5CQRNSegR.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837531.mp4"
+        },
+        {
+          "nome": "A Fúria de Drácula",
+          "descricao": "A Fúria de Drácula",
+          "capa": "https://image.tmdb.org/t/p/w780/zOThazY5PDAjhYftw43nv17Gb57.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837493.mp4"
+        },
+        {
+          "nome": "A Fúria",
+          "descricao": "A Fúria",
+          "capa": "https://image.tmdb.org/t/p/w780/8d101ph9dzTlf95mwyni8QOJYGp.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837096.mp4"
+        },
+        {
+          "nome": "A Garota na Escuridão",
+          "descricao": "A Garota na Escuridão",
+          "capa": "https://image.tmdb.org/t/p/w780/8N2qdKKgfompCwdS0s4BCFYDjJu.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837124.mp4"
+        },
+        {
+          "nome": "A Grande Cacada",
+          "descricao": "A Grande Cacada",
+          "capa": "https://image.tmdb.org/t/p/w780/epslhUKN0Bo7UQlEEPzvJmYPDfp.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838259.mp4"
+        },
+        {
+          "nome": "A Gruta",
+          "descricao": "A Gruta",
+          "capa": "https://image.tmdb.org/t/p/w780/nBdoS8tjWubpEyQnqmM6tpZR3GU.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838133.mp4"
+        },
+        {
+          "nome": "A Herança",
+          "descricao": "A Herança",
+          "capa": "https://image.tmdb.org/t/p/w780/hvwA6rkBVQY9SMIe2ImfD1PEOCN.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837462.mp4"
+        },
+        {
+          "nome": "A Hora Da Sua Morte",
+          "descricao": "A Hora Da Sua Morte",
+          "capa": "https://image.tmdb.org/t/p/w780/hpJp4wp7Qf60LELHYDg0larbPEk.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838206.mp4"
+        },
+        {
+          "nome": "A Hora do Descarrego",
+          "descricao": "A Hora do Descarrego",
+          "capa": "http://ocvtab.info/images/eeac65aa3d4febbfc4e6baba791c7c2a.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838036.mp4"
+        },
+        {
+          "nome": "A Hora do Espanto 2",
+          "descricao": "A Hora do Espanto 2",
+          "capa": "https://image.tmdb.org/t/p/w780/qpqjqYK1WNlNdVCXIx76PD6IRPH.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837608.mp4"
+        },
+        {
+          "nome": "A Hora do Espanto",
+          "descricao": "A Hora do Espanto",
+          "capa": "https://image.tmdb.org/t/p/w780/kl9th9KI8SYX7T9fiixYtQZy72a.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837609.mp4"
+        },
+        {
+          "nome": "A Hora do Exorcismo",
+          "descricao": "A Hora do Exorcismo",
+          "capa": "https://image.tmdb.org/t/p/w780/cxd2as1dyaO9845ic5PhC2l1EVZ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837794.mp4"
+        },
+        {
+          "nome": "A Hora do Mal",
+          "descricao": "A Hora do Mal",
+          "capa": "https://image.tmdb.org/t/p/w780/psEJSjQr6I9GSJTdW28CKC4Kffs.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837005.mp4"
+        },
+        {
+          "nome": "A Hora do Pesadelo 2",
+          "descricao": "A Hora do Pesadelo 2",
+          "capa": "https://image.tmdb.org/t/p/w780/1UgLrkQawCxfC8JnevcmD7LuMCr.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838433.mp4"
+        },
+        {
+          "nome": "A Hora do Pesadelo 3",
+          "descricao": "A Hora do Pesadelo 3",
+          "capa": "https://image.tmdb.org/t/p/w780/rl1Iuzu2Vntz86mTHJ5BF0SAty.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838432.mp4"
+        },
+        {
+          "nome": "A Hora do Pesadelo 4",
+          "descricao": "A Hora do Pesadelo 4",
+          "capa": "https://image.tmdb.org/t/p/w780/HNZR6ndiLkaQlAdovVDVTl1LgL.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838431.mp4"
+        },
+        {
+          "nome": "A Hora do Pesadelo 5",
+          "descricao": "A Hora do Pesadelo 5",
+          "capa": "https://image.tmdb.org/t/p/w780/8dixCFe1reuGK7Y0FvHfaKUE0IE.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838430.mp4"
+        },
+        {
+          "nome": "A Hora do Pesadelo 6",
+          "descricao": "A Hora do Pesadelo 6",
+          "capa": "https://image.tmdb.org/t/p/w780/7KP3ulHxEGo2fOGosmRsPoyPha0.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838429.mp4"
+        },
+        {
+          "nome": "A Hora do Pesadelo",
+          "descricao": "A Hora do Pesadelo",
+          "capa": "https://image.tmdb.org/t/p/w780/8cXxfVhSdTL1tC5ivC0mX74QQyI.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838427.mp4"
+        },
+        {
+          "nome": "A Hora do Vampiro",
+          "descricao": "A Hora do Vampiro",
+          "capa": "https://image.tmdb.org/t/p/w780/ybGTVT8kDF4vUi2iew9e2RPvJWm.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837307.mp4"
+        },
+        {
+          "nome": "A Hora Negra",
+          "descricao": "A Hora Negra",
+          "capa": "https://image.tmdb.org/t/p/w780/duw7e4ZQej2w6zRCc6wQUGSCr3z.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4836692.mp4"
+        },
+        {
+          "nome": "A Ilha da Fantasia",
+          "descricao": "A Ilha da Fantasia",
+          "capa": "https://image.tmdb.org/t/p/w780/dzYhGrMNk8EHH6jIFnBEnklpjTe.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838165.mp4"
+        },
+        {
+          "nome": "A Ilha da Morte",
+          "descricao": "A Ilha da Morte",
+          "capa": "https://image.tmdb.org/t/p/w780/1x1eL24ib0WF9dq3Wjdto7KPNId.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838276.mp4"
+        },
+        {
+          "nome": "A Ilha do Inverno",
+          "descricao": "A Ilha do Inverno",
+          "capa": "https://image.tmdb.org/t/p/w780/k0pLmn2Wp0GBToAhA9Gdk1qclYb.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4836917.mp4"
+        },
+        {
+          "nome": "A Ilha dos Mortos",
+          "descricao": "A Ilha dos Mortos",
+          "capa": "https://image.tmdb.org/t/p/w780/c8TRqLQ7Y80ysuY4fqHAbCdHXoe.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838012.mp4"
+        },
+        {
+          "nome": "A Infância Perdida",
+          "descricao": "A Infância Perdida",
+          "capa": "https://image.tmdb.org/t/p/w780/iRq7MlpGUvmhMcm9E9LrhnJlY1t.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837004.mp4"
+        },
+        {
+          "nome": "A Inocente Face do Terror",
+          "descricao": "A Inocente Face do Terror",
+          "capa": "https://image.tmdb.org/t/p/w780/j7cHl1ZnC6AYULZnXjsl2XuhRAk.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4836628.mp4"
+        },
+        {
+          "nome": "A Invasão",
+          "descricao": "A Invasão",
+          "capa": "https://image.tmdb.org/t/p/w780/ntgSKh6ETHf85a3ZVVmzNxtynTl.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4836786.mp4"
+        },
+        {
+          "nome": "A Invasora",
+          "descricao": "A Invasora",
+          "capa": "https://image.tmdb.org/t/p/w780/9acLBrkNm2OroYj2L8xLnuN8Fpd.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838426.mp4"
+        },
+        {
+          "nome": "A Invocacao 2",
+          "descricao": "A Invocacao 2",
+          "capa": "https://image.tmdb.org/t/p/w780/yJj31N0AbI1fAkVvqynCawfLTUF.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838250.mp4"
+        },
+        {
+          "nome": "A Invocacao",
+          "descricao": "A Invocacao",
+          "capa": "https://image.tmdb.org/t/p/w780/xHzq6hhTPdKFJxbB8y7YKmLBi5y.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838249.mp4"
+        },
+        {
+          "nome": "A Invocação",
+          "descricao": "A Invocação",
+          "capa": "https://image.tmdb.org/t/p/w780/xHzq6hhTPdKFJxbB8y7YKmLBi5y.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4836652.mp4"
+        },
+        {
+          "nome": "A Lenda de Candyman",
+          "descricao": "A Lenda de Candyman",
+          "capa": "https://image.tmdb.org/t/p/w780/3HCrzTPjnPM8vJ882weWK3w9Clt.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837875.mp4"
+        },
+        {
+          "nome": "A Lenda de Golem",
+          "descricao": "A Lenda de Golem",
+          "capa": "https://image.tmdb.org/t/p/w780/rQ8Nk709kWuMMk0IMQmbJbZe7pa.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838246.mp4"
+        },
+        {
+          "nome": "A Lenda de Saint Joseph",
+          "descricao": "A Lenda de Saint Joseph",
+          "capa": "https://image.tmdb.org/t/p/w780/jMDVbizzFHQipBpnG8qwh2MqRdo.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837047.mp4"
+        },
+        {
+          "nome": "A Lenda do Lobo da Montanha",
+          "descricao": "A Lenda do Lobo da Montanha",
+          "capa": "https://image.tmdb.org/t/p/w780/o0XZMcbtYsxOMuTFT8T9qOPKYhO.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837324.mp4"
+        },
+        {
+          "nome": "A Lenda do Rosto Pálido",
+          "descricao": "A Lenda do Rosto Pálido",
+          "capa": "https://image.tmdb.org/t/p/w780/nGqWlIv9wIWni2SWFV7b9S6rLkz.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4836781.mp4"
+        },
+        {
+          "nome": "A Libertação",
+          "descricao": "A Libertação",
+          "capa": "https://image.tmdb.org/t/p/w780/4TdwOqwIPdG0BMuCDZdmQz92zjT.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837327.mp4"
+        },
+        {
+          "nome": "A Lista Perversa do Sr. Scrooge",
+          "descricao": "A Lista Perversa do Sr. Scrooge",
+          "capa": "https://image.tmdb.org/t/p/w780/jJuOMEwjVe1Mzp6xgt23MDrjplM.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4836818.mp4"
+        },
+        {
+          "nome": "A Luz do Demônio",
+          "descricao": "A Luz do Demônio",
+          "capa": "https://image.tmdb.org/t/p/w780/mYa1vhjTYakyNCB65lR8Y7jujBn.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837708.mp4"
+        },
+        {
+          "nome": "A Madrasta",
+          "descricao": "A Madrasta",
+          "capa": "https://image.tmdb.org/t/p/w780/xx3s9HORABYz3F3ZVPtomSANpYu.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837673.mp4"
+        },
+        {
+          "nome": "A Mãe e a Maldição",
+          "descricao": "A Mãe e a Maldição",
+          "capa": "https://image.tmdb.org/t/p/w780/axW2ccdp85roJ3Ks2F9b2zegzPR.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837020.mp4"
+        },
+        {
+          "nome": "A Maldição da Bruxa",
+          "descricao": "A Maldição da Bruxa",
+          "capa": "https://image.tmdb.org/t/p/w780/eNZmedLm117ei3nTiYI0BZ3v7NI.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837382.mp4"
+        },
+        {
+          "nome": "A Maldição da Casa Usher",
+          "descricao": "A Maldição da Casa Usher",
+          "capa": "https://image.tmdb.org/t/p/w780/876Hnx0M7rXHcoDaAG92dN58CbQ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837534.mp4"
+        },
+        {
+          "nome": "A Maldicao da Casa Winchester",
+          "descricao": "A Maldicao da Casa Winchester",
+          "capa": "https://image.tmdb.org/t/p/w780/oMS8uz4DrQoP2OU0MHr7KGFdpww.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838424.mp4"
+        },
+        {
+          "nome": "A Maldicao da Chorona",
+          "descricao": "A Maldicao da Chorona",
+          "capa": "https://image.tmdb.org/t/p/w780/x7GUGVMn8c9sMZeD1jZRsLoGQUc.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838260.mp4"
+        },
+        {
+          "nome": "A Maldição da Chorona",
+          "descricao": "A Maldição da Chorona",
+          "capa": "https://image.tmdb.org/t/p/w780/x7GUGVMn8c9sMZeD1jZRsLoGQUc.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837139.mp4"
+        },
+        {
+          "nome": "A Maldição da Fazenda Grady",
+          "descricao": "A Maldição da Fazenda Grady",
+          "capa": "https://image.tmdb.org/t/p/w780/fja6GIKIhgH0z27j49v5OIOApkg.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837150.mp4"
+        },
+        {
+          "nome": "A Maldição da Floresta",
+          "descricao": "A Maldição da Floresta",
+          "capa": "https://image.tmdb.org/t/p/w780/g0jIXTio4LMMSjppTHbcYPawews.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4836604.mp4"
+        },
+        {
+          "nome": "A Maldicao da Freira",
+          "descricao": "A Maldicao da Freira",
+          "capa": "https://image.tmdb.org/t/p/w780/k7hUTY2ANJzKa1bc2XT1pitKEbE.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838280.mp4"
+        },
+        {
+          "nome": "A Maldição da Primeira Colheita",
+          "descricao": "A Maldição da Primeira Colheita",
+          "capa": "https://image.tmdb.org/t/p/w780/eOPXRsQjIZ4Fm6TWpG5V5VP4zJp.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4836860.mp4"
+        },
+        {
+          "nome": "A Maldição da Sereia",
+          "descricao": "A Maldição da Sereia",
+          "capa": "https://image.tmdb.org/t/p/w780/2cjgA1jdZXfDhLx7mdfNW22Eua2.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838161.mp4"
+        },
+        {
+          "nome": "A Maldição da Torre",
+          "descricao": "A Maldição da Torre",
+          "capa": "https://image.tmdb.org/t/p/w780/jqzTf5VxtmJ3YMX6ScgWAQcwNTc.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837474.mp4"
+        },
+        {
+          "nome": "A Maldição de Audrey",
+          "descricao": "A Maldição de Audrey",
+          "capa": "https://image.tmdb.org/t/p/w780/wHN7gvTBvqFiM4nhEjjqFpR0JV7.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837518.mp4"
+        },
+        {
+          "nome": "A Maldicao De Chucky",
+          "descricao": "A Maldicao De Chucky",
+          "capa": "https://image.tmdb.org/t/p/w780/uR9Pa7yed4fL73oxqd0xW3K1gDH.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838425.mp4"
+        },
+        {
+          "nome": "A Maldição de Hannah Stevenson",
+          "descricao": "A Maldição de Hannah Stevenson",
+          "capa": "https://image.tmdb.org/t/p/w780/uCOMiPwygEPSuUjatADcLMDoRnL.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837432.mp4"
+        },
+        {
+          "nome": "A Maldição de Isabelle",
+          "descricao": "A Maldição de Isabelle",
+          "capa": "https://image.tmdb.org/t/p/w780/j45giQ0qy2rnzPuVDfP13QYIydg.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837908.mp4"
+        },
+        {
+          "nome": "A Maldição de Medeia",
+          "descricao": "A Maldição de Medeia",
+          "capa": "https://image.tmdb.org/t/p/w780/hYVv0a0WqKzsPrnIR26WvCumUiu.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837145.mp4"
+        },
+        {
+          "nome": "A Maldição De Ouro",
+          "descricao": "A Maldição De Ouro",
+          "capa": "https://image.tmdb.org/t/p/w780/61AmNxfiS5wscJuCrGkYqdwgOG2.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4836714.mp4"
+        },
+        {
+          "nome": "A Maldição de Raven's Hollow",
+          "descricao": "A Maldição de Raven's Hollow",
+          "capa": "https://image.tmdb.org/t/p/w780/8N9qjYLujTFwawY95mHxQUPO1sj.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837497.mp4"
+        },
+        {
+          "nome": "A Maldição de Samantha",
+          "descricao": "A Maldição de Samantha",
+          "capa": "https://image.tmdb.org/t/p/w780/lASH7BmOwFauqVR9NHysgOS08Xr.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837909.mp4"
+        },
+        {
+          "nome": "A Maldição de Savannah",
+          "descricao": "A Maldição de Savannah",
+          "capa": "https://image.tmdb.org/t/p/w780/dLoIGT1rCQ9IM1Oa38gwx1GFD00.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837323.mp4"
+        },
+        {
+          "nome": "A Maldição de Sharon Tate",
+          "descricao": "A Maldição de Sharon Tate",
+          "capa": "https://image.tmdb.org/t/p/w780/g6HBnMsznUcAZuGIdAAwlGxfdZF.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838248.mp4"
+        },
+        {
+          "nome": "A Maldição de Valburga",
+          "descricao": "A Maldição de Valburga",
+          "capa": "https://image.tmdb.org/t/p/w780/hBPCankcTQci3ZYxnuzkfPtZ2Qr.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837791.mp4"
+        },
+        {
+          "nome": "A Maldição do Boneco",
+          "descricao": "A Maldição do Boneco",
+          "capa": "https://image.tmdb.org/t/p/w780/gvzB7AyfhaGzJ4aRDbEAjf2ZjdN.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837687.mp4"
+        },
+        {
+          "nome": "A Maldição do Casamento",
+          "descricao": "A Maldição do Casamento",
+          "capa": "https://image.tmdb.org/t/p/w780/ftAgBfDGfzLfnuHEz8nDOup4PD3.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4836598.mp4"
+        },
+        {
+          "nome": "A Maldição do Colar",
+          "descricao": "A Maldição do Colar",
+          "capa": "https://image.tmdb.org/t/p/w780/stU9sQl1DBMrGMFuExnIIOrbdWs.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4836899.mp4"
+        },
+        {
+          "nome": "A Maldição do Espelho",
+          "descricao": "A Maldição do Espelho",
+          "capa": "https://image.tmdb.org/t/p/w780/fSusDuppaWIYMhGe94ncABCRWVr.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838117.mp4"
+        },
+        {
+          "nome": "A Maldição do Quarto 203",
+          "descricao": "A Maldição do Quarto 203",
+          "capa": "https://image.tmdb.org/t/p/w780/rVMZU956t7UASJ564shWckwFboJ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837700.mp4"
+        },
+        {
+          "nome": "A Maldição do Queen Mary",
+          "descricao": "A Maldição do Queen Mary",
+          "capa": "https://image.tmdb.org/t/p/w780/52Sd1DLBn2zlPsUB9mnvtKHgh8O.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837486.mp4"
+        },
+        {
+          "nome": "A Maldição do Titanic",
+          "descricao": "A Maldição do Titanic",
+          "capa": "https://image.tmdb.org/t/p/w780/rA4irW4Pf9kntxTqv9rtlYZFzD9.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837431.mp4"
+        },
+        {
+          "nome": "A Maldição do Tubarão",
+          "descricao": "A Maldição do Tubarão",
+          "capa": "https://image.tmdb.org/t/p/w780/8dnJvqZ2e2C2MxfBlq0E9FjKPsY.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4836554.mp4"
+        },
+        {
+          "nome": "A Maldição dos Esquecidos",
+          "descricao": "A Maldição dos Esquecidos",
+          "capa": "https://image.tmdb.org/t/p/w780/3LSwj9bxaNCPVIBShpgwzTZNalt.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837984.mp4"
+        },
+        {
+          "nome": "A Maldição dos Minimoys",
+          "descricao": "A Maldição dos Minimoys",
+          "capa": "https://image.tmdb.org/t/p/w780/4wCq8o9ucebeYhPpspGUoRkJov5.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837006.mp4"
+        },
+        {
+          "nome": "A Maldição dos Templários",
+          "descricao": "A Maldição dos Templários",
+          "capa": "https://image.tmdb.org/t/p/w780/tzIWVbyWldJKxL9J9YWNLknrqAq.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837623.mp4"
+        },
+        {
+          "nome": "A Maldição",
+          "descricao": "A Maldição",
+          "capa": "https://image.tmdb.org/t/p/w780/xr3yv2xxuk8INHjC93ZrSk8qi4C.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837854.mp4"
+        },
+        {
+          "nome": "A Mansão do Horror",
+          "descricao": "A Mansão do Horror",
+          "capa": "https://image.tmdb.org/t/p/w780/sIA26QzQv15rD61qgQbzBVwQZYN.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4836909.mp4"
+        },
+        {
+          "nome": "A Mansão do Inferno",
+          "descricao": "A Mansão do Inferno",
+          "capa": "https://image.tmdb.org/t/p/w780/bqP9xdwenNFboFjwaB5L5nSSWod.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4836874.mp4"
+        },
+        {
+          "nome": "A Mansão",
+          "descricao": "A Mansão",
+          "capa": "https://image.tmdb.org/t/p/w780/sWLByXVaPaxxqX0wnCPAm9AccIq.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837904.mp4"
+        },
+        {
+          "nome": "A Marca do Demonio",
+          "descricao": "A Marca do Demonio",
+          "capa": "https://image.tmdb.org/t/p/w780/pGQLuX6yIouFM2R62Dls72PMdW4.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838201.mp4"
+        },
+        {
+          "nome": "A Marca do Medo",
+          "descricao": "A Marca do Medo",
+          "capa": "https://image.tmdb.org/t/p/w780/oXn36a7EdPRQy4BZFqYWWF9QrtC.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837115.mp4"
+        },
+        {
+          "nome": "A Máscara da Morte",
+          "descricao": "A Máscara da Morte",
+          "capa": "https://image.tmdb.org/t/p/w780/gzbDpFwt9epEmser6pxfOBlFUCt.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4836746.mp4"
+        },
+        {
+          "nome": "A Matriarca",
+          "descricao": "A Matriarca",
+          "capa": "https://image.tmdb.org/t/p/w780/ziDXGs2Up7o51Lp55zAeyrQo6JH.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837729.mp4"
+        },
+        {
+          "nome": "A Médium",
+          "descricao": "A Médium",
+          "capa": "https://image.tmdb.org/t/p/w780/b44D7iMf1ApRTIqDC4HSMLYOMSr.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837590.mp4"
+        },
+        {
+          "nome": "A Meia-Irmã Feia",
+          "descricao": "A Meia-Irmã Feia",
+          "capa": "https://image.tmdb.org/t/p/w780/2dEoQ2eWk3evQQBNUxPnZsPDq1N.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4836867.mp4"
+        },
+        {
+          "nome": "A Metade Negra",
+          "descricao": "A Metade Negra",
+          "capa": "https://image.tmdb.org/t/p/w780/rBH1QWc2SAaX4xzV7UbLUB3qfjU.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837169.mp4"
+        },
+        {
+          "nome": "A Moça da Limpeza",
+          "descricao": "A Moça da Limpeza",
+          "capa": "https://image.tmdb.org/t/p/w780/vMYkgqMznYihU5OuyfOQCm39h0M.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837998.mp4"
+        },
+        {
+          "nome": "A Modelo e o Fotógrafo",
+          "descricao": "A Modelo e o Fotógrafo",
+          "capa": "https://image.tmdb.org/t/p/w780/pwWAzpOGbO9quvzOjmE5ledaqUA.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837514.mp4"
+        },
+        {
+          "nome": "A Morada dos Lobisomens",
+          "descricao": "A Morada dos Lobisomens",
+          "capa": "https://image.tmdb.org/t/p/w780/uBDVCOmPK3ETFereVgo6WGymxjZ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4836852.mp4"
+        },
+        {
+          "nome": "A Morte Convida para Dançar",
+          "descricao": "A Morte Convida para Dançar",
+          "capa": "https://image.tmdb.org/t/p/w780/dm5nzY058hitaLxvMY6fdNzD5Tw.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4836931.mp4"
+        },
+        {
+          "nome": "A Morte do Demônio",
+          "descricao": "A Morte do Demônio",
+          "capa": "https://image.tmdb.org/t/p/w780/7b2oD1oxUxdDft486Q7oPNPzMlf.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838186.mp4"
+        },
+        {
+          "nome": "A Morte do Demônio: A Ascensão",
+          "descricao": "A Morte do Demônio: A Ascensão",
+          "capa": "https://image.tmdb.org/t/p/w780/pYHypEGMKtFTSQqfWC6IJFeaz1J.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837646.mp4"
+        },
+        {
+          "nome": "A Morte do Demônio: Em Chamas",
+          "descricao": "A Morte do Demônio: Em Chamas",
+          "capa": "https://image.tmdb.org/t/p/w780/fteLdvfRnltfLjAEnsl5E3vImnW.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4836556.mp4"
+        },
+        {
+          "nome": "A Morte Mora Aqui",
+          "descricao": "A Morte Mora Aqui",
+          "capa": "https://image.tmdb.org/t/p/w780/yy87C4cn6MLNJR4RC1BDNnJPXIK.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837162.mp4"
+        },
+        {
+          "nome": "A Morte Pede Carona",
+          "descricao": "A Morte Pede Carona",
+          "capa": "https://image.tmdb.org/t/p/w780/pavKmi6Alyiav67GLUmsorXDxLn.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837969.mp4"
+        },
+        {
+          "nome": "A Morte Te Da Parabens 2",
+          "descricao": "A Morte Te Da Parabens 2",
+          "capa": "https://image.tmdb.org/t/p/w780/reqWmoRbgHPWN4OoouHi821azWV.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838447.mp4"
+        },
+        {
+          "nome": "A Morte te da Parabens",
+          "descricao": "A Morte te da Parabens",
+          "capa": "https://image.tmdb.org/t/p/w780/xVx3I0a4o3nb8aJymcqafCD4y5o.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838423.mp4"
+        },
+        {
+          "nome": "A Morte Te Dá Parabéns",
+          "descricao": "A Morte Te Dá Parabéns",
+          "capa": "https://image.tmdb.org/t/p/w780/xVx3I0a4o3nb8aJymcqafCD4y5o.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837101.mp4"
+        },
+        {
+          "nome": "A Morte Veste Vermelho",
+          "descricao": "A Morte Veste Vermelho",
+          "capa": "https://image.tmdb.org/t/p/w780/rAmi2JAjUtjWZCnzvVRXS9hSc9a.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837198.mp4"
+        },
+        {
+          "nome": "A Mosca",
+          "descricao": "A Mosca",
+          "capa": "https://image.tmdb.org/t/p/w780/dQWmNTzZBRuxDGiLsuKuPXJQES1.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838422.mp4"
+        },
+        {
+          "nome": "A Mulher de Preto 2: Anjo da Morte",
+          "descricao": "A Mulher de Preto 2: Anjo da Morte",
+          "capa": "https://image.tmdb.org/t/p/w780/kGIZGAwgpMcYXrAZfX8QCfcFMiv.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837943.mp4"
+        },
+        {
+          "nome": "A Mulher do Pântano",
+          "descricao": "A Mulher do Pântano",
+          "capa": "https://image.tmdb.org/t/p/w780/aKq0nyZDOPoXaFhoYYnUOHlZKHy.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837951.mp4"
+        },
+        {
+          "nome": "A Mutação",
+          "descricao": "A Mutação",
+          "capa": "https://image.tmdb.org/t/p/w780/b1yG7yrxvjEs8ToQuDkeNvenBg7.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837419.mp4"
+        },
+        {
+          "nome": "A Noite Das Brincadeiras Mortais - April Fools Day",
+          "descricao": "A Noite Das Brincadeiras Mortais - April Fools Day",
+          "capa": "https://image.tmdb.org/t/p/w780/ym1KgAPOfmVYSh31mzK56jytqfT.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838089.mp4"
+        },
+        {
+          "nome": "A Noite Das Brincadeiras Mortais - Killer Party",
+          "descricao": "A Noite Das Brincadeiras Mortais - Killer Party",
+          "capa": "https://image.tmdb.org/t/p/w780/ym1KgAPOfmVYSh31mzK56jytqfT.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838088.mp4"
+        },
+        {
+          "nome": "A Noite das Bruxas",
+          "descricao": "A Noite das Bruxas",
+          "capa": "https://image.tmdb.org/t/p/w780/9UAc4DF4oEObQk4sz4sNeHI4waY.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4836792.mp4"
+        },
+        {
+          "nome": "A Noite Devorou o Mundo",
+          "descricao": "A Noite Devorou o Mundo",
+          "capa": "https://image.tmdb.org/t/p/w780/km6i0vitF5UR6taEbYIiwdl7uUR.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838212.mp4"
+        },
+        {
+          "nome": "A Noite do Chupacabras",
+          "descricao": "A Noite do Chupacabras",
+          "capa": "https://image.tmdb.org/t/p/w780/5zPkA2XIv09ddBPVW5Nnglm1ZEa.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837119.mp4"
+        },
+        {
+          "nome": "A Noite dos Demônios",
+          "descricao": "A Noite dos Demônios",
+          "capa": "https://image.tmdb.org/t/p/w780/9V4NxpJn1gxi8eteiq9YPSUowg6.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4836603.mp4"
+        },
+        {
+          "nome": "A Noite dos Lobisomens",
+          "descricao": "A Noite dos Lobisomens",
+          "capa": "https://image.tmdb.org/t/p/w780/qC7kejOLqMtY2Y2uoeAQuYsesnW.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837120.mp4"
+        },
+        {
+          "nome": "A Noite Dos Mortos Vivos",
+          "descricao": "A Noite Dos Mortos Vivos",
+          "capa": "https://image.tmdb.org/t/p/w780/cFnQNwS8AVfRhSSOOkttLJOYvs4.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838075.mp4"
+        },
+        {
+          "nome": "A Noiva de Chucky",
+          "descricao": "A Noiva de Chucky",
+          "capa": "https://image.tmdb.org/t/p/w780/e3vZH4CFaz6QImytJ1V9IBD5LFT.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838067.mp4"
+        },
+        {
+          "nome": "A Noiva!",
+          "descricao": "A Noiva!",
+          "capa": "https://image.tmdb.org/t/p/w780/vcdnSEcm0f0shJohkJnrOBcCq1m.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4836723.mp4"
+        },
+        {
+          "nome": "A Noiva",
+          "descricao": "A Noiva",
+          "capa": "https://image.tmdb.org/t/p/w780/vcdnSEcm0f0shJohkJnrOBcCq1m.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838421.mp4"
+        },
+        {
+          "nome": "A Nuvem",
+          "descricao": "A Nuvem",
+          "capa": "https://image.tmdb.org/t/p/w780/IPRsxWrO4IRWsJyL7xgeBlS0wD.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837975.mp4"
+        },
+        {
+          "nome": "A Orfa",
+          "descricao": "A Orfa",
+          "capa": "https://image.tmdb.org/t/p/w780/9tdcvT3ZyPBluzmQTevgn503jpg.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838420.mp4"
+        },
+        {
+          "nome": "A Outra Face de Dorian Gray",
+          "descricao": "A Outra Face de Dorian Gray",
+          "capa": "https://image.tmdb.org/t/p/w780/wKZW3o3QwpC5sQMrd9lJDAhEKcU.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4836996.mp4"
+        },
+        {
+          "nome": "A Pele Que Habito",
+          "descricao": "A Pele Que Habito",
+          "capa": "https://image.tmdb.org/t/p/w780/90hbSeBsev4hezgzkyW8tkio2dp.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837932.mp4"
+        },
+        {
+          "nome": "A Pirâmide",
+          "descricao": "A Pirâmide",
+          "capa": "https://image.tmdb.org/t/p/w780/fnFRT23YfcYMYBO7oAQPszak0b5.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837436.mp4"
+        },
+        {
+          "nome": "A Piscina",
+          "descricao": "A Piscina",
+          "capa": "https://image.tmdb.org/t/p/w780/cm8STyb2gk61v6ocZ4Kk7RRv6YT.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837648.mp4"
+        },
+        {
+          "nome": "A Possessão de Deborah Logan",
+          "descricao": "A Possessão de Deborah Logan",
+          "capa": "https://image.tmdb.org/t/p/w780/poXUBbkVZSNv0sN7CLiCCo5xQdn.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837930.mp4"
+        },
+        {
+          "nome": "A Possessão de Mary",
+          "descricao": "A Possessão de Mary",
+          "capa": "https://image.tmdb.org/t/p/w780/wsi6vxxKR7xg8ANjaqDBkiWp4No.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838185.mp4"
+        },
+        {
+          "nome": "A Possessão do Mal",
+          "descricao": "A Possessão do Mal",
+          "capa": "https://image.tmdb.org/t/p/w780/5wosFexfP5HhZ6tcRZFch1DKSAO.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4836955.mp4"
+        },
+        {
+          "nome": "A Possessão",
+          "descricao": "A Possessão",
+          "capa": "https://image.tmdb.org/t/p/w780/cIQnPhCXBYaJqIuf6gYe9Ct6SzL.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837330.mp4"
+        },
+        {
+          "nome": "A Primeira Comunhão",
+          "descricao": "A Primeira Comunhão",
+          "capa": "https://image.tmdb.org/t/p/w780/AdI2MkMriHeay5AKUytfnW8oGct.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837629.mp4"
+        },
+        {
+          "nome": "A Primeira Noite de Crime",
+          "descricao": "A Primeira Noite de Crime",
+          "capa": "https://image.tmdb.org/t/p/w780/uakB4uIw2y1lbIRxwdL7zF18Bl.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838419.mp4"
+        },
+        {
+          "nome": "A Primeira Profecia",
+          "descricao": "A Primeira Profecia",
+          "capa": "https://image.tmdb.org/t/p/w780/zppeHKLHljU2uI7NBJ1JyDNpn6L.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837404.mp4"
+        },
+        {
+          "nome": "A Profecia do Mal",
+          "descricao": "A Profecia do Mal",
+          "capa": "https://image.tmdb.org/t/p/w780/kIy8rzFTCFlEbW8L8tZ9ar81l6o.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837684.mp4"
+        },
+        {
+          "nome": "A Profecia III - O Conflito Final",
+          "descricao": "A Profecia III - O Conflito Final",
+          "capa": "https://image.tmdb.org/t/p/w780/2B8MTqjDbx26ULnEyyV5vta13Ho.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838179.mp4"
+        },
+        {
+          "nome": "A Profecia",
+          "descricao": "A Profecia",
+          "capa": "https://image.tmdb.org/t/p/w780/uHemQhtg5n5jPYMLeFFTPfMsvFE.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838181.mp4"
+        },
+        {
+          "nome": "A Próxima Vítima",
+          "descricao": "A Próxima Vítima",
+          "capa": "https://image.tmdb.org/t/p/w780/y3jonKAWv9JPfz1r7UouRRpZGY8.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837403.mp4"
+        },
+        {
+          "nome": "A Próxima",
+          "descricao": "A Próxima",
+          "capa": "https://image.tmdb.org/t/p/w780/eKseIXuROOOmXqkVdWxoHT6lm03.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837521.mp4"
+        },
+        {
+          "nome": "A Rainha da Noite",
+          "descricao": "A Rainha da Noite",
+          "capa": "https://image.tmdb.org/t/p/w780/6802GUoeXP0BKPG7cd44s3Qmgpb.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837516.mp4"
+        },
+        {
+          "nome": "A Rainha dos Condenados",
+          "descricao": "A Rainha dos Condenados",
+          "capa": "https://image.tmdb.org/t/p/w780/jGkYV6Fk9GBWuccCitRatlXL3FC.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837861.mp4"
+        },
+        {
+          "nome": "A Ressurreição da Múmia",
+          "descricao": "A Ressurreição da Múmia",
+          "capa": "https://image.tmdb.org/t/p/w780/qIrJYG0ffdbkR0f0a6slVLXOnjQ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837552.mp4"
+        },
+        {
+          "nome": "A Ressurreição de Charles Manson",
+          "descricao": "A Ressurreição de Charles Manson",
+          "capa": "https://image.tmdb.org/t/p/w780/pB090ok6FEOAqPG2rVMdW7jxJe9.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837511.mp4"
+        },
+        {
+          "nome": "A Sala da Frente",
+          "descricao": "A Sala da Frente",
+          "capa": "https://image.tmdb.org/t/p/w780/zGPTwqDlQsIzJpVdwNlRgXLqOPs.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837196.mp4"
+        },
+        {
+          "nome": "A Sala da Frentre",
+          "descricao": "A Sala da Frentre",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fYQCMsStDo8UkqNeY9S8aCMLRPI.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837248.mp4"
+        },
+        {
+          "nome": "A Semeadura",
+          "descricao": "A Semeadura",
+          "capa": "https://image.tmdb.org/t/p/w780/iVfqrX5NBiGKSLgqj38Rnq2OA4P.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4836846.mp4"
+        },
+        {
+          "nome": "A Semente do Mal",
+          "descricao": "A Semente do Mal",
+          "capa": "https://image.tmdb.org/t/p/w780/oScNaFmLUDwbKNBr4Ke7W65H07V.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837344.mp4"
+        },
+        {
+          "nome": "A Sereia - Lago Dos Mortos",
+          "descricao": "A Sereia - Lago Dos Mortos",
+          "capa": "https://image.tmdb.org/t/p/w780/eE1Z2xjTq7f4DjkuVyXQkA4kfTY.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4836851.mp4"
+        },
+        {
+          "nome": "A Sereia Lago dos Mortos",
+          "descricao": "A Sereia Lago dos Mortos",
+          "capa": "https://image.tmdb.org/t/p/w780/eE1Z2xjTq7f4DjkuVyXQkA4kfTY.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838267.mp4"
+        },
+        {
+          "nome": "A Sombra do Mal",
+          "descricao": "A Sombra do Mal",
+          "capa": "https://image.tmdb.org/t/p/w780/6LyFyzc2TGioGjmueMb4vD2HTvv.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837426.mp4"
+        },
+        {
+          "nome": "A Sombra",
+          "descricao": "A Sombra",
+          "capa": "https://image.tmdb.org/t/p/w780/grZLkgE6NlsO3R13D3KgTDAxGem.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4836796.mp4"
+        },
+        {
+          "nome": "A Substância",
+          "descricao": "A Substância",
+          "capa": "https://image.tmdb.org/t/p/w780/vWeOgzlhnP1sS23H3rzctGHB9Nb.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837222.mp4"
+        },
+        {
+          "nome": "A Torre do Inferno",
+          "descricao": "A Torre do Inferno",
+          "capa": "https://image.tmdb.org/t/p/w780/xzy7iE2swljhMDSqmkROyBEQCmK.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837475.mp4"
+        },
+        {
+          "nome": "A Última Casa da Rua",
+          "descricao": "A Última Casa da Rua",
+          "capa": "https://image.tmdb.org/t/p/w780/vs8lNkRkZmUTCDPslricgLhXZHi.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837785.mp4"
+        },
+        {
+          "nome": "A Última Casa",
+          "descricao": "A Última Casa",
+          "capa": "https://image.tmdb.org/t/p/w780/AqOwuZ4X0Ssi3LIsYqXNw52IIvW.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837587.mp4"
+        },
+        {
+          "nome": "A Última Chamada",
+          "descricao": "A Última Chamada",
+          "capa": "https://image.tmdb.org/t/p/w780/tBCH9EiXeIwXM9VzITuTT5wv6GZ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837676.mp4"
+        },
+        {
+          "nome": "A Última Coisa que Mary Viu",
+          "descricao": "A Última Coisa que Mary Viu",
+          "capa": "https://image.tmdb.org/t/p/w780/gVFwfzPXfUcRI3mpb6rSX1LYtMj.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837722.mp4"
+        },
+        {
+          "nome": "A Última Exorcista",
+          "descricao": "A Última Exorcista",
+          "capa": "https://image.tmdb.org/t/p/w780/wbtBmiAOoRWSGReK5cOnzxKR334.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837835.mp4"
+        },
+        {
+          "nome": "A Última Invocação",
+          "descricao": "A Última Invocação",
+          "capa": "https://image.tmdb.org/t/p/w780/7Q0YoCdFZ4nIjiWjOFdExPiyiJL.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837252.mp4"
+        },
+        {
+          "nome": "A Última Noite em Pacerville",
+          "descricao": "A Última Noite em Pacerville",
+          "capa": "https://image.tmdb.org/t/p/w780/3M4m02AVz4gCil1e0I5Wiz8ETiK.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837416.mp4"
+        },
+        {
+          "nome": "A Última Profecia",
+          "descricao": "A Última Profecia",
+          "capa": "https://image.tmdb.org/t/p/w780/ymDIvdCemcLBUUavsMMa2zBXZk6.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837928.mp4"
+        },
+        {
+          "nome": "A Vida Diante de Seus Olhos",
+          "descricao": "A Vida Diante de Seus Olhos",
+          "capa": "https://image.tmdb.org/t/p/w780/djREwz46Ssm5LlMD9yN2ckvzVWU.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837547.mp4"
+        },
+        {
+          "nome": "A Vila dos Suicídios",
+          "descricao": "A Vila dos Suicídios",
+          "capa": "https://image.tmdb.org/t/p/w780/2ArHhi0AzjSFYrp1m0xZVjdhws5.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837805.mp4"
+        },
+        {
+          "nome": "A Vila dos Uivos",
+          "descricao": "A Vila dos Uivos",
+          "capa": "https://image.tmdb.org/t/p/w780/jUjtmhBXJx8xtvGD29aTmOXqlLq.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837817.mp4"
+        },
+        {
+          "nome": "A Vingança da Babá",
+          "descricao": "A Vingança da Babá",
+          "capa": "https://image.tmdb.org/t/p/w780/iw0N8q4hHAtIDOdNXzBScL5XzOm.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837490.mp4"
+        },
+        {
+          "nome": "A Vingança da Chorona",
+          "descricao": "A Vingança da Chorona",
+          "capa": "https://image.tmdb.org/t/p/w780/2bNYfUde2d3UXEQSYpB0ojf1IEq.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837329.mp4"
+        },
+        {
+          "nome": "A Vingança de Charlie",
+          "descricao": "A Vingança de Charlie",
+          "capa": "https://image.tmdb.org/t/p/w780/9iSZAAIlvuKvvrGqKeCxAKeLfM5.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837464.mp4"
+        },
+        {
+          "nome": "A Vingança de Jack",
+          "descricao": "A Vingança de Jack",
+          "capa": "https://image.tmdb.org/t/p/w780/bcwCsAXYO13F2F4xMPS3mOHuuIB.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837280.mp4"
+        },
+        {
+          "nome": "A Vingança de Popeye",
+          "descricao": "A Vingança de Popeye",
+          "capa": "https://image.tmdb.org/t/p/w780/8kYGtiNVVjLSsJumGjqqYDkx9uA.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837019.mp4"
+        },
+        {
+          "nome": "A Vingança de Willard",
+          "descricao": "A Vingança de Willard",
+          "capa": "https://image.tmdb.org/t/p/w780/6zQd8k2p4eTWWvrr3vnNmQvUVh2.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837893.mp4"
+        },
+        {
+          "nome": "A Virgem da Pedreira",
+          "descricao": "A Virgem da Pedreira",
+          "capa": "https://image.tmdb.org/t/p/w780/f3TvzHqcFTb2TPokvV6hjC6Ypsz.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4836733.mp4"
+        },
+        {
+          "nome": "A Visita",
+          "descricao": "A Visita",
+          "capa": "https://image.tmdb.org/t/p/w780/dZkwEdP3ILzIXkRBNFdbYPb6WFL.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838023.mp4"
+        },
+        {
+          "nome": "A Viúva das Sombras",
+          "descricao": "A Viúva das Sombras",
+          "capa": "https://image.tmdb.org/t/p/w780/dn5iLpppgZqmoH60yiWlpK5SLKd.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837974.mp4"
+        },
+        {
+          "nome": "A Viúva",
+          "descricao": "A Viúva",
+          "capa": "https://image.tmdb.org/t/p/w780/9tCiLEgKlgrJ4EWWr1DPdhFR7Sb.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837562.mp4"
+        },
+        {
+          "nome": "A Volta dos Mortos Vivos 2",
+          "descricao": "A Volta dos Mortos Vivos 2",
+          "capa": "https://image.tmdb.org/t/p/w780/l8Pyhx3nNY5K3NZFrLYobwsB6rb.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838417.mp4"
+        },
+        {
+          "nome": "A Volta dos Mortos Vivos",
+          "descricao": "A Volta dos Mortos Vivos",
+          "capa": "https://image.tmdb.org/t/p/w780/6DGsNitU2bO1n94GNwEeGX4PLMG.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838418.mp4"
+        },
+        {
+          "nome": "Abaixo de Nós",
+          "descricao": "Abaixo de Nós",
+          "capa": "https://image.tmdb.org/t/p/w780/cLQgwCzGmlJ5vcpfBAuYqvd0jDS.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838128.mp4"
+        },
+        {
+          "nome": "Abandonada",
+          "descricao": "Abandonada",
+          "capa": "https://image.tmdb.org/t/p/w780/rC3O8VIPhLhJOO68XsPruBoirDR.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837706.mp4"
+        },
+        {
+          "nome": "Abdução",
+          "descricao": "Abdução",
+          "capa": "https://image.tmdb.org/t/p/w780/ls2JG1vDzmeHmiDHUt1eKwRVKTL.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838174.mp4"
+        },
+        {
+          "nome": "Abigail",
+          "descricao": "Abigail",
+          "capa": "https://image.tmdb.org/t/p/w780/5gKKSoD3iezjoL7YqZONjmyAiRA.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837408.mp4"
+        },
+        {
+          "nome": "Abismo do Medo 2",
+          "descricao": "Abismo do Medo 2",
+          "capa": "https://image.tmdb.org/t/p/w780/tkdaEiy0aUMVAV2ZJRezzU15ajV.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837946.mp4"
+        },
+        {
+          "nome": "Abismo do Medo",
+          "descricao": "Abismo do Medo",
+          "capa": "https://image.tmdb.org/t/p/w780/dSi7PfC9MiKZwntUZBArUpwbXZa.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838043.mp4"
+        },
+        {
+          "nome": "Abominável Criatura",
+          "descricao": "Abominável Criatura",
+          "capa": "https://image.tmdb.org/t/p/w780/hJEB6KJKBfScwJEwUEf7oDqro3g.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837154.mp4"
+        },
+        {
+          "nome": "Abraham Lincoln Cacador de Vampiros",
+          "descricao": "Abraham Lincoln Cacador de Vampiros",
+          "capa": "https://image.tmdb.org/t/p/w780/8Rli2nwRdQ1ZFdIXk54XjtKoL4a.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838416.mp4"
+        },
+        {
+          "nome": "Abraham Lincoln: Caçador de Vampiros",
+          "descricao": "Abraham Lincoln: Caçador de Vampiros",
+          "capa": "https://image.tmdb.org/t/p/w780/8Rli2nwRdQ1ZFdIXk54XjtKoL4a.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837563.mp4"
+        },
+        {
+          "nome": "Acampamento Maldito",
+          "descricao": "Acampamento Maldito",
+          "capa": "https://image.tmdb.org/t/p/w780/ayMAxYTvCMWCQKG84dRT8ZEa0GC.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837551.mp4"
+        },
+        {
+          "nome": "Acompanhante Perfeita",
+          "descricao": "Acompanhante Perfeita",
+          "capa": "https://image.tmdb.org/t/p/w780/7LbrEQvturE05hljvTCWST7rLQL.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837166.mp4"
+        },
+        {
+          "nome": "Acordando o Diabo",
+          "descricao": "Acordando o Diabo",
+          "capa": "https://image.tmdb.org/t/p/w780/jRxtVu5HEeGN09mvhm8oNhhIckr.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4836904.mp4"
+        },
+        {
+          "nome": "Acorrentados",
+          "descricao": "Acorrentados",
+          "capa": "https://image.tmdb.org/t/p/w780/phY8DrcNRKdyuoNVV3KnevNlTP0.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838090.mp4"
+        },
+        {
+          "nome": "Adeus",
+          "descricao": "Adeus",
+          "capa": "https://image.tmdb.org/t/p/w780/ozXugmyjA3InpilQlNRpI55p0Ol.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4836803.mp4"
+        },
+        {
+          "nome": "Adoradores do Diabo",
+          "descricao": "Adoradores do Diabo",
+          "capa": "https://image.tmdb.org/t/p/w780/sIikdqpQZl9uxCANLfSdc4UY4Aw.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4836576.mp4"
+        },
+        {
+          "nome": "Águas Rasas",
+          "descricao": "Águas Rasas",
+          "capa": "https://image.tmdb.org/t/p/w780/eZxPtVGK4oix9BYCnD4EDKjKUnk.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838011.mp4"
+        },
+        {
+          "nome": "Aileen Wuornos: Mente Assassina",
+          "descricao": "Aileen Wuornos: Mente Assassina",
+          "capa": "https://image.tmdb.org/t/p/w780/7JqtbHj6TecZzC6JEbgTLFrYCto.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837799.mp4"
+        },
+        {
+          "nome": "Aldeia Maldita",
+          "descricao": "Aldeia Maldita",
+          "capa": "https://image.tmdb.org/t/p/w780/nf4w2flxKHpzX7C2OCTiqzUl9xn.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837573.mp4"
+        },
+        {
+          "nome": "Além da Vida",
+          "descricao": "Além da Vida",
+          "capa": "https://image.tmdb.org/t/p/w780/miEZN9iocT8K7baPg8DR2492rm3.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838293.mp4"
+        },
+        {
+          "nome": "Além dos Limites da Morte",
+          "descricao": "Além dos Limites da Morte",
+          "capa": "https://image.tmdb.org/t/p/w780/hOEUUE2FryvC1Fll5ZoaHm6aX3O.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4836587.mp4"
+        },
+        {
+          "nome": "Além-mundo",
+          "descricao": "Além-mundo",
+          "capa": "https://image.tmdb.org/t/p/w780/uKJx2O6a8H77Gb7eXtSvbOeJnNu.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4836884.mp4"
+        },
+        {
+          "nome": "Alerta Apocalipse",
+          "descricao": "Alerta Apocalipse",
+          "capa": "https://image.tmdb.org/t/p/w780/3Ap6J9pYqgrxQaYWYdX2fyBYBWF.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4836716.mp4"
+        },
+        {
+          "nome": "Algea: Deus da Dor",
+          "descricao": "Algea: Deus da Dor",
+          "capa": "https://image.tmdb.org/t/p/w780/eY8o9fmKPVCitZI8VOsuSc7GLyH.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4836753.mp4"
+        },
+        {
+          "nome": "Alguém Entre Nós",
+          "descricao": "Alguém Entre Nós",
+          "capa": "https://image.tmdb.org/t/p/w780/aylctgv7m6sWh9knEPcjgdj3arJ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837663.mp4"
+        },
+        {
+          "nome": "Alice (Subservience)",
+          "descricao": "Alice (Subservience)",
+          "capa": "https://image.tmdb.org/t/p/w780/6EO0cjZt2vzAOmuDJZGED6GQmi4.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837264.mp4"
+        },
+        {
+          "nome": "Alice no País das Trevas",
+          "descricao": "Alice no País das Trevas",
+          "capa": "https://image.tmdb.org/t/p/w780/uVIMSSGdcBJZaaBbJaYuql9CH5x.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837377.mp4"
+        },
+        {
+          "nome": "Alien 1",
+          "descricao": "Alien 1",
+          "capa": "https://image.tmdb.org/t/p/w780/ynyN9hdxL5vq7GnSX8Fdz3TfoTE.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838415.mp4"
+        },
+        {
+          "nome": "Alien 2",
+          "descricao": "Alien 2",
+          "capa": "https://image.tmdb.org/t/p/w780/3wgcknoy55ko8LhPQDMWncE8kIO.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838414.mp4"
+        },
+        {
+          "nome": "Alien 3",
+          "descricao": "Alien 3",
+          "capa": "https://image.tmdb.org/t/p/w780/9TM6DMFUJju7GgvxAufZlNLDlki.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838413.mp4"
+        },
+        {
+          "nome": "Alien: A Ressurreição (1997)",
+          "descricao": "Alien: A Ressurreição (1997)",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lBQihuqaiRFZEzQh3M5uKXfmW15.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838412.mp4"
+        },
+        {
+          "nome": "Alien: Covenant",
+          "descricao": "Alien: Covenant",
+          "capa": "https://image.tmdb.org/t/p/w780/wm8L1D3YMT0auLQiPXY3H1CUDg8.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838183.mp4"
+        },
+        {
+          "nome": "Alien: Romulus",
+          "descricao": "Alien: Romulus",
+          "capa": "https://image.tmdb.org/t/p/w780/jB0W9tn4w07MFn7sTfqRTBLVytF.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837267.mp4"
+        },
+        {
+          "nome": "Alive",
+          "descricao": "Alive",
+          "capa": "https://image.tmdb.org/t/p/w780/fUEv9INjh1HEdbD9BAExioSO65a.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838157.mp4"
+        },
+        {
+          "nome": "All You Need Is Blood",
+          "descricao": "All You Need Is Blood",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wKsEuOFH9cdMXljHZ7QKjfO0EoH.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4836807.mp4"
+        },
+        {
+          "nome": "Alma Negra",
+          "descricao": "Alma Negra",
+          "capa": "https://image.tmdb.org/t/p/w780/bSYRbrpunRrssemQoa8CPqkQMW5.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837194.mp4"
+        },
+        {
+          "nome": "Alma Perdida",
+          "descricao": "Alma Perdida",
+          "capa": "https://image.tmdb.org/t/p/w780/wZS6VbnpKOHK0rossgl8zgeOfu3.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838228.mp4"
+        },
+        {
+          "nome": "Altitude",
+          "descricao": "Altitude",
+          "capa": "https://image.tmdb.org/t/p/w780/88174XWBUb6gAg72WR300BJnsAc.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838292.mp4"
+        },
+        {
+          "nome": "Alucinação",
+          "descricao": "Alucinação",
+          "capa": "https://image.tmdb.org/t/p/w780/aaarzZfMSzKKO28mNwR6YF6UzeL.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4836559.mp4"
+        },
+        {
+          "nome": "Alucinações do Passado 2",
+          "descricao": "Alucinações do Passado 2",
+          "capa": "https://image.tmdb.org/t/p/w780/pRYFV0bG0vhlwkW2nU5V09wdhHs.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837024.mp4"
+        },
+        {
+          "nome": "Alucinações do Passado",
+          "descricao": "Alucinações do Passado",
+          "capa": "https://image.tmdb.org/t/p/w780/qwDo6S5PDR8WQyCFhwXeOGJz9cc.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837025.mp4"
+        },
+        {
+          "nome": "Amaldiçoada - Direto do Túmulo",
+          "descricao": "Amaldiçoada - Direto do Túmulo",
+          "capa": "https://image.tmdb.org/t/p/w780/zz3DasetwtIAoJpaLSoYlnbpMdS.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4836929.mp4"
+        },
+        {
+          "nome": "Amaldiçoada 2: O Ritual",
+          "descricao": "Amaldiçoada 2: O Ritual",
+          "capa": "https://image.tmdb.org/t/p/w780/tHzro90vTu4u2tN7RfvYFNJobve.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4836930.mp4"
+        },
+        {
+          "nome": "Amaldiçoada 3: O Amuleto",
+          "descricao": "Amaldiçoada 3: O Amuleto",
+          "capa": "https://image.tmdb.org/t/p/w780/ApEaqcfphWbSFxD2DEkJ1cxgXRD.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4836915.mp4"
+        },
+        {
+          "nome": "Amaldiçoados",
+          "descricao": "Amaldiçoados",
+          "capa": "https://image.tmdb.org/t/p/w780/aGKMkExXFXL1dxNGXsMpGQr3MP.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837129.mp4"
+        },
+        {
+          "nome": "Ameaça Profunda",
+          "descricao": "Ameaça Profunda",
+          "capa": "https://image.tmdb.org/t/p/w780/k56yNPnwRj2vLGV9os3h26Gii8P.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838195.mp4"
+        },
+        {
+          "nome": "American Dream - Um Reality Sangrento",
+          "descricao": "American Dream - Um Reality Sangrento",
+          "capa": "https://image.tmdb.org/t/p/w780/pY8zP4IJPwUqCPedS3akEVIoZdu.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4836986.mp4"
+        },
+        {
+          "nome": "American Poltergeist Possuidos",
+          "descricao": "American Poltergeist Possuidos",
+          "capa": "https://image.tmdb.org/t/p/w780/1OypcfPwIXlerPNG1eluXKnTCjH.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838253.mp4"
+        },
+        {
+          "nome": "Amityville 2: A Possessão",
+          "descricao": "Amityville 2: A Possessão",
+          "capa": "https://image.tmdb.org/t/p/w780/99gVExzplZB6ko94HZ1sDGhZnOS.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4836547.mp4"
+        },
+        {
+          "nome": "Amityville 4 - A Fuga do Mal",
+          "descricao": "Amityville 4 - A Fuga do Mal",
+          "capa": "https://image.tmdb.org/t/p/w780/eurAv7kDhAejsKXVamF6EMZM2DG.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837070.mp4"
+        },
+        {
+          "nome": "Amityville Scarecrow",
+          "descricao": "Amityville Scarecrow",
+          "capa": "https://image.tmdb.org/t/p/w780/v05i4Lywhth8cIE0y8EhwORGPMd.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837867.mp4"
+        },
+        {
+          "nome": "Amityville: O Despertar",
+          "descricao": "Amityville: O Despertar",
+          "capa": "https://image.tmdb.org/t/p/w780/pHS8WS8CbcOcSc12sVTT9NAS6RB.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838411.mp4"
+        },
+        {
+          "nome": "Amizade Desfeita 2 - Dark Web",
+          "descricao": "Amizade Desfeita 2 - Dark Web",
+          "capa": "https://image.tmdb.org/t/p/w780/gOgagKvS83RwWcNbz7UOFFbIgZn.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838291.mp4"
+        },
+        {
+          "nome": "Amizade Desfeita",
+          "descricao": "Amizade Desfeita",
+          "capa": "https://image.tmdb.org/t/p/w780/ox2QVTInSFINXtPkD3zbpp2jwLE.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837970.mp4"
+        },
+        {
+          "nome": "Amizade Maldita",
+          "descricao": "Amizade Maldita",
+          "capa": "https://image.tmdb.org/t/p/w780/dp1L8ifSSKnkXMGLCMUvXjKdxQk.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838095.mp4"
+        },
+        {
+          "nome": "Amuleto",
+          "descricao": "Amuleto",
+          "capa": "https://image.tmdb.org/t/p/w780/uxpA5PxgvsqGOrNMwiL4RheFa0T.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838155.mp4"
+        },
+        {
+          "nome": "Anatema",
+          "descricao": "Anatema",
+          "capa": "https://image.tmdb.org/t/p/w780/yjaaEwB52VN8eLOdmb2b30sd9PK.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4836711.mp4"
+        },
+        {
+          "nome": "Animais Perigosos",
+          "descricao": "Animais Perigosos",
+          "capa": "https://image.tmdb.org/t/p/w780/vgMYt20P7ws2CfB5LaAo1PjD90i.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4836893.mp4"
+        },
+        {
+          "nome": "Aniquilacao",
+          "descricao": "Aniquilacao",
+          "capa": "https://image.tmdb.org/t/p/w780/nuRDoKqbly63XbNQNbsCo2JWvlM.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838410.mp4"
+        },
+        {
+          "nome": "Anjos da Morte",
+          "descricao": "Anjos da Morte",
+          "capa": "https://image.tmdb.org/t/p/w780/ibnEmQBkRamIj4NcnFdU0sYNzMk.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837185.mp4"
+        },
+        {
+          "nome": "Anjos da Noite: O Despertar",
+          "descricao": "Anjos da Noite: O Despertar",
+          "capa": "https://image.tmdb.org/t/p/w780/paHlMTDna5yyjdgK8SWcScvj4gy.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837114.mp4"
+        },
+        {
+          "nome": "Anjos das Trevas",
+          "descricao": "Anjos das Trevas",
+          "capa": "https://image.tmdb.org/t/p/w780/49my4P9or2BZpbOT3ATSqCRomDy.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837752.mp4"
+        },
+        {
+          "nome": "Anna e o Apocalipse",
+          "descricao": "Anna e o Apocalipse",
+          "capa": "https://image.tmdb.org/t/p/w780/xNcIsTzSjWKvn9se2gcSOupzWeW.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838222.mp4"
+        },
+        {
+          "nome": "Annabelle 1",
+          "descricao": "Annabelle 1",
+          "capa": "https://image.tmdb.org/t/p/w780/jnvQCi7cO3f5oAceTrodDjVvQmB.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838409.mp4"
+        },
+        {
+          "nome": "Annabelle 2: A Criacao do Mal",
+          "descricao": "Annabelle 2: A Criacao do Mal",
+          "capa": "https://image.tmdb.org/t/p/w780/AtlcH0f8mEQGKVIBSgV4GgkTZMr.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838408.mp4"
+        },
+        {
+          "nome": "Annabelle 3: De Volta Para Casa",
+          "descricao": "Annabelle 3: De Volta Para Casa",
+          "capa": "https://image.tmdb.org/t/p/w780/xQesP4oRskVR8fUMvilhY7DUMJt.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838244.mp4"
+        },
+        {
+          "nome": "Antes da Lua Cheia",
+          "descricao": "Antes da Lua Cheia",
+          "capa": "https://image.tmdb.org/t/p/w780/xQoPtYbs3GB5In2xZnV3qNQFvu5.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4836859.mp4"
+        },
+        {
+          "nome": "Antologia da Pandemia",
+          "descricao": "Antologia da Pandemia",
+          "capa": "https://image.tmdb.org/t/p/w780/8eyTXtfSAQyXjGP2qSYNZv5UZzy.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837430.mp4"
+        },
+        {
+          "nome": "Ao 3º Dia",
+          "descricao": "Ao 3º Dia",
+          "capa": "https://image.tmdb.org/t/p/w780/uLmr2q3ZcQ8pqSUxUkekcRbpuAz.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837718.mp4"
+        },
+        {
+          "nome": "Ao Cair da Noite",
+          "descricao": "Ao Cair da Noite",
+          "capa": "https://image.tmdb.org/t/p/w780/ysnZXx7YKZdlC9APTcwTCiZ4avC.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837128.mp4"
+        },
+        {
+          "nome": "Apanhador de Pesadelos",
+          "descricao": "Apanhador de Pesadelos",
+          "capa": "https://image.tmdb.org/t/p/w780/lEPlsJ8Tko01i1LLBSehVYJcWWU.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838190.mp4"
+        },
+        {
+          "nome": "Apartamento 7A",
+          "descricao": "Apartamento 7A",
+          "capa": "https://image.tmdb.org/t/p/w780/oyZCDnH17nPtZxAomgLqPjMGqS2.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837309.mp4"
+        },
+        {
+          "nome": "Apocalipse Z - O Princípio do Fim",
+          "descricao": "Apocalipse Z - O Princípio do Fim",
+          "capa": "https://image.tmdb.org/t/p/w780/tsFAhay6bcjkawEVoOiu66GRkLT.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837287.mp4"
+        },
+        {
+          "nome": "Apollo 18",
+          "descricao": "Apollo 18",
+          "capa": "https://image.tmdb.org/t/p/w780/a9EPf0iGlIVF8EeUgOXlAUaoWM.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838087.mp4"
+        },
+        {
+          "nome": "App da Morte",
+          "descricao": "App da Morte",
+          "capa": "https://image.tmdb.org/t/p/w780/fqxwPJrC1Ozr0nLJAQ31E8Eyrs7.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837080.mp4"
+        },
+        {
+          "nome": "Aquelas Que Vocês Não Queimaram",
+          "descricao": "Aquelas Que Vocês Não Queimaram",
+          "capa": "https://image.tmdb.org/t/p/w780/sY6bxdIjXCYdKR7bNZHzO6B4Tg8.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837372.mp4"
+        },
+        {
+          "nome": "Aquele que Habita em Mim",
+          "descricao": "Aquele que Habita em Mim",
+          "capa": "https://image.tmdb.org/t/p/w780/oDYeiBPebUpznKdBKilaXmnuqii.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837647.mp4"
+        },
+        {
+          "nome": "Aquilo que Você Deseja",
+          "descricao": "Aquilo que Você Deseja",
+          "capa": "https://image.tmdb.org/t/p/w780/kekxNg1VB5wgpihPXOyN2gsN9AT.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4836866.mp4"
+        },
+        {
+          "nome": "Arena Mortal",
+          "descricao": "Arena Mortal",
+          "capa": "https://image.tmdb.org/t/p/w780/yk8ALQPd3lfYDGJ8U429oYFiBaY.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837278.mp4"
+        },
+        {
+          "nome": "Armadilha em Alto Mar",
+          "descricao": "Armadilha em Alto Mar",
+          "capa": "https://image.tmdb.org/t/p/w780/ex7BjWQvSEnubQzCyxElw2qi1Zx.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837350.mp4"
+        },
+        {
+          "nome": "Arraste Me Para O Inferno",
+          "descricao": "Arraste Me Para O Inferno",
+          "capa": "https://image.tmdb.org/t/p/w780/5yykGbXP353oBpkX7Z9Iw34mmeX.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838407.mp4"
+        },
+        {
+          "nome": "As Coisas Serão Diferentes",
+          "descricao": "As Coisas Serão Diferentes",
+          "capa": "https://image.tmdb.org/t/p/w780/lJFyzfXQoclsF6mXkeppy8DqNup.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4836754.mp4"
+        },
+        {
+          "nome": "As Fábulas Negras",
+          "descricao": "As Fábulas Negras",
+          "capa": "https://image.tmdb.org/t/p/w780/vgbDS2j5HgJU9PzN42X2uk5iZzm.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837118.mp4"
+        },
+        {
+          "nome": "As Faces do Medo",
+          "descricao": "As Faces do Medo",
+          "capa": "https://image.tmdb.org/t/p/w780/3dDM5yjPrTuulnJCxGE9UY2kozS.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837634.mp4"
+        },
+        {
+          "nome": "As Freiras Exorcistas",
+          "descricao": "As Freiras Exorcistas",
+          "capa": "https://image.tmdb.org/t/p/w780/fAT2iIlzHrJS85o7iSI44rorr0a.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4836580.mp4"
+        },
+        {
+          "nome": "As Garotas Da Tragedia",
+          "descricao": "As Garotas Da Tragedia",
+          "capa": "https://image.tmdb.org/t/p/w780/1nAhVGPiCTwUGdNV6vy8sUh6VMu.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838406.mp4"
+        },
+        {
+          "nome": "As Hereges",
+          "descricao": "As Hereges",
+          "capa": "https://image.tmdb.org/t/p/w780/3XJ19x1yA3KFdpVO8GrVQKuVFnT.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838094.mp4"
+        },
+        {
+          "nome": "As Ruínas",
+          "descricao": "As Ruínas",
+          "capa": "https://image.tmdb.org/t/p/w780/4dspmmI4uEnDycLPkuZZEVDczfC.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4836842.mp4"
+        },
+        {
+          "nome": "As Strippers Zumbi",
+          "descricao": "As Strippers Zumbi",
+          "capa": "https://image.tmdb.org/t/p/w780/tDCBaOuzoaW3bfna1umIdywiTTS.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837982.mp4"
+        },
+        {
+          "nome": "As Tias",
+          "descricao": "As Tias",
+          "capa": "https://image.tmdb.org/t/p/w780/sxO4XgLEfmzyiDVWDqVNJZJIWyw.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837239.mp4"
+        },
+        {
+          "nome": "Às Vezes Eles Voltam",
+          "descricao": "Às Vezes Eles Voltam",
+          "capa": "https://image.tmdb.org/t/p/w780/rYZawJqLgXL346qyMu2x7o6JYOa.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837206.mp4"
+        },
+        {
+          "nome": "Ash: Planeta Parasita",
+          "descricao": "Ash: Planeta Parasita",
+          "capa": "https://image.tmdb.org/t/p/w780/5LTdaCAiJeLVmafEiFUaEjjlaAF.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837131.mp4"
+        },
+        {
+          "nome": "Asilo do Medo",
+          "descricao": "Asilo do Medo",
+          "capa": "https://image.tmdb.org/t/p/w780/kvJu4vrPpJIE4qo3wWQVsblEXH7.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838232.mp4"
+        },
+        {
+          "nome": "Assassinato no Expresso do Inferno",
+          "descricao": "Assassinato no Expresso do Inferno",
+          "capa": "https://image.tmdb.org/t/p/w780/mNF2WvUwQ3PcxknekF0Q9AjX48N.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837784.mp4"
+        },
+        {
+          "nome": "Assassinato Via Babá Eletrônica",
+          "descricao": "Assassinato Via Babá Eletrônica",
+          "capa": "https://image.tmdb.org/t/p/w780/6yqXZCBE4ZCOrkboW28zr9ntNRh.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838170.mp4"
+        },
+        {
+          "nome": "Assassinato!",
+          "descricao": "Assassinato!",
+          "capa": "https://image.tmdb.org/t/p/w780/cxmDKBPkBNYCNMhjbPE5DUuEEq0.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837270.mp4"
+        },
+        {
+          "nome": "Assassino de Sangue",
+          "descricao": "Assassino de Sangue",
+          "capa": "https://image.tmdb.org/t/p/w780/6IhsMY5Ud5WJxtEX9gpGuvHP7nl.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4836751.mp4"
+        },
+        {
+          "nome": "Assassinos Cibernéticos",
+          "descricao": "Assassinos Cibernéticos",
+          "capa": "https://image.tmdb.org/t/p/w780/eqgBf791rMZG7ywHfObpXeMpiRf.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4836649.mp4"
+        },
+        {
+          "nome": "Assassinos Sádicos 2: Irmãos Famintos",
+          "descricao": "Assassinos Sádicos 2: Irmãos Famintos",
+          "capa": "https://image.tmdb.org/t/p/w780/oD8NCw26rrZQvRvQSqy4qGQXCMW.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4836921.mp4"
+        },
+        {
+          "nome": "Assassinos Sádicos 3: Carnificina",
+          "descricao": "Assassinos Sádicos 3: Carnificina",
+          "capa": "https://image.tmdb.org/t/p/w780/mjfFKWtslwYbBpMZhx9nDzrwmzw.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4836891.mp4"
+        },
+        {
+          "nome": "Assassinos Sádicos",
+          "descricao": "Assassinos Sádicos",
+          "capa": "https://image.tmdb.org/t/p/w780/xhz4MtfEIFnx9yh1pqIYuGEcSxm.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838107.mp4"
+        },
+        {
+          "nome": "Assim na Terra Como no Inferno",
+          "descricao": "Assim na Terra Como no Inferno",
+          "capa": "https://image.tmdb.org/t/p/w780/gxhnKDwnNIWp5wPcVUBO9OPOL5H.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838405.mp4"
+        },
+        {
+          "nome": "Assombrosas",
+          "descricao": "Assombrosas",
+          "capa": "https://image.tmdb.org/t/p/w780/6Etd8hNlq0VhnrIxPpDmwPGGQrU.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837677.mp4"
+        },
+        {
+          "nome": "Ataque 13",
+          "descricao": "Ataque 13",
+          "capa": "https://image.tmdb.org/t/p/w780/qvpAVmHgIXK7Z9pOmxMdUPsN3GO.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4836923.mp4"
+        },
+        {
+          "nome": "Ataque dos Mortos-Vivos",
+          "descricao": "Ataque dos Mortos-Vivos",
+          "capa": "https://image.tmdb.org/t/p/w780/jvjADLvRB4UhWDMnfBOHDdDpFqk.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837890.mp4"
+        },
+        {
+          "nome": "Ataque dos Zumbis",
+          "descricao": "Ataque dos Zumbis",
+          "capa": "https://image.tmdb.org/t/p/w780/ul37MfUQQ9GLHvbu456SedOnLNb.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837945.mp4"
+        },
+        {
+          "nome": "Até a Morte: Sobreviver é a Melhor Vingança",
+          "descricao": "Até a Morte: Sobreviver é a Melhor Vingança",
+          "capa": "https://image.tmdb.org/t/p/w780/blWUQPSyv4vWJ8S8MS9lU9BD9Mf.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837755.mp4"
+        },
+        {
+          "nome": "Até o Final",
+          "descricao": "Até o Final",
+          "capa": "https://image.tmdb.org/t/p/w780/e0wgAHmcB2BlNU2lShLdej01EEh.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837947.mp4"
+        },
+        {
+          "nome": "Até que A Morte Nos Separe",
+          "descricao": "Até que A Morte Nos Separe",
+          "capa": "https://image.tmdb.org/t/p/w780/glNBE9uGqsUOP8yw1jLMVkW1lh6.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837138.mp4"
+        },
+        {
+          "nome": "Aterro Maldito",
+          "descricao": "Aterro Maldito",
+          "capa": "https://image.tmdb.org/t/p/w780/3b0O9oVS2IipIQZ2Co0oUYDdhi9.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838166.mp4"
+        },
+        {
+          "nome": "Aterrorizados",
+          "descricao": "Aterrorizados",
+          "capa": "https://image.tmdb.org/t/p/w780/oSOdLz0Vz0dVig3bHcSystZjoqy.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838404.mp4"
+        },
+        {
+          "nome": "Aterrorizante 2",
+          "descricao": "Aterrorizante 2",
+          "capa": "https://image.tmdb.org/t/p/w780/4L9WmOHyyiAcMgKyiLIhcM51VZG.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837685.mp4"
+        },
+        {
+          "nome": "Aterrorizante",
+          "descricao": "Aterrorizante",
+          "capa": "https://image.tmdb.org/t/p/w780/z0m2BK6eCmaSJCDwS8JbkqDSg9P.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837644.mp4"
+        },
+        {
+          "nome": "Atividade Paranormal (2007)",
+          "descricao": "Atividade Paranormal (2007)",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jV5eAsOTf7zsL4glY51gTW6Vb05.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838402.mp4"
+        },
+        {
+          "nome": "Atividade paranormal 2",
+          "descricao": "Atividade paranormal 2",
+          "capa": "https://image.tmdb.org/t/p/w780/gNouQyuRIVkjxtjtgz5aMO2YMIO.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838401.mp4"
+        },
+        {
+          "nome": "Atividade paranormal 3",
+          "descricao": "Atividade paranormal 3",
+          "capa": "https://image.tmdb.org/t/p/w780/iwscDaCliM8SbLNJYogjRbuzdCB.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838400.mp4"
+        },
+        {
+          "nome": "Atividade Paranormal 4",
+          "descricao": "Atividade Paranormal 4",
+          "capa": "https://image.tmdb.org/t/p/w780/gwsUPIYTHYZ3fv20Py7TkdMSCxQ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838403.mp4"
+        },
+        {
+          "nome": "Atividade Paranormal Ente Proximo",
+          "descricao": "Atividade Paranormal Ente Proximo",
+          "capa": "https://image.tmdb.org/t/p/w780/mM7QdWyDi9oT9qmngGe73ky8XAQ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837834.mp4"
+        },
+        {
+          "nome": "Atividade Paranormal: Tóquio",
+          "descricao": "Atividade Paranormal: Tóquio",
+          "capa": "https://image.tmdb.org/t/p/w780/fu4bPmvK5lSFTHpeb8Y8YcxcFKV.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4836586.mp4"
+        },
+        {
+          "nome": "Atividade Sobrenatural - A Vingança De Mary",
+          "descricao": "Atividade Sobrenatural - A Vingança De Mary",
+          "capa": "https://image.tmdb.org/t/p/w780/lrNJ2t5PiWJ5iZw2K3P4NwkaeoA.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837149.mp4"
+        },
+        {
+          "nome": "Autópsia",
+          "descricao": "Autópsia",
+          "capa": "https://image.tmdb.org/t/p/w780/3uT6SEESQiOCOw253qvO1t7W88O.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4836699.mp4"
+        },
+        {
+          "nome": "Baby Blue - Assassino em Série",
+          "descricao": "Baby Blue - Assassino em Série",
+          "capa": "https://image.tmdb.org/t/p/w780/pGQBdxxdASxycNBNdzH4nEyEfqW.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837083.mp4"
+        },
+        {
+          "nome": "Baby Ruby",
+          "descricao": "Baby Ruby",
+          "capa": "https://image.tmdb.org/t/p/w780/xsQyj1RWeKYafKaDRDfA3x5IVcZ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837517.mp4"
+        },
+        {
+          "nome": "Backrooms: Um Não-Lugar",
+          "descricao": "Backrooms: Um Não-Lugar",
+          "capa": "https://image.tmdb.org/t/p/w780/a1pgQeEge47xrS4jGlDwIHiieVK.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4836582.mp4"
+        },
+        {
+          "nome": "Bad Candy",
+          "descricao": "Bad Candy",
+          "capa": "https://image.tmdb.org/t/p/w780/9HRQiPxTGsUpP9hqCC1R5D1gQZT.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837286.mp4"
+        },
+        {
+          "nome": "Bad Hair",
+          "descricao": "Bad Hair",
+          "capa": "https://image.tmdb.org/t/p/w780/geUpSLHPYtyLKkYYtc5jv6Q1k8K.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837773.mp4"
+        },
+        {
+          "nome": "Bad Hair: A Maldição",
+          "descricao": "Bad Hair: A Maldição",
+          "capa": "https://image.tmdb.org/t/p/w780/yI8s56JdPvkp9tckjjJMSBywaWv.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4836566.mp4"
+        },
+        {
+          "nome": "Baile de Formatura",
+          "descricao": "Baile de Formatura",
+          "capa": "https://image.tmdb.org/t/p/w780/8bSMe8XpebSPz2AnF99xDyBezMz.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4836850.mp4"
+        },
+        {
+          "nome": "Baixio das Bestas",
+          "descricao": "Baixio das Bestas",
+          "capa": "https://image.tmdb.org/t/p/w780/hn18UpRIUY6K5Tj5pUPkXZKThT4.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837178.mp4"
+        },
+        {
+          "nome": "Bala de Prata",
+          "descricao": "Bala de Prata",
+          "capa": "http://ocvtab.info/images/925c6dd15a33076e3711d3c0aa161480.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837803.mp4"
+        },
+        {
+          "nome": "Balada para Satã",
+          "descricao": "Balada para Satã",
+          "capa": "https://image.tmdb.org/t/p/w780/h2zyPibxcUtvcL9Fxxsh1RRkW49.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837033.mp4"
+        },
+        {
+          "nome": "Banana Splits - O Filme",
+          "descricao": "Banana Splits - O Filme",
+          "capa": "https://image.tmdb.org/t/p/w780/3ut1Ji6mEkO3bHW4xUEazNOb32W.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4836802.mp4"
+        },
+        {
+          "nome": "Banidos",
+          "descricao": "Banidos",
+          "capa": "https://image.tmdb.org/t/p/w780/6TKhFSJW09z2k6WPxB10ey2GMuC.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837597.mp4"
+        },
+        {
+          "nome": "Baramulla",
+          "descricao": "Baramulla",
+          "capa": "https://image.tmdb.org/t/p/w780/bQ6ZZg73jxOUK8bERtDS250xAiN.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4836894.mp4"
+        },
+        {
+          "nome": "Batalha dos Zumbis",
+          "descricao": "Batalha dos Zumbis",
+          "capa": "https://image.tmdb.org/t/p/w780/6EEhyfcGCTzf0fOOGHU4ZfVMj94.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837320.mp4"
+        },
+        {
+          "nome": "Batem à Porta",
+          "descricao": "Batem à Porta",
+          "capa": "https://image.tmdb.org/t/p/w780/nzpWZzpc9BoFXMmxAo4K7W5YXs.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837683.mp4"
+        },
+        {
+          "nome": "Becky",
+          "descricao": "Becky",
+          "capa": "https://image.tmdb.org/t/p/w780/9wqKF883Kn9c0SZV4ZmkIkFhBLh.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838086.mp4"
+        },
+        {
+          "nome": "Beezel: A Devoradora de Almas",
+          "descricao": "Beezel: A Devoradora de Almas",
+          "capa": "https://image.tmdb.org/t/p/w780/4qUNDF3Ho1dzLWZTqjFCL7UnDse.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837002.mp4"
+        },
+        {
+          "nome": "Bela",
+          "descricao": "Bela",
+          "capa": "https://image.tmdb.org/t/p/w780/q9yyGXTsyJUW7OxRg4rNNcbsQsR.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837074.mp4"
+        },
+        {
+          "nome": "Bem-Vindo ao Círculo",
+          "descricao": "Bem-Vindo ao Círculo",
+          "capa": "https://image.tmdb.org/t/p/w780/dvnBcWKW9j681cTGuGWQgVdoE8H.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837136.mp4"
+        },
+        {
+          "nome": "Bem-Vindo ao Crime",
+          "descricao": "Bem-Vindo ao Crime",
+          "capa": "https://image.tmdb.org/t/p/w780/qvjYnvt5bd6j8FeqwEbftLTosvA.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4836994.mp4"
+        },
+        {
+          "nome": "Benção Mortal",
+          "descricao": "Benção Mortal",
+          "capa": "https://image.tmdb.org/t/p/w780/afVFFmEd1zFJ553hmK1djKHVnkk.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838031.mp4"
+        },
+        {
+          "nome": "Benny Loves You",
+          "descricao": "Benny Loves You",
+          "capa": "https://image.tmdb.org/t/p/w780/3RE9DNBCvuso5OPZPg71ryntNjx.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837627.mp4"
+        },
+        {
+          "nome": "Bethany",
+          "descricao": "Bethany",
+          "capa": "https://image.tmdb.org/t/p/w780/tjGClB2iduvPDS4PwpDjGIeQb3E.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838243.mp4"
+        },
+        {
+          "nome": "Bibi",
+          "descricao": "Bibi",
+          "capa": "https://image.tmdb.org/t/p/w780/dPtIosJaXBlBADfTqhYY2suRuhi.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4836752.mp4"
+        },
+        {
+          "nome": "Bird Box Barcelona (2023)",
+          "descricao": "Bird Box Barcelona (2023)",
+          "capa": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tHV8emL6vJ8Gs22BHkrN6B5zbwt.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838399.mp4"
+        },
+        {
+          "nome": "Black Friday",
+          "descricao": "Black Friday",
+          "capa": "https://image.tmdb.org/t/p/w780/vf9Ex4EwSPlwbva4ZJdljsQQOML.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837583.mp4"
+        },
+        {
+          "nome": "Black Ops - Operação Secreta",
+          "descricao": "Black Ops - Operação Secreta",
+          "capa": "https://image.tmdb.org/t/p/w780/wNPg6RIzY92miYevoIUYTFoJqBA.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837981.mp4"
+        },
+        {
+          "nome": "Boliche do Terror",
+          "descricao": "Boliche do Terror",
+          "capa": "https://image.tmdb.org/t/p/w780/nxU3XKWPHzry9GKECqJQWbL6EeF.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837201.mp4"
+        },
+        {
+          "nome": "Bom Garoto",
+          "descricao": "Bom Garoto",
+          "capa": "https://image.tmdb.org/t/p/w780/hXVVZbIRikyXGhnAcIjXWvYZIOI.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837524.mp4"
+        },
+        {
+          "nome": "Bom Menino",
+          "descricao": "Bom Menino",
+          "capa": "https://image.tmdb.org/t/p/w780/6qQBPlWj5PEFPsVObUIy9SMZ9P.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4836839.mp4"
+        },
+        {
+          "nome": "Boneca Assassina",
+          "descricao": "Boneca Assassina",
+          "capa": "https://image.tmdb.org/t/p/w780/3khxbVjd6CGXdskIlLAMMW1xAKu.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4836989.mp4"
+        },
+        {
+          "nome": "Boneco do Mal",
+          "descricao": "Boneco do Mal",
+          "capa": "https://image.tmdb.org/t/p/w780/q4T7U5uhuNsHQBpFF2iSfKOuhgX.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838178.mp4"
+        },
+        {
+          "nome": "Boo 2 A Madea Halloween",
+          "descricao": "Boo 2 A Madea Halloween",
+          "capa": "https://image.tmdb.org/t/p/w780/18JeOCuDpVbocIbioIrGrO2A5aq.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838271.mp4"
+        },
+        {
+          "nome": "Boogeyman: Seu Medo é Real",
+          "descricao": "Boogeyman: Seu Medo é Real",
+          "capa": "https://image.tmdb.org/t/p/w780/qf4l5Ph8WOSxSxYBm8zeOuaXOk3.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837567.mp4"
+        },
+        {
+          "nome": "Brahms: Boneco do Mal II",
+          "descricao": "Brahms: Boneco do Mal II",
+          "capa": "https://image.tmdb.org/t/p/w780/nIv88OjKOw7tLMTpjAS2HsZZU1X.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838113.mp4"
+        },
+        {
+          "nome": "Brightburn Filho das Trevas",
+          "descricao": "Brightburn Filho das Trevas",
+          "capa": "https://image.tmdb.org/t/p/w780/4Eu0GvET9ZihUJL5L0E9lgDQYzJ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838251.mp4"
+        },
+        {
+          "nome": "Brinquedo Assassino 2",
+          "descricao": "Brinquedo Assassino 2",
+          "capa": "https://image.tmdb.org/t/p/w780/cFAA6XeDXsSOTfztEOlXU25leen.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838065.mp4"
+        },
+        {
+          "nome": "Brinquedo Assassino 3",
+          "descricao": "Brinquedo Assassino 3",
+          "capa": "https://image.tmdb.org/t/p/w780/zA6DKHMHhCCKKAfR7oEiUwF10JR.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838064.mp4"
+        },
+        {
+          "nome": "Brinquedo Assassino",
+          "descricao": "Brinquedo Assassino",
+          "capa": "https://image.tmdb.org/t/p/w780/pdnXDnuAWIc9pwobTQ5XknlcbbS.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837477.mp4"
+        },
+        {
+          "nome": "Brinquedos Do Terror",
+          "descricao": "Brinquedos Do Terror",
+          "capa": "https://image.tmdb.org/t/p/w780/yXJqgPX98cR4FtzLNTcaEEkhlSS.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838125.mp4"
+        },
+        {
+          "nome": "Broadcast Signal Intrusion",
+          "descricao": "Broadcast Signal Intrusion",
+          "capa": "https://image.tmdb.org/t/p/w780/jOYdB0x32L2HXlFAMttJ8biopTy.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837689.mp4"
+        },
+        {
+          "nome": "Bruxa de Blair",
+          "descricao": "Bruxa de Blair",
+          "capa": "https://image.tmdb.org/t/p/w780/vfdK9NtUqbSgFqvzPJi8kEnq2ee.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838120.mp4"
+        },
+        {
+          "nome": "Bull Shark",
+          "descricao": "Bull Shark",
+          "capa": "https://image.tmdb.org/t/p/w780/vikjHLLlBzFBygV00iQonsUUfhT.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837146.mp4"
+        },
+        {
+          "nome": "Bunker",
+          "descricao": "Bunker",
+          "capa": "https://image.tmdb.org/t/p/w780/rGuzyTaghYm6Uo3dbNufsUInUOX.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837245.mp4"
+        },
+        {
+          "nome": "Cabana da Possessão",
+          "descricao": "Cabana da Possessão",
+          "capa": "https://image.tmdb.org/t/p/w780/byNUpSJROMwBetra4bLaq0Yffe4.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838106.mp4"
+        },
+        {
+          "nome": "Cabana do Inferno",
+          "descricao": "Cabana do Inferno",
+          "capa": "https://image.tmdb.org/t/p/w780/Agag2I8mx2NmVDMdEx7jaV4orbQ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837072.mp4"
+        },
+        {
+          "nome": "Caçada Fantasma",
+          "descricao": "Caçada Fantasma",
+          "capa": "https://image.tmdb.org/t/p/w780/zrpS6V3628FjZtVETRIGhmJ1UbC.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837374.mp4"
+        },
+        {
+          "nome": "Caçada Humana",
+          "descricao": "Caçada Humana",
+          "capa": "https://image.tmdb.org/t/p/w780/lpX8szjdzaXqxKBiV8xfRVNzSiu.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837555.mp4"
+        },
+        {
+          "nome": "Caçada Sangrenta",
+          "descricao": "Caçada Sangrenta",
+          "capa": "https://image.tmdb.org/t/p/w780/5Po7cBJ7YWLE3HbkoJKZyCJ4ESq.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4836890.mp4"
+        },
+        {
+          "nome": "Caçada Sinistra",
+          "descricao": "Caçada Sinistra",
+          "capa": "https://image.tmdb.org/t/p/w780/dVSHf2mc9RvaaGZWf1Vq0wTO970.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837193.mp4"
+        },
+        {
+          "nome": "Caçada",
+          "descricao": "Caçada",
+          "capa": "https://image.tmdb.org/t/p/w780/bVVDEkp9iaomfuwZuo1fnL8s7Oe.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837810.mp4"
+        },
+        {
+          "nome": "Cacador de Demonios",
+          "descricao": "Cacador de Demonios",
+          "capa": "https://image.tmdb.org/t/p/w780/6LLwNYNhS60arNqOTRZs3vvKaV3.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838290.mp4"
+        },
+        {
+          "nome": "Caçados",
+          "descricao": "Caçados",
+          "capa": "https://image.tmdb.org/t/p/w780/hOuF1Egtx151TgJKuFetK9NkEHy.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838162.mp4"
+        },
+        {
+          "nome": "Caçando Ava Bravo",
+          "descricao": "Caçando Ava Bravo",
+          "capa": "https://image.tmdb.org/t/p/w780/i2Hy3c0CZsyltiZVs5UdTNhUYlv.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837760.mp4"
+        },
+        {
+          "nome": "Cachinhos Dourados e os Três Ursos: Morte e Mingau",
+          "descricao": "Cachinhos Dourados e os Três Ursos: Morte e Mingau",
+          "capa": "https://image.tmdb.org/t/p/w780/1CgmX7TLTYi1q79r2iGIe3yPmg.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4836962.mp4"
+        },
+        {
+          "nome": "Cadáver",
+          "descricao": "Cadáver",
+          "capa": "https://image.tmdb.org/t/p/w780/uwf7FawiYVwnaP8S6ReLLziqWmj.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837617.mp4"
+        },
+        {
+          "nome": "Caixa Preta",
+          "descricao": "Caixa Preta",
+          "capa": "https://image.tmdb.org/t/p/w780/9Ee7gyWAF3OXRnsUOAMwB1Rwgmf.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838152.mp4"
+        },
+        {
+          "nome": "Calafrios",
+          "descricao": "Calafrios",
+          "capa": "https://image.tmdb.org/t/p/w780/so45gAqZy8SrTp5kMJDw8XUiA7l.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4836849.mp4"
+        },
+        {
+          "nome": "Câmera Mortal",
+          "descricao": "Câmera Mortal",
+          "capa": "https://image.tmdb.org/t/p/w780/hLyIHHf1nHXi831BOJUgT1uSlcy.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837274.mp4"
+        },
+        {
+          "nome": "Campo da Morte",
+          "descricao": "Campo da Morte",
+          "capa": "https://image.tmdb.org/t/p/w780/h8FGERBChcUNEUxegGFn16BNIvs.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837042.mp4"
+        },
+        {
+          "nome": "Campo do Medo",
+          "descricao": "Campo do Medo",
+          "capa": "https://image.tmdb.org/t/p/w780/iANNk5aJZecfESjS7CJGgZ49YtI.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838242.mp4"
+        },
+        {
+          "nome": "Candyman 2 - A Vingança",
+          "descricao": "Candyman 2 - A Vingança",
+          "capa": "https://image.tmdb.org/t/p/w780/hhzyAnSrcgMx11aYg9vtQVo6jkJ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4836844.mp4"
+        },
+        {
+          "nome": "Canibais",
+          "descricao": "Canibais",
+          "capa": "https://image.tmdb.org/t/p/w780/cPF6HXv3oRTa3THyRJiibYyxvfM.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837069.mp4"
+        },
+        {
+          "nome": "Canto dos Ossos",
+          "descricao": "Canto dos Ossos",
+          "capa": "https://image.tmdb.org/t/p/w780/uaBVCFFEWqI38RLkbRw3NHeLKbA.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837013.mp4"
+        },
+        {
+          "nome": "Caranguejos Assassinos",
+          "descricao": "Caranguejos Assassinos",
+          "capa": "https://image.tmdb.org/t/p/w780/nXD42lpGGBG0kdqh5y2tmKPU8J2.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837026.mp4"
+        },
+        {
+          "nome": "Cargo",
+          "descricao": "Cargo",
+          "capa": "https://image.tmdb.org/t/p/w780/cdPSUck4tBRvRu6DFk6XciDrssn.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838398.mp4"
+        },
+        {
+          "nome": "Carona Aterrorizante",
+          "descricao": "Carona Aterrorizante",
+          "capa": "https://image.tmdb.org/t/p/w780/2fyv8VPNOMZRoL239rJZqBgycSu.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837496.mp4"
+        },
+        {
+          "nome": "Carrie: A Estranha",
+          "descricao": "Carrie: A Estranha",
+          "capa": "https://image.tmdb.org/t/p/w780/bDgI10ARAA8xgeIOtEnQpYeYymA.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837737.mp4"
+        },
+        {
+          "nome": "Casa das Trevas 2",
+          "descricao": "Casa das Trevas 2",
+          "capa": "https://image.tmdb.org/t/p/w780/ylMdiIu3CGFHd3yvvd0DqHTKcCl.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838289.mp4"
+        },
+        {
+          "nome": "Casamento Sangrento",
+          "descricao": "Casamento Sangrento",
+          "capa": "https://image.tmdb.org/t/p/w780/k5dJuAdjv1wCq2Vzj1GZfwGmLoU.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838114.mp4"
+        },
+        {
+          "nome": "Caso 39",
+          "descricao": "Caso 39",
+          "capa": "https://image.tmdb.org/t/p/w780/2QPs8f22LceRvKLjX177Y6sNcYX.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837236.mp4"
+        },
+        {
+          "nome": "Castigos da Traição",
+          "descricao": "Castigos da Traição",
+          "capa": "https://image.tmdb.org/t/p/w780/u90aWvBPYjUl8HZa2aUMmucQZoT.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837352.mp4"
+        },
+        {
+          "nome": "Catacumbas",
+          "descricao": "Catacumbas",
+          "capa": "https://image.tmdb.org/t/p/w780/m21rL1VZ7vPUqybsRI92h0ZZ4gC.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4836674.mp4"
+        },
+        {
+          "nome": "Cativeiro",
+          "descricao": "Cativeiro",
+          "capa": "https://image.tmdb.org/t/p/w780/7hamq7tUzQJjUyTJGpvDU4rhD7K.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837243.mp4"
+        },
+        {
+          "nome": "Ceia Macabra",
+          "descricao": "Ceia Macabra",
+          "capa": "https://image.tmdb.org/t/p/w780/irQGfw7AD3j9EuFUrsRbmpJnQLT.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837456.mp4"
+        },
+        {
+          "nome": "Celebração Macabra",
+          "descricao": "Celebração Macabra",
+          "capa": "https://image.tmdb.org/t/p/w780/dGBzE0g3IFbSiy4TbBPpCo3P99J.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837121.mp4"
+        },
+        {
+          "nome": "Cellar Door",
+          "descricao": "Cellar Door",
+          "capa": "https://image.tmdb.org/t/p/w780/wgtlthcFIgrNTdjh3xiTgm0eYfx.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837283.mp4"
+        },
+        {
+          "nome": "Cemiterio Maldito",
+          "descricao": "Cemiterio Maldito",
+          "capa": "https://image.tmdb.org/t/p/w780/7PQD7f5vGYlk79JipIMGUaBQOgA.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838264.mp4"
+        },
+        {
+          "nome": "Cemitério Maldito: A Origem",
+          "descricao": "Cemitério Maldito: A Origem",
+          "capa": "https://image.tmdb.org/t/p/w780/cTtrFUxMKUX4ZGfMfydym2AZQba.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837564.mp4"
+        },
+        {
+          "nome": "Censor",
+          "descricao": "Censor",
+          "capa": "https://image.tmdb.org/t/p/w780/1FOEEtGFPp5cgpLfPQVMB0UNVpI.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4836908.mp4"
+        },
+        {
+          "nome": "Céu Vermelho-Sangue",
+          "descricao": "Céu Vermelho-Sangue",
+          "capa": "https://image.tmdb.org/t/p/w780/zacyfceQWlgA1PbL7PCs8bRTPsI.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837986.mp4"
+        },
+        {
+          "nome": "Chamas da Vingança",
+          "descricao": "Chamas da Vingança",
+          "capa": "https://image.tmdb.org/t/p/w780/w9BZFaK8MEwKjLtyFUS5zoPIYo1.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4836848.mp4"
+        },
+        {
+          "nome": "Chernobyl: Sinta a Radiação",
+          "descricao": "Chernobyl: Sinta a Radiação",
+          "capa": "https://image.tmdb.org/t/p/w780/9kOflOXZFGjcbs6AZOZ6PxQnF7W.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837747.mp4"
+        },
+        {
+          "nome": "Choque Mortal",
+          "descricao": "Choque Mortal",
+          "capa": "https://image.tmdb.org/t/p/w780/ikPUapNEeOfklpTcoBWOLmi0WLB.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4836789.mp4"
+        },
+        {
+          "nome": "Ciclo Mortal",
+          "descricao": "Ciclo Mortal",
+          "capa": "https://image.tmdb.org/t/p/w780/xyoFYFOZOIRVayl412LVwu8eJdi.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837184.mp4"
+        },
+        {
+          "nome": "Cidade das Trevas",
+          "descricao": "Cidade das Trevas",
+          "capa": "https://image.tmdb.org/t/p/w780/jQoUqpBZxF1rloQadqJfSMzPu95.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837528.mp4"
+        },
+        {
+          "nome": "Cigarros Mortais",
+          "descricao": "Cigarros Mortais",
+          "capa": "https://image.tmdb.org/t/p/w780/vFO43OAqQLP1ojSLZzQUpB01GGD.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4836702.mp4"
+        },
+        {
+          "nome": "Cloverfield A Particula de Deus",
+          "descricao": "Cloverfield A Particula de Deus",
+          "capa": "http://ocvtab.info/images/b5tMtsPWiypKCKk0fHyjAqz93gU_big.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4838397.mp4"
+        },
+        {
+          "nome": "Clowntergeist",
+          "descricao": "Clowntergeist",
+          "capa": "https://image.tmdb.org/t/p/w780/6FKljfqvKmdttj6D9EADy6iGpQT.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837865.mp4"
+        },
+        {
+          "nome": "Clube da Mordida",
+          "descricao": "Clube da Mordida",
+          "capa": "https://image.tmdb.org/t/p/w780/gfxjnBXLLZKCEz0YivsClBFxerc.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837616.mp4"
+        },
+        {
+          "nome": "Coelhos Assassinos",
+          "descricao": "Coelhos Assassinos",
+          "capa": "https://image.tmdb.org/t/p/w780/7NUSThdUw8gnnRqKUIZGbJdaVSZ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837057.mp4"
+        },
+        {
+          "nome": "Colega de Quarto",
+          "descricao": "Colega de Quarto",
+          "capa": "https://image.tmdb.org/t/p/w780/9rUeTD5NP0WTBaPDK3RMyi36Cef.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837941.mp4"
+        },
+        {
+          "nome": "Colheita Sombria",
+          "descricao": "Colheita Sombria",
+          "capa": "https://image.tmdb.org/t/p/w780/eeePA5kvAt5swaBAi3YLJjLDHHz.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837558.mp4"
+        },
+        {
+          "nome": "Colinas de Sangue",
+          "descricao": "Colinas de Sangue",
+          "capa": "https://image.tmdb.org/t/p/w780/23KP5NlINlYTL2hISrZ6C7gYvxV.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837183.mp4"
+        },
+        {
+          "nome": "Com a Maldade na Alma",
+          "descricao": "Com a Maldade na Alma",
+          "capa": "https://image.tmdb.org/t/p/w780/lyCU3gyCKUEvrOrSoimhtgSHrDk.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837023.mp4"
+        },
+        {
+          "nome": "Condado Macabro",
+          "descricao": "Condado Macabro",
+          "capa": "https://image.tmdb.org/t/p/w780/qeBVxzEDIC0LRrkaKVDinR6RUn6.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4837088.mp4"
+        },
+        {
+          "nome": "Conduta Mortal",
+          "descricao": "Conduta Mortal",
+          "capa": "https://image.tmdb.org/t/p/w780/84xV6quOSUVbeo30vuTpATuOfOE.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4836910.mp4"
+        },
+        {
+          "nome": "Conexão Macabra",
+          "descricao": "Conexão Macabra",
+          "capa": "https://image.tmdb.org/t/p/w780/laCWGx1yIsQPejNpsfmdA3aQbHC.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4836756.mp4"
+        }
+      ]
+    }
+  ],
+  "series": []
+}
