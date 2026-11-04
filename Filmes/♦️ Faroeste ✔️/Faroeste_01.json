@@ -1,0 +1,991 @@
+{
+  "canais": [],
+  "filmes": [
+    {
+      "album": "♦️ Faroeste ✔️",
+      "capa": "https://raw.githubusercontent.com/ccmpcombr-sketch/CAPAS/refs/heads/main/filmes/Faroeste.png",
+      "subAlbuns": [],
+      "itens": [
+        {
+          "nome": "A Balada de Buster Scruggs",
+          "descricao": "A Balada de Buster Scruggs",
+          "capa": "https://image.tmdb.org/t/p/w780/nb4crpD43qLIlNj3k5mqC0izPCk.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822110.mp4"
+        },
+        {
+          "nome": "A Balada do Pistoleiro",
+          "descricao": "A Balada do Pistoleiro",
+          "capa": "https://image.tmdb.org/t/p/w780/8zU4zWkSgERwg4AhnloW1oAyXRg.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822121.mp4"
+        },
+        {
+          "nome": "A Floresta Do Escalpe",
+          "descricao": "A Floresta Do Escalpe",
+          "capa": "https://image.tmdb.org/t/p/w780/2OG6YCYabCBNcmXv5w4AP9uTbsb.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822046.mp4"
+        },
+        {
+          "nome": "A Fúria dos Peles Vermelhas",
+          "descricao": "A Fúria dos Peles Vermelhas",
+          "capa": "https://image.tmdb.org/t/p/w780/cfvIkrZqBzU8sAoKD0tK3w1axbW.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4821979.mp4"
+        },
+        {
+          "nome": "A Leste de Wall",
+          "descricao": "A Leste de Wall",
+          "capa": "https://image.tmdb.org/t/p/w780/QdVvAZ7K8LLude9Oum94iVR0xO.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4821969.mp4"
+        },
+        {
+          "nome": "A Marca da Forca",
+          "descricao": "A Marca da Forca",
+          "capa": "https://image.tmdb.org/t/p/w780/qr6qgHSrptVH3D3Iy03XEVb8LcZ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4821970.mp4"
+        },
+        {
+          "nome": "A Noite Em Que Voltaram Para Casa",
+          "descricao": "A Noite Em Que Voltaram Para Casa",
+          "capa": "https://image.tmdb.org/t/p/w780/bgvmGUwUH4Iyoz0LpihR1y8eqlQ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822024.mp4"
+        },
+        {
+          "nome": "A Pistola E Minha Biblia",
+          "descricao": "A Pistola E Minha Biblia",
+          "capa": "http://ocvtab.info/images/jqoMF6LMFZZdcwJoHotyiyvOWGp_big.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822097.mp4"
+        },
+        {
+          "nome": "À Procura da Vingança",
+          "descricao": "À Procura da Vingança",
+          "capa": "https://image.tmdb.org/t/p/w780/wYXblPo0s1RrGSJSKOxzxD9lhLV.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822081.mp4"
+        },
+        {
+          "nome": "A Qualquer Custo",
+          "descricao": "A Qualquer Custo",
+          "capa": "https://image.tmdb.org/t/p/w780/fz3RPQPquiyb4xi0isCIf6lIx7F.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822001.mp4"
+        },
+        {
+          "nome": "A Revolta dos Sete Homens",
+          "descricao": "A Revolta dos Sete Homens",
+          "capa": "https://image.tmdb.org/t/p/w780/lyIo9NT7eBGQjRmvtjdOzjwfNOY.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822008.mp4"
+        },
+        {
+          "nome": "A Sombra de um Revolver",
+          "descricao": "A Sombra de um Revolver",
+          "capa": "https://image.tmdb.org/t/p/w780/v0B331VlMnCmTrsLDQhtfEe8286.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822101.mp4"
+        },
+        {
+          "nome": "A Última Caçada",
+          "descricao": "A Última Caçada",
+          "capa": "https://image.tmdb.org/t/p/w780/5JQv2JqtN6dRs670yEn99FjNrKf.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822015.mp4"
+        },
+        {
+          "nome": "A Última Fronteira do Oeste",
+          "descricao": "A Última Fronteira do Oeste",
+          "capa": "https://image.tmdb.org/t/p/w780/56aYP5usPlSwq95Cn4GZCNdBM0o.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822035.mp4"
+        },
+        {
+          "nome": "A Vingança Está na Moda",
+          "descricao": "A Vingança Está na Moda",
+          "capa": "https://image.tmdb.org/t/p/w780/fXNobPTdS2sDUTFGd6j4A7bluog.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822061.mp4"
+        },
+        {
+          "nome": "Abutres Humanos",
+          "descricao": "Abutres Humanos",
+          "capa": "https://image.tmdb.org/t/p/w780/p46uII7te9cwU5KSrgfz0s5SEbq.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822088.mp4"
+        },
+        {
+          "nome": "Amaldiçoada",
+          "descricao": "Amaldiçoada",
+          "capa": "https://image.tmdb.org/t/p/w780/qZOWoWHH8Ukwtxl6MASFtXfy84c.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822096.mp4"
+        },
+        {
+          "nome": "Appaloosa - Uma Cidade sem Lei",
+          "descricao": "Appaloosa - Uma Cidade sem Lei",
+          "capa": "https://image.tmdb.org/t/p/w780/31EyHyUEijrxExHHGlKfSH6clDN.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822095.mp4"
+        },
+        {
+          "nome": "Ardida como Pimenta",
+          "descricao": "Ardida como Pimenta",
+          "capa": "https://image.tmdb.org/t/p/w780/mYsageDBMvUbqP9svZ2Y5B8CKLv.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822102.mp4"
+        },
+        {
+          "nome": "Assassinato em Yellowstone",
+          "descricao": "Assassinato em Yellowstone",
+          "capa": "https://image.tmdb.org/t/p/w780/3pSVdJOP9wKzbBzfTqTYAfLkwYj.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822034.mp4"
+        },
+        {
+          "nome": "Assassino de Aluguel",
+          "descricao": "Assassino de Aluguel",
+          "capa": "https://image.tmdb.org/t/p/w780/eYIkE5wwM2rQgMyKdAkrnhYZ5zQ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822026.mp4"
+        },
+        {
+          "nome": "Banzé no Oeste",
+          "descricao": "Banzé no Oeste",
+          "capa": "https://image.tmdb.org/t/p/w780/eENqvmsWJOfnEv7Azx8iDRcA9dP.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822100.mp4"
+        },
+        {
+          "nome": "Billy The Kid: O Fora da Lei",
+          "descricao": "Billy The Kid: O Fora da Lei",
+          "capa": "https://image.tmdb.org/t/p/w780/2vlhQKwzEPoZC5cTfzLHrmKjbsk.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822089.mp4"
+        },
+        {
+          "nome": "Blind Justice",
+          "descricao": "Blind Justice",
+          "capa": "https://image.tmdb.org/t/p/w780/svaP7d7gGAdKNPqMUrLO8lWRF2a.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822073.mp4"
+        },
+        {
+          "nome": "Bravura Indomita",
+          "descricao": "Bravura Indomita",
+          "capa": "https://image.tmdb.org/t/p/w780/3unRxrwRr1yKvN0GKgsftoYajiK.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822120.mp4"
+        },
+        {
+          "nome": "Bravura Indômita",
+          "descricao": "Bravura Indômita",
+          "capa": "https://image.tmdb.org/t/p/w780/3unRxrwRr1yKvN0GKgsftoYajiK.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4821975.mp4"
+        },
+        {
+          "nome": "Butch Cassidy",
+          "descricao": "Butch Cassidy",
+          "capa": "https://image.tmdb.org/t/p/w780/919bDobVHWQYGDAP8ZXXGkHKlO8.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4821959.mp4"
+        },
+        {
+          "nome": "Cattle King",
+          "descricao": "Cattle King",
+          "capa": "https://image.tmdb.org/t/p/w780/hS0lCkNbgbzwAEAATBKqnHDBSUx.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4821988.mp4"
+        },
+        {
+          "nome": "Cavaleiros Desesperados",
+          "descricao": "Cavaleiros Desesperados",
+          "capa": "https://image.tmdb.org/t/p/w780/vMfcyQAb1YybrQEazNPZlPiG1ag.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822053.mp4"
+        },
+        {
+          "nome": "Cercados",
+          "descricao": "Cercados",
+          "capa": "https://image.tmdb.org/t/p/w780/53zYYgWqxxmTaMlsIfiCWCLRwJf.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822031.mp4"
+        },
+        {
+          "nome": "De Volta ao Velho Oeste",
+          "descricao": "De Volta ao Velho Oeste",
+          "capa": "https://image.tmdb.org/t/p/w780/dbtpbqGt0U24zhtRd6U3CdY61UG.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4821990.mp4"
+        },
+        {
+          "nome": "Dead for a Dollar",
+          "descricao": "Dead for a Dollar",
+          "capa": "https://image.tmdb.org/t/p/w780/cSMRMb2AkukTRsSHfOPnh2DyXO3.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822041.mp4"
+        },
+        {
+          "nome": "Deadwood",
+          "descricao": "Deadwood",
+          "capa": "https://image.tmdb.org/t/p/w780/yfjU44FxUxjgedHafq8o3HmzIja.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4821981.mp4"
+        },
+        {
+          "nome": "Desbravando o Oeste",
+          "descricao": "Desbravando o Oeste",
+          "capa": "https://image.tmdb.org/t/p/w780/w9E0w4E3wazxx4qm70MJSTWHnBI.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4821946.mp4"
+        },
+        {
+          "nome": "Divida de Honra",
+          "descricao": "Divida de Honra",
+          "capa": "https://image.tmdb.org/t/p/w780/ogzksmWnN6z3cOkj1PGKcRMf0s0.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822119.mp4"
+        },
+        {
+          "nome": "Dívida de Honra",
+          "descricao": "Dívida de Honra",
+          "capa": "https://image.tmdb.org/t/p/w780/ogzksmWnN6z3cOkj1PGKcRMf0s0.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4821968.mp4"
+        },
+        {
+          "nome": "Django Livre",
+          "descricao": "Django Livre",
+          "capa": "https://image.tmdb.org/t/p/w780/ar63Sx8jeqk0OOu2uchS477S2zE.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822080.mp4"
+        },
+        {
+          "nome": "Do Outro Lado da Lei",
+          "descricao": "Do Outro Lado da Lei",
+          "capa": "https://image.tmdb.org/t/p/w780/cw0izcXHFuOGwgaVmdoYZL6lDyf.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822060.mp4"
+        },
+        {
+          "nome": "Duas Pátrias para um Bandido",
+          "descricao": "Duas Pátrias para um Bandido",
+          "capa": "https://image.tmdb.org/t/p/w780/bIx2IO2TgNsqaZ2b1fW07O7t22y.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4821967.mp4"
+        },
+        {
+          "nome": "Duas Pecadoras e Uma Mula",
+          "descricao": "Duas Pecadoras e Uma Mula",
+          "capa": "https://image.tmdb.org/t/p/w780/aRaO9OMNfsw03C04NHEgzBVWCiK.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822039.mp4"
+        },
+        {
+          "nome": "Duelo de Titãs",
+          "descricao": "Duelo de Titãs",
+          "capa": "https://image.tmdb.org/t/p/w780/kuKyp6Owly8yWXeqdi4H8NAXhU6.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822067.mp4"
+        },
+        {
+          "nome": "E Agora Me Chamam O Magnífico",
+          "descricao": "E Agora Me Chamam O Magnífico",
+          "capa": "https://image.tmdb.org/t/p/w780/zJy9Z33gU2sYzeH0HlhVsjimvcg.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822105.mp4"
+        },
+        {
+          "nome": "Eddington",
+          "descricao": "Eddington",
+          "capa": "https://image.tmdb.org/t/p/w780/wpZUzr2fsfj3k5ZXyIBmH7Btngo.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4821964.mp4"
+        },
+        {
+          "nome": "El Dorado",
+          "descricao": "El Dorado",
+          "capa": "https://image.tmdb.org/t/p/w780/jMCHamGIm1aYIZCLi7XEZruyoAO.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822069.mp4"
+        },
+        {
+          "nome": "Em Busca da Justica",
+          "descricao": "Em Busca da Justica",
+          "capa": "https://image.tmdb.org/t/p/w780/eAqBjWgs67vzh5JhNFvIsj284G9.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822118.mp4"
+        },
+        {
+          "nome": "Em Busca da Justiça",
+          "descricao": "Em Busca da Justiça",
+          "capa": "https://image.tmdb.org/t/p/w780/eAqBjWgs67vzh5JhNFvIsj284G9.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4821945.mp4"
+        },
+        {
+          "nome": "Enterrem Meu Coração na Curva do Rio",
+          "descricao": "Enterrem Meu Coração na Curva do Rio",
+          "capa": "https://image.tmdb.org/t/p/w780/wANzNYcnY4uxyGPFKBtreVN6Kev.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822062.mp4"
+        },
+        {
+          "nome": "Era Uma Vez no Mexico",
+          "descricao": "Era Uma Vez no Mexico",
+          "capa": "https://image.tmdb.org/t/p/w780/cdSWDmDD7VVuBKlEar7H8abN1Ox.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822117.mp4"
+        },
+        {
+          "nome": "Era uma Vez no Oeste",
+          "descricao": "Era uma Vez no Oeste",
+          "capa": "https://image.tmdb.org/t/p/w780/sBcaRQEZInpiQNSKKW5wjcEtXUS.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822019.mp4"
+        },
+        {
+          "nome": "Estranha Forma de Vida",
+          "descricao": "Estranha Forma de Vida",
+          "capa": "https://image.tmdb.org/t/p/w780/tr8LOwkfUHx2W6SB9NPoU7vi4XB.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822022.mp4"
+        },
+        {
+          "nome": "Frontera",
+          "descricao": "Frontera",
+          "capa": "https://image.tmdb.org/t/p/w780/rjdJN48tBaLB7HdmyzBnlypXvPj.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4821997.mp4"
+        },
+        {
+          "nome": "Gerônimo: Uma Lenda Americana",
+          "descricao": "Gerônimo: Uma Lenda Americana",
+          "capa": "https://image.tmdb.org/t/p/w780/9FNuwnhHngkblD6eVRXnmJN8kQq.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4821944.mp4"
+        },
+        {
+          "nome": "Gigantes em Luta",
+          "descricao": "Gigantes em Luta",
+          "capa": "https://image.tmdb.org/t/p/w780/eeLi9BAjyOJGfD76ZR9lq5vGVvP.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822116.mp4"
+        },
+        {
+          "nome": "God's Country",
+          "descricao": "God's Country",
+          "capa": "https://image.tmdb.org/t/p/w780/yaHFfIJExqB6E4wlE7tG6iaucDk.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822038.mp4"
+        },
+        {
+          "nome": "Gunslingers",
+          "descricao": "Gunslingers",
+          "capa": "https://image.tmdb.org/t/p/w780/HcKn3HjApOXSqVsVqAPQFznidd.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4821973.mp4"
+        },
+        {
+          "nome": "Hordas Selvagens",
+          "descricao": "Hordas Selvagens",
+          "capa": "https://image.tmdb.org/t/p/w780/ebRCwSX1adz4jUjO7Mt4HIB3EG7.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4821983.mp4"
+        },
+        {
+          "nome": "Horizon: Uma Saga Americana - Capítulo 1",
+          "descricao": "Horizon: Uma Saga Americana - Capítulo 1",
+          "capa": "https://image.tmdb.org/t/p/w780/wScEgkA3eWfhyp5WoxGt5Zu3sug.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822014.mp4"
+        },
+        {
+          "nome": "Hostiles",
+          "descricao": "Hostiles",
+          "capa": "https://image.tmdb.org/t/p/w780/yQThzujXWON7APITgu7aFgAGMCI.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822115.mp4"
+        },
+        {
+          "nome": "Inferno na Fronteira",
+          "descricao": "Inferno na Fronteira",
+          "capa": "https://image.tmdb.org/t/p/w780/lp9yaPNrdz1cck6qLcMZNQ27wsd.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822107.mp4"
+        },
+        {
+          "nome": "Inferno no Faroeste",
+          "descricao": "Inferno no Faroeste",
+          "capa": "https://image.tmdb.org/t/p/w780/wwpD6suBvsqIgSVm7xyqeVQ21LI.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822114.mp4"
+        },
+        {
+          "nome": "Jesus Kid",
+          "descricao": "Jesus Kid",
+          "capa": "https://image.tmdb.org/t/p/w780/oIei4iKte3V6Oh9f4jAG84ugDSR.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4821993.mp4"
+        },
+        {
+          "nome": "Joe Kidd",
+          "descricao": "Joe Kidd",
+          "capa": "https://image.tmdb.org/t/p/w780/gwVL6a6ZPijqM5hB4n2Ztg1akWY.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4821943.mp4"
+        },
+        {
+          "nome": "Jonah Hex: Caçador de Recompensas",
+          "descricao": "Jonah Hex: Caçador de Recompensas",
+          "capa": "https://image.tmdb.org/t/p/w780/ageBP5EWpmdGKJmp0RhsNDIDRh5.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822049.mp4"
+        },
+        {
+          "nome": "Jornada Para o Inferno",
+          "descricao": "Jornada Para o Inferno",
+          "capa": "https://image.tmdb.org/t/p/w780/yRJUdzPrqh1QcVBWEU54qQzB8sR.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822030.mp4"
+        },
+        {
+          "nome": "Josey Wales: O Fora da Lei",
+          "descricao": "Josey Wales: O Fora da Lei",
+          "capa": "https://image.tmdb.org/t/p/w780/7qhPffMpzmXQKcShsnlf0aln1ej.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4821995.mp4"
+        },
+        {
+          "nome": "Jovens Demais para Morrer",
+          "descricao": "Jovens Demais para Morrer",
+          "capa": "https://image.tmdb.org/t/p/w780/7Rj2pI7xTXLVRgiXV4O30NN4y2M.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822037.mp4"
+        },
+        {
+          "nome": "Jovens Justiceiros",
+          "descricao": "Jovens Justiceiros",
+          "capa": "https://image.tmdb.org/t/p/w780/cfPnWsHzMlnNwLPdkR8Vimg7w0M.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822016.mp4"
+        },
+        {
+          "nome": "Mar de Fogo",
+          "descricao": "Mar de Fogo",
+          "capa": "https://image.tmdb.org/t/p/w780/1xFLWSxUp28egthMzqdfEokYa3h.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822084.mp4"
+        },
+        {
+          "nome": "Meu Nome é Ninguém",
+          "descricao": "Meu Nome é Ninguém",
+          "capa": "https://image.tmdb.org/t/p/w780/2pHIriNJDRIXwEqE2oSC3PY5H6C.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4821950.mp4"
+        },
+        {
+          "nome": "Meu Odio Sera Sua Heranca",
+          "descricao": "Meu Odio Sera Sua Heranca",
+          "capa": "https://image.tmdb.org/t/p/w780/ibkP7TzPFZ3s8YlJAjzQEonDOEb.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822087.mp4"
+        },
+        {
+          "nome": "Meu Ódio Será Sua Herança",
+          "descricao": "Meu Ódio Será Sua Herança",
+          "capa": "https://image.tmdb.org/t/p/w780/ibkP7TzPFZ3s8YlJAjzQEonDOEb.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4821949.mp4"
+        },
+        {
+          "nome": "Meu Último Desejo",
+          "descricao": "Meu Último Desejo",
+          "capa": "https://image.tmdb.org/t/p/w780/7wAtWkaWgENhScy2eUrKRTscudf.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822021.mp4"
+        },
+        {
+          "nome": "Minha Arma Era a Lei",
+          "descricao": "Minha Arma Era a Lei",
+          "capa": "https://image.tmdb.org/t/p/w780/kwl5FxszBJ9kfdHuy14pv8pJspT.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822020.mp4"
+        },
+        {
+          "nome": "No Coração do Velho Oeste",
+          "descricao": "No Coração do Velho Oeste",
+          "capa": "https://image.tmdb.org/t/p/w780/1UL2Fd4DV65ubXenv3psZdcMry8.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822017.mp4"
+        },
+        {
+          "nome": "No Tempo das Diligências",
+          "descricao": "No Tempo das Diligências",
+          "capa": "https://image.tmdb.org/t/p/w780/pzd88BYJmvLERnPCYXN22DEhVew.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4821958.mp4"
+        },
+        {
+          "nome": "O Assassinato de Jesse James pelo Covarde Robert Ford",
+          "descricao": "O Assassinato de Jesse James pelo Covarde Robert Ford",
+          "capa": "https://image.tmdb.org/t/p/w780/9vpIhmdk0jq6POxz7Fm06gBP3YZ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822082.mp4"
+        },
+        {
+          "nome": "O Beco da Morte",
+          "descricao": "O Beco da Morte",
+          "capa": "https://image.tmdb.org/t/p/w780/nFDtZ9B8sGJtoUWi6CquziyA5Qg.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822023.mp4"
+        },
+        {
+          "nome": "O Caçador de Recompensas",
+          "descricao": "O Caçador de Recompensas",
+          "capa": "https://image.tmdb.org/t/p/w780/td0uLMhr67ateeoUZRQZYIqzp2B.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822090.mp4"
+        },
+        {
+          "nome": "O Cavaleiro Solitário",
+          "descricao": "O Cavaleiro Solitário",
+          "capa": "https://image.tmdb.org/t/p/w780/oz7euNg7BmA5aYjcjKIzIAMT8V6.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822074.mp4"
+        },
+        {
+          "nome": "O Céu Mandou Alguém",
+          "descricao": "O Céu Mandou Alguém",
+          "capa": "https://image.tmdb.org/t/p/w780/gKEM0bumUPU1c2c8N56QYGtX3Lv.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4821972.mp4"
+        },
+        {
+          "nome": "O Estranho Sem Nome",
+          "descricao": "O Estranho Sem Nome",
+          "capa": "https://image.tmdb.org/t/p/w780/qgHizq7I3TZWWZc22bSpLDbpLY3.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822003.mp4"
+        },
+        {
+          "nome": "O Fora da Lei",
+          "descricao": "O Fora da Lei",
+          "capa": "https://image.tmdb.org/t/p/w780/TUAU5KMVs9uPbCAeLOjv2toU69.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4821992.mp4"
+        },
+        {
+          "nome": "O Grande Xerife",
+          "descricao": "O Grande Xerife",
+          "capa": "https://image.tmdb.org/t/p/w780/rOQDqsR4iJMGjwymWQCPRlhHQEz.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822054.mp4"
+        },
+        {
+          "nome": "O Mistério de Ozarks",
+          "descricao": "O Mistério de Ozarks",
+          "capa": "https://image.tmdb.org/t/p/w780/7lK1qXVg7Gw80aEDyjw4Tx8qPor.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822042.mp4"
+        },
+        {
+          "nome": "O Ouro de Mackenna",
+          "descricao": "O Ouro de Mackenna",
+          "capa": "https://image.tmdb.org/t/p/w780/bY2nhM1Va91Ps5NYUIxTq8wKBjT.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822050.mp4"
+        },
+        {
+          "nome": "O Passado Não Perdoa",
+          "descricao": "O Passado Não Perdoa",
+          "capa": "https://image.tmdb.org/t/p/w780/szuiEzBrPW79PhblP0VmzS3kbZi.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822058.mp4"
+        },
+        {
+          "nome": "O Pequeno Grande Homem",
+          "descricao": "O Pequeno Grande Homem",
+          "capa": "https://image.tmdb.org/t/p/w780/pLvUVqadEI9cPrRlTru6ee71EWU.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4821977.mp4"
+        },
+        {
+          "nome": "O Portal do Paraíso",
+          "descricao": "O Portal do Paraíso",
+          "capa": "https://image.tmdb.org/t/p/w780/kW4Vk31nhtKPKGuYMaVATq3wcHC.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822057.mp4"
+        },
+        {
+          "nome": "O Primeiro Tiro: A Lenda de Wyatt Earp",
+          "descricao": "O Primeiro Tiro: A Lenda de Wyatt Earp",
+          "capa": "https://image.tmdb.org/t/p/w780/ljv0GaDP1BDt8HbxTMlU6ylnoaJ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822025.mp4"
+        },
+        {
+          "nome": "O Rapto",
+          "descricao": "O Rapto",
+          "capa": "https://image.tmdb.org/t/p/w780/jwncNJ0j66bqTcFbEKhtRpQ0LlP.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822010.mp4"
+        },
+        {
+          "nome": "O Regresso",
+          "descricao": "O Regresso",
+          "capa": "https://image.tmdb.org/t/p/w780/x1jViuXsm5ZmrR6uFmxU6AVdXzs.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822083.mp4"
+        },
+        {
+          "nome": "O Rio das Almas Perdidas",
+          "descricao": "O Rio das Almas Perdidas",
+          "capa": "https://image.tmdb.org/t/p/w780/dKm0MvAHOY41l07e2ul4d602itk.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822099.mp4"
+        },
+        {
+          "nome": "O Tesouro de Sierra Madre",
+          "descricao": "O Tesouro de Sierra Madre",
+          "capa": "https://image.tmdb.org/t/p/w780/aDx0b64VlRJt36kpDwx5CqAY2tg.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822077.mp4"
+        },
+        {
+          "nome": "O Último Duelo",
+          "descricao": "O Último Duelo",
+          "capa": "https://image.tmdb.org/t/p/w780/mhrzzNauB1PKrwnqVbLQODNNTJN.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822005.mp4"
+        },
+        {
+          "nome": "O Último Homem",
+          "descricao": "O Último Homem",
+          "capa": "https://image.tmdb.org/t/p/w780/rFIt7GRwJR9RJEt6aiiZqDkgsUd.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822106.mp4"
+        },
+        {
+          "nome": "O Último Selvagem",
+          "descricao": "O Último Selvagem",
+          "capa": "https://image.tmdb.org/t/p/w780/iGSq9ldKGq2RoLDHp2ZAbPOuge8.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822055.mp4"
+        },
+        {
+          "nome": "O Vale Roubado",
+          "descricao": "O Vale Roubado",
+          "capa": "https://image.tmdb.org/t/p/w780/yk4enXvb2ohdDhVScnFy9LMhss8.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822000.mp4"
+        },
+        {
+          "nome": "Onde Começa o Inferno",
+          "descricao": "Onde Começa o Inferno",
+          "capa": "https://image.tmdb.org/t/p/w780/hOSMO9r0Uu2BQsAPn9im6Y0614M.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822071.mp4"
+        },
+        {
+          "nome": "Os 6 Ridículos",
+          "descricao": "Os 6 Ridículos",
+          "capa": "https://image.tmdb.org/t/p/w780/kPc80jywR5Nm2KIQjkY5i4VXSx4.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4821974.mp4"
+        },
+        {
+          "nome": "Os Brutos Também Amam",
+          "descricao": "Os Brutos Também Amam",
+          "capa": "https://image.tmdb.org/t/p/w780/A5jMaYCKVfstgnJ7eADeCEab0UU.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4821953.mp4"
+        },
+        {
+          "nome": "Os Colonos",
+          "descricao": "Os Colonos",
+          "capa": "https://image.tmdb.org/t/p/w780/gBMAT45t5zAEjYolu4j4qqV58OJ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822007.mp4"
+        },
+        {
+          "nome": "Os Desajustados",
+          "descricao": "Os Desajustados",
+          "capa": "https://image.tmdb.org/t/p/w780/ruk7OR9bvGXXfiQzeX1gWIzdRni.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4821998.mp4"
+        },
+        {
+          "nome": "Os Filhos de Katie Elder",
+          "descricao": "Os Filhos de Katie Elder",
+          "capa": "https://image.tmdb.org/t/p/w780/n6ox5IniBxxx6ISTol5pm36WoFr.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4821963.mp4"
+        },
+        {
+          "nome": "Os Guardiões da Estepe",
+          "descricao": "Os Guardiões da Estepe",
+          "capa": "https://image.tmdb.org/t/p/w780/uATzvIXB3w4zO4m3x5elCwwY8NU.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822006.mp4"
+        },
+        {
+          "nome": "Os Imperdoáveis",
+          "descricao": "Os Imperdoáveis",
+          "capa": "https://image.tmdb.org/t/p/w780/kmMDDCOB8xPCrmFW7w9zqgymCWJ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822044.mp4"
+        },
+        {
+          "nome": "Os Indomáveis",
+          "descricao": "Os Indomáveis",
+          "capa": "https://image.tmdb.org/t/p/w780/6v1AUIbQcy8rQd0g9RzUSx9PcGT.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822093.mp4"
+        },
+        {
+          "nome": "Os Infratores",
+          "descricao": "Os Infratores",
+          "capa": "https://image.tmdb.org/t/p/w780/xWSPROw6QXxNeP4pwyMGOiv4lq5.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822063.mp4"
+        },
+        {
+          "nome": "Os Jovens Pistoleiros",
+          "descricao": "Os Jovens Pistoleiros",
+          "capa": "https://image.tmdb.org/t/p/w780/uVJCEHSKKFsmBXa7leP4qw8tgUu.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822070.mp4"
+        },
+        {
+          "nome": "Os Mortos Não Matam",
+          "descricao": "Os Mortos Não Matam",
+          "capa": "https://image.tmdb.org/t/p/w780/ah9KNl5nolEGnfd2C2BZuSqpFPt.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822012.mp4"
+        },
+        {
+          "nome": "Os Oito Odiados",
+          "descricao": "Os Oito Odiados",
+          "capa": "https://image.tmdb.org/t/p/w780/jfTo9U9OgOXODEEspNnYFuZdR1q.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822113.mp4"
+        },
+        {
+          "nome": "Os Rifles da Desforra",
+          "descricao": "Os Rifles da Desforra",
+          "capa": "https://image.tmdb.org/t/p/w780/jyIw7iw40epEMCOilkdrAH5trks.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4821971.mp4"
+        },
+        {
+          "nome": "Outback",
+          "descricao": "Outback",
+          "capa": "https://image.tmdb.org/t/p/w780/1eEaliCKndXuINMjcb2ATXUMYIa.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822033.mp4"
+        },
+        {
+          "nome": "Pacto de Justiça",
+          "descricao": "Pacto de Justiça",
+          "capa": "https://image.tmdb.org/t/p/w780/5LGsK3xT1T8B4AqVjIOriaPDiwu.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822029.mp4"
+        },
+        {
+          "nome": "Paixão Perigosa",
+          "descricao": "Paixão Perigosa",
+          "capa": "https://image.tmdb.org/t/p/w780/tLNFrAsJiDDJrktYssqp9y5oHHK.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822045.mp4"
+        },
+        {
+          "nome": "Pat Garrett & Billy the Kid",
+          "descricao": "Pat Garrett & Billy the Kid",
+          "capa": "https://image.tmdb.org/t/p/w780/dni2ILWvEZkc8w6VlaLhOhTMOg1.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4821987.mp4"
+        },
+        {
+          "nome": "Pegue a Bala",
+          "descricao": "Pegue a Bala",
+          "capa": "https://image.tmdb.org/t/p/w780/m3DUe1cpiBsLg0caIO2JDr7HK5Z.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822066.mp4"
+        },
+        {
+          "nome": "Perseguição Mortal",
+          "descricao": "Perseguição Mortal",
+          "capa": "https://image.tmdb.org/t/p/w780/pa20WNcppTVj5fCeAhCr2Jn3Pzt.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822051.mp4"
+        },
+        {
+          "nome": "Pistoleiros - Mãos que Matam",
+          "descricao": "Pistoleiros - Mãos que Matam",
+          "capa": "https://image.tmdb.org/t/p/w780/eNFL2RokVHXl1Mwv0oW6kaboAZN.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4821989.mp4"
+        },
+        {
+          "nome": "Pistoleiros do Entardecer",
+          "descricao": "Pistoleiros do Entardecer",
+          "capa": "https://image.tmdb.org/t/p/w780/mHHKHU8JDOK2F263FBR0EHgxN2W.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4821978.mp4"
+        },
+        {
+          "nome": "Por um Punhado de Dólares",
+          "descricao": "Por um Punhado de Dólares",
+          "capa": "https://image.tmdb.org/t/p/w780/le9ZJqQxc3L2zgKnKemCNtqEyXH.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4821957.mp4"
+        },
+        {
+          "nome": "Por uns Dólares a Mais",
+          "descricao": "Por uns Dólares a Mais",
+          "capa": "https://image.tmdb.org/t/p/w780/1qO2p7gGPhVxjV6FPYwQcQ3gVWC.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4821980.mp4"
+        },
+        {
+          "nome": "Quadrilha Maldita",
+          "descricao": "Quadrilha Maldita",
+          "capa": "https://image.tmdb.org/t/p/w780/js4P9y1gyU9bqrzE8s49gSNljQX.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4821951.mp4"
+        },
+        {
+          "nome": "Quando Explode a Vingança",
+          "descricao": "Quando Explode a Vingança",
+          "capa": "https://image.tmdb.org/t/p/w780/n9j27jiV3SMowO6QfvuwCcWOQuS.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822078.mp4"
+        },
+        {
+          "nome": "Rapida e Mortal",
+          "descricao": "Rapida e Mortal",
+          "capa": "https://image.tmdb.org/t/p/w780/lBQmZPxS6y9U4j6cs78DUd8QuYQ.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822112.mp4"
+        },
+        {
+          "nome": "Rastros de Ódio",
+          "descricao": "Rastros de Ódio",
+          "capa": "https://image.tmdb.org/t/p/w780/eYeu5zK5OKYymE4mGv3o5Ov0eSB.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4821956.mp4"
+        },
+        {
+          "nome": "Resgate no Oeste",
+          "descricao": "Resgate no Oeste",
+          "capa": "https://image.tmdb.org/t/p/w780/cZc77NqnbELikUxv8i7YpnOCfkO.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822109.mp4"
+        },
+        {
+          "nome": "Retorno da Lenda",
+          "descricao": "Retorno da Lenda",
+          "capa": "https://image.tmdb.org/t/p/w780/a5TMox6zYw686BbVS8D1UTPUYGI.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4821965.mp4"
+        },
+        {
+          "nome": "Rio Lobo",
+          "descricao": "Rio Lobo",
+          "capa": "https://image.tmdb.org/t/p/w780/xYAnVB0Y5zlqhHIpX8PD4HBjekV.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822076.mp4"
+        },
+        {
+          "nome": "Rust: A Lei do Oeste",
+          "descricao": "Rust: A Lei do Oeste",
+          "capa": "https://image.tmdb.org/t/p/w780/pxbfivItofaIek3iDtCcGtNu4Au.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4821982.mp4"
+        },
+        {
+          "nome": "Sabata - O Homem que Veio para Matar",
+          "descricao": "Sabata - O Homem que Veio para Matar",
+          "capa": "https://image.tmdb.org/t/p/w780/cpP0q88LSxcZ0UDVlhURaLhA3mF.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822094.mp4"
+        },
+        {
+          "nome": "Sangue de Pistoleiro",
+          "descricao": "Sangue de Pistoleiro",
+          "capa": "https://image.tmdb.org/t/p/w780/iehRN7KNPu5KpzR1Sw35tJugBeO.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4821996.mp4"
+        },
+        {
+          "nome": "Segredos de Família",
+          "descricao": "Segredos de Família",
+          "capa": "https://image.tmdb.org/t/p/w780/nP2rqnnkCZz5U55I5xD1QqAeFSH.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822028.mp4"
+        },
+        {
+          "nome": "Sem Nome & Dinamite",
+          "descricao": "Sem Nome & Dinamite",
+          "capa": "https://image.tmdb.org/t/p/w780/rWRjVhnBdmQl551UIIEGicYBnJd.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4821952.mp4"
+        },
+        {
+          "nome": "Sete Homens e um Destino",
+          "descricao": "Sete Homens e um Destino",
+          "capa": "https://image.tmdb.org/t/p/w780/3eK3819rrjVeVTmACUHa7SQIA1d.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822111.mp4"
+        },
+        {
+          "nome": "Sete Noivas Para Sete Irmãos",
+          "descricao": "Sete Noivas Para Sete Irmãos",
+          "capa": "https://image.tmdb.org/t/p/w780/eExiNiIMAQ6ArzudNG3G3ehPTc.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822056.mp4"
+        },
+        {
+          "nome": "Silverado",
+          "descricao": "Silverado",
+          "capa": "https://image.tmdb.org/t/p/w780/k6zurzegRKsNGMICXZ57VJDUzXO.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822064.mp4"
+        },
+        {
+          "nome": "Sob o Sol do Oeste",
+          "descricao": "Sob o Sol do Oeste",
+          "capa": "https://image.tmdb.org/t/p/w780/aSA7maO0olKMY16hwTiG6PCKOXq.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822108.mp4"
+        },
+        {
+          "nome": "Sol Vermelho",
+          "descricao": "Sol Vermelho",
+          "capa": "https://image.tmdb.org/t/p/w780/gFTOCKx2f5AVTHFGHUT31ndkvzy.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822011.mp4"
+        },
+        {
+          "nome": "Sua Última Façanha",
+          "descricao": "Sua Última Façanha",
+          "capa": "https://image.tmdb.org/t/p/w780/vXNtSBoEH6wD1VvxQiXUS2PC5vE.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822098.mp4"
+        },
+        {
+          "nome": "Tensão em Montana",
+          "descricao": "Tensão em Montana",
+          "capa": "https://image.tmdb.org/t/p/w780/tyNA2L96pFhWvMa3BHm3TgbVCiG.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822032.mp4"
+        },
+        {
+          "nome": "Terra dos Bravos",
+          "descricao": "Terra dos Bravos",
+          "capa": "https://image.tmdb.org/t/p/w780/bvbgUujcz9UF1fBe31v755bOmFG.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822091.mp4"
+        },
+        {
+          "nome": "Terra Sem Lei",
+          "descricao": "Terra Sem Lei",
+          "capa": "https://image.tmdb.org/t/p/w780/wVT4caFoX6dAiBwu0YV0z3UQhzF.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822052.mp4"
+        },
+        {
+          "nome": "Terra Violenta",
+          "descricao": "Terra Violenta",
+          "capa": "https://image.tmdb.org/t/p/w780/27PAeztGdJLa32Y0ycS5roljYzI.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822043.mp4"
+        },
+        {
+          "nome": "Território Hostil",
+          "descricao": "Território Hostil",
+          "capa": "https://image.tmdb.org/t/p/w780/nJTzX2LmbRlsH2rnWYZCyigTdUd.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822047.mp4"
+        },
+        {
+          "nome": "The Thicket",
+          "descricao": "The Thicket",
+          "capa": "https://image.tmdb.org/t/p/w780/rKjGoxNMQR6Eh8LOh9HZbYl5WbX.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4821994.mp4"
+        },
+        {
+          "nome": "Tombstone: A Justiça Está Chegando",
+          "descricao": "Tombstone: A Justiça Está Chegando",
+          "capa": "https://image.tmdb.org/t/p/w780/3DQe3q5SqapTPhIMWaZvOJHDhcY.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822048.mp4"
+        },
+        {
+          "nome": "Três Homens em Conflito",
+          "descricao": "Três Homens em Conflito",
+          "capa": "https://image.tmdb.org/t/p/w780/n1nYQ9EX83BrixhBC1HIezzYu9O.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822104.mp4"
+        },
+        {
+          "nome": "Trilha da Justiça",
+          "descricao": "Trilha da Justiça",
+          "capa": "https://image.tmdb.org/t/p/w780/6WRm9EgaiDmf3LsayulBLp17Slr.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822018.mp4"
+        },
+        {
+          "nome": "Trilha de Sangue",
+          "descricao": "Trilha de Sangue",
+          "capa": "https://image.tmdb.org/t/p/w780/sSG7noMZN9Vx1EzHrAcx6sP41fa.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822036.mp4"
+        },
+        {
+          "nome": "Trilha de Vingança",
+          "descricao": "Trilha de Vingança",
+          "capa": "https://image.tmdb.org/t/p/w780/spddh0y6VMwMyDFFAe6NlDxZY3K.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822027.mp4"
+        },
+        {
+          "nome": "Um Clarim ao Longe",
+          "descricao": "Um Clarim ao Longe",
+          "capa": "https://image.tmdb.org/t/p/w780/A7iDFUNR1cSC3oTaoEDUitLjGDj.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4821962.mp4"
+        },
+        {
+          "nome": "Um Punhado de Chumbo",
+          "descricao": "Um Punhado de Chumbo",
+          "capa": "https://image.tmdb.org/t/p/w780/jOUDR00zyiKoOSUwWAo5Dz1GuRI.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822103.mp4"
+        },
+        {
+          "nome": "Uma Escolha pela Vida",
+          "descricao": "Uma Escolha pela Vida",
+          "capa": "https://image.tmdb.org/t/p/w780/ntQmB2yoMHzNWqtOjXhruCE88kn.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4821999.mp4"
+        },
+        {
+          "nome": "Vera Cruz",
+          "descricao": "Vera Cruz",
+          "capa": "https://image.tmdb.org/t/p/w780/7sDTIHW0nG8CqzskwBJtmUnBwcK.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822068.mp4"
+        },
+        {
+          "nome": "Vingança & Castigo",
+          "descricao": "Vingança & Castigo",
+          "capa": "https://image.tmdb.org/t/p/w780/29WYtxffy1NJhxXZ8al5XJ8US1s.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822059.mp4"
+        },
+        {
+          "nome": "Vingança Brutal",
+          "descricao": "Vingança Brutal",
+          "capa": "https://image.tmdb.org/t/p/w780/88P3qzWBRYvI0K5fNtqwwXQsvwi.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4821955.mp4"
+        },
+        {
+          "nome": "Vingança em Cold Cross",
+          "descricao": "Vingança em Cold Cross",
+          "capa": "https://image.tmdb.org/t/p/w780/W47bfUXsfHezplXioyJotYPCi4.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4821991.mp4"
+        },
+        {
+          "nome": "Vingança no Oeste",
+          "descricao": "Vingança no Oeste",
+          "capa": "https://image.tmdb.org/t/p/w780/3pfNtlnvBOm72mwKBtI5E9Sq9BO.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822004.mp4"
+        },
+        {
+          "nome": "Viva Django",
+          "descricao": "Viva Django",
+          "capa": "https://image.tmdb.org/t/p/w780/gy30ziLMI2heuHacvFmnxcvc582.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822079.mp4"
+        },
+        {
+          "nome": "Wild Bill",
+          "descricao": "Wild Bill",
+          "capa": "https://image.tmdb.org/t/p/w780/6KKZ8NNVVXfURBeXXw2BrZhHjb4.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822040.mp4"
+        },
+        {
+          "nome": "Winchester 73",
+          "descricao": "Winchester 73",
+          "capa": "https://image.tmdb.org/t/p/w780/rqRgjWqSmK9oI6duvigPmn49aVG.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822009.mp4"
+        },
+        {
+          "nome": "Wyatt Earp",
+          "descricao": "Wyatt Earp",
+          "capa": "https://image.tmdb.org/t/p/w780/51LItgyecu2KMAtIchYogEykCIu.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822085.mp4"
+        },
+        {
+          "nome": "Xerife do Oeste",
+          "descricao": "Xerife do Oeste",
+          "capa": "https://image.tmdb.org/t/p/w780/hzxcSilaWXwOm6RXbHT1Mm56o4W.jpg",
+          "url": "http://servidor/movie/{user}/{pass}/4822075.mp4"
+        }
+      ]
+    }
+  ],
+  "series": []
+}
